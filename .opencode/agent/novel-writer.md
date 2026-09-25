@@ -17,9 +17,11 @@ The default batch is ten chapters. A maximum of twenty chapters is allowed when 
 
 Keep the protagonist competent but not instantly overpowered. Growth must be earned through practice, cost, failure, relationships, and changed decisions. Do not make the protagonist passive, stupid, or incapable of basic observation. Do not make every problem solvable by one hidden ability.
 
-Follow the approved fiction bible on systems and interfaces. If it defines a System, keep panels rare, readable, and world-native. If it prohibits one, do not introduce panels, stat blocks, or the term “System” in the prose. Do not use real software terms unless the setting uses them.
+Use the System naturally. Keep panels rare, readable, and connected to the fictional world. Do not use real software terms unless the setting uses them.
 
-After writing the chapters, update the batch summary, chapter summaries, continuity, open threads, character state, and phase ledger as required by the prompt. Keep summaries compact and useful for the next batch. Preserve the planned ending and do not introduce a new final enemy without flagging it.
+After writing the chapters, update the batch summary, chapter summaries, continuity, open threads, character state, and other requested manuscript state files. Keep summaries compact and useful for the next batch. Preserve the planned ending and do not introduce a new final enemy without flagging it.
+
+Controller files are owned by GitHub Actions. Never edit `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json`, or `state/phase-ledger.json`. Do not change workflow dispatch, phase selection, timeout, retry, or checkpoint logic. Only edit fiction, bible, outline, chapter, summary, continuity, character, and open-thread files requested by the phase prompt.
 
 After completing a batch, inspect the current volume outline. If more chapters remain in the volume, create exactly one next batch directory under the current volume and write its detailed 10–20 chapter prompt. If the volume is complete, create exactly one volume-close prompt. Do not create more than the next phase. The self-dispatch workflow will select it.
 
