@@ -1,5 +1,7 @@
-Read AGENTS.md, NOVEL_SPEC.md, the research and outline files, then complete the novel bootstrap.
+Read AGENTS.md, NOVEL_SPEC.md, RESEARCH.md, OUTLINE_GUIDE.md, and the existing planning and state files, then complete the novel bootstrap.
 
-Create concrete files under bible/ for premise, world, characters, power-system, themes, and terminology. Create the series outline and ending outline. Define the male protagonist's want, need, flaw, relationships, power stages, costs, antagonist ladder, central mystery, and planned final resolution.
+Create or repair the concrete bible files for premise, world, characters, power system, themes, and terminology. Create the complete series outline and the ending outline, including the protagonist's want, need, flaw, relationships, power stages and costs, antagonist ladder, central mystery, volume progression, and locked final resolution.
 
-Do not write chapter prose yet. Keep the world original and the rules concrete.
+Create `outline/volume-01.md` with a central pressure that resolves, a starting state, major factions and locations, escalation, midpoint reversal, volume climax, concrete resolution, next-volume question, final chapter image, and planned relationship and power changes. Create `outline/batches/volume-01-batch-0001.md` with complete chapter cards for Chapters 1–10. The cards must establish Calder's ordinary work, the Gannet mystery, the first transparent hull, the tide-ear rule and first cost, friction with Mara, a small practical victory, a larger seizure threat, and the route clue toward Orison.
+
+Update the rolling state files with the established canon and unresolved author-level threads. Follow any approved world rule about systems or interfaces; if the bible prohibits a game-style System, do not introduce one. Do not write chapter prose. Do not create a second or speculative next batch. The controller, not the writer agent, owns phase-ledger status and completion markers.

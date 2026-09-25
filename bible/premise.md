@@ -25,7 +25,7 @@ The central promise is therefore not simply “find the lost ships.” It is: **
 
 ## Opening situation
 
-At thirty-two, Calder is a competent but socially expendable **line diver** in Morrow Quay, a free harbor economically squeezed by the Serein Dominion's salvage licenses. He is one examination and one paid inspection away from a Second Bell license, which would let him take contracts beyond the harbor line. He works for a small yard, repairs other people's boats, and carries a private debt tied to his father's failed salvage claim.
+At thirty-two, Calder is a competent but socially expendable **line diver** in Morrow Quay, a free harbor economically squeezed by the Serein Dominion's salvage licenses. He is one failed attempt short of the full Second Bell license, which would let him take contracts beyond the harbor line. He works for a small yard, repairs other people's boats, and carries a private debt tied to his father's failed salvage claim.
 
 Thirteen years ago, Oren Marr, Calder's twenty-year-old brother, disappeared when the imperial mnemonic cutter **Vigil** seized the working ferry *Aster Gannet*. The ferry sank in a storm with sixty-three salvage workers aboard. The official account blames an illegal crossing. Calder has spent his life accepting that account only outwardly; the only surviving clue is a blank interval in a pressure log and a piece of transparent hull that should not have been on a ferry.
 
@@ -53,7 +53,7 @@ The full answer is distributed across the series. Each volume resolves a real lo
 
 ## Ending promise
 
-The sea is opened to all coastal communities through distributed, consent-based routes. The Serein Dominion loses its legal monopoly but remains a real political power. Calder gives up sole custody of Oren's echo, Mara publishes the contested evidence without pretending it is certain, and the final victory is a shared method rather than a new ruler or a perfect recovered truth.
+The sea is opened to all coastal communities through distributed, consent-based routes. The Serein Dominion loses its legal monopoly but remains a real political power. Calder relinquishes his unexercised family claim to Oren's sealed remainder, Mara publishes the contested evidence without pretending it is certain, and the final victory is a shared method rather than a new ruler or a perfect recovered truth.
 
 ## Originality guardrails
 

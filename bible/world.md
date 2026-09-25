@@ -107,7 +107,7 @@ The Dominion's official history calls Orison a city destroyed by a sea catastrop
 
 ### The Gannet Cut, thirteen years before the present
 
-The imperial mnemonic cutter **Vigil** intercepted the ferry *Aster Gannet* near Morrow Quay. Oren Marr, Calder's younger brother, was aboard as a deck apprentice. The cutter was carrying a sealed glass cargo whose manifest did not match the public registry. During the seizure, a keel-line tore. The ferry went down in a storm with sixty-three workers aboard.
+The imperial mnemonic cutter **Vigil** intercepted the ferry *Aster Gannet* near Morrow Quay. Oren Marr, Calder's older brother, was aboard as a deck apprentice. The cutter was carrying a sealed glass cargo whose manifest did not match the public registry. During the seizure, a keel-line tore. The ferry went down in a storm with sixty-three workers aboard.
 
 The official report calls the crossing illegal and the loss unavoidable. The surviving pressure log contains a deliberate three-second gap. Calder's father, Alden, was pressured into signing a salvage report that omitted the cargo. The investigation was closed before most families could question it. Ilya Serr was a junior registry official at the time; he signed the transfer of the cutter's evidence and later used the disaster to support stricter custody laws. Calder does not know this until late in the series.
 

@@ -8,7 +8,7 @@ Calder Marr is the primary protagonist and the primary point of view. The novel 
 
 ### Calder Marr — salvage diver, thirty-two
 
-**Opening position:** Calder is a line diver and practical salvage worker in Morrow Quay. He is competent with rope, pumps, pressure bells, hull seams, small repairs, and reading weather through instruments. He is not a natural genius, a secret noble, or a chosen saint. He is one examination away from a Second Bell license and one bad decision away from losing the right to work independently.
+**Opening position:** Calder is a line diver and practical salvage worker in Morrow Quay. He is competent with rope, pumps, pressure bells, hull seams, small repairs, and reading weather through instruments. He is not a natural genius, a secret noble, or a chosen saint. He is one failed attempt short of the full Second Bell license and one bad decision away from losing the right to work independently.
 
 **External want:** Find Oren's last echo, establish what happened when the *Aster Gannet* sank, clear the Marr family from the official blame, and obtain enough legal standing to reach Orison Deep.
 
@@ -44,15 +44,15 @@ Calder Marr is the primary protagonist and the primary point of view. The novel 
 
 **Failure pattern:** Mara can save a record by withholding its public meaning, or protect a witness by making the evidence too cautious to use. The story requires her to choose transparency even when a complete answer would help their side.
 
-### Oren Marr — missing brother, twenty when he disappeared
+### Oren Marr — missing older brother, twenty when he disappeared
 
 Oren is not a hidden villain, a resentful alternate personality, or a guaranteed resurrection. He was a twenty-year-old deck apprentice with better formal education than Calder, a habit of challenging licensed divers, and a private ambition to sign his own salvage ticket.
 
-His voice and choices come through a limited set of recovered echoes. Those echoes are incomplete, sometimes contradictory, and occasionally include a choice Calder dislikes. Oren chose to remain inside the *Vigil's* emergency glass long enough to sever a live keel-line and give other workers a chance to reach the surface. He also resented Calder for making a promise that neither of them could guarantee.
+His voice and choices come through a limited set of recovered echoes. Those echoes are incomplete, sometimes contradictory, and occasionally include a choice Calder dislikes. Oren chose to remain inside the *Vigil's* emergency glass long enough to sever a live keel-line and give trapped workers a chance to reach the surface. A later pressure-bell alignment shows that the public evacuation bell had already sounded and that a second rescue line was still active; his gloved hand turns toward it before the cut. The record cannot establish whether he understood the cost, so he saved some people and may also have blocked another chance. He also resented Calder for making a promise that neither of them could guarantee.
 
 His final resolution is moral rather than supernatural: Calder must learn that Oren's last decision was Oren's, not a message demanding a particular future. The echo becomes public testimony with context, not a private reunion.
 
-**Custody states for continuity:** the first shard is a small, contaminated fragment recovered in Volume 1. A provisional public copy of that fragment is released in Volume 4 and expanded in Volume 9 into a stable, provenance-marked **Oren route copy**. Mixed custodians—Mara, Nessa, and a rotating Morrow Quay witness council—authorize that derivative for limited route use and public display; the copy cannot be used as a complete witness or opened beyond its seal. The restricted remainder, held in the Ninth Bell and never fully surfaced, is not the same artifact as the public copy. Calder's final choice is to release his exclusive custody claim over that remainder into a dual seal held by Mara and Nessa with the rotating council's oversight; he does not pretend that a public copy restores Oren as a person.
+**Custody states for continuity:** the first shard is a small, contaminated fragment recovered in Volume 1. A provisional public copy of that fragment is released in Volume 4 and expanded in Volume 9 into a stable, provenance-marked **Oren route copy**. Mixed custodians—Mara, Nessa, and a rotating Morrow Quay witness council—authorize that derivative for limited route use and public display; the copy cannot be used as a complete witness or opened beyond its seal. The restricted remainder, held in the Ninth Bell and never fully surfaced, is not the same artifact as the public copy. In Volume 13, after the independent routes identify that remainder, Calder receives a recognized but unexercised exclusive family claim that would let him request a private opening. The Crown's forced-witness interface briefly exposes a route signal from the still-sealed original during the manufactured glass storm, but the route collapses and that temporary access signal is lost; the remainder itself is never opened. Calder's final choice is to release the family claim into a dual seal held by Mara and Nessa with the rotating council's oversight, surrendering the possibility of a private opening rather than recovering a reassuring private version of Oren.
 
 ### Alden Marr — Calder's father, sixty-one
 
@@ -98,23 +98,22 @@ Rook turns uncertainty into jurisdiction. He is skilled at lawful seizure, permi
 
 Vey governs the blockade in the seventh through ninth volumes. He is calm, logistical, and willing to starve a harbor rather than permit independent routes. His defeat is a strategic loss of ships and authority, not an instant death. He later tries to complete Ilya Serr's work with military force and becomes a warning that a sincere anti-anarchy argument can become authoritarian when it denies consent.
 
-### Magister Ilya Serr — Minister of Returning Memory, fifty-six
+### Magister Ilya Serr — senior Lantern Registry examiner at the opening, fifty-six
 
-Ilya is the central antagonist. His seal and name appear in the first volume as the authority behind a seizure order, so he is not a final enemy introduced at the climax. He is a gifted archivist who believes uncontrolled memory can recreate the Quietening. He has spent his career building legal custody into a system intended to prevent mass coercion. During the Gannet Cut, he signed a transfer that allowed a lie to become official record; he knows the report was false and has protected the system ever since.
+Ilya is the central antagonist. At the opening he is a senior Registry examiner, not yet Minister of Returning Memory; the Crown promotes him to that office in Volume 8. His seal and name appear in the first volume as the authority behind a seizure order, so he is not a final enemy introduced at the climax. He is a gifted archivist who believes uncontrolled memory can recreate the Quietening. He has spent his career building legal custody into a system intended to prevent mass coercion. During the Gannet Cut, when he was a junior registry official, he signed a transfer that allowed a lie to become official record; he knows the report was false and has protected the system ever since.
 
 Ilya's motive is fear shaped by responsibility and by the death of a family member in an earlier echo cascade. His final plan, the Crown Keel, is an attempt to make one stable witness out of every seized testimony. It would stop the cascade by making disagreement impossible, and it would turn a frightened man into a permanent imperial gatekeeper. He is not defeated by discovering that his fear is irrational. He is defeated because communities can share risk without surrendering authorship.
 
 ## Relationship milestones
 
-1. **Chapters 1–50:** Calder and Mara begin as auditor and suspect. They cooperate only when each has evidence the other cannot obtain alone. Calder hides the Oren-specific mark on the first shard.
-2. **Chapters 51–100:** Mara risks her Registry position to preserve an unclaimed testimony. Calder begins to trust her judgment, while she refuses to romanticize his recklessness.
-3. **Chapters 101–150:** They disagree over whether to publish a dangerous witness. Mara leaves the active crew and returns only when Calder accepts that transparency can be strategic, not merely moral.
-4. **Chapters 151–200:** Calder hands Mara the original anchor and a complete record of his first contamination. Their intimacy grows through shared risk, but neither abandons professional independence.
-5. **Chapters 251–300:** They reunite after Calder returns evidence he once took. They choose collaboration over a rescue fantasy; the relationship is a stable partnership with unresolved trust.
-6. **Chapters 301–400:** Calder apologizes for exposing Mara's records to protect the crew. They begin a committed relationship without surrendering separate work or political roles.
-7. **Chapters 401–500:** The relationship faces the question of whether private love can coexist with public custody of memory. They choose transparent boundaries and do not use Oren as a test of devotion.
-8. **Chapters 551–600:** Mara joins the emerging Assembly independently. Calder asks for her help rather than assuming it. They marry in a small civil ceremony before the final escalation, with no magical or political vow.
-9. **Chapters 601–760:** They remain separate professionals who share a life, a boat, and responsibility for the public record. The final conflict tests whether they can disagree in public without abandoning one another.
+1. **Volumes 1–2 (Chapters 1–100):** Calder and Mara begin as auditor and suspect, then reluctant co-investigators. Calder hides the Oren-specific mark on the first shard; Mara keeps the original Registry record. Mara's preservation of an unclaimed panel costs her standing inside the Registry, and Calder begins to trust her judgment without romanticizing his recklessness.
+2. **Volumes 3–4 (Chapters 101–200):** They disagree over whether to publish a dangerous witness. Mara leaves the active crew and later leaves the Registry; Calder returns the evidence and gives her the original anchor. Their intimacy grows through accountability, not rescue, and neither abandons professional independence.
+3. **Volumes 5–6 (Chapters 201–300):** They work together after Orison's first proof. Mara's public testimony formalizes her break with Registry doctrine and costs her former institutional standing; Calder accepts that she is not his subordinate. They reunite after he returns evidence he once withheld and choose collaboration over a rescue fantasy.
+4. **Volumes 7–8 (Chapters 301–400):** Calder's secrecy during the blockade damages trust. He apologizes publicly and privately, then they begin a committed relationship while keeping separate careers and political roles.
+5. **Volumes 9–10 (Chapters 401–500):** They disagree about Oren's echo and the ethics of using it. Their public route limits establish that private love can coexist with public custody without using Oren as a test of devotion.
+6. **Volumes 11–12 (Chapters 501–600):** Mara leads the public-record movement independently. Calder asks for her help rather than assuming it, they make a public commitment after the cordon crossing, and they marry in a small civil ceremony in Volume 12 before the final escalation.
+7. **Volumes 13–14 (Chapters 601–700):** They disagree in public during nine-route preparation and repair trust through public accountability. Their marriage does not make Mara responsible for Calder's dives or Calder responsible for her record.
+8. **Volume 15 (Chapters 701–760):** They remain separate professionals who share a home, a boat, and responsibility for the public record. The final conflict tests whether they can preserve disagreement without abandoning one another.
 
 ## Relationship boundaries
 

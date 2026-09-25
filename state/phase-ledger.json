@@ -1,15 +1,43 @@
 {
   "currentPhase": "phase-000-bootstrap",
   "novel": "novel-glass-harbor",
-  "version": 1,
+  "version": 2,
   "phases": [
     {
       "id": "phase-000-bootstrap",
-      "status": "planned",
+      "kind": "planning",
+      "prompt": "workspace/phase-000-bootstrap/PROMPT.md",
+      "volume": null,
+      "batch": null,
+      "startChapter": null,
+      "endChapter": null,
+      "status": "running",
+      "attempts": 1,
+      "leaseExpiry": null,
+      "baseCommit": "f08645d00c5b3dd77a7c3280f6b73e839cfe26fa",
+      "resultCommit": null,
+      "actualModel": "opencode/space-bunny-free",
       "fallbackUsed": false,
-      "range": null,
+      "nextRetryTime": null,
+      "lastError": null
+    },
+    {
+      "id": "volume-01-batch-0001",
+      "kind": "batch",
+      "prompt": "workspace/volume-01/batch-0001/PROMPT.md",
+      "volume": 1,
+      "batch": 1,
+      "startChapter": 1,
+      "endChapter": 10,
+      "status": "planned",
       "attempts": 0,
-      "actualModel": null
+      "leaseExpiry": null,
+      "baseCommit": null,
+      "resultCommit": null,
+      "actualModel": null,
+      "fallbackUsed": false,
+      "nextRetryTime": null,
+      "lastError": null
     }
   ]
 }

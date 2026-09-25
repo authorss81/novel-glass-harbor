@@ -17,7 +17,7 @@ The default batch is ten chapters. A maximum of twenty chapters is allowed when 
 
 Keep the protagonist competent but not instantly overpowered. Growth must be earned through practice, cost, failure, relationships, and changed decisions. Do not make the protagonist passive, stupid, or incapable of basic observation. Do not make every problem solvable by one hidden ability.
 
-Use the System naturally. Keep panels rare, readable, and connected to the fictional world. Do not use real software terms unless the setting uses them.
+Follow the approved fiction bible on systems and interfaces. If it defines a System, keep panels rare, readable, and world-native. If it prohibits one, do not introduce panels, stat blocks, or the term “System” in the prose. Do not use real software terms unless the setting uses them.
 
 After writing the chapters, update the batch summary, chapter summaries, continuity, open threads, character state, and phase ledger as required by the prompt. Keep summaries compact and useful for the next batch. Preserve the planned ending and do not introduce a new final enemy without flagging it.
 

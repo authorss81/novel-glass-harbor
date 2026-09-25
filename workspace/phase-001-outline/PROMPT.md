@@ -1,5 +1,3 @@
-Read AGENTS.md, NOVEL_SPEC.md, the completed bible, the series outline, and the ending outline.
+Retired planning phase. Do not execute this prompt.
 
-Create Volume 01 and its first batch outline. Volume 01 must have a central pressure, midpoint, climax, concrete resolution, and next-volume question. The first batch outline must contain detailed cards for Chapters 1–10, with a beginning, escalation, midpoint, climax, and aftermath.
-
-Do not write chapter prose yet.
+The completed `phase-000-bootstrap` now owns the bible, series and ending outlines, Volume 01 outline, and Chapters 1–10 cards. This directory is not present in `state/phase-ledger.json`; the authoritative selector ignores unledgered prompts.

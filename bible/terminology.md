@@ -50,14 +50,22 @@
 
 ## People and institutions
 
-- **Line diver:** a salvage worker who dives from a pressure bell, air line, or hard suit to inspect and recover wreck material.
-- **Second Bell license:** a higher salvage qualification that allows a Morrow Quay diver to work beyond the harbor line. It is a legal and economic milestone, not a superpower tier.
+- **Second Bell license:** the full qualification that allows a Morrow Quay diver to work beyond the harbor line. It is a legal and economic milestone, not a superpower tier. A provisional working charter is a narrower seasonal permission and does not count as the full license.
 - **Free Keel:** independent salvage crews and their shared equipment and legal defense.
 - **Lantern Registry:** the Serein institution that records salvage claims, glass provenance, and custody. Its “settled” mark is not proof of truth.
 - **Office of Returning Memory:** the ministry that manages glass recovery, testimony, and dangerous claims. Ilya Serr ultimately leads it.
-- **Bellwright:** a craftsperson who works tideglass into panels, cases, bells, and buoys.
-- **Openhand:** a diver who helps connect independent routes without taking sole custody. It is a responsibility, not a rank imposed by the glass.
 - **Crown Navy:** the Serein naval force. Its ships, charts, and blockade are practical institutions with internal disagreements.
+
+## Power progression terms
+
+- **Line Diver:** the opening practical stage: rope, pumps, pressure bells, hull inspection, and ordinary salvage labor. Seam recognition comes from experience, not magic.
+- **Tide-Ear:** a trained diver who can enter one shallow, anchored echo and surface a limited practice trace. The cost is aftertaste, reenacted injury, and tide-sickness.
+- **Faultreader:** a diver who can detect incompatible testimony and false joins as perceptual or pressure seams. A seam identifies difference, not truth.
+- **Bellwright:** a craftsperson who works echo-glass into panels, cases, bells, and buoys and can maintain a small local listening route. Formal advancement requires a crew and ongoing maintenance.
+- **Storm-Reader:** a crew lead who can follow a route preserved across several old vessels. The remembered pattern may be outdated and cannot command the sea.
+- **Keelwright:** a repair specialist who can make a coordinated vessel or convoy usable while preserving each witness's limits. The role carries shared liability, not ownership.
+- **Chorus Diver:** a diver who coordinates several consenting witness channels without forcing one synthesis. The result remains plural and the diver risks shared aftertaste.
+- **Openhand:** a diver who helps connect independent routes without taking sole custody. It is a distributed responsibility, not a rank imposed by the glass or a personal spell.
 - **Nine Harbor Assembly:** the informal coalition of communities, salvage crews, bellwrights, and conservators formed before the formal charter. The **Open Keel Assembly** is its later accountable public institution.
 - **Quietening Cut:** the deep Orison trench where the old keel network was forcibly broken and the cascade occurred.
 - **Crownless Shelf:** the exposed shelf outside the Quietening Cut, used for staging salvage and later to hold the Unlit Keel expedition.
@@ -87,7 +95,7 @@
 - **Veyra Holt:** captain of the imperial cutter *Vigil*.
 - **Halven Rook:** Lantern Registry magistrate.
 - **Soren Vey:** admiral of the closed-sea squadron.
-- **Ilya Serr:** Minister of Returning Memory and central antagonist.
+- **Ilya Serr:** senior Lantern Registry examiner during Volume 1, Minister of Returning Memory from Volume 8 onward, and the central antagonist.
 
 ## Usage rules
 

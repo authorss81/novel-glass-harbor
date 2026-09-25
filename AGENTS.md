@@ -80,16 +80,14 @@ Prefer fictional characters with realistic lives and pressures: teachers, engine
 
 Do not use private real people as fictional characters without permission. Do not use living public figures as caricatures or put invented controversial statements in their mouths.
 
-## Systems
+## Systems and In-World Interfaces
 
-A System should be understandable to the reader and fit the fictional world.
+Follow the approved fiction bible before using any system-like presentation. A world that defines a System may use it sparingly; a world that prohibits one must not gain panels, stat blocks, or the term “System” during drafting.
 
-- Use plain language inside System messages.
-- Prefer short, concrete prompts over technical specifications.
-- Use at most one System panel per chapter unless the story specifically depends on multiple panels.
-- Let the System be incomplete, biased, limited, or misunderstood.
-- Do not spam the reader with statistics, item names, skill tables, or artificial terminology.
-- A System may provide a rule, warning, choice, or consequence, but the protagonist must still act.
+- Use only world-native rules, warnings, marks, or messages.
+- Prefer short, concrete language over technical specifications.
+- Keep any approved interface rare and readable; never let it automate the story.
+- A system-like message may provide a rule, warning, choice, or consequence, but the protagonist must still act.
 - Avoid real software jargon such as API, protocol, backend, runtime, token, latency, and deployment unless the setting deliberately uses it and the language remains natural.
 - A number should matter because of what it changes in the story, not because the number exists.
 

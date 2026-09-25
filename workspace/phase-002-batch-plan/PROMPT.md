@@ -1,5 +1,3 @@
-Read AGENTS.md, NOVEL_SPEC.md, the series ending, Volume 01, the continuity files, and the current batch outline. This is the first batch, so no previous chapters exist yet. Use rolling summaries and the bible as the long-term memory.
+Retired duplicate batch phase. Do not execute this prompt.
 
-Write Chapters 1–10 as complete finished scenes. The chapters must be natural prose, not summaries. Follow the chapter cards. Give the protagonist earned competence, clear limits, and a meaningful desire. Use System language sparingly and naturally.
-
-After writing all ten chapters, update the batch summary, chapter summaries, continuity, open threads, character state, and phase ledger. Do not introduce a new major canon rule without recording it in the bible and continuity state. After completing the batch, inspect the Volume 01 outline. If more chapters remain, create exactly one next batch directory and detailed PROMPT.md for Chapters 11–20 or the next planned 10–20 chapter range. If the volume is complete, create exactly one volume-close prompt. Do not create more than the next phase.
+The sole ledgered next phase after bootstrap is `workspace/volume-01/batch-0001/PROMPT.md`. This directory is not present in `state/phase-ledger.json`; the authoritative selector ignores unledgered prompts.

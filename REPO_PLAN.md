@@ -60,24 +60,21 @@ A novel is not allowed to drift into an improvised series. The ending and volume
 
 ## Phase System
 
-One phase handles a batch of 10–20 chapters, not one chapter.
+Bootstrap creates the complete planning stack without prose. Each later prose phase handles a batch of 10–20 chapters, not one chapter.
 
 ```text
-bootstrap
-series outline
-volume outline
-batch plan
-batch 0001: chapters 1–10
-batch 0002: chapters 11–20
-batch 0003: chapters 21–30
+bootstrap: bible, series/ending, Volume 01, and cards for Chapters 1–10
+batch 0001: Chapters 1–10
+batch 0002: Chapters 11–20
+batch 0003: Chapters 21–30
 volume audit
-volume 02 outline
+volume 02 outline and cards
 batch 0004
 ```
 
 The default pilot batch is 10 chapters. A 20-chapter batch is permitted after output limits and quality are measured.
 
-Each batch prompt reads the series outline, volume outline, batch cards, rolling summaries, continuity state, and the last two or three chapters for immediate voice. It does not load the whole manuscript.
+Each batch prompt reads the series outline, volume outline, batch cards, rolling summaries, continuity state, and the previous 20 chapters for immediate voice, extended to Chapters 21–30 when the verified context budget safely allows. It does not load the whole manuscript.
 
 After a batch:
 

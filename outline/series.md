@@ -60,7 +60,7 @@ The ladder escalates in kind, not simply in strength: local permission becomes n
 2. **Captain Veyra Holt, commander of the *Vigil* (Volumes 2–4):** carries out the Gannet seizure and cover-up, then uses naval salvage rules to pursue Calder. Her defeat costs her ship and command, but the Gannet order remains unresolved.
 3. **Magistrate Halven Rook, Lantern Registry circuit head (Volumes 4–6):** makes custody law into a weapon through hearings, permits, quarantine, and deliberate delay. He is not responsible for the Quietening but profits from keeping its causes opaque.
 4. **Admiral Soren Vey, closed-sea squadron commander (Volumes 7–9):** turns the evidence into a naval blockade. He argues that a coast unable to feed itself cannot be allowed to choose unsafe routes. His strategic defeat leaves him politically dangerous and personally intact.
-5. **Magister Ilya Serr, Minister of Returning Memory (introduced in Volume 1, central antagonist from Volume 4):** the final enemy. He believes centralized custody is the only protection against another Quietening and builds the Crown Keel to make every testimony pass through one stable witness. He loses because the coast accepts risk through many accountable custodians rather than surrendering authorship.
+5. **Magister Ilya Serr, senior Lantern Registry examiner at the opening and Minister of Returning Memory from Volume 8 (introduced in Volume 1, central antagonist from Volume 4):** the final enemy. He believes centralized custody is the only protection against another Quietening and builds the Crown Keel to make every testimony pass through one stable witness. He loses because the coast accepts risk through many accountable custodians rather than surrendering authorship.
 6. **The Serein Crown itself (Volumes 10–15):** the institutional antagonist becomes the force that makes Ilya's plan seem reasonable: seized archives, controlled charts, public fear, and a legal assumption that history can be owned. There is no separate final enemy beyond this established system and Ilya.
 
 Antagonists may defect, survive, testify, or be defeated by changing the terms of the conflict. Their defeats must alter the political balance. The story does not use a new villain for each volume.
@@ -69,7 +69,7 @@ Antagonists may defect, survive, testify, or be defeated by changing the terms o
 
 - **Volumes 1–2:** Calder and Mara are auditor and suspect, then reluctant co-investigators. Calder hides the Oren-specific mark; Mara keeps the original Registry record.
 - **Volumes 3–4:** Mara leaves the active crew over publication. Calder returns the evidence and gives her the original anchor. Their intimacy grows through accountability, not rescue.
-- **Volumes 5–6:** They work together after Orison's first proof. Mara's public testimony costs her position; Calder accepts that she is not his subordinate.
+- **Volumes 5–6:** They work together after Orison's first proof. Mara's public testimony costs her standing inside the Registry and makes her independence concrete; Calder accepts that she is not his subordinate.
 - **Volumes 7–8:** Calder's secrecy during a blockade damages trust. He apologizes publicly and privately. They begin a committed partnership while keeping separate careers.
 - **Volumes 9–10:** They disagree about Oren's echo and the ethics of using it. They choose a shared boundary: the echo may inform a public record, but it cannot decide the coalition's strategy.
 - **Volumes 11–12:** Mara leads the public-record movement independently. Calder asks for her help rather than assuming it. In Volume 12, they marry in a small civil ceremony before the final escalation.
@@ -93,20 +93,20 @@ Every stage is earned through practice, failure, relationships, equipment, and a
 
 ### Volume 01: The First Bell — Chapters 1–50
 
-- **Central pressure:** Calder needs a Second Bell license and a clean salvage record while the *Aster Gannet* mystery threatens his family and harbor.
-- **Starting state:** ordinary line-diving, family debt, and an official story about Oren's death.
+- **Central pressure:** Calder's crew must prove a legitimate claim to the first transparent wreck and secure a defensible provisional working charter and salvage share before Kest and the Registry seize the recovery, while the *Aster Gannet* mystery threatens his family and harbor.
+- **Starting state:** ordinary line-diving, family debt, one failed attempt short of the full Second Bell license, and an official story about Oren's death.
 - **Major locations:** Morrow Quay, the Gannet Shoal, the *Vigil*'s mooring line, and the first Orison shelf.
 - **Pressure types:** work, family conflict, bureaucratic seizure, first controlled dive, and immediate survivor rescue.
-- **Midpoint reversal:** the transparent shard is not an ordinary wreck panel. Calder enters a first anchored echo and sees the ferry's public manifest contradicted by the physical load.
+- **Midpoint reversal:** later physical pressure records corroborate Calder's first, incomplete echo: the Gannet's supposedly empty manifest space held the sealed glass cargo, and the *Vigil*'s mooring line was cut from the shore side after the seizure began. The shard is not an ordinary wreck panel, and the discrepancy reflects coordinated action rather than a lone thief or clerical error.
 - **Volume climax:** Calder's crew recovers a usable bell-buoy core and a fragment containing Oren's first minutes during the Gannet seizure. The choice to surface the fragment costs him a specific childhood memory of Oren's voice and earns the Crown's attention.
-- **Concrete resolution:** Calder keeps a provisional license and a salvage share, Mara preserves the provenance record, and the crew proves the *Vigil* was at the scene. The seizure order bears Ilya Serr's name and ministerial seal, but it does not yet reveal his role in the Gannet lie. The immediate claim is settled; the reason for the seizure is not.
+- **Concrete resolution:** Calder's crew secures a one-season provisional working charter, retains its salvage share, and preserves the provenance record through Mara; the evidence proves the *Vigil* was at the scene. The current seizure order bears Ilya Serr's name and senior Registry examiner's seal, but it does not yet reveal his role in the Gannet lie or his later promotion. The immediate claim is settled; the reason for the seizure is not.
 - **New question:** Why are the transparent vessels arranged in a route that leads toward Orison rather than scattered like ordinary wrecks?
 - **Power/relationship change:** Calder becomes a tide-ear with a dangerous aftertaste. Calder and Mara trust each other enough to continue but have not yet shared the Oren marker.
 
 ### Volume 02: The License Sea — Chapters 51–100
 
 - **Central pressure:** the harbor's charter is threatened while Calder tries to fund three storm-exposed recoveries and keep the crew employed.
-- **Starting state:** a provisional license is a leash, not freedom; Kest can close the harbor at any inspection.
+- **Starting state:** the one-season provisional working charter is a leash, not freedom; Kest can close the harbor at any inspection, and Calder still lacks the full Second Bell license.
 - **Major locations:** Ashtide, Bramble Strait, Ternwatch, and the outer Morrow line.
 - **Pressure types:** debt, weather survival, rival crews, naval confiscation, and training.
 - **Midpoint reversal:** one recovered bell contains a fisher's account of a vanished coast road that does not exist in any current chart. Mara proves its claim seal is forged but cannot explain who made the glass.
@@ -135,7 +135,7 @@ Every stage is earned through practice, failure, relationships, equipment, and a
 - **Pressure types:** legal pressure, public reputation, archival investigation, intimate conflict, and a narrow political victory.
 - **Midpoint reversal:** Mara discovers that her own mentor helped remove a page from the Gannet file. Calder learns that the missing page was not hidden by the Navy alone; the Registry accepted the removal as “risk management.”
 - **Volume climax:** Calder releases the contaminated Oren fragment to a public hearing. It proves the manifest was altered, but the echo's seam exposes Calder's uncertainty and makes his own memory less credible.
-- **Concrete resolution:** the inquiry cannot convict Calder of the wreck, and the Crown is forced to acknowledge the manifest discrepancy. Mara leaves the Registry; Calder loses his Second Bell examination eligibility.
+- **Concrete resolution:** the inquiry cannot convict Calder of the wreck, and the Crown is forced to acknowledge the manifest discrepancy. Mara leaves the Registry; Calder loses eligibility for the full Second Bell examination.
 - **New question:** If the Registry knew the record was unsafe, what earlier emergency justified building a monopoly?
 - **Power/relationship change:** Calder begins bellwright training and builds the first independent listening buoy. Calder and Mara become intimate after he gives her the original anchor, but they remain professionally independent.
 
@@ -242,8 +242,8 @@ Every stage is earned through practice, failure, relationships, equipment, and a
 - **Major locations:** the nine coastal routes, the Ninth Bell at Orison, and the threatened harbor of Morrow Quay.
 - **Pressure types:** consent negotiation, rescue action, political defection, Oren's personal mystery, and exhaustion.
 - **Midpoint reversal:** one community refuses to open its most traumatic testimony. Calder discovers that a complete public network cannot mean universal exposure, and the coalition must revise the method.
-- **Volume climax:** a manufactured glass storm threatens an entire town. Calder could make the restricted remainder of Oren's echo stabilize it through the Crown's forced-witness interface, but doing so would make Calder the central witness. He uses distributed volunteers instead, losing the clearest route and the remainder's private opening.
-- **Concrete resolution:** the independent routes reach Orison. Ilya admits he did not create the ancient Quietening but did choose the Gannet lie and built the current system around it. The final historical answer is now within reach.
+- **Volume climax:** a manufactured glass storm threatens an entire town. Calder's family claim to Oren's still-sealed restricted remainder is provisionally recognized, but using the Crown's forced-witness interface would make him the central witness and expose only a route signal, not the original scene. He refuses and uses distributed volunteers instead, losing the clearest route and the temporary private access signal without ever opening the remainder.
+- **Concrete resolution:** the independent routes reach Orison. Calder holds a recognized but unexercised exclusive family claim to the sealed remainder, pending his final decision about its custody. Ilya admits he did not create the ancient Quietening but did choose the Gannet lie and built the current system around it. The final historical answer is now within reach.
 - **New question:** What does Calder do when the last available proof is the memory he most wants and least owns?
 - **Power/relationship change:** Calder becomes a full openhand only when connected to other people. He and Mara remain equal partners in public and private life.
 
@@ -254,10 +254,10 @@ Every stage is earned through practice, failure, relationships, equipment, and a
 - **Major locations:** all nine major coastal routes, the storm belt, Morrow Quay, and Orison's Ninth Bell.
 - **Pressure types:** community choice, military pressure, infrastructure failure, public testimony, and the emotional cost of delay.
 - **Midpoint reversal:** one route collapses because its claim was false and its custodians were coerced. The coalition cannot present the opening as a universal success; it must proceed with known gaps.
-- **Volume climax:** the nine routes hold only when each community chooses its own limits. Calder uses his body as one anchor while Nessa serves as his named tender and can call a cutoff before full synchronization. He survives, but loses the ability to enter an echo without other people and suffers permanent hearing damage.
+- **Volume climax:** the nine routes hold only when each community chooses its own limits. In a final rehearsal, Calder offers his body as a temporary gap-anchor; Nessa exercises the agreed named-tender cutoff before full synchronization. The interrupted attempt proves both that no single center can hold the braid and that Calder can be withdrawn rather than owned, but it leaves him with severe aftertaste and temporary hearing loss that require recovery.
 - **Concrete resolution:** the Crown's monopoly fails as the routes become mutually dependent without becoming centrally controlled. The Crown Keel turns toward Orison and begins its final pull.
-- **New question:** Can Calder enter the last echo and return without making Oren's testimony the center of the world again?
-- **Power/relationship change:** the openhand is no longer a personal trick; it is a distributed practice. Calder and Mara have repaired trust through public accountability and make a durable life together.
+- **New question:** When the last connection cannot be cut safely, can Calder remain connected on his own terms without making Oren's testimony the center of the world again?
+- **Power/relationship change:** the openhand is no longer a personal trick; it is a distributed practice. The Volume 14 rehearsal proves the tender's authority but does not yet prove Calder can survive the final continuous connection. Calder and Mara have repaired trust through public accountability and make a durable life together.
 
 ### Volume 15: The Open Sea — Chapters 701–760
 
@@ -265,8 +265,8 @@ Every stage is earned through practice, failure, relationships, equipment, and a
 - **Starting state:** the nine routes are open enough to resist the Crown but not yet stable enough to survive the final synchronization attempt.
 - **Major locations:** Orison's Ninth Bell, the Old Keel Field, the central sea, and every major harbor.
 - **Pressure types:** final investigation, public choice, high-pressure salvage, distributed action, intimate sacrifice, and aftermath.
-- **Midpoint reversal:** the historical truth is complete: the Nine Harbors deliberately sank the fleet after the Crown Seal cascade, and Ilya's system is a later attempt to erase that responsibility. The victory still requires a physical and social method, not a confession alone.
-- **Volume climax:** Calder enters the Ninth Bell with Mara's public record, the crew's independent anchors, and the Oren route copy. He releases his exclusive claim to the restricted remainder into a dual seal held by Mara and Nessa under the rotating council's oversight, without opening the remainder. He helps the nine routes become a braided public sea. Ilya's Crown Keel fractures; Ilya is trapped by the single voice he made and dies when the mechanism loses its living custodian.
+- **Midpoint reversal:** aligning the Oren route copy with an independent pressure bell reveals that the public evacuation bell had already sounded and a second rescue line was still active when Oren severed the live keel-line. His gloved hand turns toward that line before the cut, but the record cannot establish whether he understood the cost. He saved trapped workers and may also have blocked another chance; the uncertainty prevents his choice from serving as a clean heroic command or a lesson that one witness should speak for everyone. This changes the coalition's plan: no testimony, including Oren's, may become the braid's symbolic center, and every route must carry its own context and limits into the final connection. Ilya's offer of sole authority remains unresolved until the climax.
+- **Volume climax:** Calder enters the Ninth Bell with Mara's public record, the crew's independent anchors, and the Oren route copy. He releases his unexercised exclusive family claim to the restricted remainder into a dual seal held by Mara and Nessa under the rotating council's oversight, without opening the remainder. He then remains connected as one voluntary anchor among nine routes until the braid holds; the continuous exposure costs him permanent hearing damage and the ability to enter an echo without other people. Ilya's Crown Keel fractures; Ilya is trapped by the single voice he made and dies when the mechanism loses its living custodian.
 - **Concrete resolution:** the sea is open to all coastal communities through a rotating Open Keel Assembly, local archives, shared buoys, and public procedures for consent, correction, and restriction. The Dominion remains inland and politically diminished but not magically abolished.
 - **New question:** none in the form of a new enemy; the aftermath asks what a public memory system must do when it fails in an ordinary human way.
 - **Power/relationship change:** Calder becomes an openhand who cannot work alone and no longer seeks a private miracle. He and Mara steward different parts of the network, remain married, and keep the right to disagree.
@@ -277,4 +277,4 @@ Calder begins by treating Oren's memory as a tool that can restore order. He end
 
 ## Ending lock
 
-The final conflict is the Crown Keel at Orison. The final internal choice is Calder releasing his exclusive claim to Oren's restricted remainder and refusing to be the sole witness who can make history safe for everyone. The final emotional answer is that love survives by relinquishing ownership, and truth becomes stronger when its limits remain visible. The final world is not a sea without rulers; it is a sea whose memory routes are held by many accountable communities and cannot be monopolized by an empire.
+The final conflict is the Crown Keel at Orison. The final internal choice is Calder releasing his recognized but unexercised exclusive family claim to Oren's restricted remainder and refusing to be the sole witness who can make history safe for everyone. The final emotional answer is that love survives by relinquishing ownership, and truth becomes stronger when its limits remain visible. The final world is not a sea without rulers; it is a sea whose memory routes are held by many accountable communities and cannot be monopolized by an empire.

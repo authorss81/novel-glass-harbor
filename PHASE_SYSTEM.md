@@ -116,12 +116,11 @@ Ending hook or completed beat
 
 A phase processes 10–20 chapters in one model run. The model is loaded once per phase instead of once per chapter.
 
-### Bootstrap phases
+### Bootstrap phase
 
-- `phase-000-bootstrap`: create the novel specification and bible.
-- `phase-001-series-outline`: create the complete series arc and ending.
-- `phase-002-volume-01-outline`: create the first volume and its batches.
-- `phase-003-buffer-plan`: create detailed cards for the first 10–20 chapters.
+- `phase-000-bootstrap`: create the novel bible, complete series arc, ending plan, first volume outline, and detailed cards for Chapters 1–10. It establishes the planning baseline and state but writes no chapter prose.
+
+Planning for later volumes and batches is created only when the preceding volume or batch requires it. There are no pre-created `phase-001` or `phase-002` writer phases between bootstrap and the first batch.
 
 ### Batch phases
 
@@ -140,7 +139,7 @@ The writer reads:
 - the current volume outline
 - the current batch outline
 - the previous batch summary
-- the previous two or three chapters for immediate voice and continuity
+- the previous 20 chapters for immediate voice and continuity, extended to Chapters 21–30 when the verified context budget safely allows
 - `state/current.md`
 - `state/continuity.md`
 - `state/open-threads.md`

@@ -189,5 +189,5 @@ At the end of every batch:
 - Record changed relationships.
 - Record power costs and gains.
 - Record any world rule discovered.
-- Keep the last two or three chapters available for voice continuity.
+- Keep the previous 20 chapters available for immediate voice continuity; extend to Chapters 21–30 when the verified context budget safely allows.
 - Store a compact volume index.
