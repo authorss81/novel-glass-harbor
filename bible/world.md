@@ -12,7 +12,15 @@ The drowned city of **Orison** lies seventy fathoms below the western shelf in a
 
 ### Morrow Quay
 
-Morrow Quay is the story's home harbor and Calder's base. It is a weathered stone-and-timber port with a small commercial fleet, a public dry dock, two fish markets, and a free salvage association called the **Free Keel**. Its charter lets local crews work wrecks below the imperial line in exchange for a share of recovered material. The charter is legal only because the Serein court has not decided that the harbor is strategically important enough to revoke it.
+Morrow Quay is the story's home harbor and Calder's base. It is a weathered stone-and-timber port with a small commercial fleet, a public dry dock, two fish markets, and a free salvage association called the **Free Keel**. Three separate documents govern local salvage, and they must not be confused:
+
+- The **Morrow Quay charter** is the municipal agreement with the Crown that lets harbor crews work any wreck *inside the harbor line* in exchange for a share of recovered material. The harbor line runs along the mole and the inner shoals.
+- The **Free Keel charter** is the association's own mutual pledge among crews: shared tools, shared rescue plans, shared legal defense. It grants no legal rights.
+- The **imperial line** is the Crown's boundary on the outer shelf, beyond the harbor line. Working past it needs the full **Second Bell license**.
+
+The harbor charter is legal only because the Serein court has not decided that the harbor is strategically important enough to revoke it.
+
+Local salvage jurisdiction is handled by the **Morrow Quay harbor authority**, a municipal body whose working office is the reeve's floating office on the west basin. The reeve issues claim windows, work permits, and one-season provisional working charters, holds hearings in the harbor authority's hearing room, and can order a wreck held for inspection. The harbor authority cannot certify a glass witness or overrule a Lantern Registry seizure; it can only withhold a local permit, delay a release, and embarrass the Registry in front of the harbor authority's own hearing room. Appeals on jurisdiction go to the **Court of Wreck Claims** in Veyr, not to the Registry. Use one name for the institution and one for the man: harbor authority, reeve, Ors Kest.
 
 Morrow Quay's people depend on salvage, fishing, rope-making, kelp harvesting, and occasional imperial contracts. The harbor is politically independent in speech and economically dependent in practice. Its citizens argue about whether independence is worth the cost of keeping their own boats seaworthy.
 
@@ -107,9 +115,30 @@ The Dominion's official history calls Orison a city destroyed by a sea catastrop
 
 ### The Gannet Cut, thirteen years before the present
 
-The imperial mnemonic cutter **Vigil** intercepted the ferry *Aster Gannet* near Morrow Quay. Oren Marr, Calder's older brother, was aboard as a deck apprentice. The cutter was carrying a sealed glass cargo whose manifest did not match the public registry. During the seizure, a keel-line tore. The ferry went down in a storm with sixty-three workers aboard.
+The imperial mnemonic cutter **Vigil** intercepted the ferry *Aster Gannet* near Morrow Quay. Oren Marr, Calder's older brother, was aboard as a deck apprentice. That morning the cutter was carrying an undeclared sealed glass case in its own hold, a case whose contents did not match the public registry. During the seizure, the case was carried across the *Gannet*'s loading space and a keel-line tore. The ferry went down in a storm with sixty-three workers aboard.
 
-The official report calls the crossing illegal and the loss unavoidable. The surviving pressure log contains a deliberate three-second gap. Calder's father, Alden, was pressured into signing a salvage report that omitted the cargo. The investigation was closed before most families could question it. Ilya Serr was a junior registry official at the time; he signed the transfer of the cutter's evidence and later used the disaster to support stricter custody laws. Calder does not know this until late in the series.
+The public record calls the crossing illegal and the loss unavoidable. It was assembled from separate documents that were never meant to be read against each other. The surviving pressure log contains a deliberate three-second gap. Calder's father, Alden, was pressured into signing the harbor **salvage report**, which described what the divers could reach and omitted the sealed case entirely. A Navy **seizure report** written by the *Vigil*'s officers claims that the ferry's hold was empty and that the cutter's own case held nothing requiring declaration. A later **Registry custody log** records the evidence as uncontested. Each office was protecting itself, and each false statement looks reasonable until the documents are laid side by side.
+
+The physical fact beneath the lie is a measurement, not a witness. The compartment the *Gannet*'s manifest calls empty is too large to have been empty during the seizure, and its dimensions are recorded in the ferry's own survey. That survey, the public pressure log, and Calder's shard are the three things that break the official account; they answer in that order across Volumes 1, 4, and 6.
+
+Ilya Serr was a junior registry official at the time; he signed the transfer of the cutter's evidence and later used the disaster to support stricter custody laws. Calder does not know this until late in the series.
+
+## Documents, offices, and jurisdiction
+
+Salvage in the Vesper Sea is a paper economy as much as a physical one, and most of the story's early conflicts are conflicts about which office gets to write down what a crew found. Keep these eight document types distinct in every scene, and keep the three forums distinct: the harbor authority's hearing room decides local claims, the Morrow circuit office of the Registry decides provenance and custody, and the Court of Wreck Claims in Veyr hears appeals.
+
+| Document | Written by | What it can establish | What it cannot establish |
+|---|---|---|---|
+| **Claim window and work permit** | Morrow Quay harbor authority (reeve's office) | Which crew may work a wreck, for how long, and under what bond | Anything about the truth of a glass record |
+| **Salvage labor log** | The working crew, countersigned by a reeve or witness | Air, depth, labor, equipment used, and what was physically raised | Motive, ownership, or the content of an echo |
+| **Salvage report** (Gannet era) | Salvage foreman or reeve; Alden Marr signed the Gannet one under pressure | What the divers could reach and what they found in the water | The full cargo manifest, if the signer was pressured into omitting it |
+| **Navy seizure report** | *Vigil* commanding officer (Captain Veyra Holt) | What the Navy claims it took and when | The condition of the wreck after the seizure began, or the size of a compartment |
+| **Registry custody log and provenance record** | Lantern Registry examiner (a junior Ilya Serr for Gannet) | Chain of custody, material origin, and stated limits of use | Moral truth, or consent that was never given |
+| **Gannet pressure log and ferry survey** | The ferry's chief engineer and master, copied into the public inquest record | Timing, air, pressure, and the measured dimensions of a compartment that the manifest calls empty | Who gave an order, or what the sealed case contained |
+| **Court of Wreck Claims finding** | Serein court, on appeal | A legal judgment about jurisdiction and penalty | A safer sea, or a settled historical record |
+| **Public provenance duplicate** | The working crew with an independent witness, usually a conservator | Measurements, seams, custody facts, and named hands, in a form that survives the loss of the object | The content of an echo; it is a record of the object, not a copy of its memory |
+
+Morrow Quay's harbor authority and the Lantern Registry can disagree in public without either of them lying outright. Kest's later alteration, when Holt presses him, is a change to the harbor authority's **custody copy of the salvage report** filed in Volume 9, not a change to Alden's signature and not a change to the Navy's report. Calder must be able to tell the difference, and the reader must be able to follow which office is protecting itself. A Registry seizure order is served through the harbor authority but is executed by a Registry courier; the reeve can hold, delay, and witness, but he cannot confiscate glass on the Registry's behalf.
 
 ## Factions and institutions
 
@@ -121,7 +150,9 @@ The Crown Navy's **Admiral Soren Vey** enforces the blockade during the middle v
 
 ### Lantern Registry
 
-The Registry records salvage claims, ship manifests, glass provenance, and legal custody. Registry staff are trained to distinguish a settled witness mark from a forced or altered one, but their certification is still a bureaucratic act rather than proof of truth. The Registry employs **Mara Venn** before she becomes a public conservator.
+The Registry records salvage claims, ship manifests, glass provenance, and legal custody. Registry staff are trained to distinguish a settled witness mark from a forced or altered one, but their certification is still a bureaucratic act rather than proof of truth. The Registry employs **Mara Venn**, a tide conservator, before she becomes a public conservator.
+
+The **Morrow circuit office** is the Registry's local branch at Morrow Quay. It holds the copying room where public records are read and duplicated, the custody room where seized glass is stored, and the circuit's own examiners. It decides provenance, custody, and quarantine. It does not decide who may work a wreck, and it does not hear appeals; those belong to the harbor authority and the Court of Wreck Claims.
 
 ### Free Keel
 

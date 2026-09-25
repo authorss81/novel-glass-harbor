@@ -8,6 +8,21 @@ The nine independent routes are open, but the Crown Keel has drawn every seized 
 
 Calder has one advantage Ilya cannot account for: the routes do not depend on a single person. They depend on repair crews, fisher pilots, bellwrights, conservators, families, and the willingness of people to say “not yet,” “not this,” or “we do not know.”
 
+## Locked final resolution
+
+The following outcomes are decided in advance. Later volumes may add texture, but they may not replace any of them.
+
+- **Final external conflict:** the Crown Keel's attempt to synchronize the coast's seized memory vessels at the Ninth Bell in Orison.
+- **Final enemy:** Magister Ilya Serr and the Serein Crown's established system of custody. No new cosmic threat, god, race, or secret enemy.
+- **Calder's final external choice:** he releases his recognized but unexercised exclusive family claim to Oren's sealed remainder into a dual seal held by Mara and Nessa, and he stays connected to the braid as one voluntary anchor among nine routes instead of accepting Ilya's single-witness authority.
+- **Calder's final internal change:** he stops treating usefulness as the right to decide. He asks for help, accepts a tender's authority, and lets other people answer for themselves.
+- **Personal cost:** permanent hearing damage, an inability to enter an echo without other people present, and no private, unshared version of Oren's final voice. The remainder is never opened.
+- **Mystery:** the historical and moral chain is fully answered. The origin of tideglass and the possibility of behavior in merged echoes stay intentionally open.
+- **Political outcome:** Crown custody of unclaimed vessels ends by treaty, not by miracle. The Serein Dominion survives as a diminished inland power.
+- **Institutional outcome:** a rotating Open Keel Assembly with local custody, shared maintenance, public provenance, public correction, and a real right to withdraw from a route.
+- **Relationship outcome:** Calder and Mara remain married, professionally independent, and able to disagree in public without treating disagreement as betrayal.
+- **World outcome:** the sea is open to all coastal communities, and the ending is a method that can fail in ordinary human ways and be repaired by people who share responsibility.
+
 ## Final external conflict
 
 ### Objective
@@ -150,6 +165,27 @@ The mystery does not reveal that Oren is alive, that the echo is a new person, o
 - Memory magic remains dangerous. People still need pressure bells, trained divers, physical anchors, and community rules. The ending removes the monopoly, not the need for care.
 - Calder cannot dive alone without help and cannot restore his hearing or obtain a private, unshared version of Oren's voice. He becomes a respected teacher and route steward whose power is strongest when distributed.
 - Mara remains a conservator and public historian. Her records are cited, disputed, corrected, and sometimes inconvenient; that is the intended result.
+
+## Promises the finale must pay
+
+The final volume is not allowed to introduce new machinery. Its power comes from promises made much earlier.
+
+1. The delayed bell note in the continuing keel line at the end of Chapter 10 and the bell-buoy core recovered at the end of Volume 1 are the same signal. The finale pays it as a working route signal, and the answer inside the note stays ambiguous until the Volume 15 midpoint.
+2. Mara's public provenance duplicate, made when the original object left the Free Keel deck, is what lets the coalition prove custody without the object.
+3. Nessa's cutoff authority, established when she called Calder out of the first echo in Chapter 6 and took the standing shutdown decision in Chapter 7, is the procedure that makes the final continuous connection survivable.
+4. Alden's silence and the omitted case from the harbor salvage report are answered by the separate documents laid side by side, ending with the ferry's own survey of a compartment too large to have been empty.
+5. The nine routes, each maintained by the community that uses it, are the only reason the braid is stronger than the Crown Keel.
+6. The sealed remainder and Calder's unexercised family claim are resolved by restraint, not by an opening.
+
+## Forbidden ending shortcuts
+
+- Do not have Mara decode the answer, surrender her career to support Calder, or be saved by him.
+- Do not have the echo of Oren speak a command, apologize, forgive, or explain the meaning of the story.
+- Do not have the Dominion fall in a single battle or collapse because Ilya dies.
+- Do not have a sympathetic character die only to prove the protagonist's growth. Tobias Wren, Alden Marr, and the route crews survive into the aftermath and do useful work.
+- Do not let the final victory be a perfect recovered truth. Some records are lost, sealed, or contested forever.
+- Do not have Calder accept a crown, a title, or sole command as the price of saving everyone.
+- Do not introduce a System, panel, or message that tells anyone how the ending works.
 
 ## Final image
 

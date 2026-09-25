@@ -27,7 +27,7 @@ The central promise is therefore not simply “find the lost ships.” It is: **
 
 At thirty-two, Calder is a competent but socially expendable **line diver** in Morrow Quay, a free harbor economically squeezed by the Serein Dominion's salvage licenses. He is one failed attempt short of the full Second Bell license, which would let him take contracts beyond the harbor line. He works for a small yard, repairs other people's boats, and carries a private debt tied to his father's failed salvage claim.
 
-Thirteen years ago, Oren Marr, Calder's twenty-year-old brother, disappeared when the imperial mnemonic cutter **Vigil** seized the working ferry *Aster Gannet*. The ferry sank in a storm with sixty-three salvage workers aboard. The official account blames an illegal crossing. Calder has spent his life accepting that account only outwardly; the only surviving clue is a blank interval in a pressure log and a piece of transparent hull that should not have been on a ferry.
+Thirteen years ago, Oren Marr, Calder's twenty-year-old brother, disappeared when the imperial mnemonic cutter **Vigil** seized the working ferry *Aster Gannet*. The cutter was carrying an undeclared sealed glass case, and the case crossed the ferry's loading space during the seizure. The ferry sank in a storm with sixty-three salvage workers aboard. The official account blames an illegal crossing. Calder has spent his life accepting that account only outwardly. The only surviving clues are a blank interval in the ferry's public pressure log, a repairer's note in his father's signed report that a plate cut from the ferry's plating was never accounted for, and a compartment the manifest calls empty that the ferry's own survey says was too large to be empty. No glass has been recovered yet, and none of these clues says where the glass came from.
 
 Mara Venn, a tide conservator employed by the Lantern Registry, is sent to inspect the first recovered shard. She can identify how glass was made, handled, and claimed, but she cannot enter an echo. She wants Calder's evidence to survive procedural review. Calder wants her out of his crew until he knows whether she will report him.
 
@@ -54,6 +54,16 @@ The full answer is distributed across the series. Each volume resolves a real lo
 ## Ending promise
 
 The sea is opened to all coastal communities through distributed, consent-based routes. The Serein Dominion loses its legal monopoly but remains a real political power. Calder relinquishes his unexercised family claim to Oren's sealed remainder, Mara publishes the contested evidence without pretending it is certain, and the final victory is a shared method rather than a new ruler or a perfect recovered truth.
+
+## Interface rule
+
+This world has no game-style interface. There are no panels, stat blocks, character sheets, status notifications, or software metaphors in the prose. When Calder needs to know whether a piece of glass is safe, he learns it from pressure, sound, a bellwright's hands, a Registry notation, or a named tender calling a cutoff. Any short message-like moment must be rendered as one of those world-native things: a claim seal, a bell note, a written limit, a gauge, or a physical scar on the diver's body. The interface never advises, never scores, and never substitutes for a decision.
+
+## The three promises the premise must keep paying
+
+1. **The work promise:** every recovery is a job with air, rope, money, weather, and crew. Magic cannot pay a crew's wages or fix a cracked bell hose.
+2. **The evidence promise:** every recovered echo is one witness's frame, incomplete and contestable, and must be compared with hulls, documents, other witnesses, and physical measurement.
+3. **The political promise:** every recovery changes who may claim custody, publish, teach, or refuse. The mystery matters because custody is power, not because the past is a puzzle box.
 
 ## Originality guardrails
 

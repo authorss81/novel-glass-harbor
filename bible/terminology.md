@@ -6,6 +6,7 @@
 - **Serein Dominion:** the maritime empire that dominates the eastern and central coasts.
 - **Serein:** adjective or short name for the Dominion. Do not alternate randomly among “the Empire,” “the Crown,” and “the mainland.”
 - **Morrow Quay:** Calder and Mara's home harbor and the Free Keel's base.
+- **Morrow Quay harbor authority:** the municipal body that issues claim windows, work permits, and one-season provisional working charters. Its working office is the reeve's office on the west basin. Use this name, not “Morrow Quay government” or “the harbor council,” for institutional action.
 - **Veyr:** the Serein capital, inland from the main naval yard.
 - **Ashtide:** a cannery and shipbuilding port.
 - **Ternwatch:** a fortified naval town and forge hub.
@@ -22,7 +23,7 @@
 - **The Quietening:** the memory cascade that caused the Orison fleet to be deliberately scuttled.
 - **Open Keel Assembly:** the provisional civic institution chartered in Volume 9 and ratified with a rotating constitution in Volume 15. The informal network before the charter is the Nine Harbor Assembly.
 - **The Serein Crown:** the governing council, navy, and legal apparatus when the political system as a whole is relevant.
-- **The nine final routes:** Morrow Line, Ashtide Run, Ternwatch Passage, Lowfen Reed, Saltmarch Weatherway, Cinder Bell, Tidewatch Channel, Pale Shoals, and Orison Descent. These are maintained coastal approaches, not sovereign states.
+- **The nine final routes:** Morrow Line, Ashtide Run, Ternwatch Passage, Lowfen Reed, Saltmarch Weatherway, Cinder Bell, Tidewatch Channel, Pale Shoals, and Orison Descent. These are maintained coastal approaches, not sovereign states. A route can be active, restricted, or dormant.
 
 ## Memory technology
 
@@ -35,8 +36,9 @@
 - **Anchor:** a physical object associated with the witnessed scene. A personal item can work; a nearby but unrelated object can produce the wrong echo.
 - **Living anchor:** a conscious, consenting person temporarily used to hold a route or give a chorus a center. The person can withdraw; the role causes pressure pain, shared aftertaste, and risk of losing personal certainty. A forced living anchor is an unbound echo.
 - **Keel cord:** the structural line linking glass panels or vessels.
+- **Custody mark of nine joined lines:** the old builder's mark on a civic memory vessel, nine short lines joined at one point. It predates imperial custody and is not a claim seal, a consent limit, or proof of truthful consent. Calder sees it in Volume 1 without knowing who put it there.
 - **Keel-line:** the larger network of linked cords. A broken line can stop a cascade and sever records.
-- **Claim seal:** a public mark that records custody, provenance, and stated limits on use. It does not certify moral truth. A “sealed” mark remains closed even if the state declares an emergency; a narrowly defined life-safety access requires two independent custodians and a restored seal afterward.
+- **Claim seal:** a public mark that records custody, provenance, and stated limits on use. It does not certify moral truth. A “sealed” mark remains closed even if the state declares an emergency; a narrowly defined life-safety access requires two independent custodians and a restored seal afterward. Do not confuse a claim seal with the old **custody mark of nine joined lines**, which is a builder's mark, not a permission.
 - **Crown Seal:** the imperial/state mechanism that forces linked testimony toward a single consensus. It is a major historical and political tool.
 - **Crown Keel:** Ilya Serr's final network-scale version of the Crown Seal, built from seized archives and meant to stabilize the entire coast.
 - **Bell buoy:** a physical signal buoy that can mark a remembered route or listen for a stable echo.
@@ -55,6 +57,23 @@
 - **Lantern Registry:** the Serein institution that records salvage claims, glass provenance, and custody. Its “settled” mark is not proof of truth.
 - **Office of Returning Memory:** the ministry that manages glass recovery, testimony, and dangerous claims. Ilya Serr ultimately leads it.
 - **Crown Navy:** the Serein naval force. Its ships, charts, and blockade are practical institutions with internal disagreements.
+
+### Documents and offices
+
+Use these names exactly. The Gannet Cut record is assembled from several offices' separate documents, and the story's Volume 4–6 argument depends on the reader being able to tell them apart.
+
+- **Claim window:** the harbor authority's short permission to work and claim a specific wreck. It is not ownership and it expires.
+- **Work permit:** the harbor authority's license to dive a named site on named dates. It can be suspended after an inspection.
+- **Salvage labor log:** the crew's own record of air, depth, labor, equipment, and what was physically raised, countersigned by a reeve or witness. It proves work done, not truth found.
+- **One-season provisional working charter:** the wider seasonal permission Calder secures at the end of Volume 1. It lets his crew keep a share and work beyond a single claim, and it must be renewed. It is not the full Second Bell license.
+- **Salvage report:** the harbor document written after a recovery. Alden Marr signed the Gannet one. It records what divers could reach, not the full manifest.
+- **Navy seizure report:** the *Vigil*'s record of what the Navy claims it took. It is Holt's document, not the harbor's.
+- **Registry custody log:** the Lantern Registry's chain-of-custody and provenance record. A junior Ilya Serr signed the Gannet evidence transfer.
+- **Public provenance duplicate:** a witnessed copy of measurements, seams, and custody facts that survives the loss of the physical object. It cannot replace the object and cannot be played as if it were a memory.
+- **Morrow circuit office:** the local Lantern Registry office that Mara works from. Its copying room is where public records are read and duplicated, and its custody room is where seized glass is kept.
+- **Court of Wreck Claims:** the Serein court in Veyr that hears appeals about jurisdiction and penalties. It can rule on custody, not on whether the sea is safe.
+- **Morrow Quay charter:** the municipal agreement that lets harbor crews work any wreck inside the harbor line in exchange for a share. The **Free Keel charter** is the crews' own mutual pledge and grants no legal rights. The **imperial line** is the Crown's outer-shelf boundary, beyond the harbor line, and working past it needs the full Second Bell license. Except for the one-season provisional working charter, do not use "charter" for the harbor authority's power or decisions; use permit, claim window, hold, hearing, or order.
+- **Magister:** the Registry's formal honorific for senior examiners and the minister of Returning Memory. It appears first as a word on a document, and Calder does not attach the title to a man he has not met.
 
 ## Power progression terms
 
@@ -78,6 +97,7 @@
 
 - **Before Reckoning:** the broad period before the Serein Accord's calendar.
 - **Gannet Cut:** the seizure and sinking of the ferry *Aster Gannet* thirteen years before the opening.
+- **Sealed glass case:** the undeclared container aboard the *Vigil* on the morning of the Gannet Cut. It crossed the ferry's loading space during the seizure. The Navy seizure report denies that it existed; the *Gannet*'s survey shows a compartment too large to have been empty. Use "case," not "crate," so the object is the same in every document and every scene.
 - **Serein Accord:** the political agreement that became the foundation of the Dominion.
 - **Crown custody:** legal authority to hold and restrict a memory vessel. It is not the same as physical possession.
 - **Open custody:** a custody arrangement in which several communities maintain a record, publish its provenance, and share responsibility for access.
@@ -95,13 +115,13 @@
 - **Veyra Holt:** captain of the imperial cutter *Vigil*.
 - **Halven Rook:** Lantern Registry magistrate.
 - **Soren Vey:** admiral of the closed-sea squadron.
-- **Ilya Serr:** senior Lantern Registry examiner during Volume 1, Minister of Returning Memory from Volume 8 onward, and the central antagonist.
+- **Ilya Serr:** senior Lantern Registry examiner during Volumes 1–8, promoted to Minister of Returning Memory at the close of Volume 8 and holding the office from Volume 9 onward, and the central antagonist from Volume 4.
 
 ## Usage rules
 
 - Do not call every glass object a crystal. Raw tideglass, worked echo-glass, and a complete memory vessel are different things.
 - Do not call a memory “reading” unless a character is using the technical sense. Ordinary people say witness, record, or echo.
-- Do not use “the System,” “stats,” “skills,” “level up,” or software metaphors. This world has no game interface.
+- Do not use “the System,” “stats,” “skills,” “level up,” “status panel,” “notification,” “quest,” or software metaphors. This world has no game interface. The only message-like elements are claim seals, Registry notations, bell marks, written limits, gauges, and physical warnings.
 - Do not use “true memory” for an echo without irony or qualification. The stable version is “settled witness.”
 - Do not describe a recovered practice trace as “mastery.” The diver has evidence and a starting point, not completed skill.
 - Do not make “unclaimed” mean ownerless in a simple legal sense. It can mean no recognized witness, disputed family, inaccessible community, or a record whose custodian is unknown.

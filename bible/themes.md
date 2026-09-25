@@ -103,6 +103,20 @@ A scene should clarify at least one theme through a choice:
 - Oren's echo shows how a person can be remembered without being obeyed.
 - Ilya chooses whether fear justifies making one voice.
 
+## Where the themes must appear in the opening batch
+
+Thematic statements without choices are slogans. Chapters 1–10 must express each theme through a decision Calder or another character actually makes and pays for.
+
+| Theme | Batch expression | Cost that proves it is a theme, not a speech |
+|---|---|---|
+| Memory is infrastructure, not a crown | Calder treats the shard as a wreck sample inside a claim window (Chapters 1–3) and then as a record with a custody chain he can lose (Chapters 8–10) | He loses the physical object and keeps only measurements, names, and a public provenance duplicate |
+| Truth is plural without being shapeless | Mara refuses to certify a tidy provenance story in Chapter 5; Calder records what the echo does *not* show in Chapter 6 and keeps his unverified memory note separate from the physical findings in Chapter 9 | The strongest-looking evidence stays contestable, and Calder's own memory becomes less reliable |
+| Consent is different from usefulness | Calder wants a private answer from Oren and withholds the Oren-specific mark in Chapters 5, 7, and 9 | He gains professional trust by admitting what he still cannot share, and he chooses a public duplicate over a private keepsake |
+| Worth is not the same as usefulness | Nessa calls the cutoff in Chapter 6 and takes Calder's standing shutdown decision in Chapter 7 | He is stopped by his own crew and survives it |
+| Grief requires action, not possession | Calder hears an Oren childhood call answering a delayed bell note in the keel line in Chapter 10 and cannot tell whether it is his memory, Oren's, or contamination | He keeps investigating under Navy scrutiny while accepting he may not get a clean answer |
+| Labor makes freedom possible | The claim window is won with a salvage labor log, air money, a work permit, and a name list (Chapters 1–3), and the freed anchor and measured hull plate are the small practical victory in Chapter 4 | The victory is a legal right to keep working plus physical proof, not a recovered memory |
+| The sea resists empire, not responsibility | Kest enforces real permit terms in Chapter 2, Alden refuses a comfortable answer in Chapter 9, and Calder's protection in Chapter 10 is temporary, twelve days, and revocable | Freedom arrives as paperwork that can be withdrawn, which is the point |
+
 ## Prohibited thematic shortcuts
 
 - Do not resolve a consent question by declaring that dead people “would have wanted it.”

@@ -52,15 +52,37 @@ Why were Orison's transparent ships deliberately sunk, and why does the Serein D
 
 Each volume answers a concrete part of this chain and opens a more dangerous question. No volume should reveal a completely new cause of the disaster. The history is one chain with hidden actors and disputed responsibilities.
 
+### Reveal ledger
+
+These are author-level answers. The prose may delay any of them, but no volume may answer them earlier than the row allows, and no volume may answer them with a different cause.
+
+| Volume | Question the volume answers | Question it opens |
+|---|---|---|
+| 1 | The public record is internally inconsistent: the shard's provenance and the anchor trace align with the *Vigil*'s recorded mooring position, the manifest is unreliable, and the transparent wrecks form an ordered chain rather than a scatter | Who controls the missing links in the chain? |
+| 2 | A surviving coast road exists that no current chart includes, and one claim seal on the network is forged | Who edits the sea charts, and why do the missing roads converge on Orison? |
+| 3 | The vessels form a civic network linking nine coastal communities, built to preserve witness rather than to serve a ruler | If it was a civic network, who changed the rule that made it Crown property? |
+| 4 | The Registry accepted the removal of a Gannet file page as risk management, and the harbor authority finally rules on the physical record that the *Vigil* was at the seizure site and that the manifest was altered | If the Registry knew the record was unsafe, what earlier emergency justified building a monopoly? |
+| 5 | The Nine Harbors Compact was an agreement about custody and consent, not a uniform government | Why did the Compact fail if its members were trying to prevent centralized power? |
+| 6 | The Quietening was a real forced-consensus cascade, and the Nine Harbors ordered the fleet scuttled to stop it; the decision was collective and disputed | Who first used a seal to turn emergency custody into permanent ownership? |
+| 7 | A storm route exists that no current chart includes, and the Crown edited charts to keep independent harbors dependent | If the Navy cannot own the sea by force, will the Crown try to own history by making it legally singular? |
+| 8 | The Navy has been collecting unsealed testimony from civilian vessels, and the Crown turns its naval defeat into a claim that independent salvagers are dangerous | Can an archive that publishes coerced testimony be repaired in public without losing its authority? |
+| 9 | The public panic about contagious glass was caused by a planted Crown claim, not a natural epidemic, and the Assembly can charter itself with rules of refusal | Can the Assembly represent people who cannot safely speak or whose memories are held under a lie? |
+| 10 | The Unlit Keel is a testimony-stripping tool, the Crown Seal mechanism was rebuilt by the Dominion, and Ilya's office signed the Gannet evidence transfer | If Ilya is rebuilding the old mechanism, how many coastal communities must be connected before he can activate it? |
+| 11 | Independent routes can move people and supplies without a Crown fleet, and a fisher commonwealth will only join if local crews control the buoys | What will people do when a single voice claims to be the only safe way to remember? |
+| 12 | Ilya's Crown Keel is technically capable of preventing a cascade by removing disagreement, and the counter-plan is many permitted testimonies with visible gaps | Can the coast accept a method that requires honest uncertainty rather than a perfect leader? |
+| 13 | Ilya did not create the ancient Quietening but did choose the Gannet lie and build the current system around it; the sealed remainder exists and remains unopened | What does Calder do when the last available proof is the memory he most wants and least owns? |
+| 14 | A route can fail without becoming a traitor's route, and a tender can withdraw a living anchor before synchronization | When the last connection cannot be cut safely, can Calder remain connected on his own terms? |
+| 15 | The complete historical and moral chain, assembled from the physical Orison records, the Gannet log, the Nine Harbors' vote fragments, and the Crown Keel's own records | None in the form of a new enemy; the aftermath asks what a public memory system must do when it fails in ordinary human ways |
+
 ## Antagonist ladder
 
 The ladder escalates in kind, not simply in strength: local permission becomes naval seizure, legal custody becomes blockade, and institutional control becomes an attempt to make history singular.
 
-1. **Ors Kest, Morrow Quay salvage reeve (Volume 1):** enforces the charter boundary and confiscates the first transparent shard. He is a pressured local functionary, not the architect of the mystery. His later testimony exposes how a routine permit becomes a cover for seizure.
-2. **Captain Veyra Holt, commander of the *Vigil* (Volumes 2–4):** carries out the Gannet seizure and cover-up, then uses naval salvage rules to pursue Calder. Her defeat costs her ship and command, but the Gannet order remains unresolved.
+1. **Ors Kest, Morrow Quay salvage reeve (Volume 1):** enforces the harbor authority's permits, holds the first transparent shard for a Registry courier, and delays Calder's claim window. He is a pressured local functionary, not the architect of the mystery. His later testimony exposes how a routine permit becomes a cover for seizure.
+2. **Captain Veyra Holt, commander of the *Vigil* (a ship and a signature in Volume 1; the active antagonist in Volumes 2–4):** carries out the Gannet seizure and cover-up, then uses naval salvage rules to pursue Calder. Her defeat costs her ship and command, but the Gannet order remains unresolved.
 3. **Magistrate Halven Rook, Lantern Registry circuit head (Volumes 4–6):** makes custody law into a weapon through hearings, permits, quarantine, and deliberate delay. He is not responsible for the Quietening but profits from keeping its causes opaque.
 4. **Admiral Soren Vey, closed-sea squadron commander (Volumes 7–9):** turns the evidence into a naval blockade. He argues that a coast unable to feed itself cannot be allowed to choose unsafe routes. His strategic defeat leaves him politically dangerous and personally intact.
-5. **Magister Ilya Serr, senior Lantern Registry examiner at the opening and Minister of Returning Memory from Volume 8 (introduced in Volume 1, central antagonist from Volume 4):** the final enemy. He believes centralized custody is the only protection against another Quietening and builds the Crown Keel to make every testimony pass through one stable witness. He loses because the coast accepts risk through many accountable custodians rather than surrendering authorship.
+5. **Magister Ilya Serr, senior Lantern Registry examiner at the opening, promoted to Minister of Returning Memory at the close of Volume 8 and in office from Volume 9 (introduced in Volume 1, central antagonist from Volume 4):** the final enemy. He believes centralized custody is the only protection against another Quietening and builds the Crown Keel to make every testimony pass through one stable witness. He loses because the coast accepts risk through many accountable custodians rather than surrendering authorship.
 6. **The Serein Crown itself (Volumes 10–15):** the institutional antagonist becomes the force that makes Ilya's plan seem reasonable: seized archives, controlled charts, public fear, and a legal assumption that history can be owned. There is no separate final enemy beyond this established system and Ilya.
 
 Antagonists may defect, survive, testify, or be defeated by changing the terms of the conflict. Their defeats must alter the political balance. The story does not use a new villain for each volume.
@@ -89,6 +111,38 @@ Antagonists may defect, survive, testify, or be defeated by changing the terms o
 
 Every stage is earned through practice, failure, relationships, equipment, and a changed decision. Calder never becomes able to solve every problem by entering a memory.
 
+## Locked drafting rules
+
+These rules come from the bible and cannot be changed by a batch phase. If a draft needs one of them relaxed, that is a recorded canon decision, not a local improvisation.
+
+1. **No game-style System.** No panels, stat blocks, status messages, floating text, prompts, or software vocabulary. Only claim seals, Registry notations, bell marks, written limits, gauges, and physical warnings may read as messages.
+2. **No resurrection.** An echo is one witness's limited frame. Oren is dead. A practice trace is a starting point for practice, never a finished skill.
+3. **No new final enemy.** The final antagonist is Ilya Serr and the Serein Crown's effort to make history singular.
+4. **No volume without a resolution.** Each volume closes its own central promise with a concrete, changed situation before it opens a larger question.
+5. **No magic that removes a cost.** Every entry into an echo, every route, and every forced-witness recovery must charge something in the same scene.
+6. **Consent is not a mood.** A panel marked private, family, route use, public witness, or sealed is handled as marked. Emergency access requires two independent custodians, a recorded reason, limited use, and a restored seal.
+7. **Reveal discipline.** A later answer must be earned by a physical artifact, a conflicting testimony, a labor-based expedition, or a political document whose limits the characters understand.
+8. **One slow-burn relationship.** Calder and Mara only. No harem, no secret replacement partner, no romantic resolution that erases either career.
+9. **Labor is visible.** Air, rope, fuel, wages, repairs, and maintenance stay in the prose, including in the volume climaxes.
+10. **The planned ending is not improvised.** Any proposal that changes the ending must be flagged in `state/open-threads.md` before it appears in a chapter.
+
+## Pacing rotation for drafting
+
+Each volume should move through the pressure types below in roughly this order, adapting the length to the volume's central promise:
+
+```text
+local work or survival
+relationship pressure
+training or controlled experimentation
+investigation
+political or institutional pressure
+the larger mystery
+recovery or aftermath
+volume climax and concrete resolution
+```
+
+Alternate the dominant type between volumes so that no two consecutive volumes are resolved by a fight, a hearing, or a dive alone.
+
 ## Volume progression
 
 ### Volume 01: The First Bell — Chapters 1–50
@@ -97,9 +151,9 @@ Every stage is earned through practice, failure, relationships, equipment, and a
 - **Starting state:** ordinary line-diving, family debt, one failed attempt short of the full Second Bell license, and an official story about Oren's death.
 - **Major locations:** Morrow Quay, the Gannet Shoal, the *Vigil*'s mooring line, and the first Orison shelf.
 - **Pressure types:** work, family conflict, bureaucratic seizure, first controlled dive, and immediate survivor rescue.
-- **Midpoint reversal:** later physical pressure records corroborate Calder's first, incomplete echo: the Gannet's supposedly empty manifest space held the sealed glass cargo, and the *Vigil*'s mooring line was cut from the shore side after the seizure began. The shard is not an ordinary wreck panel, and the discrepancy reflects coordinated action rather than a lone thief or clerical error.
+- **Midpoint reversal:** later physical pressure records corroborate Calder's first, incomplete echo: the *Gannet* compartment the manifest calls empty is too large to have been empty, the sealed case crossed it during the seizure, and the *Vigil*'s mooring line was cut from the shore side after the seizure began. The shard is not an ordinary wreck panel, and the discrepancy reflects coordinated action rather than a lone thief or clerical error.
 - **Volume climax:** Calder's crew recovers a usable bell-buoy core and a fragment containing Oren's first minutes during the Gannet seizure. The choice to surface the fragment costs him a specific childhood memory of Oren's voice and earns the Crown's attention.
-- **Concrete resolution:** Calder's crew secures a one-season provisional working charter, retains its salvage share, and preserves the provenance record through Mara; the evidence proves the *Vigil* was at the scene. The current seizure order bears Ilya Serr's name and senior Registry examiner's seal, but it does not yet reveal his role in the Gannet lie or his later promotion. The immediate claim is settled; the reason for the seizure is not.
+- **Concrete resolution:** Calder's crew secures a one-season provisional working charter, retains its salvage share, and preserves the provenance record through Mara. The public record shows that the *Vigil*'s claim rested on the same shoal as the shard and that the official manifest is unreliable, although no forum has ruled on either point. The current seizure order bears Ilya Serr's name and senior Registry examiner's seal, but it does not yet reveal his role in the Gannet lie or his later promotion. The immediate claim is settled; the reason for the seizure is not.
 - **New question:** Why are the transparent vessels arranged in a route that leads toward Orison rather than scattered like ordinary wrecks?
 - **Power/relationship change:** Calder becomes a tide-ear with a dangerous aftertaste. Calder and Mara trust each other enough to continue but have not yet shared the Oren marker.
 
@@ -131,10 +185,10 @@ Every stage is earned through practice, failure, relationships, equipment, and a
 
 - **Central pressure:** the Crown opens a formal inquiry into Calder's crew while Mara's Registry work is used to validate the official story.
 - **Starting state:** the fleet's public shape is known, but no coastal family can legally claim a panel.
-- **Major locations:** Veyr, the Morrow circuit court, Registry copying rooms, and the *Vigil*'s surviving officers' berth.
+- **Major locations:** Veyr's Court of Wreck Claims, the harbor authority's hearing room in Morrow Quay, the Morrow circuit office copying room, and the *Vigil*'s surviving officers' berth.
 - **Pressure types:** legal pressure, public reputation, archival investigation, intimate conflict, and a narrow political victory.
 - **Midpoint reversal:** Mara discovers that her own mentor helped remove a page from the Gannet file. Calder learns that the missing page was not hidden by the Navy alone; the Registry accepted the removal as “risk management.”
-- **Volume climax:** Calder releases the contaminated Oren fragment to a public hearing. It proves the manifest was altered, but the echo's seam exposes Calder's uncertainty and makes his own memory less credible.
+- **Volume climax:** Calder forces the release of the **provisional public copy record** of the seized shard at a public hearing. It shows that the manifest was altered, but the echo's seam exposes Calder's uncertainty and makes his own memory less credible. The object itself stays in Registry custody; Calder is the one who has to accept that.
 - **Concrete resolution:** the inquiry cannot convict Calder of the wreck, and the Crown is forced to acknowledge the manifest discrepancy. Mara leaves the Registry; Calder loses eligibility for the full Second Bell examination.
 - **New question:** If the Registry knew the record was unsafe, what earlier emergency justified building a monopoly?
 - **Power/relationship change:** Calder begins bellwright training and builds the first independent listening buoy. Calder and Mara become intimate after he gives her the original anchor, but they remain professionally independent.
@@ -183,7 +237,7 @@ Every stage is earned through practice, failure, relationships, equipment, and a
 - **Pressure types:** negotiation, infiltration, naval action, civilian protection, and the moral cost of a tactical victory.
 - **Midpoint reversal:** Admiral Vey's fleet has been collecting unsealed testimony from civilian vessels. Calder can expose the policy by entering a convoy, but doing so risks an attack on a coastal convoy carrying food.
 - **Volume climax:** Calder uses a coordinated convoy to reveal forced conscription, but his timing causes a patrol to attack a civilian transport. He stops the naval action rather than chase the evidence and publicly admits the cost.
-- **Concrete resolution:** Soren Vey loses his flagship and command, but the Crown turns the defeat into a claim that independent salvagers are dangerous. Ilya Serr is promoted to minister.
+- **Concrete resolution:** Soren Vey loses his flagship and command, but the Crown turns the defeat into a claim that independent salvagers are dangerous. The inquiry's terms also give Calder and Mara supervised, limited access to the seized Gannet shard in the Morrow circuit custody room, which is what makes the Volume 9 route copy possible. At the close of the volume, Ilya Serr is promoted to Minister of Returning Memory and holds that office from Volume 9 onward.
 - **New question:** If the Navy cannot own the sea by force, will the Crown try to own history by making it legally singular?
 - **Power/relationship change:** Calder begins the coordinated-repair work that will make him a keelwright in the next volume, and can guide a convoy only with consent and maintenance. He apologizes to Mara and they begin a committed relationship without merging their work.
 
@@ -194,7 +248,7 @@ Every stage is earned through practice, failure, relationships, equipment, and a
 - **Major locations:** Morrow Quay, Ashtide, Tidewatch, Lowfen, and the first Nine Harbor Assembly meeting.
 - **Pressure types:** community meetings, public fear, local governance, training, and competing definitions of privacy.
 - **Midpoint reversal:** the panicked witness is real, but the public story that the glass itself is contagious is false. The crisis comes from a deliberately planted Crown claim, not a natural magical epidemic.
-- **Volume climax:** Calder makes a stable, provenance-marked Oren route copy from the recovered fragment and places it in a contextualized public record rather than a private proof. Mixed custodians—Mara, Nessa, and a rotating Morrow Quay witness council—authorize limited route use and public display; the restricted remainder remains closed. The community accepts the risk because the boundaries are clear and other witnesses can challenge the account.
+- **Volume climax:** using the supervised access won in Volume 8, Calder and the custodians make a stable, provenance-marked Oren route copy from the seized original and place it in a contextualized public record rather than a private proof. Mixed custodians—Mara, Nessa, and a rotating Morrow Quay witness council—authorize limited route use and public display; the original stays in Registry custody and the restricted remainder remains closed. The community accepts the risk because the boundaries are clear and other witnesses can challenge the account.
 - **Concrete resolution:** the **Open Keel Assembly** charter forms, including rules for claims, refusals, restricted records, and public correction. A remaining question is who can access the largest Crown wrecks.
 - **New question:** Can the Assembly represent people who cannot safely speak or whose memories are held under a lie?
 - **Power/relationship change:** Calder takes the formal Keelwright stage through supervised convoy work, then begins small, supervised chorus dives and shares the cost of reconstruction; he will be ready for the formal Chorus Diver stage in Volume 11. His father begins a partial confession. Calder and Mara define private and public boundaries before they marry.

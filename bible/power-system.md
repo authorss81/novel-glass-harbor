@@ -4,7 +4,7 @@
 
 The power system is a working maritime technology made from glass, pressure, witnesses, and human decisions. It creates useful abilities without making Calder all-powerful. Growth changes what he can attempt and who can attempt it with him; it does not erase the need for equipment, corroboration, maintenance, or consent.
 
-There is no game-style status screen in the planned novel. If a future draft needs a brief system-like message, it must be rendered as an in-world bell mark, Registry notation, or physical warning and must not become a substitute for Calder's judgment.
+There is no game-style interface in this novel. Banned interface elements are: status panels, stat blocks, character sheets, skill trees, level-ups, quest text, notifications, floating text, prompts that address the diver in the second person, and any software or programming vocabulary used to describe the magic. If a draft needs a brief message-like moment, it must be rendered as an in-world bell mark, Registry notation, written limit, gauge reading, or physical warning, and it must not tell Calder what to do next.
 
 ## The basic materials
 
@@ -37,7 +37,7 @@ A memory vessel records an **echo** only when these conditions are met:
 
 A living person can serve as a temporary **living anchor** only when the person is conscious, explicitly consenting, physically connected to the route, and protected by a named tender. A living anchor can hold a route or give a chorus a temporary center; it cannot supply an unlimited memory, be used to extract testimony, or be made into a permanent substitute for a physical panel. The person must be able to withdraw before the route reaches full synchronization, and withdrawal may leave the network unstable.
 
-The cost is immediate and personal: pressure pain, shared aftertaste, loss of time, and the risk that the anchor cannot distinguish their own memory from the route's. A forced living anchor produces an unbound echo and can erode the anchor's sense of self. Volume 14 rehearses Calder offering his body as a temporary gap-anchor; Nessa exercises the named-tender cutoff before synchronization, and the severe but reversible aftermath proves the procedure without resolving the final sacrifice. Calder's informed decision to remain connected in the finale is still a distinct choice, and it requires the same consent and tendering as any other dive. Ilya's attempt to bind himself permanently to the Crown Keel is a violation of this rule and leaves him trapped as the mechanism's sole living custodian.
+The cost is immediate and personal: pressure pain, shared aftertaste, loss of time, and the risk that the anchor cannot distinguish their own memory from the route's. A forced living anchor produces an unbound echo and can erode the anchor's sense of self. Volume 14 rehearses Calder offering his body as a temporary gap-anchor; Nessa exercises the named-tender cutoff before synchronization, and the aftermath is severe but reversible: acute aftertaste, joint pain from a pressure bell that should not have touched him, three days of poor sleep, and temporary hearing loss that clears before the finale. Calder's informed decision to remain connected in the finale is still a distinct choice, and it requires the same consent and tendering as any other dive. The permanent cost of that final connection is a permanent escalation, not an extension of the rehearsal. Ilya's attempt to bind himself permanently to the Crown Keel is a violation of this rule and leaves him trapped as the mechanism's sole living custodian.
 
 The result is an embodied scene. It has duration and perspective, but no automatic access to motives, unseen events, or later interpretation. A witness can be wrong about cause, miss a person behind them, or faithfully record a lie told by someone else.
 
@@ -111,6 +111,14 @@ A tide-ear cannot:
 
 The first cost is aftertaste, physical reenactment, and ordinary decompression risk. Repeated use can cause **tide-sickness**: chronic hearing loss, panic, poor sleep, blurred vision, and temporary confusion between the diver's own past and the echo. Severity depends on depth, duration, consent, anchor quality, and the diver's health.
 
+### The first entry, as used in Volume 1
+
+Calder's first echo entry in Chapters 6–7 is the template for every later dive, and later volumes must pay for every exception to it. The entry requires all of the following, in this order: a named tender on the surface, an independent line, a fixed air limit, a physical anchor seated against the panel, a cutoff the tender can pull without asking permission, and a recorded reason for the entry. Calder surfaces when air, pain, or the tender's decision says he surfaces, not when he is satisfied.
+
+The first entry produces exactly one scene, from one witness's position. It leaves Calder with a limited practice trace plus aftertaste: a rope burn that his body re-enacts hours later, ringing ears that make the harbor's working bells hard to place, and emotional residue that briefly answers other people in the dead rhythm of the echo. He cannot enter a second echo for a full day, cannot judge truth, cannot rewind the scene, and cannot open the contaminated edge. Nessa holds the cutoff authority in that scene and uses it, which establishes the standing rule for the rest of the series: a tender's stop is not a request.
+
+A first successful entry is not mastery. Calder's hands shake for two days. He cannot reliably tell, afterward, whether a memory he has is his own. The ability is available to other trained divers, and Volume 1 makes clear that other people can learn it from him, which is why the growth engine later moves from private skill to public method.
+
 ### Faultreader
 
 A faultreader can perceive a **seam** where incompatible witnesses have been forced into one keel pattern. A seam appears as pressure that does not match the scene, a sound arriving before its source, a hand that changes angle across a cut, or an object that carries two incompatible histories.
@@ -153,6 +161,8 @@ Each stage requires all of the following:
 
 Calder does not advance by collecting a new vessel. He advances when he can use a new kind of memory safely, and the story makes the safer use harder than the dramatic shortcut.
 
+Every stage also carries a bill in money and time, because the story is a working maritime one. Calder's first tide-ear entry costs the crew a night's air, a bench day in which Nessa builds the anchor, cutoff rig, and written reason, and a safe diving day the yard cannot give back. Faultreading costs the concentration a paying job needs. Bellwright work costs glass, furnace fuel, and unpaid crew wages. Storm-reading costs a supply crossing. The final openhand connection costs him his hearing. Do not let a stage advance while every bill is quietly waived.
+
 ## The eight visible stages and their costs
 
 | Stage | Primary gain | Main cost | Earliest story range |
@@ -169,7 +179,7 @@ Calder does not advance by collecting a new vessel. He advances when he can use 
 ## Examples of use and failure
 
 - **Useful memory:** A drowned pilot's echo shows a hand moving a brass marker before the current changed. Calder surfaces with the route trace, but the buoy team must still test the water because the current may have moved.
-- **False certainty:** A registry clerk's echo clearly remembers signing an order. It proves the clerk remembers signing, not that the order was lawful or that the clerk understood the cargo.
+- **False certainty:** A registry clerk's echo clearly remembers signing an order. It proves the clerk remembers signing, not that the order was lawful or that the clerk understood what the sealed case carried.
 - **Forced testimony:** An unbound military echo repeats a threat and creates a pressure seam. It may expose an old crime, but carrying it into a city risks panic and further contamination.
 - **Consent conflict:** A family wants a sealed panel opened for a public memorial; a surviving witness refuses. The community can preserve a restricted record or omit the echo, but it cannot make refusal meaningless by declaring the memory public property.
 - **Failure under pressure:** A diver follows a remembered route into a collapsed arch. The echo is genuine, the water is not, and the crew must choose the ordinary escape over the proof.
@@ -180,4 +190,4 @@ Calder does not advance by collecting a new vessel. He advances when he can use 
 - Do not let a recovered memory function as a universal answer. Identify what it does not show.
 - Use practical salvage work alongside power growth.
 - Let relationships change what information can safely be shared.
-- Keep the System absent unless a later approved outline explicitly introduces a world-native mechanism; no software terminology belongs in the prose.
+- Keep the System absent. No panel, stat block, status message, floating text, or software vocabulary belongs in the prose, and no later volume is planned to introduce one. A future change to this rule would be a recorded canon decision in `state/continuity.md`, not an improvisation in a chapter.

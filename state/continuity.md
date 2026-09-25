@@ -2,15 +2,24 @@
 
 ## Canon status
 
-The bible and planning outlines are canon. No chapter event has occurred yet, so no aftertaste, recovered object, legal status, or relationship change exists in the active story timeline until Batch 0001 is written and reviewed.
+The bible and planning outlines are canon. No chapter event has occurred yet, so no aftertaste, recovered object, legal status, or relationship change exists in the active story timeline until Batch 0001 is written and reviewed. Every fact below is an author-level lock for drafting, not an event that has happened on the page.
 
 ## Fixed opening facts
 
 - Calder Marr is thirty-two and starts as a practical **Line Diver** in Morrow Quay.
 - Oren Marr is Calder's older brother. He was twenty when the *Aster Gannet* sank thirteen years ago, making him thirty-three now.
-- The ferry sank during the *Vigil*'s seizure with sixty-three workers aboard. The official account blames an illegal crossing; the surviving pressure log contains a deliberate three-second gap.
-- Alden signed a salvage report under pressure. He is not yet ready to confess, and Calder does not yet know what Alden omitted.
-- Ilya Serr was a junior Registry official during the Gannet Cut. At the opening he is a fifty-six-year-old senior Lantern Registry examiner. He is promoted to Minister of Returning Memory in Volume 8; do not call him minister in Volumes 1–7.
+- The ferry sank during the *Vigil*'s seizure with sixty-three workers aboard. The public account blames an illegal crossing; the surviving pressure log contains a deliberate three-second gap.
+- The public record is a set of separate documents that were never meant to be read together: the harbor **salvage report** Alden signed, which omitted the sealed case; the **Navy seizure report**, which denies the ferry's hold was ever occupied and denies the cutter's own case needed declaration; a **Registry custody log** recording the evidence as uncontested; and the **public pressure log and ferry survey** copied into the inquest record, which show a three-second gap and a compartment too large to have been empty. Calder sees only the public version at the opening.
+- Alden is not yet ready to confess, and Calder does not yet know what Alden omitted.
+- Ilya Serr was a junior Registry official during the Gannet Cut. At the opening he is a fifty-six-year-old senior Lantern Registry examiner. He becomes the active central antagonist in Volume 4, is promoted to Minister of Returning Memory at the close of Volume 8, and holds the office from Volume 9 onward. Do not call him minister in Volumes 1–8, and do not describe him as the central antagonist before Volume 4.
+
+## Institutions and jurisdiction
+
+- The **Morrow Quay harbor authority**, working from the reeve's office on the west basin, issues claim windows, work permits, and one-season provisional working charters, and can order a wreck held for inspection. It cannot certify a glass witness or overrule a Registry seizure.
+- The **Lantern Registry** certifies provenance and custody, not truth. Mara works from the **Morrow circuit office**, whose copying room holds the public pressure log and the copies.
+- The **Crown Navy** asserts salvage authority at sea. Keep the Registry, the harbor authority, and the Navy distinct in every scene, with distinct documents.
+- The **Free Keel** shares tools, rescue plans, and legal risk among Morrow Quay's independent crews. It has no leader and is frequently broke.
+- The **Office of Returning Memory** is the ministry; Ilya's seal represents it in Volume 1 through a seizure order, not through his presence.
 
 ## License and Volume 1 resolution
 
@@ -20,11 +29,12 @@ The bible and planning outlines are canon. No chapter event has occurred yet, so
 
 ## Oren artifact custody
 
-1. Volume 1: a small contaminated shard is recovered and later confiscated; a public provenance duplicate survives.
-2. Volume 4: a provisional public copy of that fragment is released.
-3. Volume 9: mixed custodians authorize a stable, provenance-marked **Oren route copy** for limited route use and public display.
-4. Volume 13: the independent routes identify a separate **restricted remainder** in the Ninth Bell. Calder receives a recognized but unexercised exclusive family claim. A forced interface exposes only a temporary route signal without opening the original; that signal is lost when the route collapses. The remainder remains sealed.
-5. Volume 15: Calder releases the family claim into Mara and Nessa's dual seal under rotating-council oversight. He never opens the remainder or obtains a private, unshared version of Oren's final voice.
+1. Volume 1: a small contaminated shard is recovered and then surrendered to a Registry seizure; a public provenance duplicate survives. The original is in the Morrow circuit custody room.
+2. Volume 4: the Registry releases a **provisional public copy record** of that fragment — a certified transcript with provenance and stated limits, not the object.
+3. Volume 8: Calder and Mara win supervised, limited access to the seized original.
+4. Volume 9: that access produces a stable, provenance-marked **Oren route copy**, a new working panel authorized for limited route use and public display by mixed custodians. The original stays in Registry custody under contested claim.
+5. Volume 13: the independent routes identify a separate **restricted remainder** in the Ninth Bell. Calder receives a recognized but unexercised exclusive family claim. A forced interface exposes only a temporary route signal without opening the original; that signal is lost when the route collapses. The remainder remains sealed.
+6. Volume 15: Calder releases the family claim into Mara and Nessa's dual seal under rotating-council oversight. He never opens the remainder or obtains a private, unshared version of Oren's final voice.
 
 ## Relationship lock
 
@@ -32,13 +42,16 @@ The bible and planning outlines are canon. No chapter event has occurred yet, so
 - Mara leaves the active crew in Volume 3 and the Registry in Volume 4. Her later public testimony costs her former institutional standing; it does not cost a Registry job she still holds.
 - Their public commitment follows the Volume 11 cordon crossing; their small civil ceremony occurs in Volume 12.
 - They remain married and professionally independent through Volumes 13–15.
+- Mara's expertise must affect the plot on its own. She cannot enter an echo, certify truth, or become Calder's assistant.
 
 ## Power and interface lock
 
 - Formal stages are Line Diver, Tide-Ear, Faultreader, Bellwright, Storm-Reader, Keelwright, Chorus Diver, and Openhand.
-- Volume 14 rehearses Calder offering his body as a temporary living anchor; Nessa exercises the named-tender cutoff before synchronization. Severe aftertaste and temporary hearing loss require recovery.
+- The first tide-ear entry is supervised and limited to one anchored scene. It requires a named tender, an independent line, a fixed air limit, a seated anchor, a cutoff the tender can pull without permission, and a recorded reason. A tender's stop is not a request: Nessa calls the cutoff in Chapter 6 and takes the standing shutdown decision in Chapter 7, and she uses that authority again in Volumes 14 and 15.
+- Costs: a limited practice trace, rope-burn reenactment, tinnitus, emotional aftertaste, no second entry that day, and no way to verify truth.
+- Volume 14 rehearses Calder offering his body as a temporary living anchor; Nessa exercises the named-tender cutoff before synchronization. The aftermath is severe but reversible: acute aftertaste, joint pain, three days of poor sleep, and temporary hearing loss.
 - Volume 15 is Calder's informed final continuous connection. It costs permanent hearing damage and the inability to enter an echo without other people.
-- This novel has no game-style System, panels, stat blocks, or software metaphors. Approved warnings must be physical, bell-based, or Registry-native.
+- This novel has no game-style System, panels, stat blocks, status messages, floating text, or software metaphors. Approved warnings must be physical, bell-based, or Registry-native. A future change to that rule would be a recorded canon decision here, never an improvisation in a chapter.
 
 ## Ending lock
 
@@ -47,3 +60,22 @@ The bible and planning outlines are canon. No chapter event has occurred yet, so
 - Calder rejects sole-witness authority, releases his unexercised claim to the sealed remainder, and helps braid independently governed routes.
 - Ilya dies trapped by the permanent living-custodian bond he chose. His death is not absolution.
 - The ending leaves a distributed Open Keel Assembly, local custody, shared maintenance, public correction, and a real right to refuse.
+- The origin of tideglass, and the possibility of behavior in merged echoes beyond their witnesses, stay intentionally open.
+
+## Volume 1 reveal lock
+
+Volume 1 may establish the existence of the Gannet Cut, the glass fleet, the *Vigil*'s claim over the shoal, a physical alignment between the shard's provenance and the cutter's recorded mooring position, and a first hint of a route toward Orison. It must not explain the Quietening, identify the Crown Seal, name the Nine Harbors Compact, prove who altered the ferry manifest, or reveal what the sealed case contained. No forum rules on the *Vigil*'s presence or the manifest in this volume; that ruling belongs to the Volume 4 inquiry. The separate-document record is the engine of the Volume 4–6 argument, so Volume 1 must not spend it.
+
+## Batch 0001 locks
+
+- The shard is unclaimed Registry glass at the moment of recovery, not yet proven to come from the *Aster Gannet*.
+- Calder wins a disputed claim window, not ownership.
+- The tide-ear entry is one scene from one witness's position: a sealed glass case crossing the *Gannet*'s loading space while an official voice reads an empty public manifest, and a gloved hand leaving frame before anything is cut. The hand does not turn toward the rescue line here; that reading is reserved for Volumes 13 and 15.
+- The physical shard leaves the deck under seizure and goes to the Morrow circuit custody room. The crew keeps measurements, names, and a public provenance duplicate, which is a record of the object and not a copy of its memory.
+- The Oren-specific mark stays private to Calder. He tells Nessa that a sound is not an ordinary fault; he does not tell Mara what it is.
+- The route clue toward Orison is a broad physical bearing from the anchor, the provenance diagram, and the continuing keel line. It is not a map, a route, or a purpose.
+- The batch ends with a twelve-day disputed-claim defense, a logged hearing impairment, a naval salvage claim filed alongside the Registry's seizure order, and the *Vigil*'s arrival.
+
+## Rules for recording canon changes
+
+Any proposed change to a world rule, a character's locked motivation, the mystery chain, the ending, or the no-System rule is written into `state/open-threads.md` as an author-level thread with a flag, and is never applied silently in a chapter.
