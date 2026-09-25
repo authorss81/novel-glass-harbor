@@ -1,0 +1,114 @@
+# Terminology: The Glass Harbor
+
+## Canonical proper nouns
+
+- **The Vesper Sea:** the central ocean surrounding the inhabited coasts.
+- **Serein Dominion:** the maritime empire that dominates the eastern and central coasts.
+- **Serein:** adjective or short name for the Dominion. Do not alternate randomly among “the Empire,” “the Crown,” and “the mainland.”
+- **Morrow Quay:** Calder and Mara's home harbor and the Free Keel's base.
+- **Veyr:** the Serein capital, inland from the main naval yard.
+- **Ashtide:** a cannery and shipbuilding port.
+- **Ternwatch:** a fortified naval town and forge hub.
+- **Lowfen:** a chain of reed islands and floating markets.
+- **Saltmarch:** a storm-belt island of pilots and bellwrights.
+- **Tidewatch:** an independent western listening port and bellwright center.
+- **Cinder Bay:** an industrial port for tideglass furnaces, pressure housings, and fuel.
+- **Gannet Shoal:** the shallow sea floor near Morrow Quay where the *Aster Gannet* was seized and sunk.
+- **Bramble Strait:** a shifting storm channel whose remembered route is used to challenge Crown charts.
+- **Unlit Shelf:** the deep Orison shelf containing the experimental-vessel trench where the stripping mechanism was found.
+- **Unlit Keel:** the blank hull and testimony-stripping mechanism inside the Unlit Shelf trench.
+- **Orison:** the drowned city beneath the western shelf.
+- **Nine Harbors:** the historic civic compact that built and protected the memory-vessel network.
+- **The Quietening:** the memory cascade that caused the Orison fleet to be deliberately scuttled.
+- **Open Keel Assembly:** the provisional civic institution chartered in Volume 9 and ratified with a rotating constitution in Volume 15. The informal network before the charter is the Nine Harbor Assembly.
+- **The Serein Crown:** the governing council, navy, and legal apparatus when the political system as a whole is relevant.
+- **The nine final routes:** Morrow Line, Ashtide Run, Ternwatch Passage, Lowfen Reed, Saltmarch Weatherway, Cinder Bell, Tidewatch Channel, Pale Shoals, and Orison Descent. These are maintained coastal approaches, not sovereign states.
+
+## Memory technology
+
+- **Tideglass:** raw clear mineral harvested from deep shelves and pressure seams. It does not hold a reliable memory by itself.
+- **Echo-glass:** tideglass worked while a living witness deliberately settles a specific scene into it.
+- **Memory vessel:** common term for a ship built to carry witnessed experience.
+- **Echo hull:** Registry term for the same kind of ship. Do not use “hull” to mean an abstract memory unless a character is being technical or legal.
+- **Echo:** one embodied, limited scene experienced through echo-glass. It is testimony, not an objective recording.
+- **Testimony:** a person's witnessed account placed in glass. The word emphasizes the witness and the act of making a record.
+- **Anchor:** a physical object associated with the witnessed scene. A personal item can work; a nearby but unrelated object can produce the wrong echo.
+- **Living anchor:** a conscious, consenting person temporarily used to hold a route or give a chorus a center. The person can withdraw; the role causes pressure pain, shared aftertaste, and risk of losing personal certainty. A forced living anchor is an unbound echo.
+- **Keel cord:** the structural line linking glass panels or vessels.
+- **Keel-line:** the larger network of linked cords. A broken line can stop a cascade and sever records.
+- **Claim seal:** a public mark that records custody, provenance, and stated limits on use. It does not certify moral truth. A “sealed” mark remains closed even if the state declares an emergency; a narrowly defined life-safety access requires two independent custodians and a restored seal afterward.
+- **Crown Seal:** the imperial/state mechanism that forces linked testimony toward a single consensus. It is a major historical and political tool.
+- **Crown Keel:** Ilya Serr's final network-scale version of the Crown Seal, built from seized archives and meant to stabilize the entire coast.
+- **Bell buoy:** a physical signal buoy that can mark a remembered route or listen for a stable echo.
+- **Listening bell:** a shore or shipboard bell used by a trained operator to receive route and witness signals.
+- **Practice trace:** a limited sensory or procedural memory surfaced by a diver. It is not a complete skill download.
+- **Aftertaste:** emotional and bodily residue left after entering an echo.
+- **Unbound echo:** a coerced or badly disturbed testimony with unstable edges and a high risk of spreading through a keel-line.
+- **Faultline / seam:** a physical or perceptual break where incompatible records have been joined.
+- **Tide-sickness:** the chronic or acute condition caused by repeated echo exposure, pressure work, glass grit, and aftertaste.
+- **Glass storm:** a local pressure event in which sound, light, and perspective reorder around overloaded glass.
+
+## People and institutions
+
+- **Line diver:** a salvage worker who dives from a pressure bell, air line, or hard suit to inspect and recover wreck material.
+- **Second Bell license:** a higher salvage qualification that allows a Morrow Quay diver to work beyond the harbor line. It is a legal and economic milestone, not a superpower tier.
+- **Free Keel:** independent salvage crews and their shared equipment and legal defense.
+- **Lantern Registry:** the Serein institution that records salvage claims, glass provenance, and custody. Its “settled” mark is not proof of truth.
+- **Office of Returning Memory:** the ministry that manages glass recovery, testimony, and dangerous claims. Ilya Serr ultimately leads it.
+- **Bellwright:** a craftsperson who works tideglass into panels, cases, bells, and buoys.
+- **Openhand:** a diver who helps connect independent routes without taking sole custody. It is a responsibility, not a rank imposed by the glass.
+- **Crown Navy:** the Serein naval force. Its ships, charts, and blockade are practical institutions with internal disagreements.
+- **Nine Harbor Assembly:** the informal coalition of communities, salvage crews, bellwrights, and conservators formed before the formal charter. The **Open Keel Assembly** is its later accountable public institution.
+- **Quietening Cut:** the deep Orison trench where the old keel network was forcibly broken and the cascade occurred.
+- **Crownless Shelf:** the exposed shelf outside the Quietening Cut, used for staging salvage and later to hold the Unlit Keel expedition.
+- **Old Keel Field:** the principal concentration of transparent vessels below Orison.
+- **Ninth Bell:** the drowned Orison civic bell and ancient keel anchor. It is the central interface where the old severing records and the Crown Keel meet.
+- **Crown Bell:** a Serein branch relay in Veyr that amplifies a controlled claim into seized vessels. It is subordinate to the Ninth Bell and cannot independently replace it.
+- **Crown Stair:** a submerged artificial causeway and glass-transfer route near the old city.
+
+## Historical terms
+
+- **Before Reckoning:** the broad period before the Serein Accord's calendar.
+- **Gannet Cut:** the seizure and sinking of the ferry *Aster Gannet* thirteen years before the opening.
+- **Serein Accord:** the political agreement that became the foundation of the Dominion.
+- **Crown custody:** legal authority to hold and restrict a memory vessel. It is not the same as physical possession.
+- **Open custody:** a custody arrangement in which several communities maintain a record, publish its provenance, and share responsibility for access.
+- **Nine Harbor vote:** the disputed collective decision to scuttle Orison's fleet after the Crown Seal cascade.
+
+## Names and titles
+
+- **Calder Marr:** protagonist; use “Calder” in ordinary narration and “Marr” in formal records.
+- **Mara Venn:** tide conservator; use “Mara” in ordinary narration.
+- **Oren Marr:** Calder's missing brother; do not describe his echo as a resurrection.
+- **Alden Marr:** Calder's father and former line diver.
+- **Nessa Pike:** shipwright and deck engineer.
+- **Tobias Wren:** retired salvage foreman; “Tobias” in narration, “Toby” only when a close local relationship permits it.
+- **Ors Kest:** Morrow Quay salvage reeve.
+- **Veyra Holt:** captain of the imperial cutter *Vigil*.
+- **Halven Rook:** Lantern Registry magistrate.
+- **Soren Vey:** admiral of the closed-sea squadron.
+- **Ilya Serr:** Minister of Returning Memory and central antagonist.
+
+## Usage rules
+
+- Do not call every glass object a crystal. Raw tideglass, worked echo-glass, and a complete memory vessel are different things.
+- Do not call a memory “reading” unless a character is using the technical sense. Ordinary people say witness, record, or echo.
+- Do not use “the System,” “stats,” “skills,” “level up,” or software metaphors. This world has no game interface.
+- Do not use “true memory” for an echo without irony or qualification. The stable version is “settled witness.”
+- Do not describe a recovered practice trace as “mastery.” The diver has evidence and a starting point, not completed skill.
+- Do not make “unclaimed” mean ownerless in a simple legal sense. It can mean no recognized witness, disputed family, inaccessible community, or a record whose custodian is unknown.
+- Use “the Crown” for the imperial political system, “the Registry” for paperwork, and “the Navy” for military operations. Keep these institutions distinct.
+
+## Sensory vocabulary
+
+When describing echo-glass, favor specific physical terms:
+
+- pressure ticking in the panel;
+- salt-clouded seams;
+- a bell note arriving half a beat late;
+- warm blood against cold water;
+- a hand remembering a rope knot;
+- light bending through a wall that was never solid;
+- an anchor suddenly feeling too light.
+
+Avoid abstract stock phrases such as “the memories swirled around him” unless the scene gives the echo a concrete sensory cause and consequence.
