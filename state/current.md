@@ -16,14 +16,15 @@ Calder Marr is a thirty-two-year-old line diver in Morrow Quay, one failed attem
 ## Active opening pressures
 
 - **Institutional:** the Morrow Quay harbor authority can issue or withdraw a claim window; the Lantern Registry's Morrow circuit office can seize glass under Ilya Serr's senior examiner's seal; the Navy can file a salvage claim over the same ground.
-- **Evidence:** the public Gannet record is assembled from separate documents, and the sealed glass case aboard the *Vigil* is missing from all of them.
+- **Evidence:** the public Gannet record is assembled from separate documents, and the sealed glass case aboard the *Vigil* is missing from all of them. Calder can read the ferry survey's compartment figures, but he cannot use them until the case's own dimensions surface, so the compartment is not proved at the opening.
+- **Objects:** the transparent shard and the weathered hull plate lifted with it in Chapter 4 are separate objects with separate provenances, and both are surrendered under one seizure in Chapter 8. The freed storm anchor is ordinary iron and stays with the crew.
 - **Personal:** Calder's private need to prove what happened to Oren collides with a public claim he must win through labor, not through family connection.
 - **Family:** Alden's silence, Bevin's eagerness, and Nessa's insistence on maintenance.
 - **Approach:** the *Vigil*'s claim over Gannet Shoal, and a three-second gap in the ferry's public pressure log that nobody has been able to explain.
 
 ## Current relationship pressure
 
-Calder and Mara are an auditor and a suspect whose only durable ground is shared physical evidence. Mara insists on provenance, contamination limits, and a complete record of who touched what. Calder wants her off his crew until he knows whether she will report him, and he hides the Oren-specific mark from her while telling Nessa that a sound in the wreck is not an ordinary mechanical fault. No romance and no automatic trust exist yet.
+Calder and Mara are an auditor and a suspect, and their only durable ground together is shared physical evidence. Mara insists on provenance, contamination limits, and a complete record of who touched what. Calder wants her off his crew until he knows whether she will report him, and he hides the Oren-specific mark from her while telling Nessa that a sound in the wreck is not an ordinary mechanical fault. No romance and no automatic trust exist yet.
 
 ## Current power state
 

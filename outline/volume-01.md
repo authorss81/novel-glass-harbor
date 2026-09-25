@@ -41,7 +41,7 @@ Calder trusts Alden's silence and Bevin's eagerness more than he should. Mara Ve
 
 The volume moves through five escalating movements. Each one resolves a local problem and creates a larger one. Chapter ranges are approximate; the batch boundaries are fixed by the writing schedule, not by the story.
 
-1. **Movement 1, the legitimate find (Chapters 1–10):** an ordinary paid job exposes a transparent hull fragment. Calder wins only a disputed claim window, spends his crew's remaining air and pump time proving salvage labor, takes one supervised echo entry that leaves him with tinnitus and a rope-burn aftertaste, and loses the physical shard to a Registry seizure bearing Ilya Serr's senior examiner seal. He keeps measurements, names, and a public provenance duplicate, and the *Vigil* arrives at Morrow Quay.
+1. **Movement 1, the legitimate find (Chapters 1–10):** an ordinary paid job exposes a transparent hull fragment. Calder wins only a disputed claim window, spends his crew's remaining air and pump time proving salvage labor, takes one supervised echo entry that leaves him with tinnitus and a rope-burn aftertaste, and loses both pieces of glass, the shard and the weathered hull plate recovered beside it, to a Registry seizure bearing Ilya Serr's senior examiner seal. He keeps the freed iron anchor, measurements, a scaled drawing, repair-seam records, names, and a public provenance duplicate, and the *Vigil* arrives at Morrow Quay.
 2. **Movement 2, the leash (Chapters 11–20):** the disputed claim window and its provisional extension are treated by Kest as revocable favors rather than victories, because the one-season charter does not exist yet. Calder must fund weather-exposed recoveries, hold a crew together through a poor month, and prove the recovered material's value in a harbor authority hearing where his family's Gannet connection is used against him. A rival crew claims part of the first wreck's value. The crew wins a narrow extension and a bond they can barely meet, but loses Calder's remaining air margin and part of its share.
 3. **Movement 3, the ordered chain (Chapters 21–30):** Calder traces the wreck chain from Gannet Shoal toward the first Orison shelf and finds that the transparent vessels are positioned, not scattered. A bad descent injures Bevin's hand and costs the crew its tender. Mara's contamination report is used by the Registry to argue the chain is contagious. Calder chooses to keep the evidence public and loses the chance to reach a deeper panel alone.
 4. **Movement 4, the hearing (Chapters 31–40):** the harbor authority hearing on the first recovery becomes a public contest over custody. Calder must place the *Vigil*'s claim and the shard on the same shoal using physical measurements and the provenance duplicate, not the echo. The Navy's salvage claim arrives mid-hearing. Mara's position as a Registry tide conservator is the only reason the crew's chain of labor survives, and refusing to certify a convenient custody story earns her an internal reprimand and a note in her file. Calder still hides the Oren-specific mark.
@@ -51,7 +51,7 @@ The volume moves through five escalating movements. Each one resolves a local pr
 
 - Money: air, pump repairs, a replacement clamp, a cracked housing, a bond, and harbor legal fees come out of the crew's share.
 - Body: at least one injury to a working crew member, one bad descent, and Calder's tide-sickness onset.
-- Standing: Calder loses examination eligibility, crew wages, and the shard; Mara spends internal credit.
+- Standing: Calder loses both pieces of glass, the shard and the weathered hull plate lifted beside it, and the crew's wages; Mara spends internal credit. Losing eligibility for the full Second Bell examination is a Volume 4 cost and is not spent in this volume.
 - Time: each recovery spends a safe diving day the crew cannot replace, so every later dive is worse weather or worse gear.
 
 ## Midpoint reversal
@@ -94,9 +94,9 @@ Volume 1 may establish the existence of the Gannet Cut, the glass fleet, the *Vi
 - Do not let a recovered echo count as a complete or official record.
 - Do not give Calder the full Second Bell license; the one-season charter is the payoff.
 - Do not let Mara certify truth, enter an echo, or become Calder's assistant.
-- Do not let the crew keep the physical shard past the seizure.
+- Do not let the crew keep the physical shard or the weathered hull plate past the seizure.
 - Do not let a second or speculative batch file be implied; only the ten cards in `outline/batches/volume-01-batch-0001.md` exist.
 
 ## Handoff to Chapter 11
 
-By the end of Batch 0001 the crew has: a public provenance duplicate, a twelve-day disputed-claim defense, an uncertain bearing toward Orison, a lost physical shard, a hidden Oren-specific mark, and a tide-ear capacity Calder cannot safely repeat. Chapter 11 begins with a legal dispute under naval pressure and Calder's hearing still altered.
+By the end of Batch 0001 the crew has: a public provenance duplicate, a twelve-day disputed-claim defense, an uncertain bearing toward Orison, no glass in hand now that the shard and the hull plate are gone, a hidden Oren-specific mark, and a tide-ear capacity Calder cannot safely repeat. Chapter 11 begins with a legal dispute under naval pressure and Calder's hearing still altered.

@@ -4,7 +4,7 @@ Chapter range: 1–10
 
 ## Batch goal
 
-Establish Calder's ordinary salvage life and the Gannet debt, uncover the first transparent hull through a legitimate physical job, force Calder and Mara into a bounded cooperation, show the tide-ear procedure and its first bodily cost, and end with the shard surrendered to a Registry seizure while its provenance record survives and the *Vigil* arrives.
+Establish Calder's ordinary salvage life and the Gannet debt, uncover the first transparent hull through a legitimate physical job, force Calder and Mara into a bounded cooperation, show the tide-ear procedure and its first bodily cost, and end with both pieces of glass surrendered to a Registry seizure while their provenance record survives and the *Vigil* arrives.
 
 ## Starting condition
 
@@ -24,14 +24,14 @@ By Chapter 5, the crew establishes that the shard comes from a transparent hull 
 
 ## Batch climax
 
-Kest serves a current Registry seizure order bearing senior examiner Ilya Serr's seal, holds the transparent shard at the yard, and hands it to a Registry courier who takes it to the Morrow circuit office. Calder prevents the crew from destroying or concealing evidence, but cannot keep the physical object. The loss changes the investigation from possession to copies, measurements, memory, and contested provenance.
+Kest serves a current Registry seizure order bearing senior examiner Ilya Serr's seal, holds the transparent glass at the yard, and hands it to a Registry courier who takes the shard and the weathered hull plate to the Morrow circuit office as separately entered items. Calder prevents the crew from destroying or concealing evidence, but cannot keep either object; the freed iron anchor stays with them. The loss changes the investigation from possession to copies, drawings, measurements, memory, and contested provenance.
 
 ## Hard rules for this batch
 
 1. **No System.** No panels, stat blocks, status messages, floating text, or software vocabulary. The only message-like elements are claim seals, Registry notations, bell marks, written limits, gauges, and physical warnings.
 2. **Calder is an ordinary line diver who becomes an unstable tide-ear.** One supervised entry only. He surfaces with a limited practice trace, a rope-burn aftertaste, ringing ears, and emotional residue. He cannot rewind the scene, verify its truth, open the contaminated edge, or enter a second echo that day.
 3. **Mara cannot enter an echo, certify truth, or become Calder's assistant.** She can test material, read provenance, and say no. Her institutional knowledge must change events on its own.
-4. **The physical shard is surrendered to a Registry seizure.** Kest holds and witnesses; a Registry courier takes the object to the Morrow circuit custody room. The crew keeps measurements, names, and a public provenance duplicate. No convenient loophole keeps the object, and the duplicate is a record of the object rather than a copy of its memory.
+4. **Both pieces of glass are surrendered to a Registry seizure.** The transparent shard and the weathered hull plate lifted beside it leave the deck in the same witnessed act. Kest holds and witnesses; a Registry courier takes both to the Morrow circuit custody room as separately entered items. The freed storm anchor is ordinary iron and stays with the crew. The crew keeps measurements, repair-seam records, a scaled drawing, names, and a public provenance duplicate. No convenient loophole keeps either object, the plate is not declared ordinary hull iron to save it, and the duplicate is a record of the objects rather than a copy of their memory.
 5. **The Oren-specific mark stays private.** Calder tells Nessa that a sound is not an ordinary mechanical fault; he does not tell Mara what the mark is.
 6. **No new canon rule, new villain, or new institution.** Ilya Serr's name appears only as a senior Registry examiner's seal on a Registry document.
 7. **Reveal discipline.** Do not name the Quietening, the Crown Seal, or the Nine Harbors Compact; do not reveal what the sealed glass case contained or who ordered the Gannet lie; do not establish Oren's final choice.
@@ -67,7 +67,7 @@ Calder completes one shallow, anchored echo entry under observation and surfaces
 
 - Echo-glass can preserve an embodied scene but only from one witness's position.
 - Transparent vessels are older civic construction, not a recent Dominion invention.
-- The first limited echo places a sealed glass case crossing the *Gannet*'s loading space while an official voice reads an empty public manifest. Later physical measurement must show that the compartment the manifest calls empty was too large to have been empty, and that the *Vigil*'s mooring line was cut from shore, before the manifest conflict is proven near the volume midpoint.
+- The first limited echo places a sealed glass case crossing the *Gannet*'s loading space while an official voice reads an empty public manifest. Calder can read the *Gannet* survey's compartment figures in the inquest record from the opening, but he cannot use them yet, because the case's own dimensions sit in Navy-held custody papers. Chapter 9's joinery match supplies the case's type and approximate size and makes the contradiction testable. Later physical measurement must show that the compartment the manifest calls empty was too large to have been empty, and that the *Vigil*'s mooring line was cut from shore, before the manifest conflict is proven near the volume midpoint.
 - Ilya Serr currently holds the senior Registry examiner title; he is not yet Minister of Returning Memory and is not called minister anywhere in this batch.
 - A recovered echo can be unstable and still useful, but neither stability nor emotional force establishes truth.
 - The harbor authority, the Lantern Registry, and the Navy are separate institutions with separate documents, and a claim window is a permission rather than ownership.
@@ -75,7 +75,7 @@ Calder completes one shallow, anchored echo entry under observation and surfaces
 
 ## Required continuity updates
 
-Record Calder's first aftertaste, tinnitus, rope-burn reenactment, and temporary hearing confusion. Preserve the original Registry record, Calder's measurements, and the public provenance duplicate. Keep the Oren-specific mark private. Do not identify the Quietening, Crown Seal, Ilya's role in the Gannet lie, or the transparent route's full course and purpose. The opening batch may establish an uncertain physical bearing toward Orison.
+Record Calder's first aftertaste, tinnitus, rope-burn reenactment, and temporary hearing confusion. Preserve the original Registry record for both seized objects, Calder's measurements and plate drawing, and the public provenance duplicate. Keep the Oren-specific mark private, and keep the shard's and the plate's provenances separate in every record. Do not identify the Quietening, Crown Seal, Ilya's role in the Gannet lie, or the transparent route's full course and purpose. The opening batch may establish an uncertain physical bearing toward Orison.
 
 ## Open questions after the batch
 
@@ -172,7 +172,7 @@ Per-chapter targets, all adjustable when a scene needs room:
 
 **Power or resource change:** The crew commits its remaining air, pump time, and a share of the ordinary wreck's value to establish provenance.
 
-**Continuity fact:** The Gannet sank thirteen years ago. Oren was twenty and is Calder's older brother. Alden's signed report remains unexamined by Calder.
+**Continuity fact:** The Gannet sank thirteen years ago. Oren was twenty and is Calder's older brother. Alden's signed harbor salvage report is public in the inquest record, and Calder has read the repairer's note about a plate cut from the *Gannet*'s own iron plating that was never accounted for. What he cannot get is Alden himself, who will not discuss the report or what he left out of it.
 
 **Ending type:** Decision.
 
@@ -196,7 +196,7 @@ Per-chapter targets, all adjustable when a scene needs room:
 
 **Power or resource change:** Calder gains physical evidence and loses one pressure-bell cycle plus a replacement clamp. No echo ability is used.
 
-**Continuity fact:** The transparent vessel is old and civic in construction, but its route and purpose remain unknown. The storm anchor is ordinary iron, not glass, so it is not affected by any later claim over the fragment.
+**Continuity fact:** The transparent vessel is old and civic in construction, but its route and purpose remain unknown. The storm anchor is ordinary iron, not glass, so it is not affected by any later claim over the fragment. The weathered hull plate is transparent glass from that larger structure, **not** the *Gannet*'s iron plating and not a *Gannet* artifact; nothing in this chapter authenticates it as anything but Orison-era civic hull. It is surrendered with the shard in Chapter 8, and what survives it is the crew's measurements, seam records, and scaled drawing.
 
 **Ending type:** Cost (small practical victory).
 
@@ -212,7 +212,7 @@ Per-chapter targets, all adjustable when a scene needs room:
 
 **Resistance:** The plate carries at least three incompatible repair histories; Mara will not certify a tidy story, and Calder wants only the Oren-linked seam examined.
 
-**Information revealed:** The vessel predates the Serein Dominion. Its makers used a distributed keel pattern and an old custody mark of nine joined lines, not a standard imperial cargo seal. This suggests civic infrastructure, not a ruling family's private possession.
+**Information revealed:** The plate's vessel predates the Serein Dominion. Its makers used a distributed keel pattern and an old custody mark of nine joined lines on the plate itself, not a standard imperial cargo seal. This suggests civic infrastructure, not a ruling family's private possession. The finding belongs to the plate only. The shard's own origin stays undetermined in this chapter: its glass type, its cut edges, and the case pattern they may match are not yet examined, and nothing here may declare the shard pre-Dominion civic glass or a *Gannet* artifact.
 
 **Action or decision:** Calder records every repair seam, including evidence that damages his preferred Oren connection, and allows Nessa to build a physical anchor, a fixed air limit, and a cutoff line. Mara writes down the stated reason for any entry before Calder goes near the panel.
 
@@ -220,11 +220,11 @@ Per-chapter targets, all adjustable when a scene needs room:
 
 **Power or resource change:** The crew gains a valid anchor, a shallow pressure plan, and a documented claim; the first tide-ear attempt becomes possible but remains high risk.
 
-**Continuity fact:** Do not name the Quietening or Crown Seal, and do not name the Nine Harbors. The old nine-line custody mark predates imperial custody and does not itself prove truthful consent.
+**Continuity fact:** Do not name the Quietening or Crown Seal, and do not name the Nine Harbors. The old nine-line custody mark is on the plate, predates imperial custody, and does not itself prove truthful consent. The shard's provenance remains open after this chapter, and its custody chain in Volumes 4–9 must not inherit the plate's findings.
 
 **Ending type:** Discovery (batch midpoint).
 
-**Next-chapter pull:** When the anchor settles, the shard produces a bodily pulse Calder recognizes from Oren's pressure-log notation.
+**Next-chapter pull:** When the anchor settles, the shard produces a bodily pulse Calder recognizes from Oren's pressure-log notation. The pulse is resonance in him, not evidence of where the shard came from.
 
 ### Chapter 0006 — One Witness, One Angle
 
@@ -238,7 +238,7 @@ Per-chapter targets, all adjustable when a scene needs room:
 
 **Information revealed:** From one witness's limited position during the Gannet seizure, Calder sees a sealed glass case cross a loading space while an official voice reads an empty public manifest. The angle does not show the case's Registry mark, the space's full dimensions, or whether another record corrects the spoken count. The scene also catches a marked keel-line, a shouted order, and a gloved hand with a young deck apprentice's callus closing around a line-marked fitting; the hand passes out of frame before anything is cut, and the scene does not show who acted later or what happened next.
 
-**Action or decision:** Calder follows the procedure under the six stated conditions, a named tender, an independent line, a fixed air limit, a seated anchor, a cutoff Nessa can pull, and Mara's written reason for the entry. He surfaces when Nessa calls the cutoff, not when he feels satisfied. He does not attempt to remain for a better angle or force open the contaminated edge, and he accepts that the one scene he got is the only scene he gets tonight.
+**Action or decision:** Calder follows the procedure under the six stated conditions: a named tender, an independent line, a fixed air limit, a seated anchor, a cutoff Nessa can pull, and Mara's written reason for the entry. He surfaces when Nessa calls the cutoff, not when he feels satisfied. He does not attempt to remain for a better angle or force open the contaminated edge, and he accepts that the one scene he got is the only scene he gets tonight.
 
 **Emotional change:** He receives useful corroboration and loses the comforting belief that finding Oren's choice will tell him what to do now.
 
@@ -280,19 +280,19 @@ Per-chapter targets, all adjustable when a scene needs room:
 
 **Location/time:** Free Keel yard, predawn.
 
-**Immediate goal:** Keep the shard on the yard long enough to complete a public provenance record before the Registry courier can take it.
+**Immediate goal:** Get the provenance record finished and publicly lodged before the Registry courier can take the glass off the yard.
 
-**Resistance:** Kest's order is technically valid and he can hold the object on the harbor authority's authority, Calder's claim window is nearly expired, and destroying or hiding the shard would destroy the evidence needed to challenge the seizure.
+**Resistance:** Kest's order is technically valid and covers the transparent glass on the deck, not only the shard, Calder's claim window is nearly expired, and destroying or hiding either object would destroy the evidence needed to challenge the seizure.
 
 **Information revealed:** The order is a Registry seizure order bearing senior Registry examiner Ilya Serr's name and seal, and Kest serves it as the harbor authority's officer. It does not explain the Gannet lie, identify the case, or prove that Ilya acted during the original disaster.
 
-**Action or decision:** Calder stops Bevin from hiding the shard and stops Nessa from breaking it. He signs a witnessed surrender, has Mara create a public provenance duplicate, and preserves measurements, repair traces, and the anchor diagram before the object leaves the deck in a Registry courier's box. The duplicate is a record of the object, not a copy of its memory.
+**Action or decision:** Calder stops Bevin from hiding the shard and stops Nessa from breaking it. He signs a witnessed surrender that covers the shard and the weathered hull plate together, has Mara create a public provenance duplicate, and preserves measurements, repair traces, the scaled plate drawing, and the anchor diagram before the glass leaves the deck in a Registry courier's boxes. He keeps the freed iron anchor, which no one claims. The duplicate is a record of the objects, not a copy of their memory.
 
 **Emotional change:** Calder feels the loss as another abandonment of Oren, but chooses accountable custody over an impulsive act that would protect the object only by destroying the proof around it.
 
-**Power or resource change:** The crew loses the physical shard and gains a defensible duplicate record, witness names, and a documented chain of custody. No new power appears.
+**Power or resource change:** The crew loses both pieces of glass and keeps the anchor, a defensible duplicate record, the plate's measurements and drawing, witness names, and a documented chain of custody. No new power appears.
 
-**Continuity fact:** Ilya is a senior Registry examiner at this point, not Minister of Returning Memory. Kest holds and witnesses; he does not seize. The object is now in the Morrow circuit custody room, and Calder no longer has any claim on its physical custody.
+**Continuity fact:** Ilya is a senior Registry examiner at this point, not Minister of Returning Memory. Kest holds and witnesses; he does not seize. Both glass objects are now in the Morrow circuit custody room as separately entered items, and Calder no longer has any claim on their physical custody.
 
 **Ending type:** Cost (batch climax).
 
@@ -308,7 +308,7 @@ Per-chapter targets, all adjustable when a scene needs room:
 
 **Resistance:** The public pressure log has been copied, the original Registry record belongs to Mara's custody, and Alden refuses to discuss the salvage report he signed.
 
-**Information revealed:** The provenance diagram's joinery matches the hull pattern the *Vigil* used for its sealed cases, and the anchor bearing places the shard's origin on the same ground the cutter claimed at the seizure. The ferry's public pressure log, copied into the inquest record, contains a deliberate three-second gap. Separately and in his own hand, Calder notes what his echo showed, labeled unverified. This makes the contradiction testable but does not yet prove that the compartment was too large to be empty, reveal the case's contents, or identify who ordered the loss.
+**Information revealed:** The **shard's** cut-edge joinery, not the plate's builder's mark, matches the hull pattern the *Vigil* used for its sealed cases, and the anchor bearing places the shard's origin on the same ground the cutter claimed at the seizure. The provenance diagram therefore has to show two objects with two provenances: the plate's pre-Dominion nine-line custody mark, and the shard's case-pattern match. The case's type and approximate size now make the ferry survey's compartment figures meaningful, which turns the manifest's "empty" label into a testable contradiction. The ferry's public pressure log, copied into the inquest record, contains a deliberate three-second gap. Separately and in his own hand, Calder notes what his echo showed, labeled unverified. This makes the contradiction testable but does not yet prove that the compartment was too large to be empty, reveal the case's contents, or identify who ordered the loss.
 
 **Action or decision:** Calder records the physical findings and the limits of his memory in two separate documents so that neither can borrow the other's authority. Mara retains the original Registry record; Calder keeps only a marked public copy. Calder does not force Alden to confess.
 
