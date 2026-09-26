@@ -38,7 +38,7 @@ The clerk wrote the three words on the face of the second sheet itself, in his o
 
 "Take them one at a time," Kest said, "and take the claim itself after them, and Mr Officer, if you have an answer to any of them you may give it now and it will go in the record in your words, and if you have not, I am going to enter the claim as filed and enter the objection, and the two of them will lie on the page together for as long as the page exists."
 
-"Enter the claim as filed," the officer said. "I have no answer to a word of it. It describes ground and the description is ours, and a description of ground is not a thing a party may object to in a municipal hearing room."
+"Enter the claim as filed," the officer said. "The vessel makes no argument about the ground. It describes ground, the description is its own, and a description of ground is not a thing a party may object to in a municipal hearing room, and the vessel will say more about the ground when the yard has finished with its three words."
 
 "Then I am going to do the thing that has annoyed me all week," Kest said, "which is to rule on a document, and to rule on it in a way that leaves the ruling standing whichever way it goes.
 
@@ -50,7 +50,7 @@ The clerk wrote the three words on the face of the second sheet itself, in his o
 
 ---
 
-The reasons took until the light went.
+The reasons took until one o'clock, and by the end of them the clerk's hand had gone slow and was being waited on.
 
 "Continuous," Calder said. "Not a word about a join, and I want that noticed, and I want the notice to say that I noticed it and said nothing. But the word is about a thing, and the thing is this. We have three places on a bearing where the bottom comes up and nowhere else on two miles of a course the harbor authority itself sounded. One of the three is a bedded seam under a mole in nine feet of water. One is a transparent keel with a continuous line of its own in it, which is a different use of the word and was never mine. And the third is one figure out of thirty-six on a flat, and the flat is clay, and a foot and an inch in thirty-six is a stone or a spar with the bottom out of it, and I have said all of that in public on the market wall in my own hand and I am saying it again here so that nobody has to guess what I claim.
 
@@ -112,15 +112,15 @@ The room did not expect that from him either.
 
 "And one thing more, and then the vessel can read the ten." Calder turned to the clerk. "Put in the record that the third of the three points is station six of this office's own annual course, and that the yard did not have it before the second of this month, and that the reeve let the yard read one figure out of one book in this office's barge on the second of this month, in daylight, with the clerk in the room, and would not let it be copied, and that the figure is now on a sheet on the market wall in the yard's own hand. The vessel is welcome to read that sheet and welcome to say that the figure came out of a book this harbor authority stopped sounding on the fourteenth of last month, and it is true, and the yard will not argue with it, because the figure is the office's and the office gave it and the office is in this room."
 
-"Entered," the clerk said, and the officer wrote nine words and shut the notebook for the day.
+"Entered," the clerk said, and the officer wrote nine words and shut the notebook.
 
 ---
 
-At five o'clock the naval officer of the *Vigil* made two motions, and Kest heard the first of them and did not hear the second, and the reason he did not hear the second was that the clerk had to go and find the harbor authority's own book on the fifth-seam sighting and could not find it in under three minutes, and everything in that room understood that the entry in that book was the reeve's own hand and the date on it was the third of this month and the words in it were *seen, not measured, not touched* and the three names of the witnesses who had been standing on the steps when he wrote it.
+Just before two o'clock the naval officer of the *Vigil* made two motions, and Kest heard the first of them and did not hear the second, and the reason he did not hear the second was that the clerk had to go and find the harbor authority's own book on the fifth-seam sighting and could not find it in under three minutes, and everything in that room understood that the entry in that book was the reeve's own hand and the date on it was the third of this month and the words in it were *seen, not measured, not touched* and the three names of the witnesses who had been standing on the steps when he wrote it.
 
 Kest took the first motion.
 
-"That the harbor authority strike from its own record the entry made on the third of this month at the fifth seam, on the ground that it was made by the officer of this office in breach of a notice served by this office on the thirty-first, and that the observation of an officer made in his own breach is not the observation of this office." He did not look at Calder while he said it. "I will hear that on Thursday morning at ten, in this room, and I will hear it before anything else, and I am not going to hear it at the end of a day. Adjourned to Thursday the tenth at ten."
+"That the harbor authority strike from its own record the entry made on the third of this month at the fifth seam, on the ground that it was made by the officer of this office in breach of a notice served by this office on the thirty-first, and that the observation of an officer made in his own breach is not the observation of this office." He did not look at Calder while he said it. "I will hear that on Thursday morning at ten, in this room, and I will hear it before anything else, and I am not going to hear it at the end of a day."
 
 "That is two days' notice," the officer said, "on a Tuesday."
 
@@ -128,20 +128,10 @@ Kest took the first motion.
 
 Then he turned round to the room.
 
-"There is one other matter and I am going to take it now while the man who wants to raise it is in the room, and then I am going to adjourn, because the sitting is resumed on the fourteenth and because a yard that has four days to answer an objection is a yard that has four days, and I am not going to rob it of an hour of them to satisfy my own curiosity.
+"The second motion is not heard, and I want the room to understand the difference, because this office writes down the difference for a living. Not heard is not refused. A thing that is refused is a thing somebody may read in Veyr in a year and enjoy, and the ground of that motion is the same ground as the ground of the first one, and the vessel is not going to put the same argument into this office's record twice, and the book was in the second drawer and not the first. Mr Clerk will have the book on this table at half past two and the vessel may renew the motion if it wants it heard, and I will hear it on Thursday with the other one, and I would rather have both of them in the room on the same morning than in this office's book on two different mornings."
 
-"Mr Officer, on the second of this month the Free Keel yard put three points on the market wall with two distances on them, a mile and two hundred yards and a mile and two hundred and ten yards, and a difference of ten yards, and a statement that the tolerance of the method is not better than ten yards. You have the sheet in front of you or you have the clerk's copy of it. I am going to ask you one question and I am going to ask it in front of the clerk and I am going to rule on what you say before the sitting resumes, and the ruling will be that the question stands unanswered in this office's record.
+He looked at the clock above the stove.
 
-"What is the interval."
+"This room stands adjourned until half past two. And there is one matter I have not taken and am going to take at the end of the day, and I am telling the room now that it is coming, because the only thing worse than a reeve who surprises a room is a reeve who does it on purpose, and because a yard that has four days to answer an objection is a yard that has four days and I am not going to rob it of an hour of them to satisfy my own curiosity."
 
-The officer did not open the notebook.
-
-"The interval," he said, "is a comparison of a distance measured by a tender with a hand lead from a boat on the outer side of a mole, against a distance measured by this office's own run along its own course with a wire on a lead, corrected by a column that this office has admitted in this room it has never had anybody read. The first is not better than ten yards. The second is not better than the wire. The difference between them is ten yards, which is the first figure's own tolerance, and a difference equal to the tolerance of one of the two numbers is not a measurement. It is an agreement, and an agreement is not a figure, and the vessel notes that the two numbers are of different kinds and were taken by different hands in different weathers on different days and cannot be set against one another in a room and called even."
-
-"Objection," said Calder.
-
-"Noted," said Kest. "And the ruling is that the question stands unanswered, and that the yard is given until the sitting of the fourteenth to answer it, and that if the yard's answer is that the interval is even, this office will receive that answer and will not test it, and if the yard's answer is that the interval is not even, this office will receive that answer and will enter it and will not be surprised, and I would like it understood by everybody in this room, including the yard, that this office is quite prepared for the second answer and has no preference in the matter at all."
-
-Calder Marr said nothing at all, and Bevin Rook put his right hand flat on the cover of the crew's book and looked at the floor, and it was the first time in six weeks that Bevin Rook had been the man in the room with the worst face on him.
-
-"Thursday at ten," Kest said. "This sitting is adjourned."
+The clerk got a hand behind the stove rail to stop it going out, and nobody in the room got up to go out, because a reeve who has told a room in advance that something is coming at the end of the day has just made a market lunch very expensive.

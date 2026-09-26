@@ -2,7 +2,7 @@
 
 *The Fence Is Round My Own Ground*
 
-The slate wall of that hearing room was blank when the yard came in on the Thursday morning, and it had been blank since eight o'clock, because the clerk takes the cloth off the top left corner where the office always starts and goes across the whole board with it every Monday whether there is a sitting or not, and there had been a sitting on the Monday, and three points, two distances, a difference of ten yards, the figure of the sixth station and a foot and a half of the yard's own phrasing had gone off that board with the cloth in the reeve's own hearing room on the morning the yard came to argue about it.
+The slate wall of that hearing room was blank when the yard came in on the Thursday morning, and it had been blank since eight o'clock on the Monday, because the clerk takes the cloth off the top left corner where the office always starts and goes across the whole board with it every Monday whether there is a sitting or not, and there had been a sitting on the Monday, and three points, two distances, a difference of ten yards, the figure of the sixth station and a foot and a half of the yard's own phrasing had gone off that board with the cloth at eight o'clock in the reeve's own hearing room, ten minutes before that room was full, and nobody had seen it done and nobody had minded.
 
 Nobody said anything about it. It was a wall.
 
@@ -98,7 +98,7 @@ Elias Voke of the herring boat *Anna Ray* was in the road outside the quay, and 
 
 "You will not be told in a market."
 
-"Then you will have the dues back," Elias Voke said. "Nineteen winters of them, and I will take them in the book, and I will take them on the authority's paper and not on yours, and if that is a small way of doing it then it is the way this harbor does things and I have stopped being proud of it in about 1908."
+"Then you will have the dues back," Elias Voke said. "Nineteen winters of them, and I will take them in the book, and I will take them on the authority's paper and not on yours, and if that is a small way of doing it then it is the way this harbor does things and I have not been proud of it since I was a boy in another man's boat."
 
 Kest said, "Enter the claim for the dues as an entry against this office, in the amount of nineteen winters, and mark it as disputed and not as a debt, and give the man a slip of it in his own hand before he goes down the quay, and Mr Clerk, the amount is not yours to guess at, it is the officer's."
 

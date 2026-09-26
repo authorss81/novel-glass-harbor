@@ -36,7 +36,7 @@ Bevin read it. Bedded pale material in the mole's foundation, running north unde
 
 It took two hours to get to the bottom of it, and it was Bevin Rook who got there, at about twenty past eight, in the flat voice, with the pencil behind his ear and his right hand flat on the page.
 
-"There is another thing," he said, "and it is worse than the seam and I have not said it in a fortnight because I did not want to say it and because nobody has asked me for it since the twenty-eighth, and if we are going into a room in two hours with three sheets and a difference of ten yards on them, then it has to be said at this bench, and it has to be said by me, and I have had my arm in a sling for six weeks and this is the one thing in this business that is mine to say and I am not having anybody else say it for me."
+"There is another thing," he said, "and it is worse than the seam and I have not said it in a fortnight because I did not want to say it and because nobody has asked me for it since the twenty-eighth, and if we are going into a room in two hours with three sheets and a difference of ten yards on them, then it has to be said at this bench, and it has to be said by me, and I have had my arm in a sling for a fortnight and this is the one thing in this business that is mine to say and I am not having anybody else say it for me."
 
 "Say it, then," Nessa said.
 
@@ -88,7 +88,7 @@ The officer's man was at the wall when he did it, and had been since half past e
 
 ---
 
-At nine o'clock they put the pump and the clamp stock and the cordage and the bench chest into a hand-barrow with a rope round it and took it up the quay to the hearing room, because Kest had said the boy was to be in the room when the tin came open, and because the clerk wipes that hearing room's slate wall every Monday at eight o'clock whatever is on it, and this time the wall was going to be blank again and the three points were in the yard's own hands and not in a reeve's chalk., and the clerk came out at half past nine with the tin in his hand and Bevin Rook signed for it in his right hand and read the clerk's own line back before he signed it, and the pump went up the quay on a barrow with a cracked housing in it and a sleeve packed with the reeve's tallow and no new housing bought and none to be had before the spring.
+At nine o'clock they put the pump and the clamp stock and the cordage and the bench chest into a hand-barrow with a rope round it and took it up the quay to the hearing room, because Kest had said the boy was to be in the room when the tin came open, and because the clerk wipes that hearing room's slate wall every Monday at eight o'clock whatever is on it, and this time the wall was going to be blank again and the three points were in the yard's own hands and not in a reeve's chalk, and the clerk came out at half past nine with the tin in his hand and Bevin Rook signed for it in his right hand and read the clerk's own line back before he signed it, and the pump went up the quay on a barrow with a cracked housing in it and a sleeve packed with the reeve's tallow and no new housing bought and none to be had before the spring.
 
 Nessa Pike put her hand flat on the housing at the yard door at half past six that evening and said, "It has come home and it is exactly as useless as it went away, and I am going to write that on the wall in chalk so that any man who comes into this yard knows that the pound in that chest on the fourteenth is a pound of paper and not a pound of gear."
 

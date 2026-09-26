@@ -10,7 +10,7 @@ Bevin Rook had put the naval claim up on the Tuesday night with his right hand a
 
 ---
 
-The paper for Mara Venn came on the Tuesday the eleventh in an inside envelope with the circuit's stamp on it, and it came to the Free Keel yard because it was addressed to the yard and marked for the attention of the tide conservator of the Morrow circuit, and there was no other address in Morrow Quay to send it to, which everybody understood and nobody wrote down.
+The paper for Mara Venn came on the Friday the eleventh in an inside envelope with the circuit's stamp on it, and it came to the Free Keel yard because it was addressed to the yard and marked for the attention of the tide conservator of the Morrow circuit, and there was no other address in Morrow Quay to send it to, which everybody understood and nobody wrote down.
 
 She read it standing up in the yard, in the cold, with her book shut under her arm, and she read it twice, and then she came in and sat down on the end of the bench and asked for the whole of it to be read out loud with the four of them in the room, because she wanted the yard to have it before she answered it.
 
@@ -104,7 +104,7 @@ Calder went down at four to look at it, standing in the cold with his hands behi
 
 "You put the Navy's paper over ours," Calder said.
 
-"I put it over ours and I slipped ours four inches down so a man has to lift a corner," Bevin said. "I have written the date and the hour on the back of all three and the moved-by line on the front of the first one, and I read it back before I nailed, and it is on the wall now, and it is not a copy of anything, it is the same three sheets that were on the wall on the second and were on the slate wall of the hearing room on the seventh and were on that slate wall until a boy with a cloth took them off on Monday morning."
+"I put it over ours and I slipped ours four inches down so a man has to lift a corner," Bevin said. "I have written the date and the hour on the back of all three and the moved-by line on the front of the first one, and I read it back before I nailed, and it is on the wall now, and it is not a copy of anything, it is the same three sheets that were on the wall on the second, and that stood in chalk on the hearing room's slate wall until a boy with a cloth took them off that board at eight on the Monday morning, and that the reeve has put back on that board himself in chalk in eleven minutes and signed the corner, and they will come off it again on Monday at eight because he has done it every Monday for six years."
 
 "I know. I am not finding fault. I am standing here."
 

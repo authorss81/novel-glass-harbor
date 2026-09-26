@@ -18,7 +18,7 @@ Kest called the terms.
 
 "Two. The reason the yard gave on the seventh for wanting the bottom restored, entered as term eight requires, with the reeve's consent and not at the yard's asking, because a reason that a yard does not have to give is worth more to a room than a reason it is obliged to give.
 
-"Three. A claim by the harbor's own officer of dues, entered of his own motion and without leave, which I will come to at the end because it is the only matter in this room that does not concern glass and it is going to cost this office nineteen winters of money.
+"Three. The claim by the harbor's own officer of dues, which was entered and disputed on the tenth and is put to the room this morning on my own motion and without leave, because it is the only matter in this room that does not concern glass and it is going to cost this office nineteen winters of money.
 
 "Four. The defense of the twenty-fourth of last month, which expires today."
 
@@ -26,7 +26,7 @@ He let the last of that sit in the room for a moment and then went to the first.
 
 ---
 
-"It is a fair question," the naval officer said, before Calder Marr had got to his feet, "and I was going to ask it again this morning, and I am going to hold what I have in my notebook until the yard has spoken, and I would like the clerk to note that the vessel reserved the question at the sitting of the eighth and the yard has answered it first."
+"It is a fair question," the naval officer said, before Calder Marr had got to his feet, "and I was going to ask it again this morning, and I am going to hold what I have in my notebook until the yard has spoken, and I would like the clerk to note that the vessel put that question in this room on the eighth of this month and the yard did not answer it then, and has answered it first this morning."
 
 "That is generous," Calder said, "and I would like it in the record that it was generous, and I am going to give the officer the answer and the ground of it in one go, and I am going to do it the way the yard did it on the Tuesday, which is before anybody has to ask."
 
@@ -94,13 +94,13 @@ Nobody spoke for about four seconds, and then the naval officer of the *Vigil* s
 
 The third matter was Elias Voke's, and Kest took it last, as he had said he would, and he took it in the flattest voice he had used in a room in fifteen years.
 
-"Mr Voke of the herring boat *Anna Ray* has a claim against this office for nineteen winters of moorage dues, on the ground that this office has claimed the mole's inner face from the third seam to the eleventh seam on its own chart, and that the two herring berths and four sets of moorings and the timber fenders on that face are out of service in consequence. It is entered of my motion, without leave, over the clerk's objection that it does not concern the matter before the room. It concerns the matter before the room. It is the only thing in this file that a person in Morrow Quay has actually lost, and no office in Veyr will ever be told about it unless somebody puts it in a record.
+"Mr Voke of the herring boat *Anna Ray* has a claim against this office for nineteen winters of moorage dues, on the ground that this office has claimed the mole's inner face from the third seam to the eleventh seam on its own chart, and that the two herring berths and four sets of moorings and the timber fenders on that face are out of service in consequence. It was entered and disputed on the tenth and it comes before the room this morning of my motion and without leave, over the clerk's objection that it does not concern the matter before the room. It concerns the matter before the room. It is the only thing in this file that a person in Morrow Quay has actually lost, and no office in Veyr will ever be told about it unless somebody puts it in a record.
 
 "Mr Voke. Say it."
 
 Elias Voke said it in about forty words. Nineteen winters. Two berths and a warp, the north wall, a northeast blow, forty boats in on the first of March, a hard at Ashtide applied for and not answered, and he wanted the account taken out of the boat rather than the boat out of the water, and he would rather have it disputed in a hearing room than quietly forgotten in a market.
 
-"It is entered as disputed and not as a debt," Kest said, "and the amount is on the page, and the clerk will give you a slip of it before you go down the quay, and the first of March is the date, and I will write to the coast office again this week and I will tell you in a fortnight what I have, in this room, on this day, whether it is a hard at Ashtide or nothing at all, because a man should not have to come and ask an office whether it has written a letter."
+"It is entered as disputed and not as a debt," Kest said, "and the amount is on the page, and the clerk will give you a second slip of it before you go down the quay, and the first of March is the date, and I will write to the coast office again this week and I will tell you in a fortnight what I have, in this room, on this day, whether it is a hard at Ashtide or nothing at all, because a man should not have to come and ask an office whether it has written a letter."
 
 "And the notice?" Elias Voke said. "Because the notice is what shut it, and not your chart."
 
@@ -154,7 +154,7 @@ Then he said the last thing, and he said it standing up with his hands behind hi
 
 "The harbor authority has issued a claim window, a work permit and a further defense to a crew in five weeks, and has entered a claim on its own chart, and has served a notice, and has had a Registry order served on a mole at eleven o'clock in the morning, and every one of those instruments was made against a fixed date, and the last of the fixed dates expires today, and on Monday morning this office will have a chart with a fence on it and a book with a breach in it and a wall with a notice on it and no crew.
 
-"This office has a power it has never used and never wanted to use, which is to raise of its own motion the question of a one-season provisional working charter. I am raising it. It is a wider permission than anything this yard has held, it is granted in this room after a hearing, it must be renewed, and it is not the Second Bell and does not lead to it, and I am aware of the harbor's eighth and the harbor's share of any raising and I will not argue either of them.
+"This office has a power it has never used and never wanted to use, which is to raise of its own motion the question of a one-season provisional working charter. I am raising it. It is a wider permission than anything this yard has held, it is granted in this room after a hearing, it must be renewed, and it is not the Second Bell license, which is a Crown qualification and not a thing this office gives, and it does not lead to one, and no man in this room has the power to hand one out, and I am aware of the harbor's eighth and the harbor's share of any raising and I will not argue either of them.
 
 "Notice goes to the Free Keel yard, to the Morrow circuit office, and to the cutter on the pile, and the *Vigil* will have a month to send a paper and I would like it to send it. The Free Keel yard will file a written purpose with this office by the twenty-first of this month in its own hand, and I will read it into the record with the door shut on the twenty-second, and the sitting is on the twenty-eighth, and I will hold it whether anybody objects or not, and anybody who objects may be heard.
 
@@ -174,8 +174,8 @@ At the top of the make, an hour later, out in the road at the end of the mole, t
 
 At four o'clock Calder Marr took the slate off the shelf above the labor log, the one headed as the evidence heard by Calder Marr, unverified, from himself, and not corroborated by any document, witness, instrument, or second person, with the one false line in it that said the personal association had been confirmed by the diver and not disclosed, which had stood on that shelf since the fourteenth of October and gained nothing in thirty-one days.
 
-He looked at it for a while in a shed with the stove going and four people in it and a pump standing against the wall with a cracked housing in it and nine marks in a bag.
+He looked at it for a while in a shed with the stove going and four people in it and a pump standing against the wall with a cracked housing in it and five marks in a bag.
 
 Then he put it back on the shelf, on its own shelf, four feet from the book, and took down a blank one, and wrote a heading on it and nothing else under the heading, and the heading was the date and the words *Purpose for the sitting of the twenty-eighth, to be filed with the harbor authority by the twenty-first, in the hand of Marr, read into the record with the door shut.*
 
-He left the rest of it blank for the night, and Bevin Rook read the heading back twice and put the pencil on top of the book, and outside the tide was making on the mole face and a quarter of a mile off the mole a naval tender held a station she had held for thirty days, and the fifth of March was a fortnight away, and the first of March was a fortnight and a half away, and the notice of the thirty-first was still on the wall, and nobody in that shed was going to be allowed to forget why.
+He left the rest of it blank for the night, and Bevin Rook read the heading back twice and put the pencil on top of the book, and outside the tide was making on the mole face and a quarter of a mile off the mole a naval tender held a station she had held for thirty days, and the first of March was fifteen weeks off and the fifth of March was four days past it, and the notice of the thirty-first was still on the wall, and nobody in that shed was going to be allowed to forget why.

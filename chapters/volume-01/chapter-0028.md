@@ -48,7 +48,7 @@ The arithmetic was done on the bench with four men round it, which it had not be
 
 Nessa had the crew's book open at the entry of the twenty-eighth and Bevin Rook had a slate and a new stub of pencil, and Tobias stood behind them saying nothing at all, which in a yard with a boy's hand in a sling is the most valuable thing in the room.
 
-"A to B," Bevin said. "Mole's toe, third and fourth seams, the twenty-eighth, from the boat on the outer side with the office's compass and a hand lead, ten feet and ten and a half at the north end. B is the shoal's inner edge where the run was sighted on the twelfth, eight fathoms, on the three bearings that Wren, Rook and Marr took inside four degrees. A to B by those three bearings is a mile and two hundred yards."
+"A to B," Bevin said. "Mole's toe, third and fourth seams, the twenty-eighth, from the boat on the outer side with the office's compass and a hand lead, nine feet at the south end and ten and a half at the north end. B is the shoal's inner edge where the run was sighted on the twelfth, eight fathoms, on the three bearings that Wren, Rook and Marr took inside four degrees. A to B by those three bearings is a mile and two hundred yards."
 
 "Again."
 
@@ -64,7 +64,7 @@ Nessa had the crew's book open at the entry of the twenty-eighth and Bevin Rook 
 
 Calder looked at the book, at the two entries, and at the third figure that was not in either book because it was in a tin in a barge on the other side of the harbor.
 
-"Thirty-six figures," he said. "On two miles of course. Thirty-five of them are sixteen three, sixteen four, sixteen three, and the thirty-sixth is fifteen two. That is not a rise in a bottom. That is one figure in thirty-six. And it is a mile and two hundred and ten yards from a rib we put a hand on in ten feet of water, and a mile and two hundred yards from a run of transparent keel with eleven keys in it that we sounded on the twelfth with a lead and a line, and a bright run, no break, no join, running west, that I wrote in the dark with a pencil stub and pressed hard enough to feel the point through the back of the slate."
+"Thirty-six figures," he said. "On two miles of course. Thirty-five of them are sixteen three, sixteen four, sixteen three, and the thirty-sixth is fifteen two. That is not a rise in a bottom. That is one figure in thirty-six. And it is a mile and two hundred and ten yards from a rib we put a hand on in nine feet of water, and a mile and two hundred yards from a run of transparent keel with eleven keys in it that we sounded on the twelfth with a lead and a line, and a bright run, no break, no join, running west, that I wrote in the dark with a pencil stub and pressed hard enough to feel the point through the back of the slate."
 
 "And it is a mile between three things that are each a mile apart," Tobias said, from behind them. "A wrecks field does not do that, Marr. I have seen the *Kittiwake*'s own ground after a bad blow and there was iron on that bottom the way there is weed on a stone, and it was where the water had put it. Water does not sort a field into a mile."
 
