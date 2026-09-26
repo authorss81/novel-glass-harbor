@@ -20,18 +20,18 @@ Calder treats Alden's silence as protection, indulges Bevin's eagerness, and acc
 
 ## Batch midpoint
 
-By Chapter 5, the crew establishes that the shard comes from a transparent hull built by a civic network older than the Serein Dominion. The object is physically extraordinary and politically dangerous, but it does not yet break the Gannet record.
+By Chapter 5, the crew establishes that the **weathered hull plate** lifted beside the shard was cut from a transparent hull built by a civic network older than the Serein Dominion. That finding belongs to the plate alone: the shard's own origin stays undetermined in this batch, and nothing in Chapter 5 may declare it pre-Dominion civic glass. The glass is physically extraordinary and politically dangerous, but it does not yet break the Gannet record.
 
 ## Batch climax
 
-Kest serves a current Registry seizure order bearing senior examiner Ilya Serr's seal, holds the transparent glass at the yard, and hands it to a Registry courier who takes the shard and the weathered hull plate to the Morrow circuit office as separately entered items. Calder prevents the crew from destroying or concealing evidence, but cannot keep either object; the freed iron anchor stays with them. The loss changes the investigation from possession to copies, drawings, measurements, memory, and contested provenance.
+Kest serves a current Registry seizure order bearing the honorific and seal of senior Registry examiner Ilya Serr, holds the transparent glass at the yard, and hands it to a Registry courier who takes the shard and the weathered hull plate to the Morrow circuit office as separately entered items. Calder prevents the crew from destroying or concealing evidence, but cannot keep either object; the shoal iron they freed stays with them, while the drifted anchor still bedged at the mole goes back to the harbor authority as municipal tackle. The loss changes the investigation from possession to copies, drawings, measurements, memory, and contested provenance.
 
 ## Hard rules for this batch
 
 1. **No System.** No panels, stat blocks, status messages, floating text, or software vocabulary. The only message-like elements are claim seals, Registry notations, bell marks, written limits, gauges, and physical warnings.
 2. **Calder is an ordinary line diver who becomes an unstable tide-ear.** One supervised entry only. He surfaces with a limited practice trace, a rope-burn aftertaste, ringing ears, and emotional residue. He cannot rewind the scene, verify its truth, open the contaminated edge, or enter a second echo that day.
 3. **Mara cannot enter an echo, certify truth, or become Calder's assistant.** She can test material, read provenance, and say no. Her institutional knowledge must change events on its own.
-4. **Both pieces of glass are surrendered to a Registry seizure.** The transparent shard and the weathered hull plate lifted beside it leave the deck in the same witnessed act. Kest holds and witnesses; a Registry courier takes both to the Morrow circuit custody room as separately entered items. The freed storm anchor is ordinary iron and stays with the crew. The crew keeps measurements, repair-seam records, a scaled drawing, names, and a public provenance duplicate. No convenient loophole keeps either object, the plate is not declared ordinary hull iron to save it, and the duplicate is a record of the objects rather than a copy of their memory.
+4. **Both pieces of glass are surrendered to a Registry seizure.** The transparent shard and the weathered hull plate lifted beside it leave the deck in the same witnessed act. Kest holds and witnesses; a Registry courier takes both to the Morrow circuit custody room as separately entered items. The shoal storm anchor Calder freed in Chapter 4 is ordinary iron, was never claimed, and stays with the crew; the second anchor, the drifted iron still bedded at the mole, is municipal tackle and is released back to the harbor authority. The crew keeps measurements, repair-seam records, a scaled drawing, names, and a public provenance duplicate. No convenient loophole keeps either object, the plate is not declared ordinary hull iron to save it, and the duplicate is a record of the objects rather than a copy of their memory.
 5. **The Oren-specific mark stays private.** Calder tells Nessa that a sound is not an ordinary mechanical fault; he does not tell Mara what the mark is.
 6. **No new canon rule, new villain, or new institution.** Ilya Serr's name appears only as a senior Registry examiner's seal on a Registry document.
 7. **Reveal discipline.** Do not name the Quietening, the Crown Seal, or the Nine Harbors Compact; do not reveal what the sealed glass case contained or who ordered the Gannet lie; do not establish Oren's final choice.
@@ -39,6 +39,8 @@ Kest serves a current Registry seizure order bearing senior examiner Ilya Serr's
 9. **The bearing toward Orison is uncertain.** A broad physical direction is allowed; a complete route, a map, or a purpose is not.
 10. **The first echo is one *Vigil* rating's frame, not Oren's.** The witness helped carry the sealed case, so he is a participant in the seizure. He is never named, located, interviewed, or proved to be a *Gannet* casualty, and the gloved hand in the scene is something the witness saw, not the witness's own body. Calder may believe the hand was Oren's; he may not be able to show it.
 11. **The *Vigil* arrives as paperwork, not violence.** The batch's external pressure is a filed naval salvage claim, a Registry order, and a cutter taking a berth. No boarding, no gunfire, no physical seizure, and no face-to-face meeting with Holt in this batch.
+12. **Every dive is inside the harbor line under a named permit.** The crew never works past the imperial line in this batch, because the one-season provisional working charter does not exist until Chapters 41–50 and the full Second Bell license is a Volume 4 cost. The mole work in Chapter 1 and the shoal work in Chapters 3–4 run under instruments the harbor authority issues: the claim window for the recovery, and a separate **work permit** naming Gannet Shoal's inner edge and two dates, which are the Chapter 4 dive day and the Chapter 5 bench day. The permit names a site inside the harbor line, which runs along the mole and the inner shoals, so the dive is legal and expensive rather than illegal and lucky. The permit is spent by the end of the second working day. The Chapter 6 entry is a shallow protected dive over the Free Keel platform inside the harbor and needs no shoal permit. The wreck's outer marks, the *Vigil*'s recorded mooring position, and the keel line continuing beneath the shoal all lie past the imperial line, which is precisely why the *Vigil*'s naval salvage claim bites in Chapter 10 and why Calder cannot simply dive back to the rib in Chapter 11. Never let Calder dive unlicensed past the imperial line, and never let a permit silently widen past the site and dates it names.
+13. **Two anchors, never fused.** The transparent fragment in Chapter 1 is wedged under the shank of a **drifted** storm anchor that came in against the mole on an earlier tide; that iron is bedded too deep for the yard crane, is tagged for a proper lift, and stays at the mole through the batch. The anchor Calder frees in Chapter 4 is a **different** piece of iron from the same ordinary shoal wreck, still bedged at Gannet Shoal under the transparent keel rib. Both are ordinary iron, neither is glass, and neither is affected by the seizure. Do not move, lift, or free the mole anchor in this batch, and do not describe the freed shoal iron as the iron the shard was found under.
 
 ## Pressure distribution
 
@@ -68,21 +70,22 @@ Calder completes one shallow, anchored echo entry under observation and surfaces
 ## Required world reveals
 
 - Echo-glass can preserve an embodied scene but only from one witness's position.
-- Transparent vessels are older civic construction, not a recent Dominion invention.
-- The first limited echo places a sealed glass case crossing the *Gannet*'s loading space while an official voice reads an empty public manifest. Calder can read the *Gannet* survey's compartment figures in the inquest record from the opening, but he cannot use them yet, because the case's own dimensions sit in Navy-held custody papers. Chapter 9's joinery match supplies the case's type and approximate size and makes the contradiction testable. Later physical measurement must show that the compartment the manifest calls empty was too large to have been empty, and that the *Vigil*'s mooring line was cut from shore, before the manifest conflict is proven near the volume midpoint.
-- Ilya Serr currently holds the senior Registry examiner title; he is not yet Minister of Returning Memory and is not called minister anywhere in this batch.
+- Transparent vessels are older civic construction, not a recent Dominion invention. In this batch that fact is established from the **plate** alone, in Chapter 5, and never from the shard.
+- The harbor line runs along the mole and the inner shoals, and the imperial line lies beyond it. A work permit names a site and dates inside the harbor line; the crew works to those limits and pays for them in air, a bond, and lost working days.
+- The first limited echo places a sealed glass case crossing the *Gannet*'s loading space while an official voice reads an empty public manifest. Calder can read the *Gannet* survey's compartment figures in the inquest record from the opening, but he cannot use them yet, because the case's own dimensions sit in Navy-held custody papers. Chapter 9's joinery match supplies the case's type and approximate size and makes the contradiction testable. Only later physical measurement, taken at the Volume 1 midpoint, shows that the compartment the manifest calls empty was too large to have been empty and that the *Vigil*'s mooring line was cut from shore. That measurement is the proof; it is not established earlier, and no chapter in this batch may treat the compartment as proven.
+- Ilya Serr currently holds the senior Registry examiner title. The Registry's honorific **Magister** appears for the first time in this batch, as a word on the seizure order in Chapter 8, ahead of the minister's office the title will later carry; he is not called minister anywhere in this batch.
 - A recovered echo can be unstable and still useful, but neither stability nor emotional force establishes truth.
 - The harbor authority, the Lantern Registry, and the Navy are separate institutions with separate documents, and a claim window is a permission rather than ownership.
 - The only interface in this world is physical: seals, notations, bells, gauges, and the diver's own body.
 
 ## Required continuity updates
 
-Record Calder's first aftertaste, tinnitus, rope-burn reenactment, and temporary hearing confusion. Preserve the original Registry record for both seized objects, Calder's measurements and plate drawing, and the public provenance duplicate. Keep the Oren-specific mark private, and keep the shard's and the plate's provenances separate in every record. Record that the first echo's witness was an unnamed *Vigil* rating who helped carry the case, so the corroboration comes from a participant rather than a bystander, and that Calder could not identify him. Do not identify the Quietening, Crown Seal, Ilya's role in the Gannet lie, or the transparent route's full course and purpose. The opening batch may establish an uncertain physical bearing toward Orison.
+Record Calder's first aftertaste, tinnitus, rope-burn reenactment, and temporary hearing confusion. Preserve the original Registry record for both seized objects, Calder's measurements and plate drawing, and the public provenance duplicate. Record the two working days the tide-ear entry actually cost: the Chapter 4 dive day and the Chapter 5 bench day in which Nessa builds the anchor, the cutoff rig, and the written reason, on which the yard earns nothing. Keep the Oren-specific mark private, and keep the shard's and the plate's provenances separate in every record. Record the two anchors as separate irons, the shoal permit's named site and dates, and the fact that the shoal dive stayed inside the harbor line. Record that the first echo's witness was an unnamed *Vigil* rating who helped carry the case, so the corroboration comes from a participant rather than a bystander, and that Calder could not identify him. Do not identify the Quietening, Crown Seal, Ilya's role in the Gannet lie, or the transparent route's full course and purpose. The opening batch may establish an uncertain physical bearing toward Orison.
 
 ## Open questions after the batch
 
 - What did the sealed glass case contain, and why did every document omit it?
-- How did the shard reach an ordinary Morrow Quay wreck?
+- How did the glass get into the ironwork of an ordinary shoal wreck, and how did it come out of the larger transparent vessel to travel there at all?
 - Why does Calder recognize an Oren-specific pressure pattern?
 - Who settled a witness into the case glass in the first place, and can that rating ever be found?
 - What authority will the *Vigil* use beyond Kest's local seizure?
@@ -107,27 +110,37 @@ Per-chapter targets, all adjustable when a scene needs room:
 | 9 | 2,400–2,800 | Archival pressure and Alden's refusal |
 | 10 | 2,600–3,000 | The decision, the hearing limit, the *Vigil*'s arrival |
 
+## Pacing note
+
+Ten chapters cannot all be the same weight. Two of these cards pack more discrete beats than a 2,800-word scene comfortably holds, and one needs the whole of its range. The fix is to thin the lists and give the long scene room, not to add words anywhere.
+
+- **Chapter 1** packs six beats: repair, client dispute, pressure test, mole haul, bell note, and chipping the fragment free. If the repair and the mole fight for room, the client dispute compresses to one exchange at the pump and the pressure test becomes Calder insisting without a scene of its own. The mole haul itself stays, because the ordinary work has to be ordinary before the glass arrives.
+- **Chapter 8** packs seven beats: stopping Bevin, stopping Nessa, signing, the duplicate, four record sets, the courier, and keeping the shoal iron. Name the record sets in a single exchange while the courier is being packed, not one at a time, and let the signing be the long middle of the chapter.
+- **Chapter 4** is the batch's only sustained physical chapter and is allowed the top of its range. Do not move the plate up into Chapter 3 to relieve Chapter 1; the wreck reveal has to land late in Chapter 3 to earn the dive.
+
+Do not solve the density problem by cutting a beat that the next chapter depends on. If a chapter still will not fit, let it run to 3,200 words rather than dropping a cost the crew has to pay.
+
 ## Chapter Cards
 
 ### Chapter 0001 — Salt in the Second Pump
 
 **POV:** Calder Marr, close third person.
 
-**Location/time:** Morrow Quay public dry dock, early morning, first day of the batch.
+**Location/time:** Morrow Quay public dry dock, early morning, first working day of the batch.
 
 **Immediate goal:** Finish a routine pump repair, collect the small fee, and preserve enough air and crew time for another paid dive without risking the Free Keel's only working winch.
 
 **Resistance:** The pump gasket keeps failing, the client wants a cosmetic patch rather than an honest rebuild, and Bevin is eager to skip the pressure test.
 
-**Information revealed:** Establish Calder's practical competence, debt pressure, family silence, ordinary salvage economics, and the physical danger of worn equipment. A routine storm-anchor haul at the mole turns up a transparent fragment wedged under the shank of an anchor that is bedded too deep for the yard crane.
+**Information revealed:** Establish Calder's practical competence, debt pressure, family silence, ordinary salvage economics, and the physical danger of worn equipment. A routine haul alongside the mole's inner face turns up a transparent fragment wedged under the shank of a **drifted** storm anchor that came in on an earlier tide and settled against the mole. The mole's own holding anchor is a separate piece of iron bedded at the mole head, and this drifted one is bedded too deep in the mole's toe for the yard crane.
 
-**Action or decision:** Calder rejects the unsafe shortcut and finishes the repair properly. He chips the fragment free instead of leaving it for another crew, records the anchor's position and lead-line tag, and leaves the anchor itself in place for a proper lift later.
+**Action or decision:** Calder rejects the unsafe shortcut and finishes the repair properly. He chips the fragment free instead of leaving it for another crew, records the position, hangs a lead-line tag on the drifted anchor for a proper lift, and leaves that anchor itself in place. The fouled line still seized in the fragment is his only physical lead to where the iron came from.
 
 **Emotional change:** A job that should be simple becomes personally dangerous when the fragment answers his hammer with a delayed bell note. He wants it because it may be Oren's, not because he has evidence that it is.
 
-**Power or resource change:** No magic is used. Calder gains a transparent fragment and an anchor position mark, pays for a cracked pump housing, and loses most of the day's safe diving margin.
+**Power or resource change:** No magic is used. Calder gains a transparent fragment, a lead-line tag on the drifted anchor, and a written position mark; he pays for a cracked pump housing and loses most of the day's safe diving margin.
 
-**Continuity fact:** The shard is unclaimed glass of Registry interest, not yet proven to come from the *Aster Gannet*. The storm anchor is ordinary iron and is still on the bottom. Calder is a line diver.
+**Continuity fact:** The shard is unclaimed glass of Registry interest, not yet proven to come from the *Aster Gannet*. The drifted storm anchor holding it is ordinary iron, is municipal tackle rather than salvage, and is still on the bottom at the mole for a proper lift. It is not the anchor Calder frees at Gannet Shoal in Chapter 4. Calder is a line diver.
 
 **Ending type:** Discovery.
 
@@ -155,51 +168,51 @@ Per-chapter targets, all adjustable when a scene needs room:
 
 **Ending type:** Reversal.
 
-**Next-chapter pull:** Mara will not certify a fragment with no physical origin, and she asks Calder the question he cannot answer: what he recognized down there, and who taught him to recognize it. The fragment's lead-line tag points at a mundane wreck that nobody has ever claimed.
+**Next-chapter pull:** Mara will not certify a fragment with no physical origin, and she asks Calder the question he cannot answer: what he recognized down there, and who taught him to recognize it. The fouled line still seized in the fragment matches the ground tackle of a mundane wreck in the old shoal that nobody has ever claimed.
 
 ### Chapter 0003 — Work Before Proof
 
 **POV:** Calder Marr, close third person.
 
-**Location/time:** Free Keel yard and Gannet Shoal survey line, afternoon.
+**Location/time:** Free Keel yard and the reeve's office, first working day, midday and afternoon.
 
-**Immediate goal:** Build a defensible salvage team and locate the ordinary wreck from which the shard came without spending the claim window on a speculative search.
+**Immediate goal:** Build a defensible salvage team and name a site the crew is actually allowed to dive, without spending the claim window on a speculative search.
 
-**Resistance:** The crew has one usable boat and little air money; Alden refuses to discuss the Gannet; Nessa says Calder is treating the find as personal evidence before establishing its physical context.
+**Resistance:** The crew has one usable boat and little air money; Alden refuses to discuss the Gannet; Nessa says Calder is treating the find as personal evidence before establishing its physical context; and Kest will only put a site in writing if Calder accepts its limits.
 
-**Information revealed:** The shard was wedged in a storm anchor that came adrift from a mundane coastal wreck tangled in the old shoal, so the fragment finally has a physical origin to work from. On that wreck's ironwork Calder finds a repairer's pressure mark dated to the period of the Gannet Cut: a shop mark of that decade, not a *Gannet* fitting and not a mark on the glass. He hides that the same hand's notation matches Oren's work.
+**Information revealed:** The fouled line seized in the fragment matches the ground tackle of a mundane coastal wreck lying tangled in the old shoal, and the drifted anchor holding the shard came adrift from that same ordinary wreck and drifted across to the mole, so the fragment finally has a physical origin to work from. That wreck still lies at the shoal with a **second** storm anchor from it bedded nearby, and a much larger transparent structure lies along the same ground. On the wreck's ironwork Calder finds a repairer's pressure mark dated to the period of the Gannet Cut: a shop mark of that decade, not a *Gannet* fitting and not a mark on the glass. He tells the crew only that it is a shop hand of that decade, and hides that the notation is written the way Oren's own pressure logs were written — a private suspicion with no evidence behind it.
 
-**Action or decision:** Calder accepts Nessa's condition that the crew logs the dive as ordinary salvage, shares the anchor position, and places Bevin on the surface watch rather than another deep task.
+**Action or decision:** Calder accepts Nessa's condition that the crew logs the dive as ordinary salvage, shares the position, and places Bevin on the surface watch rather than another deep task. He takes Kest's **work permit** as written: a named site at the inner edge of Gannet Shoal, two dates, the harbor line as the boundary, and a bond the yard can barely meet. Kest states plainly that the permit does not reach the wreck's outer marks or the cutter's recorded mooring ground, which lie past the imperial line.
 
-**Emotional change:** His secrecy strains family and crew trust without yet producing a useful answer.
+**Emotional change:** His secrecy strains family and crew trust without yet producing a useful answer, and he learns that the law will give him exactly the ground he is allowed to touch.
 
-**Power or resource change:** The crew commits its remaining air, pump time, and a share of the ordinary wreck's value to establish provenance.
+**Power or resource change:** The crew commits its remaining air, pump time, part of its bond, and a share of the ordinary wreck's value to establish provenance, and it spends the rest of its first working day on permits instead of paid work.
 
-**Continuity fact:** The Gannet sank thirteen years ago. Oren was twenty and is Calder's older brother. Alden's signed harbor salvage report is public in the inquest record, and Calder has read the repairer's note about a plate cut from the *Gannet*'s own iron plating that was never accounted for. What he cannot get is Alden himself, who will not discuss the report or what he left out of it.
+**Continuity fact:** The Gannet sank thirteen years ago. Oren was twenty and is Calder's older brother. Alden's signed harbor salvage report is public in the inquest record, and Calder has read the repairer's note about a plate cut from the *Gannet*'s own iron plating that was never accounted for. What he cannot get is Alden himself, who will not discuss the report or what he left out of it. The harbor line runs along the mole and the inner shoals; the imperial line is beyond it, and nothing in this batch licenses the crew past it.
 
 **Ending type:** Decision.
 
-**Next-chapter pull:** At the wreck, the anchor is trapped beneath a much larger transparent keel rib.
+**Next-chapter pull:** At the wreck, the shoal anchor is trapped beneath a much larger transparent keel rib, and the permit covers only two days.
 
 ### Chapter 0004 — What the Anchor Caught
 
 **POV:** Calder Marr, close third person.
 
-**Location/time:** Gannet Shoal, first controlled work dive, late afternoon.
+**Location/time:** Gannet Shoal, inner edge, first controlled work dive under the work permit, late afternoon on the first working day.
 
-**Immediate goal:** Free the anchor and recover enough of the surrounding hull to prove where the transparent shard originated.
+**Immediate goal:** Free the shoal anchor and recover enough of the surrounding hull to prove where the transparent shard originated.
 
-**Resistance:** Silt, a narrow pressure window, a cracked bell hose, and a keel rib that shifts when the first clamp takes load.
+**Resistance:** Silt, a narrow pressure window, a cracked bell hose, a keel rib that shifts when the first clamp takes load, and a permit boundary that stops the crew a few fathoms short of the rib's outer end.
 
-**Information revealed:** The larger structure is a transparent hull, not a loose panel. Its scale and old joinery imply a vessel, but Calder cannot safely inspect it in this dive.
+**Information revealed:** The larger structure is a transparent hull, not a loose panel. Its scale and its continuous seam lines imply a vessel rather than a dropped plate, but Calder cannot safely inspect it in this dive. Nothing here dates it or names a builder.
 
-**Action or decision:** Calder abandons the attempt to raise the whole rib and uses a sacrificial line to bring up the freed anchor, the clamps, his measurements, and a weathered hull plate. He chooses recoverable proof over a dangerous trophy.
+**Action or decision:** Calder abandons the attempt to raise the whole rib and uses a sacrificial line to bring up the freed shoal anchor, the clamps, his measurements, and a weathered hull plate. He chooses recoverable proof over a dangerous trophy.
 
 **Emotional change:** Excitement gives way to professional disappointment when the tide turns before he can answer the larger question.
 
-**Power or resource change:** Calder gains physical evidence and loses one pressure-bell cycle plus a replacement clamp. No echo ability is used.
+**Power or resource change:** Calder gains physical evidence and loses one pressure-bell cycle plus a replacement clamp. This is one of the two paid working days the first tide-ear entry costs. No echo ability is used.
 
-**Continuity fact:** The transparent vessel is old and civic in construction, but its route and purpose remain unknown. The storm anchor is ordinary iron, not glass, so it is not affected by any later claim over the fragment. The weathered hull plate is transparent glass from that larger structure, **not** the *Gannet*'s iron plating and not a *Gannet* artifact. At the end of this chapter it can be called only transparent hull glass from that larger structure: its age, its builder's mark, and any link to Orison are established in Chapter 5, not here. It is surrendered with the shard in Chapter 8, and what survives it is the crew's measurements, seam records, and scaled drawing.
+**Continuity fact:** The transparent vessel is **not yet dated or attributed** in this chapter; its age, its builder's mark, and any civic origin are established in Chapter 5, and its route and purpose remain unknown. The shoal anchor Calder frees is a second, separate piece of ordinary iron from the same wreck as the drifted anchor at the mole, and it is not the iron the shard was found under; the mole anchor stays bedded and tagged there through the batch. The anchor is ordinary iron, not glass, so it is not affected by any later claim over the fragment. The weathered hull plate is transparent glass from that larger structure, **not** the *Gannet*'s iron plating and not a *Gannet* artifact. At the end of this chapter it can be called only transparent hull glass from that larger structure. It is surrendered with the shard in Chapter 8, and what survives it is the crew's measurements, seam records, and scaled drawing.
 
 **Ending type:** Cost (small practical victory).
 
@@ -209,11 +222,11 @@ Per-chapter targets, all adjustable when a scene needs room:
 
 **POV:** Calder Marr, close third person.
 
-**Location/time:** Free Keel workbench, evening.
+**Location/time:** Free Keel workbench, **the second working day**, afternoon into evening. The permit's two dates are the Chapter 4 dive and this day, and the crew spends the second date at the bench instead of in the water, so the permit runs out unused. This is the bench day the first tide-ear entry costs: the yard earns nothing on it, and the crew's safe diving margin is already gone from the Chapter 4 dive.
 
 **Immediate goal:** Build a physical provenance record strong enough to keep the shard within the claim window while preparing a safe first echo test.
 
-**Resistance:** The plate carries at least three incompatible repair histories; Mara will not certify a tidy story, and Calder wants only the Oren-linked seam examined.
+**Resistance:** The plate carries at least three incompatible repair histories; Mara will not certify a tidy story, and Calder wants only the Oren-linked seam examined. The bench day is a day of wages the crew does not get back, and every hour of it burns a day of permit that cannot be turned into salvage.
 
 **Information revealed:** The plate's vessel predates the Serein Dominion. Its makers used a distributed keel pattern and an old custody mark of nine joined lines on the plate itself, not a standard imperial cargo seal. This suggests civic infrastructure, not a ruling family's private possession. The finding belongs to the plate only. The shard's own origin stays undetermined in this chapter: its glass type, its cut edges, and the case pattern they may match are not yet examined, and nothing here may declare the shard pre-Dominion civic glass or a *Gannet* artifact.
 
@@ -221,9 +234,9 @@ Per-chapter targets, all adjustable when a scene needs room:
 
 **Emotional change:** Calder loses the comforting certainty that one familiar mark will lead directly to Oren and begins to see Mara's refusal to certify as a safeguard rather than obstruction.
 
-**Power or resource change:** The crew gains a valid anchor, a shallow pressure plan, and a documented claim; the first tide-ear attempt becomes possible but remains high risk.
+**Power or resource change:** The crew spends a full working day on the bench instead of on paid salvage, and gains a valid anchor, a shallow pressure plan, and a documented claim; the first tide-ear attempt becomes possible but remains high risk.
 
-**Continuity fact:** Do not name the Quietening or Crown Seal, and do not name the Nine Harbors. The old nine-line custody mark is on the plate, predates imperial custody, and does not itself prove truthful consent. The shard's provenance remains open after this chapter, and its custody chain in Volumes 4–9 must not inherit the plate's findings. Calder has no instructor and no manual for the entry he is about to attempt: the six conditions are assembled in the yard out of what Tobias remembers of old salvage practice, what Nessa can engineer, and what Mara can justify on paper. No convenient master appears to explain them, and the attempt works because the conditions are met, not because Calder is gifted.
+**Continuity fact:** Do not name the Quietening or Crown Seal, and do not name the Nine Harbors. The old nine-line custody mark is on the plate, predates imperial custody, and does not itself prove truthful consent. The shard's provenance remains open after this chapter, and its custody chain in Volumes 4–9 must not inherit the plate's findings. Calder has no instructor and no manual for the entry he is about to attempt: the six conditions are assembled in the yard out of what Tobias remembers of old salvage practice, what Nessa can engineer, and what Mara can justify on paper. No convenient master appears to explain them, and the attempt works because the conditions are met, not because Calder is gifted. Two full working days are now spent — the Chapter 4 dive and this bench day — and neither is refundable. The shoal permit's two dates are used up by the end of this day, and the Chapter 6 entry happens over the Free Keel platform inside the harbor, not on the permitted ground.
 
 **Ending type:** Discovery (batch midpoint).
 
@@ -233,7 +246,7 @@ Per-chapter targets, all adjustable when a scene needs room:
 
 **POV:** Calder Marr, close third person.
 
-**Location/time:** Shallow protected dive over the Free Keel platform, night.
+**Location/time:** Shallow protected dive over the Free Keel platform, the night after the bench day, using the air and gear Chapter 5 built.
 
 **Immediate goal:** Enter one anchored scene without losing the crew, the physical shard, or Calder's ability to surface.
 
@@ -259,7 +272,7 @@ Per-chapter targets, all adjustable when a scene needs room:
 
 **POV:** Calder Marr, close third person.
 
-**Location/time:** Free Keel yard infirmary and workbench, night.
+**Location/time:** Free Keel yard infirmary and workbench, the same night, before dawn.
 
 **Immediate goal:** Make the aftertaste medically and operationally manageable before the morning inspection at which the claim either holds or collapses.
 
@@ -283,21 +296,21 @@ Per-chapter targets, all adjustable when a scene needs room:
 
 **POV:** Calder Marr, close third person.
 
-**Location/time:** Free Keel yard, predawn.
+**Location/time:** Free Keel yard, the same predawn, hours after the entry.
 
 **Immediate goal:** Get the provenance record finished and publicly lodged before the Registry courier can take the glass off the yard.
 
 **Resistance:** Kest's order is technically valid and covers the transparent glass on the deck, not only the shard, Calder's claim window is nearly expired, and destroying or hiding either object would destroy the evidence needed to challenge the seizure.
 
-**Information revealed:** The order is a Registry seizure order bearing senior Registry examiner Ilya Serr's name and seal, and Kest serves it as the harbor authority's officer. It does not explain the Gannet lie, identify the case, or prove that Ilya acted during the original disaster.
+**Information revealed:** The order is a Registry seizure order, and Kest serves it as the harbor authority's officer. Its seal line reads **Magister Ilya Serr**, senior Registry examiner, which is the first appearance in the novel of the Registry honorific *Magister*; Calder has never met the man, reads the word as a form of address on a form, and learns nothing about him from it. The order does not explain the Gannet lie, identify the sealed glass case, or prove that Ilya acted during the original disaster.
 
-**Action or decision:** Calder stops Bevin from hiding the shard and stops Nessa from breaking it. He signs a witnessed surrender that covers the shard and the weathered hull plate together, has Mara create a public provenance duplicate, and preserves measurements, repair traces, the scaled plate drawing, and the anchor diagram before the glass leaves the deck in a Registry courier's boxes. He keeps the freed iron anchor, which no one claims. The duplicate is a record of the objects, not a copy of their memory.
+**Action or decision:** Calder stops Bevin from hiding the shard and stops Nessa from breaking it. He signs a witnessed surrender that covers the shard and the weathered hull plate together, has Mara create a public provenance duplicate, and preserves measurements, repair traces, the scaled plate drawing, and the anchor diagram before the glass leaves the deck in a Registry courier's boxes. He keeps the shoal iron they freed in Chapter 4, which no one claims, and the drifted anchor still bedded at the mole goes back to the harbor authority as municipal tackle. The duplicate is a record of the objects, not a copy of their memory.
 
 **Emotional change:** Calder feels the loss as another abandonment of Oren, but chooses accountable custody over an impulsive act that would protect the object only by destroying the proof around it.
 
-**Power or resource change:** The crew loses both pieces of glass and keeps the anchor, a defensible duplicate record, the plate's measurements and drawing, witness names, and a documented chain of custody. No new power appears.
+**Power or resource change:** The crew loses both pieces of glass and keeps the freed shoal anchor, a defensible duplicate record, the plate's measurements and drawing, witness names, and a documented chain of custody. No new power appears.
 
-**Continuity fact:** Ilya is a senior Registry examiner at this point, not Minister of Returning Memory. Kest holds and witnesses; he does not seize. Both glass objects are now in the Morrow circuit custody room as separately entered items, and Calder no longer has any claim on their physical custody.
+**Continuity fact:** Ilya is a senior Registry examiner at this point. The word *Magister* here is the Registry honorific for senior examiners and, later, for the minister; it does not name the office of Minister of Returning Memory, and he must not be called minister anywhere in this batch. Kest holds and witnesses; he does not seize. Both glass objects are now in the Morrow circuit custody room as separately entered items, and Calder no longer has any claim on their physical custody. The permit is spent and the two working days are gone.
 
 **Ending type:** Cost (batch climax).
 
@@ -331,25 +344,25 @@ Per-chapter targets, all adjustable when a scene needs room:
 
 **POV:** Calder Marr, close third person.
 
-**Location/time:** Morrow Quay outer mole, late day.
+**Location/time:** Morrow Quay outer mole, late day of the second working day, with the *Vigil* taking a berth below.
 
 **Immediate goal:** Secure temporary legal protection for the crew's evidence and keep the ordinary harbor operations running as the *Vigil* arrives.
 
-**Resistance:** Accepting Kest's terms would suppress the duplicate record; refusing them leaves the provenance vulnerable to seizure. Calder's hearing is still altered, and the *Vigil* can assert naval salvage authority over the anchored wreck.
+**Resistance:** Accepting Kest's terms would suppress the duplicate record; refusing them leaves the provenance vulnerable to seizure. Calder's hearing is still altered, and the *Vigil* can assert naval salvage authority over ground the expired permit no longer lets the crew touch.
 
-**Information revealed:** A limited inspection accepts the crew's chain of labor and preserves the public duplicate for twelve days, but the broader seizure remains unresolved. The *Vigil* files a naval salvage claim, and the Registry's seizure order with Ilya's current seal is attached to it as the instrument that gives the claim a harbor berth. Comparing the anchor bearing, public provenance diagram, and the continuing keel line establishes only a broad physical direction toward Orison, not a complete route or purpose. With the shard gone, Calder hears the delayed bell note in the keel line still running beneath the shoal, and an Oren childhood call seems to answer inside it; he cannot tell whether the call is his memory, Oren's, or contamination carried by the aftertaste.
+**Information revealed:** A limited inspection accepts the crew's chain of labor and preserves the public duplicate for twelve days, but the broader seizure remains unresolved. The *Vigil* files a naval salvage claim, and the Registry's seizure order with Ilya's current seal is attached to it as the instrument that gives the claim a harbor berth. Comparing the anchor bearing, the public provenance diagram, and the continuing keel line establishes only a broad physical direction toward Orison, not a complete route or purpose. With the shard gone, Calder hears the delayed bell note in the keel line still running beneath the shoal, and an Oren childhood call seems to answer inside it; he cannot tell whether the call is his memory, Oren's, or contamination carried by the aftertaste.
 
-**Action or decision:** Calder rejects a permanent gag on the provenance record, accepts only the temporary protection, logs his hearing impairment, and chooses to keep investigating under increased Navy scrutiny rather than surrender Oren's clue or pretend he is unchanged.
+**Action or decision:** Calder rejects a permanent gag on the provenance record, accepts only the temporary protection, and logs his hearing impairment in the crew's own book where Bevin and Nessa can read it. Kest tells him the wreck ground is now under a naval claim and the harbor authority's permit has lapsed, and the *Vigil*'s officer sends word ashore that the Free Keel is to stay off the anchored wreck. Calder could take the twelve days, let the cutter have the shoal, and keep the yard's remaining air for paid work. He chooses instead to keep investigating under naval scrutiny — no glass, no permit, no second entry, and a bell he cannot trust — rather than surrender Oren's clue or pretend he is unchanged.
 
-**Emotional change:** He gains professional proof and loses certainty about his own memory. The choice to continue is deliberate and costly, not an impulsive declaration that truth will solve everything.
+**Emotional change:** He gains professional proof and loses certainty about his own memory. The choice to continue is deliberate and costly, and he makes it aloud in front of his crew instead of quietly, which is the real change in him.
 
-**Power or resource change:** The crew retains no physical shard and no open echo route, but it preserves a public record, a twelve-day claim defense, and Calder's first fragile tide-ear capacity. The next phase begins with a legal dispute under naval pressure.
+**Power or resource change:** The crew retains no physical shard, no permit, and no open echo route, but it preserves a public record, a twelve-day claim defense, and Calder's first fragile tide-ear capacity. The next phase begins with a legal dispute under naval pressure.
 
 **Continuity fact:** The characters now have an uncertain bearing toward Orison but do not know the full route, the Quietening, the Crown Seal, or Ilya's long-term plan. The *Vigil* arrives as pressure, not combat: nothing in this batch puts Holt face to face with Calder in conversation, the cutter does not board the crew or fire, and it does not take the glass by force. Its leverage is the filed naval salvage claim and the Registry seizure order attached to it as the instrument that earns a harbor berth. No new interface, canon rule, or major antagonist appears.
 
-**Ending type:** Earned hook.
+**Ending type:** Decision (earned hook). The last beat of the batch is Calder's own choice, spoken, after the cutter's order has arrived — not the order itself. The *Vigil*'s salvage line tightening around the keel that continues beneath the shoal is the price he accepts, not the closing image. Do not close on a threat received.
 
-**Next-chapter pull:** The *Vigil* orders Calder off the wreck while its salvage line tightens around the place where the transparent keel continues beneath the shoal.
+**Next-chapter pull:** Because Calder chose to keep investigating, Chapter 11 opens with the wreck ground closed to him by a naval claim, twelve days of protection, a hearing room that can only delay, and a keel line he can hear but has no legal right to touch.
 
 ## Batch boundary
 

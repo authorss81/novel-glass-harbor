@@ -2,10 +2,11 @@
 
 ## Phase position
 
-Bootstrap artifacts are complete and repaired: the six bible files, `outline/series.md`, `outline/ending.md`, `outline/volume-01.md`, and the ten chapter cards in `outline/batches/volume-01-batch-0001.md`. No prose has been written. Phase status, completion markers, and the queued next phase belong to `state/phase-ledger.json` and the controller; this file does not set them.
+The planning baseline for Volume 01 is established: the six bible files, `outline/series.md`, `outline/ending.md`, `outline/volume-01.md`, and the ten chapter cards in `outline/batches/volume-01-batch-0001.md`. No prose has been written. This file does not set phase status, completion markers, or the queued next phase; those belong to `state/phase-ledger.json` and the controller.
 
 - Current volume: 1 — *The First Bell*, Chapters 1–50
-- Queued batch: Volume 01, Batch 0001, Chapters 1–10 (the only batch file that exists)
+- Next writing phase: Volume 01, Batch 0001, Chapters 1–10 (the only batch file that exists)
+- Chapter files: none written; `chapters/volume-01/` is created by the writing phase
 - Last completed chapter: none
 - Last batch summary: none, because no batch has run
 
@@ -17,7 +18,7 @@ Calder Marr is a thirty-two-year-old line diver in Morrow Quay, one failed attem
 
 - **Institutional:** the Morrow Quay harbor authority can issue or withdraw a claim window; the Lantern Registry's Morrow circuit office can seize glass under Ilya Serr's senior examiner's seal; the Navy can file a salvage claim over the same ground.
 - **Evidence:** the public Gannet record is assembled from separate documents, and the sealed glass case aboard the *Vigil* is missing from all of them. Calder can read the ferry survey's compartment figures, but he cannot use them until the case's own dimensions surface, so the compartment is not proved at the opening.
-- **Objects:** the transparent shard and the weathered hull plate lifted with it in Chapter 4 are separate objects with separate provenances, and both are surrendered under one seizure in Chapter 8. The freed storm anchor is ordinary iron and stays with the crew.
+- **Objects:** the transparent shard and the weathered hull plate lifted with it in Chapter 4 are separate objects with separate provenances, and both are surrendered under one seizure in Chapter 8. The shoal iron the crew frees in Chapter 4 is ordinary iron and stays with them; the drifted storm anchor that held the shard is a different piece of iron, still bedded and tagged at the mole, and it is municipal tackle that returns to the harbor authority.
 - **Personal:** Calder's private need to prove what happened to Oren collides with a public claim he must win through labor, not through family connection.
 - **Family:** Alden's silence, Bevin's eagerness, and Nessa's insistence on maintenance.
 - **Approach:** the *Vigil*'s claim over Gannet Shoal, and a three-second gap in the ferry's public pressure log that nobody has been able to explain.

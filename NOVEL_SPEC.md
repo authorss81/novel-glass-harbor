@@ -15,4 +15,5 @@ A salvage diver finds transparent ships that carry memories instead of cargo ben
 The sea is opened to all coastal communities without allowing an empire to own its memory.
 
 ## Status
-Bootstrap artifacts are complete and under repaired review: the bible, series outline, ending outline, Volume 01 outline, and first-batch cards are established. No novel prose has been generated. Phase 000 remains open until the controller commits the reviewed repairs and records the reviewed content commit; Volume 01, Batch 0001 is the sole queued phase after closure.
+
+The planning baseline is complete: the six bible files, `outline/series.md`, `outline/ending.md`, `outline/volume-01.md`, and the ten chapter cards in `outline/batches/volume-01-batch-0001.md` are established and reviewed. No novel prose has been generated. Volume 01, Batch 0001, Chapters 1–10 is the first writing phase, and it is the only batch that exists.

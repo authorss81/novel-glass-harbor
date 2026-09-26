@@ -74,7 +74,7 @@ Use these names exactly. The Gannet Cut record is assembled from several offices
 - **Morrow circuit office:** the local Lantern Registry office that Mara works from. Its copying room is where public records are read and duplicated, and its custody room is where seized glass is kept.
 - **Court of Wreck Claims:** the Serein court in Veyr that hears appeals about jurisdiction and penalties. It can rule on custody, not on whether the sea is safe.
 - **Morrow Quay charter:** the municipal agreement that lets harbor crews work any wreck inside the harbor line in exchange for a share. The **Free Keel charter** is the crews' own mutual pledge and grants no legal rights. The **imperial line** is the Crown's outer-shelf boundary, beyond the harbor line, and working past it needs the full Second Bell license. Except for the one-season provisional working charter, do not use "charter" for the harbor authority's power or decisions; use permit, claim window, hold, hearing, or order.
-- **Magister:** the Registry's formal honorific for senior examiners and the minister of Returning Memory. It appears first as a word on a document, and Calder does not attach the title to a man he has not met.
+- **Magister:** the Registry's formal honorific for senior examiners and the minister of Returning Memory. It appears first as a word on a document, and Calder does not attach the title to a man he has not met. Its first appearance in the novel is the seal line of the Chapter 8 seizure order, which reads Magister Ilya Serr, senior Registry examiner — the honorific arrives before the ministry it will later name, and Calder learns nothing about the man from reading it.
 
 ## Power progression terms
 
