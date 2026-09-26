@@ -20,7 +20,7 @@ Then she put the sailcloth on the board, and the object on the cloth, and it was
 
 "First the object, because you have been talking about the mark all morning and nobody has described the thing.
 
-"It is a listening panel. It is a sheet of worked glass with an iron collar round its edge and a hand-hole at one end and a loop at the head of it, and it is made to be hung in a boat's rigging and listened to from, and it is not made to be entered and it would be dangerous to enter and I could tell you why and it is not relevant. The working in it is not thirty years old because I have dated it, it is thirty years old because that is how that edge is dressed and that is a thing a working hand does and it has not been done since a bellwright I trained under was alive. I will not name a shop and I will not name a man and both of those refusals are proper and neither of them is modesty."
+    "It is a listening panel. It is a sheet of worked glass with an iron collar round its edge and a hand-hole at one end and a loop at the head of it, and it is made to be hung in a boat's rigging and listened to from, and it is not made to be entered and it would be dangerous to enter and I could tell you why and it is not relevant. I am not going to give you a figure for how old it is, and I have asked myself that twice this morning and got the same answer both times, which is that a date is a thing you take out of a shop's book and not out of an edge, and I have not seen the book. What I will say about the making is that the edge is dressed the way a working hand dresses an edge and not the way a man in a hurry dresses one, and that it has not been dressed that way since a bellwright I trained under was alive, and that is a statement about care and not about time. I will not name a shop and I will not name a man and both of those refusals are proper and neither of them is modesty."
 
 "You trained under somebody," Dace said.
 
@@ -50,11 +50,11 @@ Nobody said anything for about a minute, and the wind came round the corner of t
 
 "How do you know the office did not strike it," the clerk said.
 
-"Because the ring has nine joins in it." She put the calipers down. "A Registry striking is cut once, into steel, by one man, and the ring around the office's name is part of the same piece of steel and it is one continuous curve from end to end, and a man in a Registry house could put that ring in a mark a hundred times and it would be the same ring every time. That one has nine joins in it, which means it was cut in something else first — a paper, most likely, or a copper plate — and then struck into the glass by hand. A paper striking into glass takes the mark. It does not take the wear."
+    "Because the ring has nine joins in it." She put the calipers down. "A Registry striking is cut once, into steel, by one man, and the ring around the office's name is part of the same piece of steel and it is one continuous curve from end to end, and a man in a Registry house could put that ring in a mark a hundred times and it would be the same ring every time. That one has nine joins in it, which means it was cut in something else first — a paper, most likely, or a copper plate — and then struck into the glass by hand. And there is a ridge of lifted glass standing on the outside of every one of those nine joins, and every one of the nine ridges runs the same way round the ring, which is a hand and a hammer and not a machine. A Registry striking has no ridge on it anywhere, because that die is pressed down and not hit."
 
-"And the wear," Dace said.
+    "And the ridge," Dace said.
 
-"Thirty years of a thing in a wheelhouse and a dry locker and a man's coat," Mara Venn said, "and the wear is coming off the outside of the ring and not off the inside, which is what does it when a man has a thumb on it. So the mark is thirty years old and the glass it is on is thirty years old, and both of those are the same thirty years, and there is nothing in that which tells you who did it, and a man in a Registry house who told you a Registry seal was never struck by hand would be telling you a thing about steel and not about this."
+    "Every word of it on the outside and none of it on the inside," Mara Venn said. "Nine joins and nine ridges and all of them lifting the glass the same way round, and that is a man's hand and a man's hammer and a man working faster than that office would have wanted the work done, and it is the whole of what a thing like that will ever give anybody. I can tell you it was not made in that office's house. I cannot tell you how long ago it was made, and I would not take a figure off an edge if a man offered me one, and a man in a Registry house who told you a Registry seal was never struck by hand would be telling you a thing about steel and not about this."
 
 ---
 
@@ -66,7 +66,7 @@ Nobody said anything for about a minute, and the wind came round the corner of t
 
 "Entered," the clerk said.
 
-"And one more, and then I will get off this stone, because I have been standing in a wind for fifty minutes and I am not a woman who stands in wind for pleasure." She looked at the object on the cloth. "If a man on this mole asks me on Tuesday what that glass carries, I will tell him that it was worked about thirty years ago by somebody careful, in a shop on a quay, and that it has a claim seal on its face that is false in the one clause that matters, and that the false clause names a boat. I will not tell him what is inside it. I have not been in it, I am not going to be in it, and a thing that is not in me is not a thing I can describe to a man who is standing in the sun."
+    "And one more, and then I will get off this stone, because I have been standing in a wind for fifty minutes and I am not a woman who stands in wind for pleasure." She looked at the object on the cloth. "If a man on this mole asks me on Tuesday what that glass carries, I will tell him that it was worked by somebody careful, in a shop on a quay, and that I will not put a date on it, and that it has a claim seal on its face that is false in the one clause that matters, and that the false clause names a boat. I will not tell him what is inside it. I have not been in it, I am not going to be in it, and a thing that is not in me is not a thing I can describe to a man who is standing in the sun."
 
 ---
 

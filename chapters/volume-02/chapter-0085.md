@@ -2,7 +2,7 @@
 
 *The One Question*
 
-He went on the Sunday because it was the only day of that week on which a fisher at the top of Coombe Row was certain to be in, and he went alone because the question was not the crew's, and Nessa Pike said so at the top of the hill in about nine words.
+He went on the Sunday because it was the only day of that week on which a fisher at the top of Coombe Row was certain to be in, and he went alone because the question was not the crew's, and Nessa Pike said so at the top of the hill in about forty words.
 
 "You are going on your own and you are going to ask a thing that is in your head and not in the book, and if she says no then there is nothing to write, and if she says nothing then there is less."
 

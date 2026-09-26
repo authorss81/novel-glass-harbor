@@ -2,7 +2,7 @@
 
 *A Job Without a Paper*
 
-The ninth week of a wage at four marks a week fell due on Tuesday the fourth of April, and Bevin Rook wrote it in the column with no adjectives in it before the kettle was off the stove, and the column was nine lines deep, and not one of the nine had ever been argued about in that shed, which was the whole of the practice and was also, that morning, the whole of what the yard had.
+The ninth week of a wage at four marks a week fell due on Tuesday the fourth of April, and Bevin Rook wrote it in the column with no adjectives in it before the kettle was off the stove, and the column was five lines deep, and not one of the five had ever been argued about in that shed, which was the whole of the practice and was also, that morning, the whole of what the yard had.
 
 The market was not open yet. Down on the boards there was a man standing at the head of the fish dock with his back to the water and a hand lead coiled over his shoulder, and he had been there about ten minutes, and he came up the hill at half past seven and put twenty marks in coin on the bench, in a heap, and did not sit down.
 

@@ -2,9 +2,9 @@
 
 *Instrument or Weapon*
 
-The tenth week of a wage at four marks a week fell due on Tuesday the eleventh of April and the boy entered it in the column with no adjectives in it, and the column was ten lines deep, and on the same afternoon the boy's own arithmetic and the creditor's page did the same thing at the same time, which is the first time in this winter that those two have been in step about anything.
+The tenth week of a wage at four marks a week fell due on Tuesday the eleventh of April and the boy entered it in the column with no adjectives in it, and the column was six lines deep, and on the same afternoon the boy's own arithmetic and the creditor's page did the same thing at the same time, which is the first time in this winter that those two have been in step about anything.
 
-Three marks of bread, oil and candles went onto the note at the sign of the Drowned Bell, in the creditor's own hand, and came out of the bag the same afternoon, and air went out of the same bag on the same afternoon, five marks in all, and the bag was five, and the note was thirty, and the tin had two crowns in it that had been in it since the first of February and had not been touched.
+Three marks of bread, oil and candles went onto the note at the sign of the Drowned Bell, in the creditor's own hand, and came out of the bag the same afternoon, and air went out of the same bag on the same afternoon, five marks in all, and it was the second pot of air the yard had bought since the first of April and the first of them was standing in the shed behind the pump housing with the strap undone and nothing done to it, and the bag was five, and the note was thirty, and the tin had two crowns in it that had been in it since the first of February and had not been touched.
 
 "Read the note back," Nessa Pike said.
 
@@ -58,7 +58,7 @@ Dace made a sound that was not quite a laugh.
 
 "Give him the glass," Mara Venn said.
 
-She had been at the back of the shed with her book shut on her knees, which is a thing she has done perhaps four times in five months, and she said it in about eleven words and then did not say anything else for a while, and what she said was not a trade and was not an opinion and was the plainest thing in the room.
+She had been at the back of the shed with her book shut on her knees, which is a thing she has done perhaps four times in five months, and she said it in one go without stopping anywhere, which she had not done in that shed in five months, and then she did not say anything else for a while, and what she said was not a trade and was not an opinion and was the plainest thing in the room.
 
 "Because a boat cannot be asked anything," she said, "and if your yard holds the seal and a man in a city asks you who the custodian on it is, then either you say the name of a boat, which is the lie, or you say the name of a man, which is a second lie, and the second lie will be the one that is in the file. A seal that is false in one clause and held by a party becomes false in two clauses the day it is held. That is not a finding about glass. That is a finding about how long a thing takes to be somebody else's problem."
 
@@ -82,4 +82,4 @@ The boy had the slate against his knee before Calder Marr had got the door, and 
 
 "That is the best sentence anybody has said in this shed about a wall," Dace said, "and it is eighteen and it is the eleventh of April, and I would like it in your own right hand and not read back, because I would rather a thing like that were read by one man than by four."
 
-The pump stood on its cart in the shed and had not been out since the Wednesday, and there was a wind outside that had not made up into anything for five days, and the market was shutting, and the eighth thing on the market wall had been standing twenty-four days with a naval paper nailed over one of the sheets beside it, and a working boat was still at the pile under the *Vigil* with her master's logbook in a naval file, and the circuit office had said nothing since the sixteenth of March, and the bag was five.
+The pump stood on its cart in the shed and had not been out since the Wednesday, and there was a wind outside that had not made up into anything for eight days, and the market was shutting, and the eighth thing on the market wall had been standing twenty-four days with a naval paper nailed over one of the sheets beside it, and a working boat was still at the pile under the *Vigil* with her master's logbook in a naval file, and the circuit office had said nothing since the sixteenth of March, and the bag was five.

@@ -24,7 +24,7 @@ The third was a rock. It dries at low water springs, three days out of a month, 
 
 "Two men drowned on ground somebody else called his own," Nessa Pike said.
 
-"That is not the same thing and you know it is not," Dace said. "Harl Dace, on the second of March, at a fish dock, in front of witnesses, and put it in your book because it is true and because in four years somebody is going to ask me what I have got on this coast and the answer is going to be nine marks and a bad spring and a boy's broken finger, and I would rather there were a coast in the book as well."
+"That is not the same thing and you know it is not," Dace said. "I am Harl Dace of the *Grey Widow* and I said it on the sixth of April at a fish dock in front of witnesses, and you will put it in your book because it is true and because in four years somebody is going to ask me what I have got on this coast and the answer is going to be nine marks and a bad spring and a boy's hand that will not close, and I would rather there were a coast in the book as well."
 
 ---
 
@@ -44,7 +44,7 @@ The reason went in under that in Nessa Pike's own hand and the boy read it back 
 
 ---
 
-He unwrapped the sailcloth at about half past eleven and put what was inside on the fish-dock table between two crates of fish that a woman moved without being asked, and it was a sheet of worked glass about the size of a folded chart, four inches across the hand-hole, with an iron collar round its edge and a loop at the head of it, and it was cloudy with age in the middle and clear at the rim, and it was warm, which a thing out of a sailcloth in the sun on a fish dock should not have been.
+He unwrapped the sailcloth at about half past eleven and put what was inside on the fish-dock table between two crates of fish that a woman moved without being asked, and it was a sheet of worked glass about the size of a folded chart, four inches across the hand-hole, with an iron collar round its edge and a loop at the head of it, and it was cloudy in the middle and clear at the rim, and it was warm, which a thing out of a sailcloth in the sun on a fish dock should not have been.
 
 "That came out of a shop at Ashtide in the autumn," Dace said, "and I paid for it, and I want you to understand that before anybody says anything about it. A bellwright's shop, on the quay, with three men in it and a furnace going all winter. I went in with a thing I wanted to know and he said he could put it in glass if I could find a man who was willing to stand in his front room and say what he saw out of a window, and he said the word *willingly* the way a man says a word when he means it, and I thought that was a decent sort of shop."
 
@@ -58,7 +58,7 @@ He unwrapped the sailcloth at about half past eleven and put what was inside on 
 
 He put his finger on the face of it, near the corner, where a struck mark about the size of a thumbnail sat in a ring.
 
-"It names a custodian," Dace said, "and the custodian is the *Grey Widow*, and I have had three months to think about that and I have not been able to make it mean anything at all, and I have wanted it off my hands for a month and I have not wanted to give it away either, and that is the whole of why I am standing on your fish dock."
+    "It names a custodian," Dace said, "and the custodian is the *Grey Widow*, and I have had all winter to think about that and I have not been able to make it mean anything at all, and I have wanted it off my hands for a month and I have not wanted to give it away either, and that is the whole of why I am standing on your fish dock."
 
 The boy had the slate against his knee and the pencil out before anybody had decided whether the entry went in.
 
