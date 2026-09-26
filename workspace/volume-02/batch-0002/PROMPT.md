@@ -1,0 +1,159 @@
+# Volume 02, Batch 0002 — Chapters 61–70
+
+**You are the novel writer for one batch. Write ten finished chapters, 61 through 70, in order, into `chapters/volume-02/chapter-0061.md` … `chapter-0070.md`. Create that directory if it does not exist. Write no chapter prose outside those ten files.**
+
+**This prompt is the only queued phase.** Nothing has been pre-created after it: no Batch 0003, no later Volume 2 prompt, no volume-close prompt. **Create nothing beyond the one phase you queue at the end of this prompt.** No `.done` marker, no `.retired` marker — phase status is the controller's.
+
+---
+
+## Read first, in this order
+
+1. `AGENTS.md` — especially **Prose**, **Chapter Structure**, **Serial Pacing**, **Male Leads and Relationships**, **Systems and In-World Interfaces**, and the **Quality Gate**.
+2. `NOVEL_SPEC.md`.
+3. **The six bible files** — `bible/README.md`, `bible/premise.md`, `bible/world.md`, `bible/characters.md`, `bible/power-system.md`, `bible/themes.md`, `bible/terminology.md`. **You may not edit any of them.** If a chapter appears to need a bible change, write it as a proposed canon change in `state/open-threads.md` and carry on.
+4. `outline/series.md` and `outline/ending.md` — for the mystery chain, the antagonist ladder, the power stages, the volume progression, and the locked final resolution. **You may not edit either.**
+5. **`outline/volume-02.md`** — the governing document for this volume, **including all twenty-three locks at its foot.** This is the most important file you will read. **One line of it is wrong and is corrected in the calendar section below; the chapters are the authority on what happened and this outline is the authority on what must not happen.**
+6. `outline/batches/volume-02-batch-0001.md` — the ten cards for Chapters 51–60. They are the plan for the batch that is already written, and they carry the shape instruction and the pressure list this batch inherits. **Do not rewrite them and do not re-run their material.**
+7. **`chapters/volume-02/chapter-0051.md` … `chapter-0060.md`** — the ten chapters immediately before you, read in full. **These are the authority on what has happened in Volume 02 and on the voice.** They are ~30,600 words and are the twenty chapters that matter most; read Chapters 55, 57, 58, 59 and 60 in full even if you have to skim the rest.
+8. `state/current.md` — **the story state at the end of Chapter 60 is in that file and is the shortest way to know where you are.** Leave the Volume 01 material in it alone; it is audited.
+9. `state/continuity.md` — the section **Batch 0001 as written (Chapters 51–60), binding on Chapters 61 onward** is the shortest and truest account of the money, the calendar, the documents, the dates and the costs. Read it in full and treat it as binding.
+10. `state/open-threads.md` — the **Volume 02, Batch 0001** block marks every thread PAID, PART, CARRIED or new, and names the volume that closes each.
+11. `reviews/volume-01/volume-01-close.md` — the volume audit. Every author-level decision Volume 01 deferred is ruled there and in `outline/volume-02.md`'s locks. **Do not re-derive them.**
+
+**Chapters 1–50 are not required reading.** The batch summaries and the volume index in `state/chapter-summaries.md` cover them. If you need one specific thing, grep for it.
+
+---
+
+## The starting state, in one line
+
+**Four marks in a bag and nothing in the tin, and a chandler's note at thirteen that the yard's food is going on.**
+
+Volume 02, Movement 1, is written. It opened on the fourth of January with **five marks in a bag and nothing in the tin, and nothing had been put into either since the first of December**, and it closed on the nineteenth with **four in the bag**, the note re-written by the creditor in his own hand at **nineteen marks at twenty-two weeks** and then paid down to **thirteen**, a boy entered for a wage on the first of February, a day rate of eighteen entered and payable on the first of February, the ninth seam's mooring bought back out of the harbor authority's own money and not worked, and the run traced inland under a town.
+
+---
+
+## The calendar — the planning files contain one wrong line and the chapters are right
+
+**14 November was a Monday and 1 December was a Thursday, and 1 January is a Sunday.** Therefore, and this is the grid:
+
+- **20 January a Tuesday · 21 a Wednesday · 22 a Thursday · 23 a Friday · 24 a Saturday · 25 a Sunday · 26 a Monday · 27 a Tuesday · 28 a Wednesday · 30 a Friday · 31 a Saturday**
+- **1 February a Monday · 2 a Tuesday · 3 a Wednesday · 5 a Thursday · 8 a Tuesday · 9 a Wednesday · 12 a Friday · 15 a Monday · 19 a Thursday · 22 a Sunday · 26 a Thursday**
+- **1 March a Wednesday.**
+- **The Mondays in January are the 2nd, 9th, 16th, 23rd and the 30th.** The planning files' line that reads *the fourth, eleventh, eighteenth and twenty-fifth of January are Mondays* is **wrong** — it cannot be reconciled with *the fourth of January is a Wednesday* in the same grid — **and the chapters follow the correct one. Use the correct one.**
+- **Twenty-six December to the first of March is sixty-five days, which is nine weeks and two days.** The planning files' parenthetical *eighty-one days* is arithmetically wrong and is not used anywhere.
+- Useful intervals: **4 January to 1 March is exactly eight weeks** and both are Wednesdays. **19 January to 1 March is forty-one days, six weeks less a day.** **16 January to 1 March is six weeks and two days.**
+- **The harbor authority's clerk wipes the hearing room's slate wall every Monday at eight** whether there is a sitting or not. It was last wiped on **Monday the second of January** and goes again on **the ninth, the sixteenth, the twenty-third and the thirtieth**. **A figure chalked on that board survives one week. The ledger is the record and the wall is a convenience.**
+- **The *Vigil* tender's days on station are carried forward from the page and are not computed from the calendar.** Interpolate **from the fourth of November at twenty days**, which reproduces every figure on the page exactly. **Never state a day-count that no chapter gave as though a chapter had given it.**
+
+---
+
+## The money — one chain, checkable in the prose
+
+**Four marks in a bag and nothing in the tin, and the tin has been empty since the eighteenth of November.** The full mark-by-mark chain for Chapters 51–60 is in `state/continuity.md`; the figures you inherit are these.
+
+- **The bag: 5 on the fourth of January → 2 after the copying room on the fifth → 16 after the north wall job on the seventh → 8 after the going out on the eleventh → 13 after the mole's toe work on the fourteenth → 4 after the week of the fifteenth and sixteenth, and 4 on the seventeenth, the eighteenth and the nineteenth.** **Four marks is the figure you open on and it is smaller than the five the volume opened on.**
+- **The chandler's note: 6 last written in the sixth of November → 19 written by the creditor himself on the fourth of January at the yard's asking, with a line under it in nineteen years of that page that has never held one → 18 on the seventh of January → 13 on the seventeenth.** **A yard's bread, oil and candles go on this note and not out of the bag, and that is where a poor crew's money goes.** The yard's own count of the weeks on the note is **a figure in Calder's head and is not in any book**, because a number nobody can check becomes a lie inside a month, and the fact that it is in his head is entered.
+- **The note the *Vigil* put in against the crew's records.** The harbor's chart claim is not lifted. **No custody object returns. Three items, three numbers, digits not quoted. The municipal claim on the third cannot be withdrawn without a request, and the yard will not make one.**
+- **Forty marks to Bevin Rook** — sixteen for the reading of the book from the fourteenth of October and twenty-four for the hand from the twenty-ninth — **stand whole and are not reduced.** **Forty marks to Mara Venn, first after food, unpaid since the fifteenth of October, and NOT paid in Movement 1 and not to be paid out of February's authority money.**
+- **A wage at four marks a week from the first of February is now entered in the crew's book in the boy's own right hand**, in addition to the forty marks, on a day the yard can name and cannot pay until it raises something. **The first four weeks fall in February.**
+- **Fourteen marks from the harbor authority for the nineteenth of January, payable on the first of February** — eighteen on the board, the eighth two and the share two off the top, nothing raised. **The same month has to hold the first four weeks of wages and the third of Sella Brigg's iron.**
+- **Sella Brigg's third of the shoal iron is to be paid in February.** The iron is unsold, worth twenty marks at a fair sale with a saw kerf in one crown shackle, and the whole stack is the charter's bond at a clerk's thirteen to the crew.
+- **A poor crew does not get rescued and a charter is not money.** Every mark that moves is on the page, read back, and dated. **Air, rope, food, the harbor's eighth and the harbor's share come off the top of anything raised, in that order, every time.**
+
+---
+
+## Hard rules — every one of these is inherited and none of it is negotiable
+
+1. **NO GAME-STYLE INTERFACE. This is absolute.** No panels, stat blocks, character sheets, status messages, floating text, quest text, skill trees, level-ups, or software vocabulary. **No second person. No prompt. No message that tells Calder what to do next.** The only message-like elements in this world are **claim seals, Registry notations, bell marks, written limits, gauges, the reeve's chart, the hearing room's slate wall, the crew's book, the market wall, the copying clerk's counter, the bonesetter's writing, and physical warnings.** A note about a bell is a bell. A thing a clerk enters is a clerk's entry. **Nothing knows anything.**
+2. **Every dive is inside the harbor line under a named instrument the harbor authority issues:** the **one-season provisional working charter** for general work on the authority's own ground, a **claim window** for a specific object and date, or a **work permit** naming a site and dates on a bond. **No chapter may put an unlicensed Calder past the imperial line**, and no permit silently widens past the site and dates it names. The charter is inside the harbor line, bounded by the outer marks and by four hundred yards off them, and **it may be suspended by the harbor authority at any time after an inspection, for cause.**
+3. **The second clause of the notice of the thirty-first keeps recovered transparent mineral out of every shed in this harbor.** The yard has never argued it and does not argue it. The notice is **not the harbor authority's to lift**, and the third clause catches only the authority's work — **and it names three men: Calder Marr, Nessa Pike and Bevin Rook.** **Ordinary harbor work landward of the third seam is outside the closure** and is lawful without a permit — a herring skipper's own ring on his own account, a mooring face, the first and second seams — **which is the only reason the yard has money.** The notice closes the mole's toe and inner face from the third seam to the eleventh and does not reach the twelfth, the dump, or water, and **no notice has ever closed water.**
+4. **A stated reason is entered in the harbor authority's book before the diver goes in, in Calder's own left hand, unedited, with the clerk present, and the clerk does not summarize it.** A **named tender who is not the diver**, an **independent line**, a **fixed air limit on the slate in two hands**, a **seated named weight**, and **a cutoff the tender can pull without asking anybody** — *Enough* — are read aloud, in order, with her. **The reason may state what is being done and may be short a purpose; the omission, when there is one, is entered in the yard's own book as an omission, with a date, and that is now the yard's practice.** **Nobody in the crew may ask the boy about it.**
+5. **Calder does not become a faultreader. No testing an object for one with an answer.** **The dressed aperture and the fouling that gives no hour, found on the plate on the sixth of December, were not seam work and must not be re-read as seam work.** If the word *seam* appears, it is Mara Venn's word, Kest's word, or a document's — it is used in this world for the **bedded seam in a mole's own foundation**, a physical thing, and **Calder does not adopt it as a reading and does not claim to read one.**
+6. **The compartment is spent and is not re-used as a reveal.** Clear opening **three foot nine by two foot four**; space **eight foot four by six foot nine clear and eleven feet two deep under the grating**; case **seven to eight feet in its longest face**; **the hatch is the only opening**; the harbor's own thirteen-year-old file says **not cleared, contents not removed**. **Three steps, in that order, whenever the finding is referred to at all — never the two-step form.** **No chapter may state or imply that the sealed case was in standing space number four.** The three Gannet documents stay three documents.
+7. **Ilya Serr appears as name, seal and office only**, always as *Magister Ilya Serr, senior Registry examiner* on a seal line, and **never in a room, through Volumes 1–8.** No minister, no ministry named, no room presence, no Gannet-lie reveal. **Halven Rook** may be named on paper and does not appear in a room. **Captain Veyra Holt** may be named, may sign, may send a paper, and is described from a distance only. **No new antagonist, no new institution, no new final enemy.**
+8. **The nine-line mark is not explained.** Do not name the **Nine Harbors**, the **Quietening** or the **Crown Seal**. The mark is a builder's mark of a pre-Accord construction, it is not a claim seal and not a mark of consent, and no office in Veyr can say what it is. It closes in Volume 5.
+9. **Alden Marr does not confess.** He is at the far bench, is not asked for anything, and **Calder does not go.** No fragment, no report talk, no second story. The partial confession begins in Volume 9; the original repair log is handed over in Volume 15; the plate note closes in Volume 4 with the removed file page.
+10. **The concealment closes the volume still hidden.** The Oren mark is **in no record, in no office, in no book, and not in Kest's chart notation.** What is on the record is the claim and the refusal to name: a boy's fifteen seconds and no name in the ledger; a slate that says the same; four *not stated* entries and a hand that declined to fill in the fifth on a conservator's certificate of method. **The one false line on the unverified note is left false** — two words would make it true, and a true slate with a boy's name in it is a document in a yard any man may read. **The concealment is three things and Chapter 60 widened the second of them: the false line; a boy with a book who has entered an omission nobody asked him for; and a woman with no standing left who knows what is in the anchor and has never been asked to say it.** **A concealment may be told once, to one person, in a private scene, at a price. It may not be told a second time for nothing, and this volume closes with it hidden.**
+11. **The answer inside the delayed note is reserved to the Volume 15 midpoint.** The call in it on the twenty-sixth of December is a grown man's, unhurried, further off, saying a thing to somebody who is not answering, and it went out into the water and it did not come back. **The eleventh of January and the nineteenth of January were logged with the note only and no call in it, twice, and the nineteenth was the third such occasion in a row, and the count of them is entered as a fact and is not a question.** **Nobody may name it, and nobody may treat three empty answers as an answer.**
+12. **The bell is not an instrument.** It **reads nothing, settles nothing and says no word.** Fouled waist, tongue half worn through, a year's rope, **a new tongue a day's work every four or five years for as long as that bell hangs**, and **the whole of the craft is the going out: a person, in a boat, in the weather.** Its mechanism, given in Chapter 55 by the man whose trade it is, is **a mechanism and not a mystery: the flood scours its seaward face and the fouling is what does the scouring, the plate under the mole's root never answered because nothing has moved over it, and a thing only speaks while somebody keeps the weather working on it.** It may never become an instrument that answers a question.
+13. **Corvin Sarn is the harbor's own bellwright of Morrow Quay, named in Chapter 55, about fifty, with a blacksmith's forearms, in that yard since the twentieth of October.** He is the harbor's bellwright and not the Free Keel's. **He teaches nobody.** He is a tradesman with a rope a year and a day's work every four or five years and an opinion about fouling. **No formal Bellwright stage is taken in Volume 2; that is Volume 5 and it requires a crew.**
+14. **No formal power stage is taken.** No Bellwright, Keelwright, Storm-Reader, Chorus Diver or Openhand stage. **Calder's growth in this volume is method**: a schedule, a tender, a fixed limit, a stated reason, a ground named in the paper, and other people in the room who know why. **The first of those is now in the yard's own book, in Nessa Pike's hand, and it is smaller than what the yard wanted, and Calder did not argue.** **Name the tinnitus once more before the volume closes if it is used at all, and never let it vanish silently.**
+15. **No custody object returns.** Three items, three numbers, **digits not quoted.** The municipal claim on the third item cannot be withdrawn without a request, and **the yard will not make one.** The custody-log re-entry of the twentieth of December gives no reason, and **no paper in this harbor or in the circuit office's copying room states what a municipal claim does to a presumed Crown material** — that sentence is a live instrument and **may not be answered by a clerk.**
+16. **The ten yards.** The withdrawal is **on a wall** — a fresh market-wall sheet in Calder's own hand, *the difference is withdrawn by the yard. See the sheet inside, which says why* — and **what is on no record and on no wall is the difference stated as a measurement.** The first of the three points is not a point: it is a bedded seam of about forty feet in the mole's own foundation, of which the yard used the south end as a position, and the yard has said so itself in print. **The reeve's ruling that no line may be drawn between the three points stands and is not lifted.** A chapter may add a place on the same bearing; **it may not draw a line between any of them.**
+17. **The first echo's witness stays where he is** — unnamed, unlocated, uninterviewed, and not to be resolved by a convenient anonymous letter or a surviving crew list.
+18. **Labor stays visible in every chapter that moves a day.** The forty marks twice; the wage from the first of February; Sella Brigg's third in February; the withdrawn cover; the note at thirteen; the cracked pump and the fact that a pump that cannot be worked cannot be hired out; the *Kittiwake* on the hard with no cradle; the harbor's crane and barge and the harbor's pump on the authority's own account; the north berth out of service and the ninth seam bought back and not worked; Elias Voke's statement of capacity; the hard at Ashtide; the hired hand-crank at a mark a tide.
+19. **Sera Mott may be asked once and may say no again**, and **nobody may enter her name in a record without her asking for it.**
+20. **The run under the town is a bearing and a bottom and nothing else.** Four hundred feet of ordinary figures, the bottom coming up landward at about a foot in thirty to **five and a quarter over a stone quay**, sounding on the nineteenth of January, with no diver. **The harbor authority has no chart of what is under the town because the town was built on it.** **Nothing in this batch may explain what is under the town, name it, or send anybody after it at night.**
+
+---
+
+## Shape — carried from Batch 0005's finding and confirmed by Batch 0001
+
+- **No chapter is two rooms.** Batch 0004's specific fault was four hearing-room chapters and two chapters far past the length guideline, and the fault cost it the two longest chapters in the manuscript. **Batch 0001 came in at 30,632 words with five chapters inside the 2,200–3,200 guideline, five past it, the largest by fourteen per cent, and no chapter that is two rooms.** Do the same or better.
+- **A chapter that wants to be a hearing room and a market is split across two days, with a body or a market or a boy in one of them.** The hearing room may now be used — it is the volume's own machinery and Movement 2 needs it — **but not in two consecutive chapters and not twice in one week.**
+- **The pressure types alternate deliberately.** Batch 0001 ran money and ordinary work, an office, labour and weather, family and a boy, craft and supply, action and bodily cost, recovery and aftermath, political pressure, preparation, discovery. **This batch should alternate away from that where it can**: the supply problem that takes two chapters to understand and one to pay for, three storm-exposed recoveries, a rival crew, the first of March arriving as a date with forty boats in it, and political pressure. **Ten speeches are not ten chapters.**
+- **Length: 2,200–3,200 words a chapter.** Where a scene will not compress, **let it run rather than drop a cost the crew pays.** A chapter long because it is one complete room is a different fault from a chapter long because it is two.
+- Every chapter must begin in motion, state a goal, meet real resistance, **change the situation**, complete an emotional or practical beat, and end on a decision, a cost, a discovery, a reversal or a consequence. **Never cut away mid-sentence or mid-action to manufacture suspense.**
+- **No duplicated paragraphs and no exact repeated sentences across the batch.** Check before you finish.
+
+---
+
+## What Movement 2 is for, from `outline/volume-02.md`
+
+**Movement 2, weather and the capacity of a harbor, Chapters 61–70.**
+
+**Three storm-exposed recoveries that have to be funded before they can be attempted, a supply problem that takes two chapters to be understood and one to be paid for, a rival crew, and the first of March arriving as a date with forty boats in it.** The charter is used the way a leash is used: for the harbor's benefit as much as the crew's, **and the difference is priced in somebody else's winter.**
+
+**Turn:** the coast office's word *capacity* is answered, **and the answer is a document the yard did not write and cannot fix.**
+
+**Job list for this batch, drawn from the volume outline and the state of the yard on the morning of the twentieth of January:**
+
+1. **The supply problem**, understood rather than announced: a pump that cannot be worked and therefore cannot be hired out, hired gear at a mark a tide, a boat with no cradle, an air pot a third gone, and the harbor's gear on the authority's own account. It takes **two chapters to understand and one to pay for**, and the paying is in somebody else's pocket or it is not paid.
+2. **Three storm-exposed recoveries, funded before they are attempted.** Every recovery spends a safe diving day the crew cannot replace, so **every later dive is worse weather or worse gear.**
+3. **A rival crew.** Free Keel has no central leader and is broke and suspicious of its members; a rival claim on work, on gear or on a ground is available and is not a villain.
+4. **The first of March as a date with forty boats in it.** The **north berth is out of service** and takes a northeast blow; the **ninth seam is bought back and not worked**; three tide-gang men are lost in the last week of February; **nineteen winters of dues are disputed and unpaid**; and the coast office has still had no answer.
+5. **Elias Voke's statement of the authority's capacity to moor the fleet**, which he will write himself, for nothing, and in which he will put the north berth, the ninth seam and the boy's name — **and the yard's debt to Mara Venn is not paid, and the first four weeks of the boy's wage fall in the same month as the authority's fourteen marks.**
+6. **The second request.** The circuit office's request of the thirtieth of December is unanswered. **The fourteen days expire on the thirteenth of January and the second seal is owed on the twenty-ninth.** A second seal is a delay and not a refusal. **Mara Venn is not the addressee, is named in the copy as a door already tried, has no standing to refuse anything, and does not break with the Registry in this volume — her break is Volume 4.**
+7. **The hard at Ashtide, unanswered**, and the coast that is poor and busy and short of a hard.
+8. **The leash lengthens.** A one-season provisional working charter is not a permission to work whenever the holder feels like it. **Its price is a second season's problem and the volume's clock is the first of March, which must arrive on the page in this batch and not be deferred to the end of it.**
+
+**The Volume 2 midpoint is NOT in this batch.** It falls in the middle of Movement 4, Chapters 81–90: **a fisher's account of a coast road that no current chart includes, and a claim seal Mara Venn proves forged.** A **coast road** may be *spoken of* in Movement 2 — a fisherman may describe water he has used that no chart carries, and the description may be refused, doubted, or set aside for want of a boat and a tide — **but the account and the forged seal are Movement 4's, and Movement 2 may not prove a seal forged and may not resolve the road.** Do not spend the midpoint early.
+
+**The volume's climax is NOT in this batch.** It is Chapters 91–100: the rescue in a glass storm, the destroyed equipment, the provisional writ with a reporting clause attached. **Do not begin it.**
+
+---
+
+## Method
+
+- Write **finished prose**, not outlines and not beat lists. Natural paragraphs, generally two to six sentences, varied rhythm. A one-line paragraph only as a deliberate dramatic beat.
+- **No duplicated paragraphs and no exact repeated sentences across the batch.** Check before you finish.
+- **Every character acts from motive.** Kest is not a villain and does not enjoy harm. Sella Brigg is not a woman who offers. Mara Venn is not an assistant and does not become one. Elias Voke is a herring skipper and not a plot device. **Bevin Rook is a boy of twenty-two who is owed money and is owed none of it, with a hand that will not close and a wrist that will not either.** The copying clerk is a man who fills in a box and says what a box does; he is not an antagonist and must not become one. Corvin Sarn is a tradesman and does not teach.
+- Do not repeat a mechanical filler word as a tic. Vary *held, steady, plain, counted, breathed, wrote, nodded*.
+- **Ground the sensory detail** — cold hands on a lead, tar, weed, fouling, the sound of a bell through a mole's foot, the weight of a warp on a wet wall — without loading every paragraph with description.
+- **Read what you have written against the cards and the locks, and check every figure and every date against the calendar above before you call the batch done.**
+
+---
+
+## After the ten chapters, update these and nothing else
+
+- **`state/chapter-summaries.md`** — one entry per chapter, 61 to 70, two to five sentences each, under a new heading for Volume 02 Batch 0002, recording what the scene changed, what new canon it established, what it cost, and which thread it closed or opened. Do not alter the Volume 01 index.
+- **`state/continuity.md`** — append a new section **Batch 0002 as written (Chapters 61–70), binding on Chapters 71 onward**, with: the calendar the batch actually ran on; the money chain mark by mark; every document and instrument created; the dated positions of the charter, the berth, the ninth seam and the wages; the bodies and the crew; the delayed note's new entries; **and the costs the volume may not waive again.** Propose no canon change you have not flagged.
+- **`state/open-threads.md`** — mark each thread you moved **PAID**, **PART** or **CARRIED** and name the volume that closes it, add any new thread with its closing volume, and add any change to the power rules, the consent rules, the mystery chain or the ending as an author-level decision.
+- **`state/current.md`** — the story state at the end of Chapter 70: the volume's position, the active pressures going into Chapter 71, the relationship pressure, the power state, the money, the bodies, the dates. **Update the *next writing phase* line to point at the prompt you create below.** Leave the Volume 01 material in that file alone; it is audited.
+- **`outline/batches/volume-02-batch-0001.md`** — leave it. It is the plan for the batch that is written and the cards stand as written.
+
+**Do not edit:** `state/phase-ledger.json`, `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json`, the six bible files, `outline/series.md`, `outline/ending.md`, `outline/volume-01.md`, `outline/volume-02.md`, `reviews/`, or any existing chapter.
+
+**Do not create** a `.done` or a `.retired` marker. Phase status is the controller's.
+
+---
+
+## Queue exactly one phase, and nothing after it
+
+`AGENTS.md` requires it and it is the whole reason the next batch can start. Look at `outline/volume-02.md` first: **Chapters 71–80 are Movement 3, the paper that asks for the book**, and the cards for them do not exist and are not yours to write in detail.
+
+Create **`workspace/volume-02/batch-0003/PROMPT.md`**, the writer phase for **Chapters 71–80**, built from `outline/volume-02.md` and the state files as they now stand, carrying every hard rule and every lock in this prompt forward, stating the corrected calendar and the corrected starting state with the actual figure in the bag at the end of Chapter 70, the shape instruction, the no-interface rule, and a summary of Movement 3's job: **the circuit office's request is answered and re-asked, naval confiscation of a working boat happens in daylight and is done with a form, the crew's own public record is turned against it in a room it cannot leave, and the ten copies become the thing a crew is asked to hand back — and the turn is that a public record is a thing other people can now use, including against the yard, and cannot become private again without losing the only protection it has.**
+
+**Create nothing beyond that.** No later Volume 2 prompt, no volume-close prompt, no markers.
+
+**Finish by reporting:** the ten chapter files with their word counts; anything you could not honour from the locks and why; and any proposed canon change, in `state/open-threads.md`, not in that report.
