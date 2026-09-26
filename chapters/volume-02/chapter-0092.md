@@ -14,13 +14,13 @@ She did not stop unpicking. "You have said no to me twice in seven months and bo
 
 "Nessa—"
 
-"I know the reason," she said. "I worked it out on Saturday night and I want you to hear it and then I am going to go and ask him for a line of credit and it is going to be a different thing, and I am not going to tell you which." She put the needle down. "A yard that goes to its creditor with no date in its hand is a yard that has admitted it has nothing. He came down to the dock on the thirty-first of March and you said it at the head of your own wharf in front of about forty people, and you were right, and he has not been up here since.
+"I know the reason," she said. "I worked it out last night and I want you to hear it and then I am going to go and ask him for a line of credit and it is going to be a different thing, and I am not going to tell you which." She put the needle down. "A yard that goes to its creditor with no date in its hand is a yard that has admitted it has nothing. He came down to the dock on the thirty-first of March and you said it at the head of your own wharf in front of about forty people, and you were right, and he has not been up here since.
 
 "But a line of credit is not a fortnight and it is not a date. A line of credit is a man writing down that he will sell this yard bread in June. If he puts that on a page and dates it, then in June this yard can be a yard that was given something, and a yard that was given something can ask for a thing. There is no shame in a man being given bread in June, Calder, and there is a great deal in him going and asking."
 
 "Then go and ask for it," Calder Marr said.
 
-"I have," she said. "On Saturday I was in his shop for twenty minutes on the strength of the fire being in a coal store, and I did not ask him for a line of credit, I asked him whether he had ever had a handbell rung in a market in this harbor in his life, and he said no, and I said what it was for, and he gave me a half pound of candle ends for nothing and would not take anything for them and I did not offer. I bought nothing. I am telling you the whole of it because you will otherwise work out on Friday that there is half a pound of candle ends in this shed and wonder where they came from, and I would rather you were told by me and read it in a book."
+"I have," she said. "At eight this morning I was in his shop for twenty minutes, on the strength of the fire being in a coal store, and I did not ask him for a line of credit, I asked him whether he had ever had a handbell rung in a market in this harbor in his life, and he said no, and I said what it was for, and he gave me a half pound of candle ends for nothing and would not take anything for them and I did not offer. I bought nothing. I am telling you the whole of it because you will otherwise work out on Friday that there is half a pound of candle ends in this shed and wonder where they came from, and I would rather you were told by me and read it in a book."
 
 "That is a fact in the first column," said the boy.
 
@@ -44,7 +44,7 @@ The mending went on. He counted on his fingers of the left hand, which was the b
 
 The fish market on the twenty-fifth was a Tuesday market and a Tuesday market is not a Saturday market. There were four women at the head of the boards who wanted sixpence more a crate than they wanted on a Saturday, and about two hundred people in it, and the first hour of it is a negotiation and the second hour is a noise.
 
-The yard was in the second lay until two in the afternoon and came back up the hill with a wet coil of the yard's own line over a shoulder, and a man from the second lay stopped it on the steps to say that a man with money had been in the market on Thursday the twenty-second asking for the pump for two days at four marks, and that he had gone down to the shed and the pump was on the mole, and that nobody had been free to go and fetch it, and that he did not know whether the man would have paid.
+The yard was in the second lay until two in the afternoon and came back up the hill with a wet coil of the yard's own line over a shoulder, and a man from the second lay stopped it on the steps to say that a man with money had been in the market on Saturday the twenty-second asking for the pump for two days at four marks, and that he had gone down to the shed and the pump was on the mole, and that nobody had been free to go and fetch it, and that he did not know whether the man would have paid.
 
 "Write that down," the boy said.
 
@@ -54,19 +54,19 @@ By three o'clock the yard was on its feet on the boards and the market had found
 
 Then the handcart came up the middle of the boards with a slate nailed to the side of it, and the man who wheeled it was a stallholder's boy of about nineteen, and he stopped at the head of the boards and read out what was on the slate, and this is the whole of what was on the slate:
 
-*This is for the second lay. There is more than one man in this harbor who has beenwet to the waist since Friday and cannot get dry. What is wanted is not a collection for a fire. The fire is out. It is for the hose.*
+*This is for the second lay. There is more than one man in this harbor who has been wet to the waist since Friday and cannot get dry. What is wanted is not a collection for a fire. The fire is out. It is for the hose.*
 
-Nobody moved for about four seconds. Then a man who sells eels put in one shilling and would not give his name, and a man in a smock put in two and would not say where he worked, and two women behind a crate put in a shilling between them and laughed about it, and somebody put in threepence twice, and by the time the boy from the stallholder's cart said it out loud again there was eight shillings in the tray and the market was in the way, and the thing that happened next is the thing this chapter is for.
+Nobody moved for about four seconds. Then a man who sells eels put in one shilling and would not give his name, and a man in a smock put in two and would not say where he worked, and two women behind a crate put in a shilling between them and laughed about it, and three more men put in a shilling each, one after another, and would not say what they worked at, and somebody put in threepence four times, which is a shilling, and by the time the boy from the stallholder's cart said it out loud again **there were eight shillings in the tray** and the market was in the way, and the thing that happened next is the thing this chapter is for.
 
 Edric Pringle came down the boards in her oilskins and put four marks in the tray and would not let anybody say a word about it for about a minute.
 
 "You will not stand there and be thanked for that," she said.
 
-"I am not being thanked for it," Pringle said. "I am going to stand here and be stopped from being thanked for it, because I have had a fire and a warp come off my own wharf inside forty hours and I am fifty-four and I have been difficult about money with three men in this harbor and one of them is on this board, and I am not having this yard tell the market that I am a good woman. It is a hat. There is a number on a slate and the number is eight shillings and four and that is the whole of what happened on the boards this afternoon and if anybody writes it down anywhere I will read it and if one word of it is a word about me I will take my four marks out of it in front of you."
+"I am not being thanked for it," Pringle said. "I am going to stand here and be stopped from being thanked for it, because I have had a fire and a warp come off my own wharf inside forty hours and I am fifty-four and I have been difficult about money with three men in this harbor and one of them is on this board, and I am not having this yard tell the market that I am a good woman. It is a hat. There is a number on a slate and the number is **eight shillings out of that tray and my four marks on the top of it** and that is the whole of what happened on the boards this afternoon and if anybody writes it down anywhere I will read it and if one word of it is a word about me I will take my four marks out of it in front of you."
 
 "Enter it exactly as she said it," Nessa Pike said, "and enter the amount and the hour, and enter that she put in four marks and would not be thanked and named herself for the putting-in and not for the rest of it, and enter that she has not asked this yard for anything and has not been asked for anything."
 
-"And in the second column," the boy said, "write that no man in this harbor can check what eight shillings and four is worth, and that the number is not a measurement and the hat is not a survey, and that a market in a bad week is not a figure anybody can put on a wall in four years."
+"And in the second column," the boy said, "write that no man in this harbor can check what eight shillings and four marks is worth, and that the number is not a measurement and the hat is not a survey, and that a market in a bad week is not a figure anybody can put on a wall in four years."
 
 "Put that in the book and read it back and I will sign the line of it, and then read the whole thing to the man with the slate so that he can strike out anything you have got wrong, and if he strikes out one line I will not put the other seven back in."
 
@@ -78,7 +78,7 @@ The four who read it back were the boy, the yard, Nessa Pike and the man with th
 
 ---
 
-Eight marks in a bag on the evening of Tuesday the twenty-fifth of April, and nothing on the note, and two crowns in a tin, and four feet of somebody's fire in the yard's own shed and a great deal of it still wet on the boards and no line to put it on.
+Eight marks in a bag on the evening of Tuesday the twenty-fifth of April, four shillings of them out of a tray at a fish market and four marks of them off a woman's own hand, and nothing on the note, and two crowns in a tin, and four feet of somebody's fire in the yard's own shed and a great deal of it still wet on the boards and no line to put it on.
 
 At the end of the week, when the boy read the last of it back, he said the thing nobody had asked him for and had not been asked to say, and he said it in the way he says things, which is flatly and in the middle of a list and not at the end of it.
 

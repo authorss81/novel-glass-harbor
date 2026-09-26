@@ -8,19 +8,19 @@ The clerk of the harbor authority came up the hill at eight in the morning on Th
 
 "Read them," Calder Marr said. "And read the fee before either of the other two, because the fee is the only one of the three that is a fact."
 
-The fee was one shilling and sixpence. It was entered in the office's schedule of charges in the schedule's own hand and it was not returnable, and the clerk said out loud on the steps that this office did not waive it and could not if it wanted to, because the schedule was made by somebody who was dead, and that it was the only money that had gone into that office's account in this harbor since the middle of February, and that he would like the room to understand what that was: a mark and sixpence, and a reeve's coat that had been to a tailor in Veyr in February.
+The fee was one shilling and sixpence. It was entered in the office's schedule of charges in the schedule's own hand and it was not returnable, and the clerk said out loud on the steps that this office did not waive it and could not if it wanted to, because the schedule was made by somebody who was dead, and that it was the only money that had gone into that office's account in this harbor since the middle of February, and that he would like the room to understand what that was: a shilling and sixpence, and a reeve's coat that had been to a tailor in Veyr in February.
 
 Nessa Pike went down the hill with it at a quarter past eight and came back at half past with the tin.
 
 The tin had two crowns in it and it had held two crowns since the first of February, and it was the last thing in that shed that had not been opened since the year turned, and she took it down in front of three people and did it without saying anything at all about it, and put one shilling and sixpence on the step for the clerk and took the rest back inside and put it where it had been.
 
-"That is a mark of the yard's out of a tin that was not a mark of the yard's," she said, "and the tin is the only thing in this shed that had not been touched since the first of February, and it has now been touched once, and there is a table in that office with a line on it and the line says *and that is all*."
+"That is a shilling and sixpence of the yard's out of a tin that was not a shilling and sixpence of the yard's," she said, "and the tin is the only thing in this shed that had not been touched since the first of February, and it has now been touched once, and there is a table in that office with a line on it and the line says *and that is all*."
 
 ---
 
 The air was the argument, and it went on for an hour and a half, and the reason it went on for an hour and a half is that both of them were right and the thing could not be made right.
 
-The pot had been standing in the shed behind the pump housing with the strap undone and nothing done to it since Friday the seventh of April, when Calder Marr had put two marks out of a bag of twelve into a pot in a chandler's shop because a day was coming on the Thursday of the following week that would want a pot filled, and a pot is filled before it is wanted, and there was no pot in this yard that was filled on the day it was wanted.
+The pot had been standing in the shed behind the pump housing with the strap undone and nothing done to it since Friday the seventh of April, when Calder Marr had put two marks out of a bag of twelve into a pot in a chandler's shop because a day was coming that would want a pot filled, and a pot is filled before it is wanted, and there was no pot in this yard that was filled on the day it was wanted.
 
 "It is three weeks old," Nessa Pike said. "Whatever is in it is three weeks old. Air does not sit in a pot for three weeks in a shed in April and stay the same, and I cannot tell you how it will be and neither can you and neither can the man who sold it to you, and if I write *air* on a slate tomorrow and four hundred pounds of that pot goes into a man on the bottom of the mole's toe at four fathoms, then the slate was a lie and the day was a lie and the yard is a thing that writes down lies and does it well."
 
@@ -32,7 +32,7 @@ The pot had been standing in the shed behind the pump housing with the strap und
 
 "It is putting the *shape* of it on a wall," she said. "The worst of it is that we had nothing. The shape of it is that we went anyway and said what we had."
 
-The boy wrote it and it went in the reason, and the reason was on a sheet in Calder Marr's own left hand, and the clerk read it out in the hearing room over the tide-gang store at half past nine on the Thursday morning with the slate wall behind the reeve's bench bare and wiped at eight and the ledger on the table, and the ledger is the record.
+The boy wrote it and it went in the reason, and the reason was on a sheet in Calder Marr's own left hand, and the clerk read it out in the hearing room over the tide-gang store at half past nine on the Thursday morning with the slate wall behind the reeve's bench bare, as it has stood since the fifteenth of March, it being wiped every Monday at eight whatever is or is not on it, and the ledger on the table, and the ledger is the record.
 
 ---
 
@@ -68,7 +68,7 @@ The second went down at ten past twelve and the two went to the bedded material 
 
 Neale held the tender's line and did not go in the water and said, at about one o'clock, to nobody: "I have read a tide-gang notice in my life and I have never once been the name on it. Thank you for writing me down before you wrote yourselves down."
 
-The eighth and the share came off the top of a day rate, the air at the yard's own two marks and the pump at the yard's own four, and the harbor authority paid both on the office's own account and not out of any fund of the yard's, and the clerk entered the hire and the rate and the two lines of the reason that said the party was not on the office's work, and read them back, and the wall was bare and the ledger had it.
+The eighth and the share came off the top of a day rate, the air at the yard's own two marks and the pump at the yard's own four, and the harbor authority paid both on the office's own account and not out of any fund of the yard's, and the clerk entered the hire and the rate and the two lines of the reason that said the party was not on the office's work, and read them back, and the wall was bare and the ledger had it. And then the clerk counted six marks out of his own coat and put them on the step in front of three people and made the boy write the hour against them and read it back twice, because a hired day at a yard's own rate is the only money this harbor has paid that yard since the first of February, **and the bag is thirteen at the end of the twenty-eighth of April and not one mark of the six came out of the yard's own work.**
 
 ---
 

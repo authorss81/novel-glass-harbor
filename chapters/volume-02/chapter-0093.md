@@ -2,9 +2,9 @@
 
 *The Green Water*
 
-It came on the Wednesday out of the north-north-east with the glass still falling at four marks an hour, and it came on the town the way it came on the sea, which is to say that a man in Morrow Quay at twenty to five in the morning could not tell whether the water had come up the harbour or whether the harbour had come up him.
+It came on the Wednesday, the twenty-sixth, out of the north-north-east with the glass still falling at four marks an hour, and it came on the town the way it came on the sea, which is to say that a man in Morrow Quay at twenty to five in the morning could not tell whether the water had come up the harbour or whether the harbour had come up him.
 
-Bevin Rook got up at four because he was twenty-one and has been getting up in the dark since he was nine, and he went out to the head of the dock in his boots and stood there, and came back in about ten minutes with his coat streaming and said one sentence in the doorway and it was this: "There is a green sea inside the harbour and the second lay's store roof is being salted."
+Bevin Rook got up at four because he was twenty-two and has been getting up in the dark since he was nine, and he went out to the head of the dock in his boots and stood there, and came back in about ten minutes with his coat streaming and said one sentence in the doorway and it was this: "There is a green sea inside the harbour and the second lay's store roof is being salted."
 
 He said it in the doorway because he was not going to stand in a warm shed and say a thing like that, and the yard and Nessa Pike were both in the shed and both were awake, and the sentence took about a quarter of an hour to do its work on the three of them.
 
