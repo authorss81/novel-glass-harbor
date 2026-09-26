@@ -2,7 +2,7 @@
 
 ## Canon status
 
-The bible and planning outlines are canon. No chapter event has occurred yet, so no aftertaste, recovered object, legal status, or relationship change exists in the active story timeline until Batch 0001 is written and reviewed. Every fact below is an author-level lock for drafting, not an event that has happened on the page.
+The bible and planning outlines are canon. **Volume 01, Batch 0001, Chapters 1–10, has now been written and is the authority on what has happened on the page.** Every fact below is either an author-level lock for drafting, or a fact established in the finished prose, and the two are marked. The first section of this file is unchanged author-level canon; the section **Batch 0001 as written** records what the prose actually did and is binding on Chapters 11 onward.
 
 ## Fixed opening facts
 
@@ -90,6 +90,83 @@ Volume 1 may establish the existence of the Gannet Cut, the glass fleet, the *Vi
 - The compartment measurement is not proved in this batch. The batch may make the contradiction testable, and the physical proof waits for the Volume 1 midpoint.
 - The batch ends with a twelve-day disputed-claim defense, a logged hearing impairment, a naval salvage claim filed alongside the Registry's seizure order, and the *Vigil*'s arrival.
 
+## Batch 0001 as written (Chapters 1–10) — binding on Chapters 11 onward
+
+### Objects and custody
+
+- **The transparent shard** and **the weathered hull plate** are in the **Morrow circuit custody room** as **two separately entered items under two numbers**, written by the Registry courier in a small square hand on the back of the second sheet. **The specific numbers are deliberately not quoted in the prose and must not be invented retroactively**; if a later volume needs them on the page, they may be given digits at that point, and until then they exist only as "two numbers."
+- The plate is entered as a transparent hull plate of undetermined origin, with the seam as Mara described it and the aperture as sealed and unopened. The shard is entered as one object of undetermined origin. No office in Veyr has to care about either, because the claim window closed on both the same day.
+- The **freed shoal iron** stays with the Free Keel on the yard stack, with a harbor-authority float line still on it. Its crown shackle carries a bright **saw kerf** nearly through at the point of the wear, and it was loaded again after the cut. Nobody claims it and the harbor does not fight over iron.
+- The **drifted storm anchor** stays bedged in the mole's toe off the third seam under a marked lead line and a rag float, with **Kest's own mark on the float** and a clause in the surrender releasing the Free Keel's claim to it. It is municipal tackle and it wants a proper lift with a crane, a chain, a slip's crew, and an hour written against it, on Kest's authority and at the harbor's cost. It has not been touched and must not be touched.
+- The **pale run on the shoal bottom**, the transparent keel rib, and its continuous keel line with eleven keys are the same object. Calder sighted it, sounded along it, measured four foot two by eleven inches on the plate, and did not let the boat over it. The second clamp went on the rib and the rib settled two or three inches, so the outer third of the rib was given up. **The permit boundary stopped them a few fathoms short of the rib's outer end**, which is past the harbor line.
+
+### Documents that now exist in the world
+
+- The **salvage labor log** for the two permit dates, countersigned by Kest, with *air consumed, stated by the watch* underlined in Kest's hand. Bevin Rook's reading of the air column is on it.
+- The **public provenance duplicate**, made in the yard in one sitting, with four copies. It is a record of the objects and not a copy of anything inside them. It is posted on the fish market wall and stayed up after Kest withdrew the gag. It names every hand: Marr, Rook, Pike, Wren, Mott, and Venn as independent witness.
+- The **anchor-bearing sheet**, which is the yard's own drawing, with the mole's seam, the shoal, the *Alder Reach*, three independent bearings with times and the man who took each, and the run of the pale line. The three bearings agree inside four degrees.
+- The **scaled plate drawing** with the eleven keys marked in Calder's hand and the note *continuous west, no break, no join*.
+- Calder's **unverified memory note**, on a slate, headed as the evidence heard by Calder Marr, unverified, from himself, and not corroborated by any document, witness, instrument, or second person. **It is kept physically separate from every physical finding and must stay separate in every later reference.** It contains one line that is not true, written deliberately: that the personal association was confirmed by the diver and not disclosed. He never tells Mara what the Oren mark is.
+- Mara's **separate condition sheet**, not the Registry book, holding the six stated conditions, the named tender, the fixed air limit, the written reason for the entry, and the anchor described as a brass rigger's hand bell, family property, **association with the site not established**, with Calder's own statement that he does not know where the bell was at the time of the scene.
+- The **crew's book entry** recording Calder's hearing impairment in the top margin, in his own hand, countersigned by Nessa Pike and read by Bevin Rook: ringing in both ears, a second sound arriving late, sounds on the quay hard to place, unable to tell reliably which sound belongs to the room.
+- Kest's **fish market notice** and the *Vigil* officer's **paper** forbidding the Free Keel to approach, sound, work, or lie within **four hundred yards of the Gannet Shoal outer marks**, with the harbor authority's instruments over that ground stated to have lapsed.
+
+### The plate's three repair histories, in order
+
+1. A **keyed keel seam** down the long side with a good grey compound of mica, pine resin, and ash. Calder states as his own testimony that this is a **Morrow Quay yard mixture** used by his father, his grandfather, and his great-grandfather, and possible in only four harbors on this coast. It is the only fact in the examination that ties the plate to a *place* rather than a *date*.
+2. A **patch in the upper quarter** in iron from a mill that closed its furnace two generations before the Serein Accord. This kills the short chain Calder wanted: the plate was already broken and being repaired long before the Gannet. Mara gave this as a **ceiling, not a date**, and that wording is in the record.
+3. A **Crown-shop bolted flange** over a cut aperture in the lower corner, with stamped studs on a jig spacing, and **darker, older glass under the lid** that has not gone the way the rest of the plate has. Mara calls the aperture a **chamber** with something settled in it and refuses to let the lid be lifted in a shed.
+
+### The nine-line mark
+
+The **custody mark of nine joined lines** is on the **underside of the plate**, clear of fouling, standing about two inches proud, cut with a tool rather than a mould, made of harder grey glass. It predates every Registry mark. Mara's reading, which is binding: it is a **builder's mark, not a claim seal, not a cargo seal, and not a mark of consent**; it describes a thing **held together from more than one place** rather than a thing owned; the plate's own construction is **older than the Serein Accord**; she will not name a builder, and she has asked and been told no and believed them. The **Nine Harbors are not named anywhere in the batch and must not be named in Volume 1.**
+
+### The shard's provenance, kept separate
+
+- The shard's **cut edges and flange form match a public Crown yard specification for mnemonic case plating** filed with a refit account for another vessel. This is a *compatibility, not an identification*. Any yard that had the pattern could have cut a case.
+- The case's **own dimensions are not known and cannot be known from public papers.** A bellwright can give a **length and breadth as a range within a foot either way**, from the plate thickness and the flange diameter plus the two-hundred-year-old workshop rule about flange allowance. It is recorded as a range, not a number.
+- The shard's **origin ground** is placed on the same bearing as the *Vigil*'s recorded mooring, by the three bearings and the public mooring line. The plate's builder's mark tells the crew nothing about the shard, and the shard's cut edges tell the crew nothing about the plate. Every document, drawing, and measurement keeps them as two objects with two provenances.
+- The **ferry's compartment is not proved.** The survey's ninth page gives number four as eight feet four by six feet nine clear and eleven feet two deep; the case range is between seven and eight feet in its longest face; the manifest says the hold stood empty. The two numbers are now in the same room for the first time and the contradiction is **available to anybody who holds all four documents**, but nothing has been measured at the site and the site is past the harbor line. **The physical measurement that proves it belongs to the Volume 1 midpoint.**
+- The **public pressure log's three-second gap** is now read by Calder and Mara together: a hand was elsewhere for three seconds and then returned, and the mark after the gap is heavier. It proves nothing about motive and is not a lie, because nobody composed it.
+
+### The first echo, as written
+
+- **Whose witness:** a *Vigil* rating who helped carry the sealed case, on the near end, because he was the smallest and could not be seen from the rail. He is **never named, never located, never interviewed, and never proved to be a *Gannet* casualty.** The gloved hand with the caulking-iron callus is something the witness *saw*, not his own body.
+- **What the scene shows:** a case crossing a loading space, a man with a paper reading numbers and a phrase containing *standing empty* twice and turning the paper over while the case passes, shouted words from behind and above that come apart in the middle, a tagged keel-line at deck level, a gloved hand closing on a fitting and going out of frame before anything is shown to be cut.
+- **What it does not show:** the case's mark, the case's dimensions, the space's dimensions, where the case came from or went, the far side of the deck, whether any other record corrects the spoken count, and who acted later.
+- **The frame tears** into a doubled, hard-rimmed edge with a hard bright rim and something moving behind it. Calder stops pushing and does not enter it. Mara calls this a **possible seam** and writes the consequence: a seam on a loose fragment is a nuisance, a seam on a panel still joined to a keel-line is a splinter that travels to the next panel without asking it. Her handling note: held separated, no keel-line contact without a written plan, no bell entry without a conservator present and a stated reason.
+
+### Bodily state after Chapter 6
+
+- **Tinnitus**, continuous, with a **second sound under it that arrives late** — the recorded loading bell of the *Gannet*'s loading space. Calder's ordinary harbor bells now overlap it, and on a test he turned toward the wrong bell. He cannot reliably tell which sound belongs to the room.
+- **A rope-burn reenactment** on the right forearm, four inches, fresh, in the shape of a line over a hand, beginning the moment the hatch opened rather than in order.
+- **Emotional aftertaste** strong enough that he answered Nessa in **Oren's call mark** — a low short call with a lift at the end, three marks and a flick — without deciding to, on a rotten platform two nights later, and did not know the words in it were *I'll take the near end, I'm smallest*.
+- **No second entry** is possible while he carries this one, and no entry at all until **two clean daylight looks** have happened. He is off the water for **twenty-four hours minimum** on Nessa's measurement, pending the burn closing.
+- He is **not a faultreader**, has never claimed to read seams, and cannot judge whether any part of what he saw is true.
+
+### The named-tender cutoff, as a physical method
+
+A wire runs from the diver's harness up inside the hose to the tender's hand, made fast to a cleat on the working deck with a good long turn and a half hitch. It means nothing until the tender puts her weight on it and goes over the fall; then the clip comes off the shoulder and the diver is a man on a line with a man on the surface. The tender's word is **"Enough,"** said **once** and not twice, because twice is a conversation a man can join. **Nessa Pike was the named tender, held the line, and called it**, and Calder surfaced with seventy minutes of air unspent. A slate signed at the platform in Chapter 5 and again in Chapter 7 records that the tender's decision stands without discussion while the diver is attached, and that the diver is right about the going down and the tender is right about the going up. **This is the same procedure used in Volumes 14 and 15.**
+
+### Caleb's revealed private object
+
+**Oren's brass rigger's hand bell**, a hand's-breadth thing with a hard brown handle gone shiny, a filed-down lip where somebody once hit it wrong, and a plain iron collar soldered into the shoulder. Calder has carried it since the day after he was told and has never told a human being in Morrow Quay that he has it. He told Mara in front of the crew, in Chapter 5, and let her write down that the association is *not established*. It is the only personal object he has shown anyone. **It is not a power, a charm, or a retrieval device, and it must never be shown to work.**
+
+### Legal and economic state
+
+- **The shoal work permit is spent.** Two dates: the Chapter 4 dive and the Chapter 5 bench day. The two paid working days are gone and neither is refundable. The yard earned nothing on the bench day.
+- **A twelve-day disputed-claim defense**, entered by Kest in the harbor authority's hearing room, holding for twelve days, lapsing on the thirteenth unless a sitting is held.
+- The **naval salvage claim** over the whole Gannet Shoal ground was lodged at ten-forty on the day of Chapter 9 and reaches past the harbor line, which a naval claim is not bounded by. A *Vigil* tender set floats on the bearing of the pale run.
+- The **air pot is a third gone**, the chandler's note is eleven weeks into six, the pump housing cost is absorbed, the new clamp is lost overboard, the doubled hose is scrap, the mole anchor's float line is Kest's, and the *Kittiwake* wants a cradle before the winter gales.
+
+### Authority and honors as written
+
+- **Magister** enters the prose for the first time in Chapter 8, in the seal line of the Registry seizure order: *Magister Ilya Serr, senior Registry examiner*. Calder has never met him, reads the word as part of a form, and learns nothing about him. Mara says she has read his examinations for three years and that he is very careful, and explicitly declines to put even that in a record. **Ilya is not called minister anywhere in Volume 1, and the Office of Returning Memory is not named as such in Chapters 1–10.**
+
+### The place named at the end of the batch
+
+**Orison** is named once, by Tobias Wren, as what lies west-southwest of the bearing at a hundred and thirty fathoms down, with the flat statement that nobody on this coast goes there and that every old fool on the quay has a story about it and not one of them is any good. There is **no map, no route, and no purpose**, and the batch establishes only a broad physical direction.
+
 ## Deliberate soft points, to be settled when the volume that needs them is outlined
 
 These are known seams in the long plan. They are not errors, and no batch should close them by improvisation.
@@ -99,6 +176,23 @@ These are known seams in the long plan. They are not errors, and no batch should
 3. **The abandoned Oren lead in Volume 5.** Calder saves a living Lowfen bell archive and gives up a lead on Oren to do it. The lead's specific content, and whether it ever resurfaces, is not yet fixed.
 4. **Lira Venn's function.** She is defined in the bible and must be used before her later role in duplicating public records matters, but the volume that gives her that work is not chosen. She cannot be invented into a plot after the fact.
 
+## Batch 0001 costs the volume may not waive again
+
+These are now debts on the page, not plans. Chapters 11 onward must be able to point at them.
+
+- **Money:** a third of the air pot spent, a cracked pump housing absorbed, a replacement clamp lost overboard, a doubled hose run once and then scrap, a forty-mark permit bond, forty marks for a certificate of a public record's figures, eleven weeks into six on the chandler's note and rising, and a *Kittiwake* cradle not yet bought.
+- **Body:** a rope-burn reenactment on the right forearm, tinnitus with a second bell a third of a second late, hearing confusion, and a twenty-four-hour minimum off the water.
+- **Time:** two paid working days spent, one on the water and one at a bench that earned nothing, and the permit's two dates consumed with nothing turned into salvage.
+- **Standing:** both pieces of glass surrendered, the crew's wages insecure, Calder's shoal permit gone, and a naval claim sitting on the only ground where the compartment could be measured.
+- **Authority:** Calder gave Nessa the standing shutdown and gave Bevin the logbook job, in front of the crew, on the record.
+
 ## Rules for recording canon changes
 
 Any proposed change to a world rule, a character's locked motivation, the mystery chain, the ending, or the no-System rule is written into `state/open-threads.md` as an author-level thread with a flag, and is never applied silently in a chapter.
+
+Two items were resolved silently in the drafting of Batch 0001 and are recorded here rather than treated as new canon:
+
+1. **The anchor for the first echo entry.** `outline/batches/volume-01-batch-0001.md` requires a physical anchor and no Gannet-associated object existed in the cast. The prose supplies Oren's brass rigger's hand bell, a private keepsake from before the ferry, and the prose has Mara record the association to the site as **not established** and Calder state that he does not know where the bell was at the time of the scene. This is a personal object, not a world rule, and it is the first thing Calder has ever told anybody he owns. No rule about anchors is changed.
+2. **The working-day labels.** The batch card's day labels do not fit a calendar in which Kest sends Calder to the office the following morning. The prose runs market day, then a first full working day, then a second working day, then the night, then the following day. No card is contradicted in substance.
+
+No other rule, motivation, chain, or ending element was changed. The no-System rule held without exception.
