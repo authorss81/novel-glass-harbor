@@ -40,7 +40,7 @@ He came up the ladder with blood running down into his glove and rain running in
 
 "You do not know. That is the point." She tied the bandage too tight and then eased it. "From today you do not take the bottom alone on a surge job. Bevin goes down on the watch line as tender's mate, or we do not take the job. I will write it."
 
-The *Merrit*'s master paid eleven marks, not fifteen, because the patch was not driven and the boat had to be warped off on the tug's line. Four marks gone for work half done, and the short hose chafed through at the clamp and fit now only for washers, and the pump sleeve wept the whole tide and would need a new housing before winter, and Calder's arm would need a week before a glove would go on it without him making a noise.
+The *Merrit*'s master paid eleven marks, not fifteen, because the patch was not driven and the boat had to be warped off on the tug's line. He said it without any satisfaction in it, standing in the rain with his hat in his hands while Calder's arm ran blood into the wet bag, and then he said the other thing, which was that he had asked for no diver and would have taken whoever came, and that Calder was not to spend that on pride. He put the eleven on the bollard in small silver and went aboard. Four marks gone for work half done, the short hose chafed through at the clamp and fit now only for washers, the pump sleeve wept the whole tide and would need a new housing before winter, and Calder's arm would need a week before a glove would go on it without him making a noise.
 
 They walked back to the yard in rain with eleven marks in a wet bag and a burn reopened. Bevin carried the helmet and did not speak until the shed.
 

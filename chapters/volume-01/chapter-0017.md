@@ -2,7 +2,7 @@
 
 *Mara's Certificate*
 
-Friday morning Mara Venn was at the bench with her book shut and a paper in her hand she did not want to show.
+Friday morning Mara Venn was at the bench with her book shut and a paper in her hand she did not want to show. The yard had held money in it for the first time in a month and had already decided what all of it was for, which made the shed look like a place where people were waiting rather than working, and the freed shoal iron sat on the stack under the tar with its bright kerf in the shackle turned out of the weather.
 
 Calder knew the paper. It was the certificate of the public record's figures she had bought in the copying room for forty marks — the survey's ninth page and the case specification, certified as public figures at the office's expense and hers. Forty marks the yard owed her and could not pay.
 
@@ -10,7 +10,11 @@ Calder knew the paper. It was the certificate of the public record's figures she
 
 She laid the paper down. Behind it was a second paper, a Registry memorandum in a clerk's hand: her copying expense queried, her witnessing of a crew duplicate for the same crew twice noted, her three *not stated* entries against Calder Marr underlined with a request for clarification.
 
-"They do not call it a reprimand," she said. "They call it a query. A query is a reprimand that has not decided what it is yet. If I answer badly, it becomes a note in my file. If I answer well, it becomes a note in my file that I answered well, which is also a note."
+"They do not call it a reprimand," she said. "They call it a query. A query is a reprimand that has not decided what it is yet. If I answer badly, it becomes a note in my file. If I answer well, it becomes a note in my file that I answered well, which is also a note." She put her thumb on the memorandum's last line. "And while it stands, every entry I make goes up to a circuit officer to be countersigned before it leaves my hand, which means every certificate I issue to any crew on this coast takes three weeks instead of one and costs me the standing that lets me say no to somebody important on their own bad paper."
+
+"Whose bad paper does that leave a conservator without?"
+
+"Yours," Mara said. "Every certificate any crew on this coast gets out of my hand while that stands comes out of the standing that lets me refuse one. A conservator who cannot refuse is a clerk with a wet brush." She turned the page over. "Write it down as it stands and do not improve it for me, Mr Marr."
 
 Calder reached for the certificate. "We will pay the forty when the iron sells."
 
@@ -46,6 +50,14 @@ After she had gone, Nessa picked up the certificate and put it with the labor lo
 
 "She refused me and she is right," Calder said. "Write it."
 
-Nessa wrote: *21st. Conservator refused certification of bearing sheet and refused custody line. Refusal stands. Certificate debt forty marks owed.*
+"She also told a clerk's memorandum to a man with a sling on his arm, in your own yard, where Bevin was standing."
+
+"Bevin writes down what he hears. He has a job now."
+
+"He has a job," Nessa said, "and it is not the same job as telling himself what he heard." She squared the two papers on the bench, the labor log and the certificate, side by side, and neither of them accused anybody, which was somehow worse than if they had. "Three weeks on my certificates too, once that stands. Get her the forty, Calder, or get her another reason."
+
+Outside, through the open door, the four sheets of the duplicate were curling off the market wall where the wind came off the basin, and the sheet Mara had made out loud in the yard in a week when they had been refused work twice was read by nobody at all.
+
+Nessa wrote: *21st. Conservator refused certification of bearing sheet and refused custody line. Refusal stands. Certificate debt forty marks owed. Registry query against her own hand noted by her, not by us.*
 
 Calder signed left-handed. The refusal held, and the yard was poorer for it and better for it at once.

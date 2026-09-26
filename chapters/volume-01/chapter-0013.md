@@ -34,6 +34,8 @@ He thought of Alden at the bench with the drawknife, coughing on a forty-minute 
 
 The clerk shook his head. "I cannot hold short."
 
+He walked out with the sheet still unsigned and stood on the reeve's steps long enough for the wind to find the gap in his collar. Twenty-two marks had been on that sheet, a week of four hands eating, and it had gone because a young man in an office had a direction and no authority of his own to soften it with. Down on the west quay the two coasters lay at their moorings with their owners' foremen standing about in the cold, waiting to be told when a crew was coming, and Calder went and told them it was not, and the older of the two looked at his boots and said, "Aye," in the voice of a man who had heard the same sentence in a worse month than this.
+
 From the yard that evening Calder went to his father's end of the shed. Alden was mending a tiller, and did not look up.
 
 "I need a witness," Calder said. "Not about the report. About work. Come to the office and say I scrubbed your boats for ten years and never lost one. That is all."
@@ -56,4 +58,4 @@ Nessa wrote in the book: *17th. Ordinary job refused for name. Diver refused to 
 
 Calder signed with his left hand. "We find another way that does not ask him to spend his roof for my week."
 
-That night he paid the chandler four marks out of the eleven and kept seven for air, and the note went to twelve weeks into six with the chandler writing the figure without comment, which was worse than comment.
+That night he paid the chandler four marks out of the eleven and kept seven for air. The note stood where it had stood on Friday, eleven weeks into six, four marks of it lighter than it had been and not one week of it forgiven, and the chandler wrote the new figure down without comment, which was worse than comment.

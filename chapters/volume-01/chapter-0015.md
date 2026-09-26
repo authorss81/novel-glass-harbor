@@ -18,7 +18,7 @@ Harl looked away. "Free Keel did."
 
 "You did."
 
-"Then the pledge holds or it does not." Tobias sat down.
+"Then the charter holds or it does not." Tobias sat down.
 
 Sella held up her slate. "I hold a third of their iron and I am not ashamed of it. The paper is good. But I will say this: if we cut them off from shared tools and shared rescue, we make the Registry right that glass makes a crew unfit to work. I will not do their work for them."
 
@@ -26,7 +26,7 @@ Harl turned to Calder. "Will you take rescue cover from crews you may not be abl
 
 Calder stood. The bell in his ears made the loft's small sounds run double, and he waited a beat to place Harl's voice.
 
-"I will take rescue cover if it is offered under the pledge," he said, "and I will give it the same way. What I will not do is ask another crew to stand a naval line with me. If the *Vigil*'s tender hails you off the marks, you answer them and leave me. I will write that."
+"I will take rescue cover if it is offered under the charter," he said, "and I will give it the same way. What I will not do is ask another crew to stand a naval line with me. If the *Vigil*'s tender hails you off the marks, you answer them and leave me. I will write that."
 
 He took from his coat a paper Nessa had drawn: the *Kittiwake*'s slip time through November, the only thing the yard had that other crews wanted, with two tides a week marked for other boats to use free.
 
@@ -38,11 +38,11 @@ Harl picked up the paper and read it twice.
 
 "You would give this and still owe Sella a third of iron?"
 
-"I owe what I owe. The slip is not payment. It is what the pledge says: shared tools."
+"I owe what I owe. The slip is not payment. It is what the charter says: shared tools."
 
 Harl folded the paper and put it in his coat. "Then the *Grey Widow* stands rescue cover inside the line. Not past the marks. Inside."
 
-One by one the other crews said it: inside the line. Sella last.
+One by one the other crews said it: inside the line. Two said it the way a man says a thing he has already decided to say whatever the room does, and the old man who had crewed out of the fish dock for forty years said nothing at all until Harl had finished, and then said that he had stood an outer line for the Free Keel yard in the spring and would stand another in the autumn, and sat down again before anyone could thank him. Sella last.
 
 "The *Low Lantern* stands too. And the iron stays on the stack till it fetches a fair price, Marr. I will not have it said I pressed you in a gale week."
 
@@ -55,6 +55,14 @@ Calder walked back to the yard with Tobias in rain.
 "It will cost planks."
 
 "It will. But we have rescue cover, and no crew can say we bought it."
+
+"Then hear what you have bought, because you are paying for it in a language you do not speak well." Tobias walked the last of the way to the slip with him. "A hard beach takes the bilge keels first. She comes up at the turn of every tide, dries along her garboards, and takes the sun on the same planks twice a day. By March she will be checked in her garboard strake and there will be oakum in her that I have to cut out and replace. It is not one bad winter. It is a winter that works on her every tide it is not under her, and we cannot put her back in the water because we have nothing to cradle her with."
+
+Calder stopped on the slip. He had known all of that before he offered. He had known it on Saturday at the work board, where a man had looked at his hands and then at his face and told him to come back when the cutter was gone, and he had offered the slip anyway, and he would have offered it again, and that was the part of himself he could not argue with.
+
+"Say the number," he said.
+
+"There is no number in it yet. That is the answer." Tobias put his hand flat on the *Kittiwake*'s rail. "You have given them November. I am telling you what November is."
 
 At the yard Nessa read the note he brought and understood at once what he had spent.
 

@@ -4,7 +4,7 @@
 
 Saturday came up grey over the west basin with a wind that got under the shed door and lifted the edge of the labor log where Calder had left it to flatten.
 
-He had been at the bench since seven, copying the air figures out fair in his own hand because Bevin's reading had gone up the margin in a hurry on Friday and Kest's clerk would want a clean line to stamp. The numbers did not improve for being fair. One third of the air pot gone on two days that had earned nothing, a pump housing cracked on Rask's work and eaten, a new clamp bought in spring and now on the shoal bottom, a doubled hose run once and fit only for cutting into washers, a forty-mark bond spent on a permit with both dates used, and forty more gone to the circuit office for a certificate with the survey figures on it. Eleven weeks into six on the chandler's note. He wrote the last line and put the pen down and did the sum that was not on the page, which was how many mornings the yard could open its doors before somebody had to be told there were no wages.
+He had been at the bench since seven, copying the air figures out fair in his own hand because Bevin's reading had gone up the margin in a hurry on Friday and Kest's clerk would want a clean line to stamp. The numbers did not improve for being fair. One third of the air pot gone on two days that had earned nothing, a pump housing cracked on Rask's work and eaten, a new clamp bought in spring and now on the shoal bottom, a doubled hose run once and split at the coupling where it had dragged the board off the *Kittiwake*'s floor, a forty-mark bond spent on a permit with both dates used, and forty more gone to the circuit office for a certificate with the survey figures on it. Eleven weeks into six on the chandler's note. He wrote the last line and put the pen down and did the sum that was not on the page, which was how many mornings the yard could open its doors before somebody had to be told there were no wages.
 
 Nessa came in with sawdust on her sleeves and stood over the book without touching it.
 
@@ -40,7 +40,7 @@ She ran the *Low Lantern*, a two-boat crew in the Free Keel, a woman of fifty wi
 
 Calder stopped. "Say it."
 
-"On your dive day Tobias borrowed our lifting strop because your doubled hose had taken the board off the *Kittiwake*'s floor and you had nothing to sling the shoal iron with. He said it in front of my boy, and my boy wrote it, and the Free Keel pledge says shared tools earn a share of raised iron." She held out the slate. "One strop, one tide, one anchor and plate raised with it. A third of the sale of the shoal iron when it sells. That is the paper."
+"On your dive day Tobias borrowed our lifting strop because your doubled hose had taken the board off the *Kittiwake*'s floor and you had nothing to sling the shoal iron with. He said it in front of my boy, and my boy wrote it, and the Free Keel charter says a borrowed tool earns a share of what it lifts." She held out the slate. "One strop, one tide, one anchor and plate raised with it. A third of the sale of the shoal iron when it sells. That is the paper."
 
 Calder read the slate. Tobias's mark was on it, plain as day, with the hour. The strop had held the anchor on the gunwale coming up. There was no arguing it without calling Tobias a liar in front of a Free Keel crew, and Tobias was not a liar.
 
@@ -48,7 +48,7 @@ Calder read the slate. Tobias's mark was on it, plain as day, with the hour. The
 
 "It is good, and I am sorry for the week it lands in." Sella did not soften it and did not sharpen it. "I would not press it, Marr, except my crew has a note of its own and iron is the only thing on your stack anybody will buy. When it sells, a third comes to the *Low Lantern*. I have entered it with the harbor clerk so neither of us can forget."
 
-She went. Calder stood on the slip with the slate in his hand and understood the shape of the week entire: having been right about the glass had made the yard too dear to hire and too poor to refuse a debt, and the iron nobody had wanted in Chapter 8 was now the only thing two crews could argue over.
+She went. Calder stood on the slip with the slate in his hand and understood the shape of the week entire: having been right about the glass had made the yard too dear to hire and too poor to refuse a debt, and the iron nobody had wanted since the day it came up out of the mud was now the only thing two crews could argue over.
 
 Bevin came up from the market with his hands empty.
 

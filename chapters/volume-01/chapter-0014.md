@@ -16,6 +16,10 @@ Calder did the sum. Thirty marks. The yard had seven, and iron on a stack it cou
 
 "We cannot meet thirty," he said. "We can meet twelve, and the iron when it sells."
 
+"Seven in the bag on Monday night," Calder said, "and four of that gone to the chandler before I could put it into air. Twelve is five more than we have. The iron is a third promised to another crew, so a third of what it fetches is not mine to offer, and it may not fetch before the equinox. That is the whole of it."
+
+"Then you are eighteen marks short and you are offering me a sale." Kest put the pen down. "I am not being hard with you. That is the arithmetic, and you may as well have it said out loud in a good month as find it out in a bad one."
+
 "Then you will lose the defense." Kest did not raise his voice. "I am telling you the figure the office requires, not the figure I wish."
 
 Calder looked at the slate wall. "What do you want for a lower bond?"
@@ -28,9 +32,9 @@ That was the thing Calder could refuse. The duplicate was a record of objects, n
 
 Kest nodded, once, as if he had expected it and was glad and sorry together.
 
-"Then the bond stands at thirty, and I will write that you refused the courtesy." He dipped the pen. "And now the other thing, which you will not like either. The harbor lifts the drifted mole anchor tomorrow at slack water, with a crane and a chain and a slip's crew, at the harbor's cost and on my mark. Your lead line comes off and mine stays. You are not to be on the mole while it is done. Not because I doubt you. Because the Navy's tender is watching the mole and I will not have a Marr on the wall while municipal tackle comes up."
+"Then the bond stands at thirty, and I will write that you refused the courtesy." He dipped the pen. "And now the other thing, which you will not like either. The harbor lifts the drifted mole anchor on Thursday's slack water, with a crane and a chain and a slip's crew, at the harbor's cost and on my mark. Your lead line comes off and mine stays. You are not to be on the mole while it is done. Not because I doubt you. Because the Navy's tender is watching the mole and I will not have a Marr on the wall while municipal tackle comes up."
 
-That was the hostile thing, and it was plain hostility dressed as procedure: to be kept off the mole while his own mark came up, eight feet down off the third seam where he had found the glass, and to hear about it after.
+That was the hostile thing, and it was plain hostility dressed as procedure: to be kept off the mole while his own mark came up, eight feet down off the third seam where he had found the glass, to be told two days before it happened and shown it afterwards from the fish dock.
 
 Calder stood. "Is that the order?"
 
