@@ -50,7 +50,7 @@ Bevin Rook read the whole of it out twice, and then read out the nine heads agai
 
 "That is nine, and eight of them are a shortage of something and the ninth one is a boy, and I have read it twice and I would like it in the book with the date and the hour and no figure against any of it, because in a year somebody is going to ask this yard what it had, and the answer is going to be *that*, and not a number that a man put in when he was feeling strong."
 
-"Put it in," Nessa Pike said. "And put Monday the twenty-sixth at the top, because Monday the twenty-sixth is when the slate wall gets wiped and anything we want kept out of a cloth has to be in the book by Sunday."
+"Put it in," Nessa Pike said. "And put Saturday the twenty-first at the top, because the slate wall gets wiped on Monday the twenty-third and anything we want kept out of a cloth has to be in the book by Sunday."
 
 ---
 
@@ -98,7 +98,7 @@ He was about thirty-four, wet to the knee, with a pump housing in each hand and 
 
 Nessa Pike looked at the dredged housing on her bench for about three seconds, and then at the cracked one, and then she said the thing Calder Marr had not thought of, which was the second time in six days that somebody in that shed had said the thing he had not thought of.
 
-"Twenty-six is the right rate and you are the right man to ask," she said, "and before either of you two says anything else, here is what has to be true on Monday morning. On Monday morning Calder Marr writes out a reason in this harbor authority's own book at eight o'clock in the morning, in his own left hand, with the clerk standing there, and it is not edited, and it says what the work is and it says who is going to do it and it says how long, and if there is no purpose in it then it goes in with no purpose in it and Rook enters the hole afterwards with the date on it, which is what we did on the eighteenth of January and I would like the same thing done again and I would like it done by somebody who has done it once."
+"Twenty-six is the right rate and you are the right man to ask," she said, "and before either of you two says anything else, here is what has to be true on Thursday morning. On Thursday morning Calder Marr writes out a reason in this harbor authority's own book at eight o'clock in the morning, in his own left hand, with the clerk standing there, and it is not edited, and it says what the work is and it says who is going to do it and it says how long, and if there is no purpose in it then it goes in with no purpose in it and Rook enters the hole afterwards with the date on it, which is what we did on the eighteenth of January and I would like the same thing done again and I would like it done by somebody who has done it once."
 
 Tarner looked at her.
 
@@ -110,7 +110,7 @@ Tarner looked at her.
 
 Calder Marr looked at the cracked housing on the bench and then at the dredged one and then at the man standing in his doorway with the water running off him onto the shed floor.
 
-"Six o'clock on Monday morning," he said. "Here, and we will be on the water at the top of the flood, and the reason goes into the reeve's book at eight, and if the reeve names a different day we take his day and not mine."
+"Six o'clock on Thursday morning," he said. "Here, and we will be on the water at the top of the flood, and the reason goes into the reeve's book at eight, and if the reeve names a different day we take his day and not mine."
 
 "The top of the flood on the twenty-sixth is a quarter to ten," Tarner said.
 

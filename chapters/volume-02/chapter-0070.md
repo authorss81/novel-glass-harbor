@@ -2,7 +2,7 @@
 
 *A Statement of Capacity*
 
-The hearing room over the tide-gang store had a stove in it and a bench for the reeve and a bench for the clerk and four benches for people who had come to be in a room, and on Wednesday the first of March at nine in the morning the slate wall behind the reeve's bench was blank and had been blank since the cloth came off it at eight on Monday the twenty-third of February, and the ledger was on the table, and the ledger is the record, and everybody in that room knew it and nobody had to say so.
+The hearing room over the tide-gang store had a stove in it and a bench for the reeve and a bench for the clerk and four benches for people who had come to be in a room, and on Wednesday the first of March at nine in the morning the slate wall behind the reeve's bench was blank and had been blank since the cloth came off it at eight on Thursday the twenty-third of February, and the ledger was on the table, and the ledger is the record, and everybody in that room knew it and nobody had to say so.
 
 There were forty-one boats in the basin. The forty-first had come in at about six in the morning with her warp out and had anchored in the roads because there was nowhere for her, and the harbor authority's own clerk said forty on Thursday and a man in the market said forty-one yesterday afternoon, and neither of them had a book that settled it, and the difference of one boat between two figures in the same harbor in the same week is the whole of the difference between a berth short and a harbor that is short.
 

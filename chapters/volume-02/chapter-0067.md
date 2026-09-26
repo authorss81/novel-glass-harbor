@@ -2,7 +2,7 @@
 
 *The Bill for the Ninth Seam*
 
-The wind came round in the night of Friday the twentieth and on the Wednesday the twenty-second of February it had gone into the north-east, and Calder Marr was on the mole steps at half past eight in the morning with the tide making and the harbor's crane standing over the fish dock doing nothing at all, and he lost it.
+The wind came round in the night of Monday the twentieth and on the Wednesday the twenty-second of February it had gone into the north-east, and Calder Marr was on the mole steps at half past eight in the morning with the tide making and the harbor's crane standing over the fish dock doing nothing at all, and he lost it.
 
 It had been going for five months. He had done what he always did with it, which was to arrange for other people to tell him what the sound was, and it had worked all winter because the winter had been made of men who would stop and say it again. On the Monday the crane was over on his right, where nothing in that yard ever stood, and the wind was in it, and a gull was on the roof of the net loft, and Calder Marr stood on the top step with a slate in his hand and could not put a crane in a room for about five seconds without moving.
 
