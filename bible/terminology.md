@@ -19,6 +19,7 @@
 - **Unlit Shelf:** the deep Orison shelf containing the experimental-vessel trench where the stripping mechanism was found.
 - **Unlit Keel:** the blank hull and testimony-stripping mechanism inside the Unlit Shelf trench.
 - **Orison:** the drowned city beneath the western shelf.
+- **Orison Deep:** the drowned city's faulted trench and shelf, roughly seventy fathoms down. It contains the Old Keel Field, the Crown Stair, the Quietening Cut, and the Ninth Bell. It is the destination the series moves toward, and the phrase is a place, not a legal or magical category.
 - **Nine Harbors:** the historic civic compact that built and protected the memory-vessel network.
 - **The Quietening:** the memory cascade that caused the Orison fleet to be deliberately scuttled.
 - **Open Keel Assembly:** the provisional civic institution chartered in Volume 9 and ratified with a rotating constitution in Volume 15. The informal network before the charter is the Nine Harbor Assembly.
@@ -116,6 +117,14 @@ Use these names exactly. The Gannet Cut record is assembled from several offices
 - **Halven Rook:** Lantern Registry magistrate.
 - **Soren Vey:** admiral of the closed-sea squadron.
 - **Ilya Serr:** senior Lantern Registry examiner during Volumes 1–8, promoted to Minister of Returning Memory at the close of Volume 8 and holding the office from Volume 9 onward, and the central antagonist from Volume 4.
+
+Supporting cast, with spelling and form of address fixed for the whole series:
+
+- **Mina Kett:** the independent bellwright at Tidewatch; no title or formal name is used for her.
+- **Tarek Sol:** the Lowfen fisher and mutual-aid organizer.
+- **Lira Venn:** Mara's younger cousin, a Registry copyist. She is a **Venn** by family and is never confused with Mara; state the relationship the first time they appear in the same scene.
+- **Bevin Rook:** the Morrow Quay deck hand. He shares a surname with Magistrate Halven Rook and no relation; the story should not imply one.
+- **Sera Mott:** the retired fisher and witness keeper.
 
 ## Usage rules
 

@@ -76,4 +76,6 @@ This world has no game-style interface. There are no panels, stat blocks, charac
 
 ## First ten chapters' required promise
 
-The opening batch must establish Calder's ordinary salvage work, the Gannet mystery, the first transparent hull, the tide-ear rule and its first cost, the friction with Mara, a small practical victory, a larger seizure threat, and a clue that Orison's ships were not random wrecks. It must end with Calder choosing to keep investigating despite a warning that the first echo has already altered his memory.
+The opening batch must establish Calder's ordinary salvage work, the Gannet mystery, the first transparent hull, the tide-ear rule and its first cost, the friction with Mara, a small practical victory, a larger seizure threat, and a clue that Orison's ships were not random wrecks.
+
+It must end with Calder choosing to keep investigating under Navy scrutiny even though he can no longer tell which part of what he remembers is his own, and even though the bearing under the shoal points toward a wreck field he has no legal right to enter. The pull must come from a decision with a price attached, not from a warning, a threat, or a mystery handed to him.

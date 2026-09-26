@@ -12,6 +12,8 @@
 
 ## Premise
 
+**One-sentence premise:** A debt-bound marine salvage diver must recover his missing brother's echo from the transparent memory ships of a drowned city, while deciding whether truth is worth more when no empire, family, or single witness can own it.
+
 A debt-bound salvage diver searches the transparent memory vessels beneath drowned Orison for his missing brother's last echo. The recovered records can expose an empire's alteration of a ferry disaster and the deliberate sinking of an entire civic fleet, but they cannot reveal the whole past without consent, corroboration, and public custody. Calder must decide whether he wants the truth as a private possession, a political weapon, or a shared method that can survive his own grief.
 
 ## Protagonist definition

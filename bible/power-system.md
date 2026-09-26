@@ -41,6 +41,8 @@ The cost is immediate and personal: pressure pain, shared aftertaste, loss of ti
 
 The result is an embodied scene. It has duration and perspective, but no automatic access to motives, unseen events, or later interpretation. A witness can be wrong about cause, miss a person behind them, or faithfully record a lie told by someone else.
 
+A witness is always a situated person: someone with a reason to have been in that place, a stake in the scene, and a partial view of it. Before any echo is used in a chapter, the writer should be able to answer who was watching, from where, and what that person wanted. A record with no situated witness is a mood rather than a testimony, and a story built on one has nothing to corroborate.
+
 A stable echo can be real and still be morally misleading. A panic-filled child can accurately show a frightened child without identifying which adult caused the danger. A carefully prepared official can sincerely remember a record that was altered before the scene began.
 
 ## Consent and forced testimony

@@ -12,7 +12,7 @@ The drowned city of **Orison** lies seventy fathoms below the western shelf in a
 
 ### Morrow Quay
 
-Morrow Quay is the story's home harbor and Calder's base. It is a weathered stone-and-timber port with a small commercial fleet, a public dry dock, two fish markets, and a free salvage association called the **Free Keel**. Three separate documents govern local salvage, and they must not be confused:
+Morrow Quay is the story's home harbor and Calder's base. It is a weathered stone-and-timber port with a small commercial fleet, a public dry dock, two fish markets, and a free salvage association called the **Free Keel**. Three separate instruments govern local salvage — a municipal agreement, a crews' own pledge, and an imperial boundary — and they must not be confused:
 
 - The **Morrow Quay charter** is the municipal agreement with the Crown that lets harbor crews work any wreck *inside the harbor line* in exchange for a share of recovered material. The harbor line runs along the mole and the inner shoals.
 - The **Free Keel charter** is the association's own mutual pledge among crews: shared tools, shared rescue plans, shared legal defense. It grants no legal rights.

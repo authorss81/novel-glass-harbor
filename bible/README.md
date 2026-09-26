@@ -5,7 +5,7 @@ These files are the canon for *The Glass Harbor*. They are created and maintaine
 | File | What it fixes |
 |---|---|
 | `premise.md` | The one-sentence premise, the three promises the story keeps paying, the no-interface rule, and what the opening ten chapters must establish |
-| `world.md` | The Vesper Sea, its harbors, the drowned city of Orison, the nine routes, history, factions, and the six document types that decide custody |
+| `world.md` | The Vesper Sea, its harbors, the drowned city of Orison, the nine routes, history, factions, and the eight document types that decide custody |
 | `characters.md` | Calder, Mara, Oren, Alden, Nessa, Tobias, the supporting community, the antagonist ladder, and the relationship milestones |
 | `power-system.md` | Tideglass, echo-glass, anchors, echoes, consent, the eight stages with their costs, and the first-entry template used in Volume 1 |
 | `themes.md` | The thematic argument, the theme matrix, the character-level tests, and where each theme must appear in the opening batch |

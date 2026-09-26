@@ -2,7 +2,7 @@
 
 ## Phase position
 
-Bootstrap artifacts are complete: the six bible files, `outline/series.md`, `outline/ending.md`, `outline/volume-01.md`, and the ten chapter cards in `outline/batches/volume-01-batch-0001.md`. No prose has been written. Phase status, completion markers, and the queued next phase belong to `state/phase-ledger.json` and the controller; this file does not set them.
+Bootstrap artifacts are complete and repaired: the six bible files, `outline/series.md`, `outline/ending.md`, `outline/volume-01.md`, and the ten chapter cards in `outline/batches/volume-01-batch-0001.md`. No prose has been written. Phase status, completion markers, and the queued next phase belong to `state/phase-ledger.json` and the controller; this file does not set them.
 
 - Current volume: 1 — *The First Bell*, Chapters 1–50
 - Queued batch: Volume 01, Batch 0001, Chapters 1–10 (the only batch file that exists)
@@ -21,6 +21,7 @@ Calder Marr is a thirty-two-year-old line diver in Morrow Quay, one failed attem
 - **Personal:** Calder's private need to prove what happened to Oren collides with a public claim he must win through labor, not through family connection.
 - **Family:** Alden's silence, Bevin's eagerness, and Nessa's insistence on maintenance.
 - **Approach:** the *Vigil*'s claim over Gannet Shoal, and a three-second gap in the ferry's public pressure log that nobody has been able to explain.
+- **The first echo's witness:** the corroboration in Chapter 6 comes from an unnamed *Vigil* rating who helped carry the sealed case, so it is a participant's testimony rather than a bystander's. He is not named, located, or interviewed in the batch, and Calder may believe the gloved hand in the scene was Oren's without being able to show it.
 
 ## Current relationship pressure
 
@@ -28,7 +29,7 @@ Calder and Mara are an auditor and a suspect, and their only durable ground toge
 
 ## Current power state
 
-**Line Diver only.** Ordinary rope, pump, pressure-bell, hull, and weather skill; seam recognition by hand and by long practice. The planned tide-ear entry in Chapters 6–7 is supervised, limited to one anchored scene, and physically costly: a limited practice trace, a rope-burn aftertaste, ringing ears, and residue that briefly answers other people in the dead rhythm of the echo. He cannot rewind the scene, verify truth, open the contaminated edge, or make a second entry that day.
+**Line Diver only.** Ordinary rope, pump, pressure-bell, hull, and weather skill; seam recognition by hand and by long practice. The planned tide-ear entry in Chapters 6–7 is supervised, limited to one anchored scene, and physically costly: a limited practice trace, a rope-burn aftertaste, ringing ears, and residue that briefly answers other people in the dead rhythm of the echo. He cannot rewind the scene, verify truth, open the contaminated edge, or make a second entry that day. He has no instructor and no manual for the entry: the six conditions are assembled in the yard from what Tobias remembers of old salvage practice, what Nessa can engineer, and what Mara can justify on paper.
 
 ## Canon sources
 
