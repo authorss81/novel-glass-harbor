@@ -18,7 +18,7 @@ The interval was the whole of it. A mile and two hundred yards from the mole's t
 
 "The first one is a mile and two hundred yards and it is Rook's count off a boat with a hand lead and I have the hour and the state of the air on it and two of the harbor's tide gang stood in the water's edge and watched it happen."
 
-"It is a count," Nessa said. "It is a count *to* something, and we have never once said out loud what the far end of that count is, and I have been three weeks not saying it, and the officer said it out loud on the Tuesday without meaning anything by it — *the first of them is not a bearing, it is something Rook found with his hand on a bottom at ten feet* — and he was right, and I did not argue, and I have been carrying it since."
+"It is a count," Nessa said. "It is a count *to* something, and we have never once said out loud what the far end of that count is, and I have been three weeks not saying it, and the officer said it out loud on the Tuesday without meaning anything by it — *the first of them is not a bearing, it is something Rook found with his hand on a bottom at nine feet* — and he was right, and I did not argue, and I have been carrying it since."
 
 She turned the first sheet round and put her finger on the middle of it.
 
