@@ -123,6 +123,7 @@ The **custody mark of nine joined lines** is on the **underside of the plate**, 
 
 ### The shard's provenance, kept separate
 
+- The **shard's ground band**, a band about a thumb wide ground flat the whole length of its lower cut face, with the worked lines running down into it and stopping dead at its edge, and curved rather than straight because the thing it was cut from was round. Mara measured its width and its curve by hand in **Chapter 2** and entered it as *ground* with *purpose not stated* under it, and it went into the Chapter 8 public duplicate in the same terms. **Chapter 9** identifies it as the flange allowance of a Crown yard case specification. It is a Crown-shop working practice on the **shard** and has nothing to do with the **plate's** bolted flange and sealed aperture; the two must never be described in one clause.
 - The shard's **cut edges and flange form match a public Crown yard specification for mnemonic case plating** filed with a refit account for another vessel. This is a *compatibility, not an identification*. Any yard that had the pattern could have cut a case.
 - The case's **own dimensions are not known and cannot be known from public papers.** A bellwright can give a **length and breadth as a range within a foot either way**, from the plate thickness and the flange diameter plus the two-hundred-year-old workshop rule about flange allowance. It is recorded as a range, not a number.
 - The shard's **origin ground** is placed on the same bearing as the *Vigil*'s recorded mooring, by the three bearings and the public mooring line. The plate's builder's mark tells the crew nothing about the shard, and the shard's cut edges tell the crew nothing about the plate. Every document, drawing, and measurement keeps them as two objects with two provenances.
@@ -140,9 +141,10 @@ The **custody mark of nine joined lines** is on the **underside of the plate**, 
 
 - **Tinnitus**, continuous, with a **second sound under it that arrives late** — the recorded loading bell of the *Gannet*'s loading space. Calder's ordinary harbor bells now overlap it, and on a test he turned toward the wrong bell. He cannot reliably tell which sound belongs to the room.
 - **A rope-burn reenactment** on the right forearm, four inches, fresh, in the shape of a line over a hand, beginning the moment the hatch opened rather than in order.
-- **Emotional aftertaste** strong enough that he answered Nessa in **Oren's call mark** — a low short call with a lift at the end, three marks and a flick — without deciding to, on a rotten platform two nights later, and did not know the words in it were *I'll take the near end, I'm smallest*.
+- **Emotional aftertaste** strong enough that he answered Nessa in **Oren's call mark** — a low short call with a lift at the end, three marks and a flick — without deciding to, on a rotten platform in the small hours of the same night as the entry, and did not know the words in it were *I'll take the near end, I'm smallest*.
 - **No second entry** is possible while he carries this one, and no entry at all until **two clean daylight looks** have happened. He is off the water for **twenty-four hours minimum** on Nessa's measurement, pending the burn closing.
 - He is **not a faultreader**, has never claimed to read seams, and cannot judge whether any part of what he saw is true.
+- **The hands do not shake, and that is deliberate.** `bible/power-system.md` lists "Calder's hands shake for two days" among the costs of a first entry. The prose inverts it: his hand did not shake when he drank the water in Chapter 6, and his hands were "perfectly steady" in Chapter 7. The cost is not in his hands; it is in his ears, on his forearm, and in his brother's voice coming out of his mouth. **A later volume must not pay the shake as a debt that was owed** — if his hands ever do shake, it has to come from something else (cold, air, a rope, a held panel, plain fear) and be read as that. This deviation is flagged for ratification in `state/open-threads.md`, because a prose phase may not edit the bible.
 
 ### The named-tender cutoff, as a physical method
 
@@ -165,7 +167,18 @@ A wire runs from the diver's harness up inside the hose to the tender's hand, ma
 
 ### The place named at the end of the batch
 
-**Orison** is named once, by Tobias Wren, as what lies west-southwest of the bearing at a hundred and thirty fathoms down, with the flat statement that nobody on this coast goes there and that every old fool on the quay has a story about it and not one of them is any good. There is **no map, no route, and no purpose**, and the batch establishes only a broad physical direction.
+**Orison** is named once, by Tobias Wren, as what lies west-southwest of the bearing at **seventy fathoms** down (`bible/world.md`, `bible/terminology.md`), with the flat statement that nobody on this coast goes there and that every old fool on the quay has a story about it and not one of them is any good. There is **no map, no route, and no purpose**, and the batch establishes only a broad physical direction.
+
+## Fixed distances and times in Batch 0001, binding on Chapters 11 onward
+
+These are the numbers the prose asserts. A later chapter may add detail inside them and may not contradict them.
+
+- **The drifted mole anchor** is bedged in the mole's toe off the third seam at **about eight feet** of water, a fathom and a little over, tagged with a lead line, a bone toggle, and a rag float carrying Kest's mark. It was *about eight feet* when Calder found it, *under eight feet and going to nine* as the flood took the mole, and eight feet on the day he reported it to Sera Mott. It is a two-fathom storm anchor **in size**, which is a different number from its depth and must never be written as a depth.
+- **The freed shoal iron** lies with the *Alder Reach*'s frames at **eight fathoms** on the shoal's inner edge, and the hole off her quarter runs to **twenty-two fathoms** with no bottom in it that a lead will find. The wreck's shoulder behind the frames is **eleven fathoms**.
+- **The Chapter 4 dive, to the minute:** the bell went over at **5:10**, slack water was at **5:20** and the set was given as **6:15** (fifty-five minutes), the first clamp went on at **5:25**, the silt curtain stood at **6:00** for four minutes, the second clamp came off at **6:05**, the current made at **6:15**, and Calder was up at **6:20** — five minutes past what Nessa had given him, which is why she says so.
+- **From the mole, seaward:** the *Vigil*'s recorded mooring is three-quarters of a mile out from the shoal; the Gannet Shoal **outer marks are a mile and a quarter off the mole**; the officer's four-hundred-yard limit therefore begins about **a mile and a half** off the mole; and the pale run lies **about two and a half miles out** on the same bearing, so it runs through water the Free Keel may not enter at all.
+- **The batch's calendar:** Chapter 1 is a market day on a Tuesday, the 11th. Chapters 2–4 are Wednesday the 12th (the claim in the morning, the permit in the afternoon, the dive in the late afternoon), Chapter 5 is Thursday the 13th (bench day, rig built, permit expired at dark), Chapters 6–8 run from 11:30 p.m. Thursday to about 6:20 a.m. Friday the 14th, and Chapters 9–10 are Friday the 14th, which is the date Calder writes in the crew's book. Everything said about *last night*, *yesterday*, or *two days* in the batch resolves against that calendar, and the next Monday is the 17th.
+- **Tobias Wren's account of the old Veyr bell entries is thirty-one years old** and is secondhand. There is no second date for it anywhere in the batch.
 
 ## Deliberate soft points, to be settled when the volume that needs them is outlined
 
@@ -196,3 +209,9 @@ Two items were resolved silently in the drafting of Batch 0001 and are recorded 
 2. **The working-day labels.** The batch card's day labels do not fit a calendar in which Kest sends Calder to the office the following morning. The prose runs market day, then a first full working day, then a second working day, then the night, then the following day. No card is contradicted in substance.
 
 No other rule, motivation, chain, or ending element was changed. The no-System rule held without exception.
+
+## Proposed canon changes awaiting a planning phase
+
+Recorded here and mirrored in `state/open-threads.md`. A prose phase may not edit the six bible files, so each of these waits for an outline phase to ratify or overrule it.
+
+1. **The first entry's hand cost.** `bible/power-system.md` lists "Calder's hands shake for two days" as a cost of a first echo entry. Chapters 6 and 7 state the opposite, deliberately, and the batch's review confirmed the inversion is the better beat. **Proposed:** amend `bible/power-system.md` so the first entry's costs are aftertaste, reenactment, and hearing confusion, and the shaking hands are removed or reattributed to a later stage. Until it is ratified, no later volume treats the shake as owed.

@@ -46,7 +46,7 @@ The sheet beside it was a Crown yard specification, filed with a refit account f
 
 Mara put her finger on the row.
 
-"That is the plating specification for a mnemonic case on a Crown cutter of the *Vigil* class. Three-eighths plate, keyed at the long edge, and a flange form exactly like the one on your shard." She looked at him. "I measured that shard's cut edges in my own hand on Wednesday evening, and the keyed profile of that rim is not a repair. It is the way that plate was cut at a yard. And the flange on your shard is the same form as the flange on the specification, and the same diameter, to a sixteenth."
+"That is the plating specification for a mnemonic case on a Crown cutter of the *Vigil* class. Three-eighths plate, keyed at the long edge, and a flange form exactly like the ground band on your shard." She looked at him. "I measured that band in my own hand on Wednesday evening, and the keyed profile along it is not a repair. It is the way that plate was cut at a yard. And the band is the same form as the flange on this specification, and the same diameter, to a sixteenth, which I could take off the curve of it and off nothing else."
 
 "You cannot read a size off a flange."
 
@@ -114,7 +114,7 @@ Then he wrote three lines at the foot of it.
 
 He signed it, and dated it, and wrote his name against the fact that he had been the diver and the only source.
 
-Then he took Mara Venn's unverified note out of his coat — the one she had read out of her book at the slip, the one that said a crew reported a personal association stated as unverified — and he looked at it for a while.
+Then he took Mara Venn's unverified note out of his coat — the one she had written in her own book in a Registry hand and turned the book round for him to read, the one that said a crew reported a personal association stated as unverified — and he looked at it for a while.
 
 And then he did not add to it.
 
@@ -184,4 +184,4 @@ Bevin was not the boy who had come down the slip at half past three. He was a di
 
 "What does it say?"
 
-"It says that a Registry order is to be served at the Free Keel yard this morning before eleven, and that the harbor authority will hold a limited inspection at the yard at eleven for the purpose of a disputed claim, and that the Free Keel is not to make public use of the provenance record of the seized objects pending that inspection." He stopped and got his breath. "And there's something else. There's a boat come into the outer road this morning with a naval pennant on her and a cutter's rig and about four guns, and she's taken a berth at the naval pile, which nobody in Morrow Quay has ever seen a naval vessel do, and the whole quay is standing about looking at her, and Calder — Calder, her name's on her transom in fresh paint. *Vigil*."
+"It says that a Registry order is to be served at the Free Keel yard this morning before eleven, and that the harbor authority will hold a limited inspection at the yard at eleven for the purpose of a disputed claim, and that the Free Keel is not to make public use of the provenance record of the seized objects pending that inspection." He stopped and got his breath. "And there's something else. There's a boat come into the outer road this morning with a naval pennant on her and a cutter's rig and a gun stood on her forward deck, and she's taken a berth at the naval pile, which nobody in Morrow Quay has ever seen a naval vessel do, and the whole quay is standing about looking at her, and Calder — Calder, her name's on her transom in fresh paint. *Vigil*."

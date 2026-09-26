@@ -96,7 +96,7 @@ She put the basket down, looked at the fragment, said, "That is a bad thing to h
 
 "Then the Registry woman can read." She straightened up. "Now. Where has that anchor of yours got itself to."
 
-"Six fathoms in the mole's toe, off the third seam."
+"Eight feet, in the mole's toe, off the third seam."
 
 "Then you have not touched it. Well." She sat down on the end of the bench, which she was not supposed to do. "That came off a boat working the old shoal. Not out of the bar, because there is nothing in the bar to lose an anchor in, and not out of the channel, because nobody in the channel has a ground tackle that has been out six years. There is one boat laid out there that nobody has ever claimed, Marr, and everybody knows she is there and nobody has ever gone for her, because she is only iron and she is two days' work to get anything off her, and every soul in this harbor is two days short. Shoal-end coaster, gone eight years back, name of the *Alder Reach*. Her ground tackle was a fine lay of stuff and a new anchor, and when she went she lost both, and the new anchor came in on a westerly and sat in your mole for six years, which everybody knew and nobody cared about, because it was in the way of nothing."
 
@@ -108,11 +108,13 @@ She put the basket down, looked at the fragment, said, "That is a bad thing to h
 
 They went out at half past two with the tide making and a running swell on the mole's outside, and Bevin took the watch and read the depth and the air aloud every ten minutes exactly as he had promised, and on the fourteenth minute he said, "Nineteen fathoms, ninety, air two hundred and forty," in a voice that made Calder want to hit him, because a deck hand who learns to call numbers clearly at nineteen fathoms is a deck hand who has something to fall back on.
 
-At the inner edge of the shoal the water went from nineteen fathoms to something shallower and colder in under twenty yards, and the bottom came up on the sounder as a long pale line lying the way a thing lies when it went down with a list and stayed.
+At the inner edge of the shoal the water went from nineteen fathoms to something shallower and colder in under twenty yards, and the bottom came up on the sounder until it came up fast, and where it came up fast the lead brought up a long pale line lying the way a thing lies when it went down with a list and stayed.
 
 Nessa had said she would not come. She came, in the bow of the *Kittiwake* with her sounding lead in her hand, because a boat sailing over a shoal with an underestimating lead is a boat that has made a decision without its owner.
 
-"Twenty-two fathoms of shoal water and no bottom in it," she said. "And that is the wreck. That is her keel, or whatever you call the thing a boat has got instead of a spine."
+She sounded along it twice, and on the third time she put the lead over the shoulder into the water behind the frames and let it go on the sheet, and it did not come up, and she hauled it back in by hand.
+
+"Eight fathoms on the frames and eleven on the shoulder behind her, and then twenty-two in the hole off her quarter, with no bottom in that I can find," she said. "And that pale line is the wreck. That is her keel, or whatever you call the thing a boat has got instead of a spine."
 
 Calder put a glass down and looked, and had to make himself look a second time.
 
@@ -130,11 +132,11 @@ It was small, and it was struck deep, and it was on the inside of the sixth fram
 
 "Eleven what?" Bevin asked.
 
-"Eleven, and a season mark. That is a shop mark, a repairer's mark, from the year eleven of the last Accord." He put the lens down and wiped it on his cuff. "It means a yard on this coast opened a plate in her inside framing in that year and put in a new frame and did not fair it. It is ordinary. Every boat on this coast has four or five of them."
+"Eleven, and a season mark. That is a shop mark, a repairer's mark, struck in plain reckoning by somebody who wanted a boat's owner to be able to read it and argue with the man who put it there." He put the lens down and wiped it on his cuff. "It means a yard on this coast opened a plate in her inside framing in that year and put in a new frame and did not fair it. It is ordinary. Every boat on this coast has four or five of them."
 
-It was a year in the middle of the last decade. It was a year Oren had been aboard the *Aster Gannet* with a slate of his own in his belt, and it was a year in which a boy of twenty had been signing his numbers the way Alden's drawknife lay on its bench, from the left, with the turns closing left over the standing part, and Calder had been on the quay that year and had watched him do it over a coil of line as if the whole world were a seam he was dressing.
+It was eleven years back, which is the middle of the Gannet decade, and it was a year Oren had been aboard the *Aster Gannet* with a slate of his own in his belt, and it was a year in which a boy of twenty had been signing his numbers the way Alden's drawknife lay on its bench, from the left, with the turns closing left over the standing part, and Calder had been on the quay that year and had watched him do it over a coil of line as if the whole world were a seam he was dressing.
 
-He put his hand flat on the gunwale.
+He set his nails into the gunwale and left them there.
 
 "A shop hand of that decade," he said. "That's all it is. There's a hundred of them on this coast and no more to it than that."
 

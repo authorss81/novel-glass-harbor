@@ -34,7 +34,7 @@ Mara Venn was on the dock wall with the lamp and the slate, and Bevin Rook was b
 
 The bell went over the platform's side and down three fathoms in a swells' time, and the moment the water closed over the crown the world became a small iron room with a hatch in the roof and a glass in the seat at his feet.
 
-He was colder in the first minute than the water was. That was the first thing that had not been in Tobias Wren's forty-five-year-old account, and it was the first thing that told Calder the entry was real and not something he had built out of want.
+He was colder in the first minute than the water was. That was the first thing that had not been in Tobias Wren's thirty-one-year-old account, and it was the first thing that told Calder the entry was real and not something he had built out of want.
 
 He waited. He read the gauge. He read it again.
 
@@ -128,7 +128,7 @@ The burn on the right forearm was four inches long and it was not a rope burn he
 
 His ears were going. Not deaf — going. There was a note in them, low and flat, that had not been there that morning, and when he turned his head to find the harbor it was not where it was, and when he turned it back the flat note stayed where it was and the harbor moved. Somewhere under the flat note, a long way off and about a third of a second behind everything, there was the sound of a bell being rung twice in a loading space.
 
-He put his hand flat on the platform boards to hold the world still and the boards were cold and real and stayed where they were.
+He got a hand down on the platform boards and pressed until the grain came up on his knuckles, and the boards were cold and real and stayed where they were.
 
 "Water," Nessa said. "Small cup. You are not going to stand up yet."
 
@@ -158,7 +158,7 @@ Mara Venn's pen was on the board. "How many were carrying it?"
 
 Mara wrote it down, and the writing took a long time because she did it in the flat hand and not fast, and when she had done it she read it back and made him agree to it.
 
-Nessa had not said anything for a while. She was sitting on the bell with her arms round her knees, looking at the water beyond the platform rather than at either of them.
+Nessa had not answered him, which on a working deck is its own kind of answer. She was sitting on the bell with her arms round her knees, looking at the water beyond the platform rather than at either of them.
 
 Then Calder turned to her to ask for the slate, and he answered her.
 

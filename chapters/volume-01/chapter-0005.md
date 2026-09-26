@@ -10,7 +10,7 @@ They worked at the long bench under the north shed with the plate on a sheet of 
 
 "Three things off it," she said. "One anchor, one shackle with a saw cut in it, and one piece of what you are all going to stop calling a plate. I will write down what came up, what came off, and what was attached, and I will not write down what it means. Go on."
 
-Calder read from the slate in the order he had written it. The first clamp on at six past five. The rib settling two inches and three, silt curtain, four minutes of nothing. The second clamp off at five past six. The measurements off the plate before he touched the anchor: four foot two by eleven inches, three fingers at the near edge, two at the middle, eleven keys along the long seam with a fillet running the whole length of the join, and a keel line continuous with no break and no join running west.
+Calder read from the slate in the order he had written it. The bell over at ten past five. The first clamp on at twenty-five past five. The rib settling two inches and three, silt curtain at six o'clock, four minutes of nothing. The second clamp off at five past six. The measurements off the plate before he touched the anchor: four foot two by eleven inches, three fingers at the near edge, two at the middle, eleven keys along the long seam with a fillet running the whole length of the join, and a keel line continuous with no break and no join running west.
 
 Mara wrote it all down without looking up. When he came to the number eleven and the words *no break, no join*, her pen stopped for a moment and then went on at the same pace, and Calder watched her do it and did not know what it meant.
 
@@ -26,7 +26,7 @@ Mara found the first within ten minutes. It was the oldest, and it was the join 
 
 "That is old work," she said. "It is a fillet laid in a cold enough fire and a careful enough hand that it has gone the colour of wet slate instead of going to powder, which happens when the resin is good and the person knew when to stop heating it. Do you know that fillet?"
 
-Calder put his hand flat on the bench.
+Calder did not touch the plate. He put his hand down on the bench on the far side of it, well away from the seam, and left it there like a man holding a rail in bad weather.
 
 "Yes," he said.
 
@@ -72,7 +72,7 @@ And in the middle of that run, low down, clear of the fouling, standing about tw
 
 Nine short lines. Nine of them, each one a little under a finger long, and all nine of them joined at a single point, and the point cut deep enough to have been made with a tool and not with a mould.
 
-Mara Venn did not say anything for a while.
+Mara Venn read the mark twice before she said anything.
 
 "That is not a Registry mark," she said at last. "It is not a cargo seal and it is not a claim seal and it is not a Crown ownership mark, and I have four books in this office that list every mark a Serein office is permitted to strike into glass, and that is not one of them. It predates all of them. The compound under it has gone to powder and the mark itself has not moved, which means it was put there before the plate was ever worked into a hull."
 

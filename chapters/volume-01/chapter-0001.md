@@ -138,7 +138,7 @@ He wrote on the slate, in the small figures he kept for records, the number of t
 
 Then he got a strip of red rag and went back out onto the mole in the last of the light, and tied a marked lead line to the crown of the drifted anchor at eight feet down, and set a float on it, and knotted the rag to the float with the number of the seam written on it.
 
-That was the whole of what a proper diver could do about a piece of iron four fathoms down in a mole's toe: leave a mark that says somebody knows it is there, so that when a proper lift comes, the proper lift knows what it is for. It did not touch the anchor. It hung above it in the dark water and waited for a tide and a crane and a crew, and Calder left it there and came back up the steps with his coat heavy against his chest.
+That was the whole of what a proper diver could do about a piece of iron eight feet down in a mole's toe: leave a mark that says somebody knows it is there, so that when a proper lift comes, the proper lift knows what it is for. It did not touch the anchor. It hung above it in the dark water and waited for a tide and a crane and a crew, and Calder left it there and came back up the steps with his coat heavy against his chest.
 
 Kest was on the mole head.
 

@@ -1,1 +1,1 @@
-Review files will be created after the first batch.
+Review files are written after each batch's review gate. `volume-01/batch-0001.md` holds the Volume 01, Batch 0001 review (Chapters 1–10) with its findings, the repairs applied in place, and the status line.

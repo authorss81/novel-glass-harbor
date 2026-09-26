@@ -56,11 +56,13 @@ She did not touch it. She put her hand flat on the table on either side of it, a
 
 She turned the fragment a quarter at a time. The calipers came out of her coat and she took three measurements — the curve, the thickness at the fat edge, the length of the worked striations — and wrote them down in the small book in a hand like a row of nails. Twice she stopped and put her thumb on a place and left it there while she counted something to herself, and once she said, "There is a second edge," and Calder said, "I know," and she looked up at him sharply and wrote that down too.
 
+Then she had the glass up to the window and turned it against the light and looked along the lower cut face, where a band about the width of a thumb had been ground flat the whole length of the break, with the worked lines running down into the band and stopping dead at its edge. The band was not straight. It curved, the way a band curves when the thing it was cut out of was round. She brought the calipers to it without letting them touch, took the width twice and the curve once, and wrote the figures down with the word *ground* beside them, and under the word *ground* she wrote *purpose not stated*, and turned the book so that he could read both of those upside down.
+
 "It is not a window," she said. "It is not a bottle. It is not a lantern chimney and it is not Crown tableware, and I have written all of those out already this week for other people." She put the calipers down. "May I ask what you think it is?"
 
 "I think it's a piece off a ship."
 
-"I think it is a piece off a hull that was built, and worked, and then broken. I cannot tell you how old it is. I cannot tell you where it came from, or what it was carrying, or who was near it. I cannot tell you that from this." She set her hand flat on the table on the other side of the glass. "That is the entire content of my examination, and I am obliged to read it into your log, and when I do, your claim goes on the record as a claim over an object of undetermined origin and undetermined age."
+"I think it is a piece off a hull that was built, and worked, and then broken. I cannot tell you how old it is. I cannot tell you where it came from, or what it was carrying, or who was near it. I cannot tell you that from this." She closed the little book and set it down on the table on the other side of the glass. "That is the entire content of my examination, and I am obliged to read it into your log, and when I do, your claim goes on the record as a claim over an object of undetermined origin and undetermined age."
 
 "Read it in."
 
@@ -157,5 +159,11 @@ The woman at the window put her calipers in her coat and buttoned it.
 "I will be at the yard this evening," she said. "I want the glass laid out on a bench with a lamp and a cloth, and I want the fouled line wet and slack, and I want whoever cut the shell off it to stop cutting anything off it. And I want the position mark, in your hand, with the time on it."
 
 "It's on a slate."
+
+"Then bring the slate, and bring the day sheet with it. The job, the fee the harbor paid for it, and the hour it stopped. And the names of the Free Keel, because a mark on a chart with no hour and no wage on it is a story, and a story is the one thing I cannot enter in a book."
+
+"Rook was in the boat with me. Pike and Wren are the yard."
+
+"Write Rook once. He is both." She had the book open on her forearm and wrote the three names in the nail hand, and read them back to him without looking up, which is a thing she does with everything. "A position with a name against it is a piece of work. A position on its own is somebody's opinion about where he was standing."
 
 "Then bring the slate." She was already at the door. "And Mr Marr — if you go and look at the shoal, you will not find the boat by the rope. You will find her by what is lying next to her, and what is lying next to her may be considerably older than she is."

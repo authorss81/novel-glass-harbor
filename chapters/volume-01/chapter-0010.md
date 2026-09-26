@@ -82,13 +82,13 @@ He had heard it three times in his life: off the mole, under the water at the sh
 
 And then, in the space under the note, where a boy used to stand with a coil of line in his hands and answer a call out of a fog, a voice came up the half beat and said something.
 
-It was the low short call with the lift at the end of it, three marks and a flick, and it was the one Calder had heard come out of his own mouth on a rotten platform at half past midnight two nights before, and it was in his own head now, in the place where his brother had been for thirteen years.
+It was the low short call with the lift at the end of it, three marks and a flick, and it was the one Calder had heard come out of his own mouth on a rotten platform at half past midnight last night, and it was in his own head now, in the place where his brother had been for thirteen years.
 
 It answered the note.
 
 He put both hands on the rail until his fingers went white. It could be a sound in the bottom and a boy in his own memory, which would be grief with a rope on it, which is what grief is. It could be a sound in the bottom and a boy in the glass, which would be a route and a witness, and there was no instrument on this quay that could tell the two apart. And it could be the third thing, which was that the aftertaste had taken a shape that matched what he wanted, and that a man listening very hard for a voice in a keel-line would hear his own.
 
-He stood there until the slop went off the face of the mole and the glare went with it, and what was left in his ears was the flat tone Mara Venn had written down in a Registry hand on Monday night, and a third of a second under it, an answer.
+He stood there until the slop went off the face of the mole and the glare went with it, and what was left in his ears was the flat tone Mara Venn had written down in a Registry hand in the small hours of last night, and a third of a second under it, an answer.
 
 He did not write it on the slate. That was the discipline and he kept it, and it was the hardest thing he did that day.
 
@@ -112,7 +112,7 @@ She read it out. The ground of Gannet Shoal was under naval salvage claim; the v
 
 "There is no harbor line in that at all," Nessa said. "It is not asking us off our own ground. It is asking us out of water we have never been in."
 
-"Four hundred yards off the outer marks," Calder said. "Half a mile we cannot touch, starting about a mile from the mole, and between here and there is ordinary water on a shoal the harbor's own list has carried for eight years with nobody's name on it."
+"Four hundred yards off the outer marks," Calder said. "And the outer marks are a mile and a quarter off this mole, so that is a mile and a half of water we cannot touch, and between here and there is ordinary water on a shoal the harbor's own list has carried for eight years with nobody's name on it."
 
 "It is written down, and it is the only reason I was sent with it instead of a boat's crew. You keep a copy. I have a duplicate. It is a form, and the form is the point." He looked at the yard, and at the iron on the stack, and at the bench with the books on it, and did not appear to be looking for anything in particular. "My captain's instruction was the four hundred yards, and that is what I have said, and I am going back to my boat."
 
@@ -130,11 +130,11 @@ Nessa had the book. Bevin had the book. Tobias Wren was sitting on the stack wit
 
 "Go on," Calder said.
 
-Out in the road a tender had come in from the naval pile with a light line over her side, and she was setting floats in a long slow arc a quarter of a mile off the mole, on the bearing of the pale run, well outside the four hundred yards and exactly on the line of it. Two men of the Free Keel stood at the slip head and watched her do it and neither of them said anything, because there was nothing to be said that was not in the officer's paper already.
+Out in the road a tender had come in from the naval pile with a light line over her side, and she was setting floats in a long slow arc a quarter of a mile off the mole, on the bearing of the pale run, which is where a line of marks has to begin if it is going to run out and meet the shoal's outer marks at all. Two men of the Free Keel stood at the slip head and watched her do it and neither of them said anything, because there was nothing to be said that was not in the officer's paper already.
 
 Tobias got his whistle out and put it away again, which was the thing he did instead of swearing.
 
-"I will say it if you will not," he said, "because you have not said a word to anybody in this yard all day, and I have watched a crew go quiet around a man like that and it does not end well. So here it is, and you may stop me at any point. You have no glass. You have no permit. You have twelve days of a defense that a clerk can end with a stroke of a pen. You have a sheet of paper with a case's plating specification on it and a sheet of paper with a ferry's ninth page of figures on it, and the two have never been in the same room before this week, and there is nobody on this coast who can put them together except the two of us and a woman in a Registry coat. And you have a bearing west-southwest, and there is nothing that way but old ground and Orison, and Orison is a hundred and thirty fathoms down, and nobody here goes there, and every old fool on the quay has a story about it and not one of them is any good."
+"I will say it if you will not," he said, "because you have not said a word to anybody in this yard all day, and I have watched a crew go quiet around a man like that and it does not end well. So here it is, and you may stop me at any point. You have no glass. You have no permit. You have twelve days of a defense that a clerk can end with a stroke of a pen. You have a sheet of paper with a case's plating specification on it and a sheet of paper with a ferry's ninth page of figures on it, and the two have never been in the same room before this week, and there is nobody on this coast who can put them together except the two of us and a woman in a Registry coat. And you have a bearing west-southwest, and there is nothing that way but old ground and Orison, and Orison is seventy fathoms down, and nobody here goes there, and every old fool on the quay has a story about it and not one of them is any good."
 
 He put his hat on.
 
@@ -160,7 +160,7 @@ That got a look from Tobias that Calder would remember for a long time.
 
 He stopped.
 
-"That is the decision," he said. "I am telling you now because in about four days there will be a tide and a Monday and a bell in my head, and I am not going to be a man who says one thing and does another, and I would like it in the book that I said it here first, out loud, in front of you, on this day, with a cutter at the pile."
+"That is the decision," he said. "I am telling you now because in about three days there will be a tide and a Monday and a bell in my head, and I am not going to be a man who says one thing and does another, and I would like it in the book that I said it here first, out loud, in front of you, on this day, with a cutter at the pile."
 
 Nobody said anything for a while. The tide bell went at the top of the water, three strokes, out in the road where it had always hung, and the sound arrived, and under the sound, a third of a second late and much too even to be anything, the note came up out of the bottom of the harbor and said the three marks and the flick.
 

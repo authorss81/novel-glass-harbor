@@ -28,7 +28,7 @@ Bevin took the boat and kept the bell's lead going over the sheave, and he read 
 
 "How long is that?"
 
-"Forty minutes if the weather holds. Twenty if it doesn't." She put her hand flat on the bell's crown. "Now. Tell me the boundary again."
+"Fifty-five minutes if the weather holds. Twenty if it doesn't." She put her hand flat on the bell's crown. "Now. Tell me the boundary again."
 
 "Marker line on the anchor shackle, running out along the rib's foot to a sinker at eleven fathoms off the shoal end. Past that line I do not go, and if I go past it you do not come and get me, you write the hour down."
 
@@ -54,7 +54,7 @@ The frames on it were not frames. There were fourteen of them along the *Alder R
 
 He put the chalk on his slate and wrote the number and the time, and then he put the slate away and did the work, because the silt was not going to wait.
 
-The first clamp went on at six past five, on a length of the rib's foot where the anchor's fluke came up against it and where there was a good shoulder of it. The second went on the shank itself, further out, four feet along.
+The first clamp went on at twenty-five past five, on a length of the rib's foot where the anchor's fluke came up against it and where there was a good shoulder of it. The second went on the shank itself, further out, four feet along.
 
 The second clamp took the load.
 
@@ -62,7 +62,7 @@ The rib moved.
 
 Not far. Two inches, maybe three, and it moved the way a heavy thing moves when the thing underneath it goes — down and slightly inboard, with the whole length of it settling a hand's width as though it were a length of pipe somebody had nudged. A wall of silt came off its upper side in a long slow curtain and stood in the water like a wall of smoke, and the bell's lead came up hard against Calder's shoulder and then slackened.
 
-He held still for a count of ten and put his hand flat on the bell's ring and felt nothing of him at all, which was the condition for going back up and which was not the condition he was in.
+He held still for a count of ten and took hold of the bell's ring by the join in the casting, which he could find in the dark, and it told him nothing of himself at all, which was the condition for going back up and which was not the condition he was in.
 
 The curl of it came off the silt, and the water went yellow and then went brown, and for four minutes Calder could not see his own boots and did not move, and in that four minutes he did the arithmetic that a diver does in a silt-out: two minutes of working water left before the bell's air would need changing, ten minutes before the bottom would be moving under him, and the work not done, and the plate not measured, and the fact that if the rib went over there would be nothing left of the *Kittiwake*'s people to be angry at.
 
@@ -90,7 +90,7 @@ It came.
 
 It came the way bedded iron comes: not at first, then all at once, and with a sound that came up through the silt and through the bell's ring and into Calder's teeth, a grinding of shell and a thud, and then nothing holding it but the line and the water and a hand's worth of work keeping the angle right.
 
-The anchor came up into his lap and fouled the silt, and Calder put both arms round it and let it rest against the bell's ring and felt its weight, which was a great deal more than it had any right to be at six fathoms, and understood that he had made a mistake about how long he had to work.
+The anchor came up into his lap and fouled the silt, and Calder put both arms round it and let it rest against the bell's ring and felt its weight, which was a great deal more than it had any right to be at eight fathoms, and understood that he had made a mistake about how long he had to work.
 
 He had the anchor out of the silt and the plate off the rib's foot in his other hand when the first current came across the shoal, and it came across the shoal like a hand laid flat on the back of a neck.
 
@@ -100,7 +100,7 @@ The bell came up after him and the anchor came up after the bell, and Bevin Rook
 
 Calder came out of the helmet and sat on the gunwale with his hands on his knees and could not get his fingers to do what he wanted them to do for a while. The doubled hose was lying in a heap in the bottom of the boat. The single clamp was bent back about four inches from where the rib's shoulder had tried to roll off it, and the second clamp was somewhere out on the shoal, and the second clamp was a new one, bought in Ash Quay in the spring out of a share Calder did not have.
 
-"Six-twenty," Nessa said. "You had until twenty past six."
+"Six-twenty," Nessa said. "You had until a quarter past six."
 
 "The current made at six-fifteen." He had the slate in his hand. "The silt-out was at six-oh-four. I wrote the times down."
 

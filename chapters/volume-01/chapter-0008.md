@@ -70,7 +70,7 @@ He stopped and looked up.
 
 Calder looked at the word for a while. It was a form of address, set in the same size of type as everything else on the page, in a line that had a space at each end of it, and it meant nothing to him except that the paper had come from a long way off on account of a word.
 
-"Nineteen days ago," he said, "a courier came onto this quay and asked after glass on harbor ground, and a woman with a book stood in my yard and asked me what I recognized down at a mole, and I lied to her. And it has taken nineteen days to arrive on this bench, and the man who signed it was not in my yard and did not hear me lie." He turned to Kest. "Where is the order going?"
+"Three days ago," he said, "a courier came onto this quay and asked after glass on harbor ground, and a woman with a book stood across a table from me in a barge with a stove in it and asked me what I recognized, and I lied to her. And it has taken three days to arrive on this bench, and the man who signed it was not in my yard and did not hear me lie." He turned to Kest. "Where is the order going?"
 
 "Both objects go to the Morrow circuit custody room, by the courier, this morning, and they are entered there as two items under two numbers, and the reeve's office will have a copy of the entry and you will have a copy of the entry, and the numbers are the whole of what either of us will have to argue with later."
 
@@ -100,7 +100,7 @@ Mara worked while they were packing.
 
 She did it in one sitting, and she did it out loud at intervals so that the yard could hear what a public provenance duplicate was, on the grounds that a thing that is public ought to be made in public. It was not a copy of anything. It was a witnessed record of measurements, seams, custody facts, and named hands, in a form that would survive the loss of the two objects, and every one of its lines was a line that could be checked by somebody standing on a different day in a different place with a rule and a steel.
 
-"Every measurement from the slate, in the order he took it, with the hour. The three repair histories on the plate, with the iron's ceiling on the second one, described as a ceiling and not a date. The keyed keel seam, the eleven keys, the fillet, the cut edges, the flange, the aperture described as sealed and not opened, and the builder's mark of nine joined lines on the underside, described as a builder's mark, of pre-Accord construction, with the conservator's written note that a mark is not a witness and records no consent. The fouled line, its lay, its seizing, the district it points to, and the fact that it is a material comparison and not a chain of custody. The shard: one object, undetermined origin, and I am writing *undetermined* and I will not write it softer because the entry is going to Veyr."
+"Every measurement from the slate, in the order he took it, with the hour. The three repair histories on the plate, with the iron's ceiling on the second one, described as a ceiling and not a date. The keyed keel seam, the eleven keys, the fillet, the Crown-shop flange over the corner, the aperture described as sealed and not opened, and the builder's mark of nine joined lines on the underside, described as a builder's mark, of pre-Accord construction, with the conservator's written note that a mark is not a witness and records no consent. The fouled line, its lay, its seizing, the district it points to, and the fact that it is a material comparison and not a chain of custody. The shard: one object, undetermined origin, its lay and its seizing, and a band ground along its lower cut face whose purpose is not stated — which is not a claim and not a fault, and is written as a measurement and nothing else. And I am writing *undetermined* and I will not write it softer because the entry is going to Veyr."
 
 "And my names," Nessa said. "All of ours. Whoever put a hand on it."
 
@@ -142,7 +142,7 @@ He watched the courier's boat go out past the mole and round into the channel.
 
 Then he stood in the yard in the early light with nothing on the bench and an iron on the ground, and worked out for the first time in three days what the day was going to be.
 
-It was going to be a day with no glass on it. And the claim window on the shard closed at dark tonight, and the object at the end of it would be sitting in a custody room in the west of the city under a number he had written down once and would see again, if he ever saw it, in a list of other numbers.
+It was going to be a day with no glass on it. And the claim window on the shard closed when the courier took the box down the slip, whatever the paper said about four days, because a window on an object a man no longer holds is a window with nothing in it; and the object at the end of it would be sitting in a custody room in the west of the city under a number he had written down once and would see again, if he ever saw it, in a list of other numbers.
 
 He had wanted a piece of his brother for thirteen years. He now had a slate, a drawing, a fouled line described in a Registry hand, a woman's note about an edge he had not looked at, and a bell in his head that was a third of a second late, and the morning was coming up out of the water over the mole with the tide, and there was nothing else in the harbor that he could do about any of it.
 
