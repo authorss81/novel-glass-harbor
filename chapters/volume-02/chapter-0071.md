@@ -58,7 +58,7 @@ Nobody in that shed said anything for about half a minute, and the stove ticked,
 
 "Read it back," she said, "because in about a year somebody is going to want to know whether that paragraph was in the ground when the ground went up the coast or whether it was put in afterwards because it suited somebody. Read it back."
 
-He read it back. Calder Marr read it back after him. That is three, and the rule is that four men read the same day it is written, and the fourth was Alden Marr at the far bench, who was not asked for anything, and who did not read it, and who is not in this chapter and is not asked.
+He read it back. Calder Marr read it back after him. That is three, and the rule is that four men read the same day it is written, and the yard had not found a fourth man that morning and had not gone and got one, and Alden Marr was at the far bench and was not asked for anything and was not going to be used to make a number come out right, and Calder Marr did not go over to him.
 
 "That is a true thing," Mara Venn said, "and it is the only one of the four paragraphs that the office cannot get round, and I am not going to say any more about it than that, and I am going back to the beginning because you are all going to do the thing you always do and treat the best paragraph as though it were free."
 
@@ -78,8 +78,6 @@ It went in that way. The boy wrote it and read it back and read it back again, a
 
 ---
 
----
-
 They opened the bench chest at about two in the afternoon because a number in a paragraph is worth nothing until a man has put his hands on the paper, and there had not been a hand on any of the seven since the eighteenth of January.
 
 The chest is against the side of the bench with the shoal iron stacked against it, twenty marks' worth of unsold shackles and a crown with a saw kerf in it, and the whole stack is the bond of the charter at a clerk's thirteen, so that nothing in that chest can be sold without a clerk's hand on a page, and the five rolls in oilcloth lay on top of the iron with a piece of the yard's sailcloth tied over them.
@@ -94,7 +92,7 @@ Nessa Pike untied the sailcloth herself and counted them out on the boards, and 
 
 The seven were counted twice and the date went on it, and then they went back into the chest in oilcloth under the sailcloth, and the chest was shut, and the twenty marks of iron were against it again, and the crown with the saw kerf in it was where it had been since October.
 
-The fee went on the counter on Monday the sixth with the ground in Calder Marr's coat and the twenty-ninth day of January in it in the other pocket, and the market on the Saturday had been the busiest of the winter, and the *Sea Wren* had been alongside the fish dock at six in the morning with her pump in her and a job on her board and Noll Tarner on the gunwale talking to a man about a shackle, and she was the boat in the fourth paragraph, and her day was in the second, and neither man in that shed had said a word about why it mattered that a ground naming her was going up the coast on the Monday, and the boy wrote the ground out again on Saturday night in his own hand and did not read it back to anybody because there was nobody to read it back to.
+The fee went on the counter on Monday the sixth with the ground in Calder Marr's coat and the twenty-ninth day of January in it in the other pocket, and the market on the Sunday before had been the busiest of the winter, and the *Sea Wren* had been alongside the fish dock at six in the morning with her pump in her and a job on her board and Noll Tarner on the gunwale talking to a man about a shackle, and she was the boat in the fourth paragraph, and her day was in the second, and neither man in that shed had said a word about why it mattered that a ground naming her was going up the coast on the Monday, and the boy wrote the ground out again on Sunday night in his own hand and did not read it back to anybody because there was nobody to read it back to.
 
 He wrote it out because it was going to be a copy, and a copy of a ground is a thing a man can hold, and the yard had learned five months ago what a man can do with a sheet of paper once he is holding it and has nothing else to do with it.
 

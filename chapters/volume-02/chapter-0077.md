@@ -8,11 +8,11 @@ The paper came down the fish dock on Saturday the eighteenth of March in the han
 
 Nessa Pike read it twice at the head of the dock with the wind coming off the water and then went and got the book out of the chest in the shed, which is a thing she does about four times a year, and she found the count of the twenty-third of November on a leaf and read it out on the steps.
 
-"It says eleven," she said. "It said ten in the type on the thirtieth of December and it said ten again on the second seal in January, and the reeve forwarded the vessel's paper to that office on Wednesday with our count in it, and they have set the count up in their own type in three days, and nobody in this yard told them anything and nobody in this yard has told them anything since the second of March. They are not wrong. They have simply been told, and it was not by us, and it is going in the book in that form, and I am not going to have one word of an adjective on it."
+"It says eleven," she said. "It said ten in the type on the thirtieth of December and it said ten again on the second seal in January, and the reeve forwarded the vessel's paper to that office on Wednesday with our count in it, and they have set the count up in their own type in a day, and nobody in this yard told them anything and nobody in this yard has told them anything since the second of March. They are not wrong. They have simply been told, and it was not by us, and it is going in the book in that form, and I am not going to have one word of an adjective on it."
 
 "Entered," said Bevin Rook, "and read the date at the foot and not the day it came."
 
-"Eighteenth of nothing, and it is a Saturday. It is dated the sixteenth. The fourteen runs from the sixteenth and that is a Monday, so the thirtieth, and the thirtieth is the day before this yard's charter runs out, and it is the day on which the request wants a book delivered into a custody room in another city. Put both of those in one line and put the word *coincides* out of it, because a coincidence is a word a man uses when he does not want to write down that he arranged it."
+"Eighteenth of nothing, and it is a Saturday. It is dated the sixteenth. The fourteen runs from the sixteenth and that is a Thursday, so the thirtieth, which is a Thursday and is the day before this yard's charter runs out, and it is the day on which the request wants a book delivered into a custody room in another city. Put both of those in one line and put the word *coincides* out of it, because a coincidence is a word a man uses when he does not want to write down that he arranged it."
 
 ---
 
@@ -32,7 +32,7 @@ The seven copies in the yard's keeping were not going to be delivered, and the r
 
 Then Nessa Pike said the thing that made it a decision instead of a mood.
 
-"And we cannot pay the three marks," she said. "The bag has two. It has two because we bought a pump on a note on Wednesday and because the fortnight's eating came off the same bag on Saturday, and the air pot wants two more before the moon and the fortnights do not stop coming. Three marks is not a moral question this week. Three marks is four days of the air and it is the whole of what is in the bag, and a yard with nothing in the bag in March is a yard that has to take a herring man's ring off a fouled ring in April, and that is not a thing I am willing to do to pay a counter three marks to not say anything."
+"And we cannot pay the three marks," she said. "The bag has two. It has two because we bought a pump on a note on Wednesday and because the fortnight's eating came off the same bag on Tuesday, and the air pot wants two more before the moon and the fortnights do not stop coming. Three marks is not a moral question this week. Three marks is four days of the air and it is the whole of what is in the bag, and a yard with nothing in the bag in March is a yard that has to take a herring man's ring off a fouled ring in April, and that is not a thing I am willing to do to pay a counter three marks to not say anything."
 
 "So it is a delay and it is free," Calder Marr said, "and the only reason it is free is that nobody's boat is in a lighter over it, and I want that sentence in the book, and I want my name on it, because in two years somebody is going to write that this yard delayed a request of the circuit office in March and did so out of a bag with two marks in it, and it will be true, and it will read like cowardice, and it will be the first time in five months that a thing this yard did has been made to look like a thing this yard was."
 

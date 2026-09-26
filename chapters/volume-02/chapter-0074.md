@@ -2,13 +2,13 @@
 
 *The Second Seam on a Moon*
 
-The iron came up the coast in a handcart on Wednesday the eighth of March in the middle of the morning and went onto the note in the creditor's own hand at a shilling and threepence for the cart, and the housing was fitted before the tide turned.
+The iron came up the coast in a handcart on Wednesday the eighth of March in the middle of the morning and went onto the note in the creditor's own hand, and a mile and a half of carting is a shilling and threepence, and the cart was the creditor's own and he would not put the carting on that page, and said why, which is that a man who is owed nineteen marks by a yard with a mark in the bag does not add a shilling and threepence to a page for the sake of being paid it in a year. The housing was fitted before the tide turned.
 
 Nineteen marks of iron went on that page and five marks came out of the bag, and the bag had six in it on the Monday night and had one at two o'clock on the Wednesday afternoon, and Nessa Pike made the boy write all four figures in one line and read them back before she let anybody touch the pump.
 
 "Five marks out and one left," she said, standing over it, "and I am not going to have a man be pleased about a pump today without somebody saying the other half. A pump is not money. A pump is a thing that makes money on a tide when somebody with money wants it, and there is exactly one tide in this harbor in any month where a fouled ring of a herring boat at the second seam is worth doing, and that is the moon, and the moon is on Friday."
 
-"Friday," Bevin Rook said, and wrote it, and added under it, with no adjective anywhere in it, that the fifth week of a wage at four marks a week fell due on Saturday the seventh and is not paid and the party has not asked and the holder has not been told a date by anybody.
+"Friday," Bevin Rook said, and wrote it, and added under it, with no adjective anywhere in it, that the fifth week of a wage at four marks a week fell due on Tuesday the seventh and is not paid and the party has not asked and the holder has not been told a date by anybody.
 
 The line went in and nobody in that shed said one word about it, and it was read back twice, and that was the whole of the treatment the fifth week got, and the rule that has held since the first of February is that a week of a wage is entered as a fact and is not a subject, and the first of March is not a precedent for anything except the last of February.
 
@@ -60,7 +60,7 @@ The money was read out on the Friday night and it was the shortest column of the
 
 "Gross twenty, and it is Sella Brigg's and out of her own account and not a word of it is the harbor's. The eighth three and the share three. Air two, and the pot is not a third gone this week and the reason it is not a third gone this week is Wednesday. Rope a mark. Tam Slee two. The pump four, hired, and the pump is the only gear in this yard that anybody can hire and I want that entered in that column and not in an inventory.
 
-"That is fifteen out of twenty and the yard's is five, and the bag had one mark in it at two o'clock on Wednesday and it has six, and the note was at one mark at the counter on Wednesday and it is at twenty marks, and on Saturday a fortnight of bread, oil and candles goes onto that page in this creditor's own hand and comes out of this bag, and I am entering both tonight so that nobody has to do it in the morning."
+"That is fifteen out of twenty and the yard's is five, and the bag had one mark in it at two o'clock on Wednesday and it has six, and the note was at one mark at the counter on Wednesday and it is at twenty marks, and on Tuesday a fortnight of bread, oil and candles goes onto that page in this creditor's own hand and comes out of this bag, and I am entering both tonight so that nobody has to do it in the morning."
 
 The shed was quiet for a moment with the stove going.
 

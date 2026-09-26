@@ -2,7 +2,7 @@
 
 *What the Yard Will Not Strike Out*
 
-Noll Tarner was sitting on the bollard at the head of the fish dock at eight in the morning on Wednesday the twelfth of March with his hands round his knees, and he had been there since the market began, and when Calder Marr came down he said the thing he had come to say before anybody had said good morning.
+Noll Tarner was sitting on the bollard at the head of the fish dock at eight in the morning on Sunday the twelfth of March with his hands round his knees, and he had been there since the market began, and when Calder Marr came down he said the thing he had come to say before anybody had said good morning.
 
 "I want the twenty-sixth of January struck out."
 
@@ -44,7 +44,7 @@ Calder Marr had not said anything for nine minutes, which is longer than the rul
 
 "No," he said at last. "We will not strike it, and I will say why in a way that is not Nessa's way, because Nessa is right about the rule and I am the man who put the day in.
 
-"Your day is true. That is the whole of it and it is the reason I will not take it out and it is not a defence of you, it is a fact about a wall. The twelfth of January you went down under a stone that had been there since the year the mole went out, and the stone had a shackle cast in it, and you came up with a shackle and a ring and four feet of warp in one piece, and there was nothing in your hands that looked like glass and nothing that is going into a ledger in Veyr, and it took twenty-one minutes by your own count and nineteen by the boat's, and both of those are on that page, and your nineteen is in the first column and your twenty-one is in the second, and neither of them is scratched out. Nobody has ever struck out your nineteen. I have watched a man try to explain the difference between them for an hour and a half and he has not once asked me to take his smaller one out.
+"Your day is true. That is the whole of it and it is the reason I will not take it out and it is not a defense of you, it is a fact about a wall. The twelfth of January you went down under a stone that had been there since the year the mole went out, and the stone had a shackle cast in it, and you came up with a shackle and a ring and four feet of warp in one piece, and there was nothing in your hands that looked like glass and nothing that is going into a ledger in Veyr, and it took twenty-one minutes by your own count and nineteen by the boat's, and both of those are on that page, and your nineteen is in the first column and your twenty-one is in the second, and neither of them is scratched out. Nobody has ever struck out your nineteen. I have watched a man try to explain the difference between them for an hour and a half and he has not once asked me to take his smaller one out.
 
 "And if we strike yours we strike ours, and not because it is fair. Because a book with one hole in it that a party can fill by asking is a book that tells a man in four years exactly which entries this yard gives up when it is asked nicely. We gave up a hole on the nineteenth of January without being asked, in our own hand. That is the only thing in five months I would put in front of a man from that office and I am not going to take it out to keep a crew in a lighter."
 
@@ -80,4 +80,4 @@ They shook hands at the head of the dock, which neither of them mentioned afterw
 
 "That is your fault, Mr Tarner, and it is not a complaint, and I would like it written down in your hand and not mine, and if you are not going to write it then I will."
 
-Tarner had his own copy of his own day rolled inside his coat, and he was a man who had lost a boat, a pump, two warps, a hand's share of a good week's work, and the only crew he had left that anybody in a form could call a crew, and he took the sheet out and gave it back, and said: "No. You wrote that one. I will not sign a thing of yours to be polite, and I will not take a pen off a man who came up a dock to say a hard thing to me at one o'clock on a Wednesday."
+Tarner had his own copy of his own day rolled inside his coat, and he was a man who had lost a boat, a pump, two warps, a hand's share of a good week's work, and the only crew he had left that anybody in a form could call a crew, and he took the sheet out and gave it back, and said: "No. You wrote that one. I will not sign a thing of yours to be polite, and I will not take a pen off a man who came up a dock to say a hard thing to me at one o'clock on a Sunday."

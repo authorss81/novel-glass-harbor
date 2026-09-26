@@ -6,9 +6,9 @@ She was in the shed when Calder Marr came down on Wednesday the twenty-second of
 
 "You told me on Tuesday night," she said, before he had got the door shut. "Not Piet. You."
 
-"Calder told me at nine last night and I was up the hill at ten this morning before the market because I did not want to be told it in a street."
+"Calder told me at nine last night and I was up the hill at ten yesterday morning before the market because I did not want to be told it in a street."
 
-"I have been asked about an office that I have not held since the fourth of January, and by a man with a slate, in a market, on the Saturday, and I have had four days to decide whether to tell this yard or not, and I have decided, and I want it said at the beginning that I decided and that it was not Piet Marrow that made me." She put the cup down and did not drink from it, which was a thing she had been doing for sixteen weeks. "So that is the shape of it and I am going to say it once and plainly, and then I am going to refuse you something, and I would like the refusal to come second so that the first half is not mistaken for a favour."
+"I have been asked about an office that I have not held since the fourth of January, and by a man with a slate, in a market, on the Saturday, and I have had four days to decide whether to tell this yard or not, and I have decided, and I want it said at the beginning that I decided and that it was not Piet Marrow that made me." She put the cup down and did not drink from it, which was a thing she had been doing for eleven weeks. "So that is the shape of it and I am going to say it once and plainly, and then I am going to refuse you something, and I would like the refusal to come second so that the first half is not mistaken for a favor."
 
 ---
 

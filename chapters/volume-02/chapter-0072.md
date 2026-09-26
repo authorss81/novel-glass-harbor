@@ -30,7 +30,7 @@ Nessa Pike, who had come down with the book in a satchel because a man does not 
 
 ---
 
-Tarner asked for the endorsement to be written out, and the leading hand wrote it out on the slate and the officer read it aloud and the leading hand entered it in the form, and it read, in the office's own type, that the vessel so held is a working salvage boat of no crew of any association, that she carries no transparent material and none is alleged, that her master is a member of the Free Keel association and has been off its slate since the twenty-ninth of October, and that no person of the Free Keel yard of Morrow Quay has been served with this instrument or named as a party to it.
+Tarner asked for the endorsement to be written out, and the leading hand wrote it out on the slate and the officer read it aloud and the leading hand entered it in the form, and it read, in the office's own type, that the vessel so held is a working salvage boat of no crew of any association, that she carries no transparent material and none is alleged, that her master is a member of the Free Keel association and has been off its slate since November, and that no person of the Free Keel yard of Morrow Quay has been served with this instrument or named as a party to it.
 
 "That is four things and they are all true and I did not write any of them and none of them is against me," Tarner said. "Now put the fifth one in and let me see you write it."
 
