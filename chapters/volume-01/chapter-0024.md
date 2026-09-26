@@ -48,7 +48,7 @@ He got one rung and then two and then stopped.
 
 "Say the other thing." Calder was on his knees on the wet boards with the fall in his hand.
 
-Bevin took the canvas pocket out of his teeth with his right hand and put it on the thwart and then held his left arm out away from his body, the way a man holds a thing he has been told not to touch, and his face was the colour of the inside of a glove.
+Bevin took the canvas pocket out of his teeth with his right hand and put it on the thwart and then held his left arm out away from his body, the way a man holds a thing he has been told not to touch, and his face was the color of the inside of a glove.
 
 "The shackle is pinned and the pin is seized and it is under the stone and I could not have got it in a week," he said. "And the chain came up when she came up. My hand was in the bight and I did not get it out."
 

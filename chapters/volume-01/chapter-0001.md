@@ -58,7 +58,7 @@ The chain was up and the fee was made, and it was past two with the light going 
 
 Then he stopped.
 
-There was a shape in the mole's toe at about eight feet down, half in and half out of weed and shell, and it was not a stone, and it was not a broken davit, and it was not the colour of anything the mole was made of.
+There was a shape in the mole's toe at about eight feet down, half in and half out of weed and shell, and it was not a stone, and it was not a broken davit, and it was not the color of anything the mole was made of.
 
 "Get the boat," he said.
 
@@ -112,7 +112,7 @@ It was half past three and the tide had begun to come up the mole with a slow pu
 
 He was never sure afterwards that he had meant to do it. His hand was up and the heel of the chisel was coming down on the edge of the glass, going to knock the last of the shell away and get his hand under it, and the chisel went through the shell and hit the glass, and the glass said something.
 
-It was not a loud noise. That was the part that stayed with him. It was the note you get when a piece of glass drops from a hand's height onto a hard bench, except it did not die. It went out across the mole and along the stone and into the harbour and came back, and it came back late. Not echoing. Late, by a hand's width of time, the way a note arrives from the other end of a working line when the line is longer than the man who pulled it.
+It was not a loud noise. That was the part that stayed with him. It was the note you get when a piece of glass drops from a hand's height onto a hard bench, except it did not die. It went out across the mole and along the stone and into the harbor and came back, and it came back late. Not echoing. Late, by a hand's width of time, the way a note arrives from the other end of a working line when the line is longer than the man who pulled it.
 
 Bevin looked round. "What was that?"
 
@@ -126,7 +126,7 @@ The harbor's working bells were three streets away, the tow boat was not due, an
 
 They got the boat up the slip and the fragment on the bench in the boathouse under a lamp. There was a lead line and a bone toggle at his belt that he used a hundred times a day, and he put his thumb in the crook of the toggle and pressed, and he waited, because it was possible that a sound like that wanted a weight held against it before it would come again.
 
-It came again. Not louder. Half a beat after the first had finished, and quieter, and he felt it in the two fingers he had on the toggle and not in his ears, and the second time the note did not go out across the harbour at all. It went into him and stopped somewhere behind the bones of his forearm, in the place where a person keeps the sounds that came before they had words.
+It came again. Not louder. Half a beat after the first had finished, and quieter, and he felt it in the two fingers he had on the toggle and not in his ears, and the second time the note did not go out across the harbor at all. It went into him and stopped somewhere behind the bones of his forearm, in the place where a person keeps the sounds that came before they had words.
 
 He put the fragment down and stood with both hands on the bench and waited for his hands to be of some use to him.
 
@@ -146,7 +146,7 @@ He stood at the rail in a reeve's coat that had not seen weather in three season
 
 "Marr," he said. "Your boy has been shouting a great deal for a mole that is municipal ground."
 
-Calder stopped on the top step. Below him the harbour lay out flat and grey with the evening in it, the market boats swinging at their moorings, and two streets away somebody ringing the tide bell, and it sounded exactly like itself.
+Calder stopped on the top step. Below him the harbor lay out flat and grey with the evening in it, the market boats swinging at their moorings, and two streets away somebody ringing the tide bell, and it sounded exactly like itself.
 
 "He shouted once."
 

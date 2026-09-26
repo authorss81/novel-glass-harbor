@@ -4,7 +4,7 @@
 
 The reeve's barge had the stove going and the window steamed over and the door shut, and the clerk was not in it, which Calder had not known was possible and thought about for a day afterward.
 
-Kest stood with the purpose in both hands and read all six pages into his own book, out loud, in the order they were written, and he read slowly and he did not summarise a clause or skip a line, and it took twenty-two minutes, and the only other sound in the barge was the stove and the water under the floorboards shifting against the quay.
+Kest stood with the purpose in both hands and read all six pages into his own book, out loud, in the order they were written, and he read slowly and he did not summarize a clause or skip a line, and it took twenty-two minutes, and the only other sound in the barge was the stove and the water under the floorboards shifting against the quay.
 
 At the end of the fourth page he stopped for about a second, which was a thing he had never done while reading, and then went on.
 
@@ -62,13 +62,13 @@ Bevin Rook looked at the book on the bench and did not touch it, because it was 
 
 The mole work came on the Thursday, the Friday and the Saturday and it paid thirty-four marks, and Calder did not go near the copying room for a week.
 
-It was the first and second seams and it was a capstan job off the wall with a tide and no diver and no boat and no pump, and the six-seam capstan and its pawl and forty foot of chain came off a coaster's ring that had been under forty pound of weed since Michaelmas, and a Lowfen owner paid it in the road on the Saturday afternoon in coin and small silver and read the line before he put the money in Calder's hand, which is what everybody in this trade does and which nobody in a novel ever mentions.
+It was the first and second seams and it was a capstan job off the wall with a tide and no diver and no boat and no pump, and the six-seam capstan and its pawl and forty foot of chain came off a coaster's ring that had been under forty pound of weed since Michaelmas, and a Lowfen owner paid it in the road on the Saturday afternoon in coin and small silver and read the line before he put the money in Calder's hand, which is what everybody in this trade does and which no man in a fish market thinks is worth mentioning.
 
-Three days, thirty-four on the board, paid in the road on the Saturday afternoon in coin and small silver. The harbor's share three off the top, rope and the day's food three, six marks of air into the pot, and three on the chandler's note, which came to nine on the note in four days and brought it, by the yard's own count, to thirteen weeks into six, and which the chandler at the sign of the Drowned Bell had not written a new figure against because nobody had asked him to and he was not going to be the man who offered.
+Three days, thirty-four on the board, paid in the road on the Saturday afternoon in coin and small silver. The harbor's eighth three and the harbor's share three off the top, rope and the day's food three, five marks of air into the pot, and six on the chandler's note, which came to six on the note in those three days and brought it, by the yard's own count, to thirteen weeks into six, and which the chandler at the sign of the Drowned Bell had not written a new figure against because nobody had asked him to and he was not going to be the man who offered.
 
 The bag closed at nineteen and Bevin Rook read the line out twice.
 
-"Sixteen in, thirteen out, nineteen in the bag, and the note at thirteen weeks by us and eleven in his book, and there is one mark of that nineteen that is not promised to the air or the rope or the man at the chandler's, and I would like somebody to tell me what it is for before the first of December, because I am the reader of this book and I would like to read one entry where a mark is not spoken for."
+"Thirty-four in and twenty out and nineteen in the bag, and the note at thirteen weeks by us and eleven in his book, and the whole of that nineteen is spoken for to the last mark except one, and I would like somebody to tell me what the one is for before the first of December, because I am the reader of this book and I would like to read one entry where a mark is not spoken for."
 
 "That is a good question and I do not have an answer to it," Calder said.
 
@@ -90,13 +90,13 @@ Mara Venn came at half past four on the twenty-second with her book shut under h
 
 "You asked her for it on the eleventh at six in the morning before you had thought about it and she refused you in front of the room and you did not take the asking back, and that is the single most useful thing that has happened to this yard since the first of October and I have never once said so and I am not going to say it now." Mara Venn looked at the three of them in turn. "I have about a quarter of the standing that lets me refuse anything, and by Christmas I will have none of it, and I will then be a conservator whose certificates take three weeks and who cannot say no to a clerk. I would like that written down in your book with the date on it, not because it helps you, which it does not, and not because it helps me, which it does not, but because in about four years a man in a room is going to read what this office did to a woman who said no four times and he is going to be looking for a place where it began, and it began on the eleventh and it will end before the year does and there is going to be nobody in the file who wrote either of those dates down but her."
 
-Bevin Rook wrote it down. He wrote the date and the hour and the whole of it, and read it back twice, and Nessa countersigned, and Calder Marr signed it left-handed at the foot with the three names above him, and the four of them stood in a shed on a Monday in November with a purpose in an envelope that named no ground and a certificate in a drawer in the west of the city that could not be produced, and neither of those two facts had ever been in the same room before and both of them were now on a page in a book that four men could reach.
+Bevin Rook wrote it down. He wrote the date and the hour and the whole of it, and read it back twice, and Nessa countersigned, and Calder Marr signed it left-handed at the foot with the three names above him, and the four of them stood in a shed on the twenty-second of November with a purpose in an envelope that named no ground and a certificate in a drawer in the west of the city that could not be produced, and neither of those two facts had ever been in the same room before and both of them were now on a page in a book that four men could reach.
 
 "That is the whole of what I have," Mara Venn said at the door. "I am not thanked and I do not want to be, and I am going to say one more thing and then I am going home in the cold, and it is a thing about Monday and not about the certificate.
 
 "On Monday there will be a man in a corner with a notebook who has read every paper this yard owns except the one that has not been written, and he is going to hear a reeve read six pages into a record and then ask a man the question that the six pages do not answer, and the man is going to have to stand in a room and say *I do not know where I mean to work*, and then the room is going to have nothing to do on the twenty-eighth except decide whether to give a paper to a crew that cannot say what it will do with it.
 
-"You need the ground before Monday. Not the answer. The ground. And if you cannot find it, then write down that you could not find it, and file that, and let the reeve read it with the door shut on Saturday, because a yard that says on Saturday what it could not find is worth more in that room on Monday than a yard that has found something overnight and cannot say how."
+"You need the ground before Monday. Not the answer. The ground. And if you cannot find it, then write down that you could not find it, and file that, and let the reeve read it with the door shut on Saturday the twenty-sixth, because a yard that says on Saturday what it could not find is worth more in that room on Monday than a yard that has found something overnight and cannot say how."
 
 She went up the road. Tobias Wren put his hat on the bench.
 

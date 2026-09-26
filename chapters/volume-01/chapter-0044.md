@@ -2,9 +2,9 @@
 
 *Where the Ferry Is Broken*
 
-The place was a mole face nobody had ever had a reason to look at, and it took them four days to find it, and the finding was not a discovery of anything. It was a discovery of where they had been standing.
+The place was a mole face nobody had ever had a reason to look at, and it took them three days to find it, and the finding was not a discovery of anything. It was a discovery of where they had been standing.
 
-Tobias Wren put it on it at the bench on the Saturday, in the middle of the day, without being asked, in the middle of a conversation about a shackle.
+Tobias Wren put it on it at the bench on the Saturday the twenty-fifth, in the middle of a conversation about a shackle, without being asked and without stopping.
 
 "The mole was carried out to the south," he said. "Not long. Forty yards, fifty, in my time, and I have never seen a line of it on a chart with a year against it, and I asked once, about nineteen sixty-five, and a clerk in that barge told me it was done before he was born and would I like the file. And the stone came off the beach. And the beach was not all beach."
 
@@ -14,7 +14,7 @@ Tobias Wren put it on it at the bench on the Saturday, in the middle of the day,
 
 ---
 
-Kest gave them the harbor authority's own account of its own works on the Sunday, out of a fourth drawer, read in his barge with the clerk in the room and not copied, and it took four minutes and it said three things.
+Kest gave them the harbor authority's own account of its own works on the Saturday, out of a fourth drawer, read in his barge with the clerk in the room and not copied, and it took four minutes and it said three things.
 
 The mole was carried out to the southward in the spring of the year of the *Gannet* Cut, by about fifty yards, of stone quarried at the north and of material taken off the foreshore at the south, and the account of it set out in a surveyor's hand named a quantity of rubble in cubic yards and a line that read, *the foreshore at the south end being mixed, containing iron and timber*.
 
@@ -30,11 +30,11 @@ He put his hand on the page.
 
 "That is the whole of the answer," Nessa said, "and it is a form."
 
-"It is a claim window," Kest said, "which I can grant in nine minutes and which costs the yard nothing, and it is a look and not a permit, and a look may be made from a boat with a lead and a slate and a rule, and it is not the water. If you want a man in the water with his hand on something, that is a work permit, and a permit names a site and dates and a bond, and I have not got a bond instrument open, and I am not going to pretend to the room on Monday that a claim window is a work permit, because in nine days I have watched a plan go round the front of four clauses and be refused on four correct grounds and I am not going to be the office that does the same thing to a boat."
+"It is a claim window," Kest said, "which I can grant in nine minutes and which costs the yard nothing, and it is a look and not a permit, and a look may be made from a boat with a lead and a slate and a rule, and it is not the water. If you want a man in the water with his hand on something, that is a work permit, and a permit names a site and dates and a bond, and I have not got a bond instrument open, and I am not going to pretend to the room on Monday that a claim window is a work permit, because in fifteen days I have watched a plan go round the front of four clauses and be refused on four correct grounds and I am not going to be the office that does the same thing to a boat."
 
 ---
 
-They went out on the Sunday the twenty-seventh with a claim window Kest had written at half past nine and the clerk had stamped at ten, naming the mole's face at the south end beyond the eleventh seam and the water off it inside the harbor line, for one date, the twenty-seventh, for a look only, with a hand lead and a slate.
+They went out on the Sunday the twenty-seventh with a claim window Kest had written at half past nine on the Saturday and the clerk had stamped at ten, naming the mole's face at the south end beyond the eleventh seam and the water off it inside the harbor line, for one date, the twenty-seventh, for a look only, with a hand lead and a slate.
 
 The top of the flood came up at a quarter to eleven and the slop went to a sheet of glare the way it always did in this harbor, and Calder took the *Kittiwake* out with Bevin Rook on the oars and himself on the lead, because the *Kittiwake* was on the hard and had been on the hard since the twenty-fifth of October with her bilge blocked in and no cradle under her, and the only reason she was in the water at all was that Nessa Pike had made three men shift her down to the slip on the Friday before with a hand-barrow and two lengths of marline and had written the hour in the book.
 
@@ -54,7 +54,7 @@ Then Calder put the lead over the shoulder and sounded inside the coaming the wa
 
 "And the plate is three-eighths, and it is ferry iron, and it is on a mole this authority built on top of her in the month she went down, and there is a hatch standing in it in nine feet of water off the south end of this town's own mole." Calder put the slate on his knee. "Bevin. Read the last line back before I write it."
 
-Bevin read it back. *Twenty-seventh, top of the flood, south end beyond the eleventh seam, water inside the harbor line, a plate of iron three-eighths lying on the slope in the glare with a coaming standing in it, the coaming four foot by three foot on the outside, the depth nine and a quarter at the toe and eight and a quarter inside by a lead from a boat, the plate not touched, not measured with a rule, nothing brought up. Claimed window of the twenty-seventh, one date, a look only.*
+Bevin read it back. *Twenty-seventh, top of the flood, south end beyond the eleventh seam, water inside the harbor line, a plate of iron three-eighths lying on the slope in the glare with a coaming standing in it, the coaming four foot by three foot on the outside, the depth nine and a quarter at the toe and eight and a quarter inside by a lead from a boat, the plate not touched, not measured with a rule, nothing brought up. Claimed window of the twenty-seventh, granted the day before, one date, a look only.*
 
 And under it, in Calder's own left hand, four lines, and Bevin read them twice before he was allowed to stop.
 
@@ -94,7 +94,7 @@ And then he did the thing that Calder Marr had not expected and had no way to ha
 
 "Mr Clerk, get a sheet out. This is entered in this office's book tonight, at the hour, in this office's own hand, and the yard is to have a copy of it before the clerk shuts the tin, and the entry is as follows."
 
-*Twenty-seventh of November, this office. A claim window was granted at half past nine in the morning of this date, for one date, for a look, on this office's own ground beyond the eleventh seam, and the look was made at the top of the flood in nine feet of water with a hand lead, and from a boat, and the office entered in its own book, at the yard's request and not at the office's suggestion, that the reason the look was made in a boat and not in a bell is that the office has no open bond instrument and could not open one before the twenty-eighth, and that the yard applied to this office for a work permit on the evening of this date and the office refused it for want of a bond and not for any other reason, and that the yard states in the office's hearing record of the twenty-eighth that the purpose filed by it on the twenty-first does not ask to be put in the water, and the office has entered that statement tonight so that it is in this office's hand before this office opens its book on Monday.*
+*Twenty-seventh of November, this office. A claim window was granted at half past nine in the morning of the twenty-sixth, for one date, for a look, on this office's own ground beyond the eleventh seam, and the look was made at the top of the flood in nine feet of water with a hand lead, and from a boat, and the office entered in its own book, at the yard's request and not at the office's suggestion, that the reason the look was made in a boat and not in a bell is that the office has no open bond instrument and could not open one before the twenty-eighth, and that the yard applied to this office for a work permit on the evening of this date and the office refused it for want of a bond and not for any other reason, and that the yard states in the office's hearing record of the twenty-eighth that the purpose filed by it on the twenty-first does not ask to be put in the water, and the office has entered that statement tonight so that it is in this office's hand before this office opens its book on Monday.*
 
 "It is Sunday," Bevin Rook said, from the doorway.
 
@@ -114,7 +114,7 @@ He squared the sheet.
 
 ---
 
-They filed it at ten past ten on the morning of the twenty-eighth of November, an hour before the room filled, and the air pot was a third gone, and the bag had nineteen marks in it of which six was already spoken for, and the chandler's note was at eleven weeks into six in a book in the fish market with three marks of the yard's own count not written down anywhere, and a boy of twenty-two was owed forty marks, and there was a plate in nine feet of water off the south end of the town's own mole with a hatch standing in it that no man had a hand on, and a bell of some kind under the same water, and a reeve's Sunday entry in a book in a barge, and a copy of it in Calder Marr's coat.
+They filed it at ten past ten on the morning of the twenty-eighth of November, an hour before the room filled, and the air pot was a third gone, and the bag had nineteen marks in it, three of them already owed to the copying room for a certified copy of a hearing record and not one of the three paid, and the chandler's note was at eleven weeks into six in a book in the fish market with six marks of the yard's own count on it and not one week written down anywhere, and a boy of twenty-two was owed forty marks, and there was a plate in nine feet of water off the south end of the town's own mole with a hatch standing in it that no man had a hand on, and a bell of some kind under the same water, and a reeve's Sunday entry in a book in a barge, and a copy of it in Calder Marr's coat.
 
 Bevin Rook read the whole of it back at the yard at four o'clock that afternoon, twice, and then said the thing he said on the fourth of November and did not say on any other day of that month.
 

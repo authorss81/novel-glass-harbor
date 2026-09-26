@@ -2,9 +2,9 @@
 
 *The Book Is Not the Vessel's*
 
-The cutter's boat came in at four on Wednesday the twenty-third with a flat case against the foredeck and a man in a cutter's coat who did not come up the slip but stood at the head of it and read four sheets aloud from the step, in the road, in the cold, with a fish market standing about, which was a thing no one had done in Morrow Quay in living memory and which turned out to be the only way a paper like that could be served on a Free Keel yard without a hearing.
+The cutter's boat came in at four on Wednesday the twenty-third with a flat case against the foredeck and a man in a cutter's coat who did not come up the slip but stood at the head of it and read three sheets aloud from the step, in the road, in the cold, with a fish market standing about, which was a thing no one had done in Morrow Quay in living memory and which turned out to be the only way a paper like that could be served on a Free Keel yard without a hearing.
 
-It was three sheets and not four, and it had the vessel's seal at the foot of the third and the captain's signature line above it, and it was headed *Answer of the commanding officer of the imperial cutter*Vigil*, on the question of a one-season provisional working charter, raised by the harbor authority on the fourteenth of this month*, and the first line of the first sheet gave the date the claim was lodged as the fourteenth of October at ten-forty in the morning, which Calder Marr had known for a month and had never once seen written down.
+It was three sheets, and it had the vessel's seal at the foot of the third and the captain's signature line above it, and it was headed *Answer of the commanding officer of the imperial cutter*Vigil*, on the question of a one-season provisional working charter, raised by the harbor authority on the fourteenth of this month*, and the first line of the first sheet gave the date the claim was lodged as the fourteenth of October at ten-forty in the morning, which Calder Marr had known for a month and had never once seen written down.
 
 The second sheet asked for three things and the third sheet explained what would happen if they were not given.
 
@@ -18,7 +18,7 @@ The second sheet asked for three things and the third sheet explained what would
 
 "Two is a knife and one is a wall and three is the price of the wall," Nessa said. "And Calder wants to refuse all three and put it on the market wall in your hand, and he is going to do it in about four minutes and I am asking for the four minutes first."
 
-The yard was in the shed with the door open and the stove going and four people in it and the second seam's chain still wet on the bench from the day's work.
+The yard was in the shed with the door open and the stove going and four people in it and the mole's chain still lying where the Saturday's work had left it, because nobody had come in since to put it away.
 
 "Sit down," Nessa Pike said. "All of you. I have worked this out twice on the mole today and I want to do it again with the three of you in the room, because I am going to say a thing that is against you and I want it in the air before it is in a book."
 
@@ -42,9 +42,9 @@ The yard was in the shed with the door open and the stove going and four people 
 
 "Number two."
 
-"Number two is the book and I am not going to argue about it for a minute because there is nothing to argue. The book is the only thing this yard owns. Not the iron, which is a third another crew's, and not the ten printed copies, which are a copy, and not the bench chest, which is a clerk's. The book. A hundred and forty entries of air and money and fouling and wages and a boy's hand and a man who cannot tell which bell belongs to the room, and a written reason of two hundred and forty words, and a withdrawal of ten yards, and a diver's own count given against himself by the man whose number it is. And the vessel has asked for it and asked to copy it, in a document with a seal at the foot and a captain's line above it, on the grounds of a charter that does not yet exist, on a coast where that cutter's captain signed a document thirteen years ago that this harbor has never been allowed to read the paper under."
+"Number two is the book and I am not going to argue about it for a minute because there is nothing to argue. The book is the only thing this yard owns. Not the iron, which is a third another crew's, and not the ten printed copies, which are a copy, and not the bench chest, which is a clerk's. The book. A hundred and forty entries of air and money and fouling and wages and a boy's hand and a man who cannot tell which bell belongs to the room, and a written reason of two hundred and forty words, and a withdrawal of ten yards, and a diver's own count given against himself by the man whose number it is. And the vessel has asked for it and asked to copy it, in a document with a seal at the foot and a captain's line above it, on the grounds of a charter that does not yet exist, on a coast where a vessel of that cutter's service made a paper thirteen years ago about the same wreck, and this harbor has never been allowed to read it, and neither has this crew."
 
-"The yard refuses number two," Calder said, "and the yard refuses it in my words and in the words of the first term of the seventh of November, which is *the yard asked nothing and offered nothing and is content to stand there*, and the yard will say the same thing about this sheet in the same words and will put it on the market wall in Rook's hand with the date and the hour on the back, and that is the whole of the answer to the *Vigil* and I am not writing a word more than that."
+"The yard refuses number two," Calder said, "and the yard refuses it in my words and in the words of the first term of the seventh of November, which is *the yard asked nothing and offered nothing and is content to stand there*, and the yard will say the same thing about this sheet in the same words and will put it on the market wall in Rook's hand with the date and the hour on the back, and there is no more to say to the *Vigil* and I am not writing a word more than that."
 
 "You are not writing a word more than that," Nessa Pike agreed, "and that is where I am going to say the thing that is against you."
 
@@ -70,11 +70,11 @@ The count went like this. *Ten printed crew copies of the public provenance reco
 
 And then a sixth line, which was Bevin's and which he read out loud before he wrote it.
 
-*Not included in this count: any paper of any other crew, including a slate of the* Low Lantern *held in that crew's own keeping, and including a third entered in the harbor clerk's book against a sale of iron.* Entered by R. Rook, twenty-fourth of November, at the tender of N. Pike, and I would like the vessel to have that line first, because if the count is going to be read by a man in a room then the yard's paper is on it and the other crews' paper is not, and the line that says so is the line that makes the count worth handing over.*
+*Not included in this count: any paper of any other crew, including a slate of the* Low Lantern *held in that crew's own keeping, and including a third entered in the harbor clerk's book against a sale of iron.* Entered by R. Rook, twenty-third of November, at the tender of N. Pike, and I would like the vessel to have that line first, because if the count is going to be read by a man in a room then the yard's paper is on it and the other crews' paper is not, and the line that says so is the line that makes the count worth handing over.*
 
 "Read it back," Nessa said.
 
-He read it back. She countersigned it under his name and not over it, and Calder signed left-handed at the foot with the hour against it, and Nessa put the four lines and the five lines into an envelope with the yard's copy of the hearing record of the seventh, eighth and fourteenth of this month, which Mara Venn had certified as a true copy of a municipal record in a Registry hand on the Thursday for the cost of three marks out of a bag of nineteen, which is a certificate about a record and not a certificate about glass, and which was the only certificate this office had ever signed for this yard and was signed in nine seconds and gave nothing away except the fact that it had been asked for and given.
+He read it back. She countersigned it under his name and not over it, and Calder signed left-handed at the foot with the hour against it, and Nessa put the four lines and the five lines into an envelope with the yard's copy of the hearing record of the seventh, eighth and fourteenth of this month, which Mara Venn had certified as a true copy of a municipal record in a Registry hand on the Wednesday for three marks to be paid at the copying room on the first, against a bag of nineteen, which is a certificate about a record and not a certificate about glass, and which was the only certificate this office had ever signed for this yard and was signed in nine seconds and gave nothing away except the fact that it had been asked for and given.
 
 ---
 
@@ -112,4 +112,4 @@ Bevin Rook had the book out before the second stroke had finished and read it in
 
 "Forty past six," Bevin said. "Top of the make, west-northwest two, light air, water rising two inches on the mole face, delayed note under the harbor's three. No source. Not written as a voice."
 
-"That is six," Bevin said, when he had read it back twice. "Six logged since the fourth of November, and the eighth of November is the one a naval rating wrote at the same minute as me, and tonight is the first one in a fortnight I have not had to write *two records, same hour* under, and I do not know whether that is better or worse and I have not put a word about which."
+"That is six," Bevin said, when he had read it back twice. "Six logged since the twenty-sixth of October, and the eighth of November is the one a naval rating wrote at the same minute as me, and tonight is the first one in a fortnight I have not had to write *two records, same hour* under, and I do not know whether that is better or worse and I have not put a word about which."

@@ -118,7 +118,7 @@ The plate lay on the deck boards where he had put it, wrapped in the sailcloth, 
 
 Mara Venn was standing at the head of the slip with her coat buttoned to the throat and her book in her hand, and she had evidently been there some time, because her lamp was lit.
 
-"You are late," she said. "Do not tell me about the tide. I have been standing in a wind on a slip for three-quarters of an hour while a Registry clerk at the circuit office wrote a line in a book that I will have to initial, so you and I are going to be short with each other for a while and it will not improve by anybody apologising." She came down the slip and stopped six feet off the plate. "Is that the second object?"
+"You are late," she said. "Do not tell me about the tide. I have been standing in a wind on a slip for three-quarters of an hour while a Registry clerk at the circuit office wrote a line in a book that I will have to initial, so you and I are going to be short with each other for a while and it will not improve by anybody apologizing." She came down the slip and stopped six feet off the plate. "Is that the second object?"
 
 "That is a piece of the same thing it came out of."
 

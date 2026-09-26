@@ -24,7 +24,7 @@ That was the job, and the reason it took until the middle of the afternoon was t
 
 Mara found the first within ten minutes. It was the oldest, and it was the join Calder had measured under the water: a keyed seam down the long side with a grey fillet running the length of it, mica and pine resin and a little ash, pressed in with a hot iron and finished flat enough that a thumb could not find it.
 
-"That is old work," she said. "It is a fillet laid in a cold enough fire and a careful enough hand that it has gone the colour of wet slate instead of going to powder, which happens when the resin is good and the person knew when to stop heating it. Do you know that fillet?"
+"That is old work," she said. "It is a fillet laid in a cold enough fire and a careful enough hand that it has gone the color of wet slate instead of going to powder, which happens when the resin is good and the person knew when to stop heating it. Do you know that fillet?"
 
 Calder did not touch the plate. He put his hand down on the bench on the far side of it, well away from the seam, and left it there like a man holding a rail in bad weather.
 
@@ -54,7 +54,7 @@ Calder did not say anything for a while. Outside the shed the yard's gulls were 
 
 Mara looked at him for a moment. Then she wrote it, and read it back, and he made her read it twice.
 
-The third repair was on the plate's outer face, low down, in the corner where the plate's edge had been ground back and reseated. It was not keyed. It was a run of small stamped studs around a rim, in a metal that was Crown and stamped, with a spacing that any yard on this coast would have set by eye and a Crown shop had set by a jig, and inside the rim the glass was a different colour by a shade you could only see with the lamp behind your hand.
+The third repair was on the plate's outer face, low down, in the corner where the plate's edge had been ground back and reseated. It was not keyed. It was a run of small stamped studs around a rim, in a metal that was Crown and stamped, with a spacing that any yard on this coast would have set by eye and a Crown shop had set by a jig, and inside the rim the glass was a different color by a shade you could only see with the lamp behind your hand.
 
 "A flange," Calder said. "That is a bolted flange round the edge of a hole."
 

@@ -8,7 +8,7 @@ The clerk's estimate for Thursday the first of December came to four marks a day
 
 "That is three days of a crane we are not paying for," Nessa said.
 
-"Three days of a crane we are not paying for and three days of air we are, and the air is eleven marks, and the bag has nineteen, and the copy of the hearing record was three, and that is fourteen to nothing with five in it and nothing in the tin." He put the pencil down. "And I am not going to the chandler for one mark of it on the first, because the note has had nine on it in eight days and it is written up in his book as eleven weeks into six and the two weeks I have put on it are mine and not his, and I will take it to him on the second of December and pay it off the first money that comes in and not out of a bag that cannot."
+"Three days of a crane we are not paying for and three days of air we are, and the air is eleven marks, and the bag had nineteen on the twenty-eighth and three of that went to the copying room on the twenty-third, so there are sixteen, and sixteen less eleven is five in the bag and nothing in the tin." He put the pencil down. "And I am not going to the chandler for one mark of it on the first, because the note has had six on it in the three days of that job and nothing since, and it is written up in his book as eleven weeks into six and the two weeks I have put on it are mine and not his, and I will take it to him on the second of December and pay it off the first money that comes in and not out of a bag that cannot."
 
 "Then it is five marks in this yard on the first of December and it is five marks on the sixth, and on the sixth we are going to be standing in a boat on a rising tide with a hand lead, and I want the number in the book in your hand and I want it read back before anybody puts a glove on."
 
@@ -38,7 +38,7 @@ He stood up and looked at the mole.
 
 "So a bell answers another bell in the same ground."
 
-"A bell answers another bell in the same ground, and it answers it in time, and that is the whole of the trade and it is not a mystery, it is a *system*, and a system is the opposite of a mystery, and a system has to be maintained by somebody going out in a boat in the weather, and that somebody is a man, and if the man stops going out then the bell stops answering and starts being a rock, and everybody on that coast stops knowing where the water is." He put his hand down. "Not the making. The going out. That is the whole craft and it is the one nobody wants."
+"A bell answers another bell in the same ground, and it answers it in time, and the whole of the trade is in that, and it is not a mystery. It is a *system*, and a system is the opposite of a mystery, and a system has to be maintained by somebody going out in a boat in the weather, and that somebody is a man, and if the man stops going out then the bell stops answering and starts being a rock, and everybody on that coast stops knowing where the water is." He put his hand down. "Not the making. The going out. That is the whole craft and it is the one nobody wants."
 
 ---
 
@@ -88,7 +88,7 @@ The answer came up through the iron and into the bones of his hand and up the ch
 
 Bevin Rook had the book open on the barge boards and had the pencil against the page and did not write for about four seconds, which was the longest he had ever been late.
 
-"Forty minutes," he said. "Top of the flood, south end, the delayed note under the harbor's three and the answer out of the object on the bottom, the same second, the same three marks, no source, not written as a voice, and I want that read back before I put my name to it because it is the first time in four months I have written a line with two things in it instead of one."
+"Forty-one minutes," he said. "Top of the flood, south end, the delayed note under the harbor's three and the answer out of the object on the bottom, the same second, the same three marks, no source, not written as a voice, and I want that read back before I put my name to it because it is the first time in four months I have written a line with two things in it instead of one."
 
 "It is a bellwright's core," the bellwright said, from the bank, to nobody. "It is the working part of a bell buoy. It goes in a float and it is hung and it is struck and it is what you hear, and everything else on a buoy is a coat of paint. And it is a signal and it has been answering this harbor's bell every time that bell has gone for however long it has been lying there, and there is not one man on this coast who has ever thought of it as anything but a piece of the mole, because it *looks* like a piece of the mole, and that is the best disguise that ever went to waste."
 
@@ -100,7 +100,7 @@ It was iron, forged, a hand's breadth and a half long, with a flat foot and a cu
 
 "That is it," Mara Venn said.
 
-She was standing on the south end of the mole with her book against her chest and she had not come into the water and she had not put her hand on it, and she had come because a conservator comes when a thing comes up out of a mole and there was nowhere else for her to be on a Saturday.
+She was standing on the south end of the mole with her book against her chest and she had not come into the water and she had not put her hand on it, and she had come because a conservator comes when a thing comes up out of a mole and there was nowhere else for her to be on a Tuesday.
 
 "Mr Marr, I have been in this harbor four months and I have examined one object of transparent mineral in a custody room and one on a bench and I have refused to write a word about either, and I am going to say four things about that object and they are all that I can say.
 

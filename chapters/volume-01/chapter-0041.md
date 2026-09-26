@@ -40,7 +40,7 @@ They did not ask for the notice of the thirty-first to be altered, narrowed, re-
 
 The fourth part was the ground.
 
-It was the three points, and it was the three points without the ten yards, because the ten yards had been withdrawn on the fourteenth in front of a clerk and was in no record and on no wall and was not going to be in a purpose either. So the ground went in as three places on one bearing where the bottom comes up, and nowhere else on two miles of a course the harbor authority itself sounded, with the first of them entered as what it was, which was a bedded seam of transparent material in the mole's own foundation running north under the rubble to about two boat lengths, of which the crew had used the south end as a position and had said so in its own book on the fourteenth, and with the tender's count of it being nine feet at the south end and ten and a half at the north end and the diver's own count of the same thing being seven and eleven and entered as given by Rook on his own statement.
+It was the three points, and it was the three points without the ten yards, because the ten yards had been withdrawn on the fourteenth in front of a clerk, and what is in no record and on no wall is the difference stated as a measurement, the withdrawal itself being on a fresh sheet nailed under the Navy's paper where a man has to lift a corner to read it, and neither of those was going in a purpose either. So the ground went in as three places on one bearing where the bottom comes up, and nowhere else on two miles of a course the harbor authority itself sounded, with the first of them entered as what it was, which was a bedded seam of transparent material in the mole's own foundation running north under the rubble to about two boat lengths, of which the crew had used the south end as a position and had said so in its own book on the fourteenth, and with the tender's count of it being nine feet at the south end and ten and a half at the north end and the diver's own count of the same thing being seven and eleven and entered as given by Rook on his own statement.
 
 And then the load-bearing sentence, which Calder wrote last and which is the reason a Free Keel yard in a fish market has anything at all in four months.
 
@@ -62,7 +62,7 @@ The crew does not know what the three places are, does not offer a figure for th
 
 "Ask."
 
-"It is not in here." Bevin took his hand off the page. "You have asked for a charter. A charter is a permission to work, and to work you have to be in the water, and there is not one word in six pages about being in the water, and the reeve's own undertaking of the twenty-fifth of October says you are off the bottom till spring, and a charter does not say a word about a reeve's undertaking because a charter is not that office's instrument and it cannot reach it. So on Monday you are going to stand in a room and ask for paper and you are going to be handed paper, and you are going to be standing on this mole on the twenty-eighth of December with a charter in your coat and no bottom, and we will have spent a winter being a legal yard."
+"It is not in here." Bevin took his hand off the page. "You have asked for a charter. A charter is a permission to work, and to work you have to be in the water, and there is not one word in six pages about being in the water, and the reeve's own undertaking of the twenty-fifth of October says you are off the bottom till spring, and a charter does not say a word about a reeve's undertaking because a charter is not that office's instrument and it cannot reach it. So on Monday you are going to stand in a room and ask for paper and you are going to be handed paper, and you are going to be standing on this mole on the twenty-eighth of November with a charter in your coat and no bottom, and we will have spent a winter being a legal yard."
 
 The stove ticked. Calder looked at the six pages on the bench for a while.
 
@@ -88,7 +88,7 @@ Nobody said anything about it at first. Bevin Rook said the name of a ship and T
 
 "He will come back in."
 
-"He will come back in and he will be at the far bench and he will not be in the north end, and there will be a gap of four feet between the two of them for the rest of the winter." Nessa capped the pen. "Write it, and do not write a reason, and do not let anybody in this yard go and ask him for one, and if a man off a cutter's boat comes to this shed and asks where Alden Marr is, the answer is that he is at his bench and not well, and that is the whole of the answer."
+"He will come back in and he will be at the far bench and he will not be in the north end, and there will be a gap of four feet between the two of them for the rest of the winter." Nessa capped the pen. "Write it, and do not write a reason, and do not let anybody in this yard go and ask him for one, and if a man off a cutter's boat comes to this shed and asks where Alden Marr is, the answer is that he is at his bench and not well, and there is no more to it than that."
 
 Calder wrote it. Nineteenth of November, Saturday: *Alden Marr not in the yard and has sent word it is the cough and is not to be sent for. Not chased. No reason given and none asked for.*
 

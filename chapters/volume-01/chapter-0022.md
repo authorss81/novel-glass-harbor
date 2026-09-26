@@ -48,7 +48,7 @@ The entry was four hands, which was normal, and it began the way they all begin:
 
 She had come in in pieces over four days.
 
-That was the first thing that put a hand on Calder's arm, and he put it there himself without meaning to. She had not been brought in whole. She had come in over four days on a rising tide, in four parts, and the entry recorded the order: the bow section, the after body, the engine space and its plate, and then, on the fourth day, a quantity of small wreckage that came in on the ebb and was stopped by the mole's third seam. Somebody in the office had written that sentence in a hurry and it was the only sentence in nine leaves with any colour in it.
+That was the first thing that put a hand on Calder's arm, and he put it there himself without meaning to. She had not been brought in whole. She had come in over four days on a rising tide, in four parts, and the entry recorded the order: the bow section, the after body, the engine space and its plate, and then, on the fourth day, a quantity of small wreckage that came in on the ebb and was stopped by the mole's third seam. Somebody in the office had written that sentence in a hurry and it was the only sentence in nine leaves with any color in it.
 
 Then the survey's figures, entered as *as surveyed*, the entry said, which was the entry being scrupulous.
 

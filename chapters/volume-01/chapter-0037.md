@@ -92,7 +92,7 @@ Nobody said anything.
 
 Then she looked at the sling.
 
-"Twenty-four marks," she said. "Six weeks at four. I have read the book and that is right and the boy is owed it and I am telling you that I have got eleven marks in the *Low Lantern's* box and I am not going to lend it to you, and I am telling you that I have got it so that you cannot ask me, because if I lent it to you then it would be in a book as a favour from a crew that has already told you it will not stand your rescue cover this winter, and a man in a cutter's coat would read that favour in a room and the boy would be a boy who was helped."
+"Twenty-four marks," she said. "Six weeks at four. I have read the book and that is right and the boy is owed it and I am telling you that I have got eleven marks in the *Low Lantern's* box and I am not going to lend it to you, and I am telling you that I have got it so that you cannot ask me, because if I lent it to you then it would be in a book as a favor from a crew that has already told you it will not stand your rescue cover this winter, and a man in a cutter's coat would read that favor in a room and the boy would be a boy who was helped."
 
 "I was not going to ask," Calder said.
 

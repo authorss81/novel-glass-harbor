@@ -26,7 +26,7 @@ Calder did not answer at once, and she watched him not answer.
 
 "He has been on the watch before."
 
-"He has been on the watch before at eight fathoms, in the harbour, in daylight, with a boat over him. Nine fathoms in the old shoal with a bottom you cannot see is a different job." She picked the pen up again. "If you want him off the watch, say so out loud and give me a reason I can write down. If you want him on the bottom, say that too. What I will not do is be the one who decides later that you were wrong."
+"He has been on the watch before at eight fathoms, in the harbor, in daylight, with a boat over him. Nine fathoms in the old shoal with a bottom you cannot see is a different job." She picked the pen up again. "If you want him off the watch, say so out loud and give me a reason I can write down. If you want him on the bottom, say that too. What I will not do is be the one who decides later that you were wrong."
 
 Calder looked at the slate, and then at the air pot's line in her book, and then out through the open door, where Bevin Rook was circling the *Kittiwake* and pretending not to be.
 
@@ -40,7 +40,7 @@ Calder looked at the slate, and then at the air pot's line in her book, and then
 
 He wrote it. That took ninety seconds and it cost him more than the eleven marks off the chain had.
 
-The whistle went at the yard gate, two short and one long, which was Tobias Wren announcing himself, because nobody could hear him coming and he had stopped apologising for it forty years ago.
+The whistle went at the yard gate, two short and one long, which was Tobias Wren announcing himself, because nobody could hear him coming and he had stopped apologizing for it forty years ago.
 
 He came in with a hand on the doorframe and looked at the fragment on the bench, and then at the harbor.
 
