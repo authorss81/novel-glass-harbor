@@ -66,7 +66,7 @@ The clerk booked it, and the fee came back, and Calder put it in the inside pock
 
 "Three out," the clerk said, "and it is entered against you as the fee for the entering and dating of a request, and the request is dated the thirtieth of December, and the day you paid for it is the fifth of January, and both of those dates go on one line, and the line is in the book, and if anybody in this building ever tells you that the request is of today's making, you have a piece of paper that says otherwise."
 
-"Read it back."
+"Read that to me again."
 
 The clerk read the line back. Calder Marr wrote it into his own left hand on the back of his own sheet, and put the sheet in the book, and would read it to the yard in the evening and the boy would read it after him twice, which is the rule and is not going to be broken because a man has had two marks.
 
@@ -74,7 +74,7 @@ The clerk read the line back. Calder Marr wrote it into his own left hand on the
 
 "Yes," Calder Marr said. "The bag is two and the tin is empty and it has been empty since the eighteenth of November, and I will say both of those figures in my own shed tonight in front of three people, which is where they should be said and not at a counter in a room that belongs to the office that wrote the paper."
 
-"You will do what you like in your shed," the clerk said. "But I will tell you what I would do, since nobody has told me to and I am putting nothing in a box about it. The cost of this paper is not the three marks. The three marks is the cheapest part. The cost of this paper is the fortnight, and every day of the fortnight you spend deciding, and on the fifteenth day you either have a ground in writing or you have a request standing against you that you did not answer, and on the twenty-ninth day the second seal comes, and then it is a month, and then it is a quarter, and the thing you are trying to protect is being taken away from you at the rate of one week for every week you spend in this room."
+"You will do what you like in your shed," the clerk said. "But I will tell you what I would do, since nobody has told me to and I am putting nothing in a box about it. The cost of this paper is not the three marks. The three marks is the cheapest part. The cost of this paper is the fortnight, and every day of the fortnight you spend deciding, and on the fifteenth day, which is the thirteenth of January, you either have a ground in writing or you have a request standing against you that you did not answer, and on the twenty-ninth day, which is the twenty-seventh, the second seal comes, and then it is a month, and then it is a quarter, and the thing you are trying to protect is being taken away from you at the rate of one week for every week you spend in this room."
 
 "You have been in this office a long time," Calder said.
 
@@ -120,4 +120,4 @@ She walked off up the hill toward the fish market, and Calder Marr stood in the 
 
 The copy went in the book. The line was read back twice. And at the bottom of the page, in the copying clerk's own hand, the office entered one more thing, which nobody had asked for and which Calder Marr read twice before he left the counter.
 
-*Entered, this office, the fifth of January. The said request is of the thirtieth of last month, was received by the party on the fourth instant, and was not answered on the day of receipt, and the fourteen days run from the date of the paper and not from the date of receipt, and eight of them are gone.*
+*Entered, this office, the fifth of January. The said request is of the thirtieth of last month, was received by the party on the fourth instant, and was not answered on the day of receipt, and the fourteen days run from the date of the paper and not from the date of receipt, and six of them are gone, and six remain, and the fourteenth is the thirteenth of January.*

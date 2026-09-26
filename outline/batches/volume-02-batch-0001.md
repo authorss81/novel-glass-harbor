@@ -104,7 +104,9 @@ Calder and Mara are two people who have both refused to be useful and kept the r
 2. What happens to a request worded so that a refusal is a delay, when the person who would have to answer it has no standing left to refuse with?
 3. Who pays for a public chart notation that commits a poor yard to a bell?
 4. Can a crew of three and a half keep a bell, a boat, a boy and a lease at the same time on five marks?
-5. The first of March, a Wednesday, eleven weeks and a half off.
+5. The first of March, a Wednesday, **eight weeks** off on the fourth of January and **six weeks less a day** off from the mole on the nineteenth.
+
+*Items 1 and 5 carried a wrong interval in the first pass of this file — "eleven weeks off" and "eleven weeks and a half off" — and both are corrected above. The grid is locked at `outline/volume-02.md` lock L1: the first of March is a Wednesday, 4 January to 1 March is exactly eight weeks and both are Wednesdays, and 19 January to 1 March is forty-one days.*
 
 ---
 

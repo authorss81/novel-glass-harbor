@@ -72,7 +72,7 @@ He read it back.
 
 "The state of the water is a slack run off the mole with a light southerly and no swell in it, and the fouling on the waist of the core is hard and grey and has been on it thirteen years, and the tongue is where it was in December and the eye is sound and the ground line is good, and there is nothing in this answer but the note," the boy said, "and I am writing that it is only the note because that is what came, and not because of anything else."
 
-"It was only the note on the twenty-sixth of December too," Calder Marr said, "and the twenty-sixth of December had a call in it, and the sixth of December had one, and the eighth of November had one and a naval rating wrote it on a slate at the same minute I did, and today there is a note and no call, and that is twice in a row, and I am not going to say anything about it in front of you because you have written what you heard and I have not heard anything I can put in a book."
+"It was only the note on the twenty-sixth of December too," Calder Marr said, "and the twenty-sixth of December had a call in it, and the sixth of December had one, and the eighth of November had one and a naval rating wrote it on a slate at the same minute I did, and today there is a note and no call, and that is the first, and I am not going to say anything about it in front of you because you have written what you heard and I have not heard anything I can put in a book."
 
 Bevin Rook looked at him for a second.
 
@@ -102,10 +102,10 @@ Nobody said anything on the barge for about a minute.
 
 "That is the answer to the question you were all not asking," Sarn said, "and it is a poor answer and it is the true one, and I have told it to a man who writes books and to a boy who reads them and to a woman who has a cleat, and none of you is going to get a better one out of me this year, and I am going to sit down in the sun."
 
-The cost went into the book on the Saturday morning and the boy read it out and read it back twice.
+The cost went into the book on the Saturday morning, and the boy read it out, and then read the whole of it back a second time because the pump was in it and a pump is a figure nobody in that room could check.
 
 "Hired warp from Harl Dace of the *Grey Widow*, four marks, for one day, and he is not paid out of the share and it is a hire and it goes in as a hire. The harbor's pump, three a tide, one tide, hired, and the harbor's crane and the harbor's barge are the harbor's and the harbor is paying their hire out of the authority's own account on the authority's own ground, and neither of them came out here today because the crane and the barge are for the authority's work and this was not the authority's work, and the only money in this boat this morning was ours. Oilcloth and candles, a mark. That is eight marks out, and the whole of what this yard has in the world is not a figure I am going to say in a boat, and you can have it in the shed tonight and you can have it twice."
 
-"Fourteen less three this morning was two," Nessa said, "and the job on Saturday put fifteen into the yard and one of it went on the note at the chandler's, so the bag is sixteen this morning, and eight of that has gone to a rope and a pump and a candle, and the bag is eight, and if you read it out twice it will still be eight."
+"Five less three on Thursday was two," Nessa said, "and the job on Saturday put fifteen into the yard and one of it went on the note at the chandler's, so the bag was sixteen on Saturday night, and eight of that has gone this morning to a rope and a pump and a candle, and the bag is eight, and if you read it out twice it will still be eight."
 
 The going out cost eight marks and a day of a boat and it will cost eight marks and a day of a boat again in a year, and the same again the year after, and the day of the tongue every four or five years on top, and the only thing about it that anybody in this harbor will ever see is a line in a reeve's hand on a chart saying *a signal, kept by hand, at the cost stated in this office's hearing record of the twenty-eighth of November*, which is a sentence that will be read in Veyr in about four years by a man who will have no idea that it is a bill.

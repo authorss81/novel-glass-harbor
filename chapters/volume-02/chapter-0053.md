@@ -32,7 +32,7 @@ Voke turned round.
 
 ---
 
-They did it on the Friday and the Saturday with no diver and no boat and no pump, off the wall, with the capstan the harbor's own men keep on the north end and a hired hand-crank out of the net loft at a mark a tide, which came out of the twenty-four and is the first time a number went out to a person outside this yard since the *Low Lantern*'s stove-in boat, and it is entered in the book as a hire and not as a gift.
+They did it on the Friday and the Saturday with no diver and no boat and no pump, off the wall, with the capstan the harbor's own men keep on the north end and a hired hand-crank out of the net loft at a mark a tide, which came out of the rope money and is the first time a number went out to a person outside this yard since the *Low Lantern*'s stove-in boat, and it is entered in the book as a hire and not as a gift.
 
 The tide was wrong for it. It came at the wrong end of the slack and by ten o'clock on the Saturday there was half a foot of slop coming over the wall run and the ring was under four inches of moving water and Bevin Rook could not see it, which is the condition a harbor puts a boy in when it wants him to be useful and not to be in the water.
 
@@ -54,7 +54,7 @@ The money went in the book on the Saturday afternoon and the boy read it out and
 
 "The eighth and the share," Nessa said.
 
-"The harbor's eighth, three. The harbor's share, three. Rope and the two days' victuals, three. That is nine out of twenty-four and the yard's share is fifteen."
+"The harbor's eighth, three. The harbor's share, three. Rope and the two days' victuals, three, and the hired hand-crank a mark of it. That is nine out of twenty-four and the yard's share is fifteen."
 
 Fifteen marks on a Saturday afternoon in a shed on the fish dock, on the sixth and seventh of January, was more money than had come into that shed since the twenty-seventh of November, and for about a minute nobody said anything, and the boy wrote it in and wrote the outgoings under it in his own right hand, which he had been taught to do on the sixth of December and had not had cause to do since.
 
@@ -66,7 +66,7 @@ Then Calder Marr took a mark out of it and put his coat on.
 
 ---
 
-The chandler took the mark and turned the book to the page and wrote the figure himself, which is a thing he has not done since the eighteenth of November, and did not comment, which is worse than comment, and then said, because he was a man who had put a line in his own book on Tuesday and had not stopped thinking about it:
+The chandler took the mark and turned the book to the page and wrote the figure himself, which is a thing he has not done since the eighteenth of November, and did not comment, which is worse than comment, and then said, because he was a man who had put a line in his own book on Wednesday and had not stopped thinking about it:
 
 "Eighteen," he said. "And there is nothing else to say about that, and you have come in on the day and not on the Monday, and I have written the day."
 
@@ -74,7 +74,7 @@ The chandler took the mark and turned the book to the page and wrote the figure 
 
 "Then you can wait while I put the page away," the chandler said, "because a man who waits is a man who has not got somewhere else to be, and there is not much of that in this harbor this week, and I would rather you waited in a warm shop than stood on a quay in it."
 
-Calder Marr waited in the warm shop for about four minutes, and while he waited he thought about the fact that on the first of December he had told the man behind that counter that he would come on the second, and had not come, and had come today instead, six days after the note in that book had been nineteen marks with a line under it saying a man had asked, and that a promise is a thing with a date on it, and that he had made one and broken it, and that the only honest account of the two facts was the nineteen in the book on Tuesday and the eighteen in it tonight, and that neither of those figures had been in it on the second of December.
+Calder Marr waited in the warm shop for about four minutes, and while he waited he thought about the fact that on the first of December he had told the man behind that counter that he would come on the second, and had not come, and had come today instead, six days after the note in that book had been nineteen marks with a line under it saying a man had asked, and that a promise is a thing with a date on it, and that he had made one and broken it, and that the only honest account of the two facts was the nineteen in the book on Wednesday and the eighteen in it tonight, and that neither of those figures had been in it on the second of December.
 
 ---
 
@@ -86,7 +86,7 @@ Neale caught him on the mole steps at four o'clock with the tide making and his 
 
 "The ninth seam is still out. We have three men standing by on the Friday, the Saturday and the Monday, waiting on a fouled shackle under a stone that is in this authority's own foundation, and the shackle came off the ring last winter and the ring came off the shackle and the ring has been in the water since October with a stone over it, and I have wanted that mooring worked since the first of December and I have asked the office for it twice and I have been told twice that a crew that wanted that mooring worked would want it worked by men in the water on the authority's work, and the third clause of the notice of the thirty-first stops every man in this harbor who has ever handled transparent material, and there are three of them, and one of them has a hand that cannot close." He said it in the flat voice of a man reading his own list. "I have got the gang on three days' notice and nowhere to put the three days, and the fleet is coming in on the first of March and the warp I have got on my shelves is nine years old because the money has gone on the fenders and the moorings and not on the warp."
 
-"That is one."
+"That is the first of them."
 
 "That is one, and it is the reeve's price and he told a room what it cost before he paid it, and I was in the room, and I want it said that the reeve has never once pretended it was somebody else." Neale shifted his feet. "The second is that the coast office wrote four lines back on the twenty-eighth of November and one of the words in them is *capacity*, and the authority has still not written the answer it said in a room it would write, and it is a month gone on that, and I am a man who works under the answer and not a man who wrote it, and the fleet does not distinguish between those two men and it should."
 

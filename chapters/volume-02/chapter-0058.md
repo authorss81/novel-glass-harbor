@@ -64,7 +64,11 @@ He wrote it himself, in his own hand, on the authority's own paper, and read the
 
 *The nineteenth of January, a Thursday. The top of the flood. The mole's toe, the third and fourth seams, and the bedded seam in this office's own foundation running north under the rubble, of which the position used by the party since the twenty-eighth of October is the south end. The water inside the harbor line. A hand lead, a slate, and the core hung in eight and a half feet off the south end. And no diver, unless the reason entered in this office's book at eight in the morning on that day names one.*
 
-"That is the ground named in the paper," Kest said, "and the naming is the part you asked for and the reason you asked for it is in a shed in Morrow Quay and I have read a copy of it, and I am not going to discuss it, and I want you to understand that I read it and did not ask, and that is twice in five weeks."
+"That is the ground named in the paper," Kest said, "and the naming is the part you asked for and the reason you asked for it is in a shed in Morrow Quay and I have read a copy of it, and I am not going to discuss it, and I want you to understand that I read it and did not ask, and that is twice in five weeks. And there is a thing in that naming that is not in the paper in those words, and I will say it out loud instead. The first clause of the notice of the thirty-first closes the mole's toe and inner face from the third seam to the eleventh to all work and all approach by all persons, including this office. I have named ground my own notice closes. I did the same on the twelfth and entered it in the same book, and I have done it twice, and I am telling you now so that you can tell the yard and the yard can tell its boy."
+
+"You want the yard holding it as well as you."
+
+"I want the yard holding it as well as me," Kest said. "I have been the only man in this harbor holding things since the thirty-first of October and it has made me a man who decides things alone and writes them down afterward."
 
 "And the price is entered in the hearing record and in your own book."
 
@@ -78,7 +82,7 @@ He put a line in at the bottom of the entry and turned the book so Calder Marr c
 
 "Eighteen, and the eighth and the share off the top of it if you raise anything, and you are not going to raise anything on that ground and I have written *nothing is to be raised* in my own book so that nobody can come back to me in a year and say the authority took a share of a raising it had told a crew not to make. That gives you two and two off the top and fourteen in your hand on the first of February."
 
-"On the first of February," Calder said, "which is a Tuesday, which is the day a boy of twenty-two has been entered in a book as a hand at four a week, and the fourteen is not four weeks of him, and I would like the reeve to know that I have not told the boy the fourteen is coming and that I am not going to, because a boy who is told his wage is coming on the first of February is a boy who has been given a date, and I have spent four months taking dates out of this yard and I am not putting one back in for money."
+"On the first of February," Calder said, "which is a Wednesday, which is the day a boy of twenty-two has been entered in a book as a hand at four a week, and the fourteen is not four weeks of him, and I would like the reeve to know that I have not told the boy the fourteen is coming and that I am not going to, because a boy who is told his wage is coming on the first of February is a boy who has been given a date, and I have spent four months taking dates out of this yard and I am not putting one back in for money."
 
 "Then he will find out on the first of February," Kest said, "like a man, which is worse and better and is the only way I know of that has ever worked."
 
@@ -106,7 +110,7 @@ And Calder Marr asked about the people afterwards, on the quay, in the cold, by 
 
 "Neale," he said. "The three men. And Voke. And the boy whose arm went in, and his mother's name is not in any of your books and I am not going to ask you for it, and you are not going to tell me, and I have asked you for the three names you have got and I would like them now."
 
-"Neale has three of them," Kest said. "Rowlandike, a man called Petch, and a brother of Tam Slee, who dived out of the *Grey Widow* on the twelfth and came up with a whole arm and nothing else anybody has found since, and Neale will tell you all three himself and be glad to, because Neale has been waiting five weeks for somebody to ask him a question about his own gang instead of about a boat."
+"Neale has three of them," Kest said. "A man called Rowlandike, a man called Petch, and a third who is the brother of Tam Slee, the diver who went down out of the *Grey Widow* on the twelfth and came up with a whole arm and nothing else anybody has found since. Two brothers on this coast, one on this office's gang and one diving for Harl Dace, and I entered that on the fifteenth when I found out, because a harbor that has put a family on both sides of a line it drew itself is a harbor I would rather wrote down than had described to me in Veyr. And Neale will tell you all three himself and be glad to, because Neale has been waiting five weeks for somebody to ask him a question about his own gang instead of about a boat."
 
 "And Voke."
 

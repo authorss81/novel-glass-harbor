@@ -26,7 +26,7 @@ There were six things on the market wall and the top one was a naval claim, four
 
 Nine or ten people stood in the cold in front of it, which is a good crowd for the fourth of January, and one of them was reading the fifth-seam sheet out loud in the voice of a man who cannot read.
 
-Down at the quay the harbor authority's slate wall was in a window and blank, and it had been blank since eight that morning, because the clerk takes the cloth off the top left corner at eight and goes across the whole board and does it every Monday whether there is a sitting or not, and there has not been a sitting since the twenty-eighth of November. The next wipe is Monday the ninth, at eight.
+Down at the quay the harbor authority's slate wall was in a window and blank, and it had been blank since eight on Monday the second, because the clerk takes the cloth off the top left corner at eight and goes across the whole board and does it every Monday whether there is a sitting or not, and there has not been a sitting since the twenty-eighth of November. The next wipe is Monday the ninth, at eight.
 
 "Five days," Bevin said. "A figure on that board is a figure for five days. The ledger is the record and the board is a convenience, and the reeve said so himself in a room, and he is right."
 
@@ -100,7 +100,7 @@ So Calder Marr said it. On the first of December, at this counter, he had told t
 
 He signed, and the boy came after him and signed underneath, because a ledger with one name on it is a ledger one man can change. Then the chandler shut the book and put his hand flat on it.
 
-"Twenty-two weeks on your own count, by the way. Not eleven. Eleven is what I last wrote, and there is a difference, and I would rather you had it from me than work it out in a dark shed in March."
+"Twenty-two weeks on my own count, by the way. Not eleven. Eleven is what I last wrote, and there is a difference, and I would rather you had it from me than work it out in a dark shed in March."
 
 "Thirteen," Bevin said. "By the yard's own count, on the fourth of January, it is thirteen weeks, and it has been thirteen since the eighteenth of November, and it is a figure in Calder's head and it is going to stay in his head, because if a man writes thirteen weeks in a book then in three weeks it is a lie, and it cannot be rubbed out without taking the page."
 
@@ -120,7 +120,7 @@ At two o'clock the boy read the position back and read it twice, and the number 
 
 "It is a long one," Bevin said, "and it is correct, and I am going to write it out longhand tonight for the wall, and I am not going to put a number on the wall in chalk, because the board is a convenience and there is no sitting until somebody calls one, and a wall with no ledger behind it is a thing a man can take down with a cloth, and the cloth is at eight on Monday."
 
-Nobody argued. It went into the book, and the book went on the bench, and the pencil went on top of it, which is where it lives.
+Nobody argued. It went into the book, and the book went on the bench, and the pencil went on top of it, and nobody in the shed said anything for a while, which was worth as much as the figure.
 
 ---
 

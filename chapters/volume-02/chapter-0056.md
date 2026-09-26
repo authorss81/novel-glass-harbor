@@ -4,7 +4,7 @@
 
 The reason went into the harbor authority's book at eight o'clock on Thursday the twelfth of January, at the reeve's table, in Calder Marr's own left hand, unedited, with the clerk present, and the clerk read it back and Kest read it back and nobody argued with it because there was no room and no reason to argue with a reason.
 
-It said that on the twelfth instant, at the third seam of the mole's toe, on this office's own ground inside the harbor line, under a permit of the eighth of January, the holder proposes to get a hand to a stone in the foot of the mole's foundation which lies over a shackle bedded in the same stone, at the top of the flood, with a limit of twenty-five minutes on the slate, a named tender who is not the diver, and a cutoff the tender can pull without asking anybody; and that the holder does not propose to be in the water, and cannot be, and that this office's notice of the thirty-first of October names him in its third clause; and that the diver is a man of the *Grey Widow*, hired by the herring skipper Elias Voke on his own account for his own ground tackle and not by this office and not by the holder; and that the office has named the date and the ground and the limit and the rest of the crew.
+It said that on the twelfth instant, at the third seam of the mole's toe, on this office's own ground inside the harbor line, under a permit of the eighth of January, the holder proposes to get a hand to a stone in the foot of the mole's foundation which lies over a shackle bedded in the same stone, at the top of the flood, with a limit of twenty-five minutes on the slate, a named tender who is not the diver, and a cutoff the tender can pull without asking anybody; and that the holder does not propose to be in the water, and cannot be, and that this office's notice of the thirty-first of October names him in its third clause; and that the diver is a man of the *Grey Widow*, hired by the herring skipper Elias Voke on his own account for his own ground tackle and not by this office and not by the holder; and that the office has named the date and the ground and the limit and the rest of the crew, and that the first clause of the notice of the thirty-first of October closes the mole's toe and inner face from the third seam to the eleventh seam to all work and all approach by all persons, including this office, and that a permit of this office does not lift a notice of the circuit office and this office has no power to lift it, and that this office is putting a man inside that closure on the ground named above, and is entering the fact of it on the same sheet as everything else, in the holder's hand, unedited.
 
 "Read the second half of the first line back," Kest said, from the other side of the table.
 
@@ -21,6 +21,10 @@ The clerk wrote it out again on a separate line and read that back too, and Kest
 "It is a worse reason than the one you wanted because the one you wanted was about a mooring," Kest said, "and this one is about this office. I have had since Monday to work out how to write a version of it that does not put my own hand in a file in Veyr, and there is not one, and I am going to write the true one and let a man in Veyr have it, because a reeve who writes a clever version is a reeve who has to be clever again in four years."
 
 He wrote it, and the clerk read it, and Calder Marr's own reason went on the page above it in his own hand, and the two were on the same sheet, which nobody had asked for and which Bevin Rook read back twice.
+
+"And there is a second thing I want on that sheet before anybody leaves this room," Calder said. "In November this office refused to countersign a plan of mine on four grounds, and the first of the four was that this office will not put a person inside a closure its own notice created. That is in a book, in my own hand, out of the afternoon of the eleventh of November, and I have never had an answer to it."
+
+"I know what I wrote in November," Kest said, "and it was correct on that morning, and this morning it is a permit of the eighth putting a man of a herring boat's inside a closure this office named, and both are going into the same book in the same year." He put the pen down flat. "So write the clause on it and let the clerk read it back and do not soften it by a word, and when a man in Veyr reads this file in four years he will have a reeve who said no in November and yes in January, and the reason for both will be on one sheet in two hands, and I would rather he had that than have a clerk's slip in a net loft telling him this office did not know what it was doing."
 
 ---
 
@@ -74,7 +78,7 @@ Then she said the other thing, which is the part that belongs in this chapter an
 
 ---
 
-They carried the stone to the mole head in the end, on the Saturday, with a hand crane out of the net loft at a mark a day, because the harbor's crane was the harbor's and the harbor was not paying for this, and there is no clause in a charter that says a harbor's crane comes out because a boy is in a sling.
+They carried the stone to the mole head in the end, on the Saturday, with a hand crane out of the net loft at two marks a day, and the crane was hired and paid for by the harbor authority out of its own repair account and not out of this yard, because a yard with three of its men named in a notice does not hire iron, and because there is no clause in a charter that says a harbor's crane comes out because a boy is in a sling. Kest entered that he had paid for it and the hour, and the harbor's clerk wrote it down, and neither of them said anything about it on the mole.
 
 The money went into the book on the Saturday night and the boy did not read it out, and Nessa Pike read it out for him, which is the second time in eleven weeks that she has read for him, and she made Calder Marr read it back.
 
@@ -82,7 +86,7 @@ The money went into the book on the Saturday night and the boy did not read it o
 
 "The eighth and the share."
 
-"Two and two. Hand crane, two days, two. Air, two marks, and the pot is a third gone and a third of that pot is a hundred marks a third and two marks has not put a mark back into it. Rope and the three days' victuals, one. The diver's four, which go to Tam Slee and not to this yard, and are entered as a share of the work and not as a wage, because he took them as a share. That is thirteen out of nineteen and the yard's share is six, and out of the six there is a bonesetter's mark of one and the first writing of a second time, and the bag is thirteen and I am not going to say a word about what that is."
+"Two and two. The hand crane is not in this list, because the office paid for it and the office will read that out in its own boat, and this book does not carry another office's money twice. Air, two marks, and the pot is a third gone and a third of that pot is a hundred marks a third and two marks has not put a mark back into it. Rope and the three days' victuals, three. The diver's four, which go to Tam Slee and not to this yard, and are entered as a share of the work and not as a wage, because he took them as a share. That is thirteen out of nineteen and the yard's share is six, and out of the six there is a bonesetter's mark of one and the first writing of a second time, and the bag is thirteen and I am not going to say a word about what that is."
 
 "And the note," Bevin Rook said, from the bench, with his right hand in his lap, and his left arm lying along it and not in anything.
 
@@ -110,6 +114,6 @@ He read the entry from the twelfth out twice, in the flat voice, sitting down, w
 
 "And I put my arm into a fall that came tight and the arm I put in was the one in the sling, and Calder Marr has written that in his own hand and I have read it back twice, and I am not going to write it in mine, because it is the only sentence in this entry I would have to write twice and the rule is that it goes in the hand of the man who did it and the man who did it is not me."
 
-Nobody argued. It went in the book, and the boy read it back a third time because it was his own, and Nessa Pike countersigned, and Calder Marr signed underneath her, and the book went on the bench and the pencil went on top of it.
+Nobody argued. It went in the book, and the boy read it back a third time because it was his own, and Nessa Pike countersigned, and Calder Marr signed underneath her, and the book went onto the shelf with its spine out and the lamp left on it, which is where a book lives in a shed in January.
 
 The yard had been in the water on every date the harbor authority had named to it since the sixth of December, and it had now been hurt on one of them, and it had not been paid for one of them.
