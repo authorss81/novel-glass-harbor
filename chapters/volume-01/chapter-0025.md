@@ -36,7 +36,7 @@ Bevin's mother came at four and read the surgeon's writing twice, standing in th
 
 "And an eighth off the top of anything that ground ever raises, and a pump in pawn, and a boat on the hard." She folded the writing into her apron. "Then I will tell you what I want and it is not money. I want it written down with the hour and the cause and the man who held the cleat, and I want the copy kept, and I want the original in my apron and not in a shed, and I want to be told the day the defense ends, whichever way it goes, in a room, out loud, by a man in a coat."
 
-"It is written down," Nessa said, and turned the book round so the woman could read the 29th's entry standing up, all of it, including the line about the wages and the masonry and the nine of the twenty-six.
+"It is written down," Nessa said, and turned the book round so the woman could read the 29th's entry standing up, all of it, including the line about the wages and the masonry and the eighteen of the twenty-six.
 
 The mother read it and gave it back and looked at her son, who was standing in the yard with a sling to his chin because the sling was the only part of the arrangement he had not argued with, and said: "You told him nine."
 
@@ -86,7 +86,7 @@ The sling was wrong. Alden took it off in four movements, read the surgeon's wri
 
 Then he stood up straight, which took him a while, and looked at Calder, and said the cold thing.
 
-"Now sit down and hear the other half of it, because I have not come here to be the man who says the good part. That boy's wages were four a week and they are now nothing, and they will be nothing for about six weeks, and six weeks at four a week is twenty-four marks you do not have, and you have nine in a bag less two already gone this morning, and you have a pump in pawn and a boat on the hard and a defense that expires in eight days, and I have been in this yard since 1961 and I am going to tell you that you cannot carry the boat and the boy at the same time and that one of them is going to be put down to keep the other in the water."
+"Now sit down and hear the other half of it, because I have not come here to be the man who says the good part. That boy's wages were four a week and they are now nothing, and they will be nothing for about six weeks, and six weeks at four a week is twenty-four marks you do not have, and you have nine in a bag less two already gone this morning, and you have a pump in pawn and a boat on the hard and a defense that expires in fifteen days, and I have been in this yard since 1961 and I am going to tell you that you cannot carry the boat and the boy at the same time and that one of them is going to be put down to keep the other in the water."
 
 "Say which one."
 

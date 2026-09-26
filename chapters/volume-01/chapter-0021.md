@@ -10,13 +10,13 @@ The *Kittiwake* was on the hard above the slip with her bilge blocked in and no 
 
 He wrote it down. The one line ran off the page.
 
-"Twenty-day defense to the fourteenth of next month," Nessa read over his shoulder. "Bond of twelve marks paid out of a tin that is empty. Pump, clamp stock, cordage, and the drawing chest held to a clerk's generous eighteen and all four of them working for somebody else. An eighth of any future raising, off the top, before wages. Four hundred yards off the outer marks. Shoal permit spent. Chandler's note eleven weeks into six and six marks lighter than it was a fortnight ago and not one week forgiven. Forty marks owed to Venn, first after food. Air a third gone with nothing in it. No boat of our own and no pump of our own."
+"Defense to the fourteenth of next month," Nessa read over his shoulder. "Bond of twelve marks paid out of a tin that is empty. Pump, clamp stock, cordage, and the drawing chest held to a clerk's generous eighteen and all four of them working for somebody else. An eighth of any future raising, off the top, before wages. Four hundred yards off the outer marks. Shoal permit spent. Chandler's note eleven weeks into six and six marks lighter than it was a fortnight ago and not one week forgiven. Forty marks owed to Venn, first after food. Air a third gone with nothing in it. No boat of our own and no pump of our own."
 
 "That is eleven things," Calder said.
 
 "It is eleven things and every one of them was put there by a person who was doing their job." She put her finger on the fourth one. "The eighth. You did not bargain for the eighth. It came off the top of everything we ever raise from that ground for the rest of the year, and it will be in the room when we ask for a charter, and there is nothing you can do about it and no reason to write it down twice."
 
-She went out to the slip and left him with the line, which was the arrangement and had been since the middle of September.
+She went out to the slip and left him with the line, which was the way of the yard and had been since the middle of September.
 
 ---
 
@@ -26,7 +26,7 @@ The office was a barge with a stove in it and the gangway built for a shorter ma
 
 "I am not here to complain about anything," Calder said.
 
-"Then you are the first man through that gangway in eleven years who has said that." Kest did not look up. "Sit down. What do you want."
+"Then you are the first man through that gangway in fifteen years who has said that." Kest did not look up. "Sit down. What do you want."
 
 "I want to know what I am allowed to do to a piece of ground I am not allowed to touch."
 
@@ -110,7 +110,7 @@ It was not a blank space. It was a *dated* gap. The last figure before it stood 
 
 "Why Thursday."
 
-"Because on Thursday the clerk is in and the stove is lit and I would rather it was done properly." Kest's mouth did not move. "And because you have a hearing in ten days and I have read a good many files this year, and a man who takes a figure out of a book and writes it in his own book on the day he needs it has a very short memory, and I would rather your memory were two days old and written down at the time."
+"Because on Thursday the clerk is in and the stove is lit and I would rather it was done properly." Kest's mouth did not move. "And because you have a hearing in fifteen days and I have read a good many files this year, and a man who takes a figure out of a book and writes it in his own book on the day he needs it has a very short memory, and I would rather your memory were two days old and written down at the time."
 
 "Two fathoms shoaler than it should be," Calder said, "is a hump."
 
@@ -118,7 +118,7 @@ It was not a blank space. It was a *dated* gap. The last figure before it stood 
 
 ---
 
-He did not go out to the mole head, because Kest had told him on the eighteenth that he was not to be on the mole, and a man who has been told not to be on a piece of ground does not go and stand on it on the nineteenth day and enjoy himself.
+He did not go out to the mole head, because Kest had told him on the eighteenth that he was not to be on the mole, and a man who has been told not to be on a piece of ground does not go and stand on it and enjoy himself.
 
 So he took his bearings from the two places that were not the mole: the fish dock rail and the coal wharf gable, with a prismatic compass off the harbor's own locker that the clerk let him carry as far as the gate and no further, and he had Bevin Rook with him carrying the slate and saying every number back at him twice whether or not it matched what Calder thought he had read.
 
@@ -130,7 +130,7 @@ The fish dock rail was useless and he knew it before he had the compass out, bec
 
 Then the tide bell went at the top of the make, out in the road where it had always hung.
 
-It went three strokes, and the strokes arrived, and under them, a third of a second late and much too even to be anything, the flat note came up out of the bottom of the harbor and said the three marks and the flick.
+It went three strokes, and the strokes arrived, and under them, a third of a second late and too even to be a bell, the flat note came up out of the bottom of the harbor and said the three marks and the flick.
 
 Calder's head began to turn.
 

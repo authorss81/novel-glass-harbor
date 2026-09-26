@@ -2,9 +2,9 @@
 
 *What the Note Does Not Say*
 
-The hearing was on the seventh, which gave them six days, and on the second of the month Calder went up to the reeve's office with a slate and got the clerk to write out the four clauses of the notice in his own hand and the office's own copy of it, and the clerk did that without being asked, and then stood there with the pen in his hand and waited, and Calder read the fourth clause back to the man in the ink-stained cuffs.
+The hearing was on the seventh, which gave them six days, and on the first of the month Calder went up to the reeve's office with a slate and got the clerk to write out the four clauses of the notice in his own hand and the office's own copy of it, and the clerk did that without being asked, and then stood there with the pen in his hand and waited, and Calder read the fourth clause back to the man in the ink-stained cuffs.
 
-"Your office has asked my office to bar four seams of a mole," he said, "on the ground that a line of joined glass is a line that will carry. And my conservator wrote the sentence about the carrying in April, on a bench, about one loose fragment, and your office has quoted her, and she is a person in a Registry coat and she is a person who works in this office, and I want to know whether you think about that."
+"Your office has asked my office to bar four seams of a mole," he said, "on the ground that a line of joined glass is a line that will carry. And my conservator wrote the sentence about the carrying on the fourteenth, on a bench, about one loose fragment, and your office has quoted her, and she is a person in a Registry coat and she is a person who works in this office, and I want to know whether you think about that."
 
 The clerk looked at the notice for a while.
 
@@ -44,11 +44,11 @@ She took her hand off the page.
 
 She took a second sheet out from under the first.
 
-"While the query on my certificate expense stands, no entry I make leaves my hand without a circuit officer's countersign. That is the whole of it. I write it, it goes up, and it comes back with a man's initials on it or it does not come back at all. My certificate to a crew on this coast takes three weeks instead of one and has taken three weeks since the twenty-first. My note of the fourteenth took four days. This will take three weeks, and it will be dated when it is countersigned and not when it is written, and if you take that date into your book and the date is the twenty-second of this month, then it will arrive eight days after your defense has lapsed and it will be a document about a notice that is four weeks old and a mole that is closed and a hearing that has already been held or missed."
+"While the query on my certificate expense stands, no entry I make leaves my hand without a circuit officer's countersign. That is the whole of it. I write it, it goes up, and it comes back with a man's initials on it or it does not come back at all. My certificate to a crew on this coast takes three weeks instead of one and has taken three weeks since the twenty-first. My note of the fourteenth took four days. This will take three weeks, and it will be dated when it is countersigned and not when it is written, and if you take that date into your book and the date is the twenty-second of this month, then it will arrive eight days after your defense has lapsed and it will be a document about a notice that is three weeks old and a mole that is closed and a hearing that has already been held or missed."
 
 "Then it is no use."
 
-"It is no use to you in the next eight days, and it is the use of a document. It is dated, it is entered, it exists, and a man in Veyr who reads the file in November finds that the office that made the notice was told in writing on the first of the month what the notice did and did not say, and found it out four weeks after it mattered." She put both hands flat on the bench. "I have thought about that trade all yesterday and the honest answer is that I do not know whether it is worth anything, and I am going to send it anyway, because the alternative is that the only sentence in this business with a woman's name on it is the one they took."
+"It is no use to you before the fourteenth, and it is the use of a document. It is dated, it is entered, it exists, and a man in Veyr who reads the file in November finds that the office that made the notice was told in writing on the first of the month what the notice did and did not say, and found it out three weeks after it mattered." She put both hands flat on the bench. "I have thought about that trade all yesterday and the honest answer is that I do not know whether it is worth anything, and I am going to send it anyway, because the alternative is that the only sentence in this business with a woman's name on it is the one they took."
 
 Calder looked at the sheet for a long time.
 
@@ -60,13 +60,13 @@ Calder looked at the sheet for a long time.
 
 "Good." She squared the sheets. "And now the thing I said I was going to say no to. You are going to ask me to witness your three points."
 
-He had not asked yet. He had been thinking about it since the twenty-eighth, and she had read it off him across a bench, which she had been doing to him since the second of November and which he had never once been able to prevent.
+He had not asked yet. He had been thinking about it since the twenty-eighth, and she had read it off him across a bench, which she had been doing to him since she came to Morrow Quay and which he had never once been able to prevent.
 
-"I am not going to witness them," she said. "Not on the second of this month and not on any other. A witness says what she saw and no more. If I put my name against a line of ground coming up at intervals on a bearing, then a thing I did last week to say I do not certify a position has become a thing I cannot distinguish from certifying one, and in six months somebody will read both on the same page and the second will eat the first."
+"I am not going to witness them," she said. "Not for these three points and not for any others. A witness says what she saw and no more. If I put my name against a line of ground coming up at intervals on a bearing, then a thing I did last week to say I do not certify a position has become a thing I cannot distinguish from certifying one, and in six months somebody will read both on the same page and the second will eat the first."
 
 "You are the only person on this coast who could say whether my arithmetic is—"
 
-"Your arithmetic is checked by Bevin Rook out loud twice every time you make it, in a book that four men can reach, and that is better than a woman in a Registry coat saying so once in an office in the west basin." She shut the book. "I have been used this month, Mr Marr, correctly, and I did not enjoy it and I could not have stopped it, and I am not going to hand that office a second thing of mine that it can pick up when it wants to. I will witness method. I will not witness position. And I will not write one word saying that joined construction in the water is safe to go near, because I do not know that it is, and because a woman in my coat who writes *safe* about this in the same month as a cutter's boat has laid at the pile is a woman whose next paper will be quoted, and the paper after that will not be quoted correctly, and there will be a third."
+"Your arithmetic is checked by Bevin Rook out loud twice every time you make it, in a book that four men can reach, and that is better than a woman in a Registry coat saying so once in an office in the west basin." She shut the book. "I have been used in the last two days, Mr Marr, correctly, and I did not enjoy it and I could not have stopped it, and I am not going to hand that office a second thing of mine that it can pick up when it wants to. I will witness method. I will not witness position. And I will not write one word saying that joined construction in the water is safe to go near, because I do not know that it is, and because a woman in my coat who writes *safe* about this in the same month as a cutter's boat has laid at the pile is a woman whose next paper will be quoted, and the paper after that will not be quoted correctly, and there will be a third."
 
 "You are not going to say the chain is safe."
 
@@ -80,11 +80,11 @@ Calder had one thing left and he had been carrying it since the twenty-eighth an
 
 Mara Venn took her hand off the closed book.
 
-"Yes," she said. "I used it in April, and I was right to, and I would use it again. It is the correct word for what I could see on the rim of a broken edge in a contaminated fragment, and I have been examining glass for eight years and I have a right to say what I can see."
+"Yes," she said. "I used it on the fourteenth, and I was right to, and I would use it again. It is the correct word for what I could see on the rim of a broken edge in a contaminated fragment, and I have been examining glass for eight years and I have a right to say what I can see."
 
 "And I have been wanting for six weeks to use it as though it told me something, and it does not, and I have not used it."
 
-"You have not used it, and that is the only thing in this conversation I would have given you a mark for, and I am not going to give you one, and I have not written one down." She was quiet for a moment. "Mr Marr, I have spent eight years learning to say a word precisely and I have in the last nine days watched the precise word go out of my hand and into an instrument, and I have found that I do not know whether I would have written it differently, and if the answer is that I would not have, then the thing that has gone wrong is not the word. It is that I wrote it into a book in an office, in my own hand, thinking I was writing a limit, and there was no mechanism in the Serein Dominion for a limit to stay a limit once it had my name on it. There is only a mechanism for it to be quoted. I have known that since I was twenty-two and I have never had to feel it about a sentence I cared about."
+"You have not used it, and that is the only thing in this conversation I would have given you a mark for, and I am not going to give you one, and I have not written one down." She was quiet for a moment. "Mr Marr, I have spent eight years learning to say a word precisely and I have in the last two days watched the precise word go out of my hand and into an instrument, and I have found that I do not know whether I would have written it differently, and if the answer is that I would not have, then the thing that has gone wrong is not the word. It is that I wrote it into a book in an office, in my own hand, thinking I was writing a limit, and there was no mechanism in the Serein Dominion for a limit to stay a limit once it had my name on it. There is only a mechanism for it to be quoted. I have known that since I was twenty-two and I have never had to feel it about a sentence I cared about."
 
 She stood up and put the sheets under her arm.
 
@@ -114,13 +114,13 @@ The boy had the notice read to him by an older man and Calder heard the four cla
 
 ---
 
-That night Calder wrote the date into the crew's book under the entry for the second, and the date was the twenty-second of the month, and the defense lapses on the fourteenth, and the hearing is on the seventh, and the two marks of air were in the pot and the bag had five in it and the note had nothing on it.
+That night Calder wrote the date into the crew's book under the entry for the first, and the date was the twenty-second of the month, and the defense lapses on the fourteenth, and the hearing is on the seventh, and the two marks of air were in the pot and the bag had five in it and the note had nothing on it.
 
-*2nd. Conservator's second note, lodged for countersign, not yet dated by the office. Office date entered: the 22nd of this month. That is eight days after this defense lapses, and thirteen days after the hearing, and the yard has no document before the 7th.*
+*1st. Conservator's second note, lodged for countersign, not yet dated by the office. Office date entered: the 22nd of this month. That is eight days after this defense lapses, and fifteen days after the hearing, and the yard has no document before the 7th.*
 
-Bevin Rook read that back standing up, both words of it, twice, because that was the arrangement, and then he read the date again on his own.
+Bevin Rook read that back standing up, both words of it, twice, because that was the standing rule, and then he read the date again on his own.
 
-"Seven days to the hearing and eight days after that for her paper," he said. "And the notice on the wall is four clauses and the third one says nobody who handled it can go in the water on the authority's work, which is all of the work there is."
+"Six days to the hearing, and her paper is dated the twenty-second, which is fifteen days after the hearing and eight days after the defense is gone," he said. "And the notice on the wall is four clauses and the third one says nobody who handled it can go in the water on the authority's work, which is all of the work there is."
 
 "Yes."
 
@@ -128,6 +128,6 @@ Bevin Rook read that back standing up, both words of it, twice, because that was
 
 "Say it once."
 
-"A note that turns up in eight days is for the next man." He looked at the bench and not at Calder. "Which means the next six days are not waiting for her. They are ours. And I do not know what six days of ours is worth on that mole with four clauses nailed up over it, and neither do you, and if you have not got anything then we write down that we have not got anything, in this book, with the date on it, so that the next man can see exactly where we stopped."
+"A note dated the twenty-second is for the next man." He looked at the bench and not at Calder. "Which means the next six days are not waiting for her. They are ours. And I do not know what six days of ours is worth on that mole with four clauses nailed up over it, and neither do you, and if you have not got anything then we write down that we have not got anything, in this book, with the date on it, so that the next man can see exactly where we stopped."
 
 There was nothing in the yard at nine o'clock that Calder Marr could do about any of it, and he had written that sentence on a slate twenty days before, on the morning after the seizure, and it had been true then, and it was true now, and this time there were three others in the shed who had heard it and who had all understood it, and that was the only difference, and it was not nothing.

@@ -90,7 +90,7 @@ Calder wrote nothing for a moment. He had the pencil up and the slate on his kne
 
 "Ten and a half at the fourth seam and nine at the third, and a mile of nothing out past the outer marks that we are not allowed to sound." Calder wrote it down in the order it had been said, and he wrote the tender's number and not the boy's, and then he wrote under it: *Counted by Rook, stated at the ladder, nine, ten, three keys, bedded, north to two boat lengths and no further. Diver's own count not given, tender's count entered.*
 
-"Read it back," he said, because that was the arrangement, and because he wanted to hear whether the boy would put his own number in.
+"Read it back," he said, because it was the rule the yard worked by, and because he wanted to hear whether the boy would put his own number in.
 
 Bevin read it back, all of it, word for word, and at the end he said: "And the diver's own count was seven and eleven and there is no rule that says you have to put a man's number in when the man is standing on the ladder in front of you."
 
@@ -150,4 +150,4 @@ The six marks of air went to Sella Brigg at eleven o'clock and the two marks tha
 
 *First point.*
 
-And Bevin Rook read that back from the book, standing, both words of it, twice, because that was the arrangement, and it was the first time in eleven years that anybody in that yard had written the word *first* beside a number.
+And Bevin Rook read that back from the book, standing, both words of it, twice, because that was his job now, and it was the first time in eleven years that anybody in that yard had written the word *first* beside a number.

@@ -4,6 +4,8 @@
 
 The shoal book came up out of the stern locker at ten past nine on the second of the month, in two parts, in boards, in a tin, exactly as it had on the twenty-sixth, and the clerk wrote the date and the hour and the words *one book, read in room, not copied* and turned it round and stood back.
 
+It was a Wednesday and not the Thursday the reeve had named, and nobody in the yard asked about it, because the Thursday had gone on a purpose filed in a hearing room, and the Friday and the Saturday on a chain that came tight, and the Monday on a notice with a seal over the nail, and by the time there was a morning to give the figure away in, the yard wanted it five days before a hearing and not two.
+
 Kest had agreed the third station himself, in his own hand, at the bottom of a sheet on the twenty-eighth, and the sheet said: *For the purposes of a bearing only, taken from the top of the mole, by any person, at any hour, off the office's own compass, the office having no objection to a station on its own ground that does not approach his own ground.* It was signed *O. Kest* and Calder had read it nine times and had not been able to make it into a favor and had stopped trying.
 
 "Read it yourself," Kest said. "I have told the clerk once and if I tell him twice he will write twice."
@@ -84,21 +86,21 @@ Nessa wrote it, and read it back, and Bevin read it again, and Tobias put his ha
 
 ---
 
-The bearing was taken off the top of the mole at half past four, with the office's compass out of the office and the sun gone down behind the fish market roof, and Calder went up the mole steps alone because the notice had put the mole's toe and inner face out of bounds and the top of a mole is not a toe or a face, and a man may stand on it.
+The bearing was taken off the top of the mole at half past four, with the office's compass out of the office and the sun gone down behind the fish market roof, and Calder went up the mole steps alone on the strength of the sheet the reeve had signed on the twenty-eighth and of nothing else that was written, because the top of a mole is not the toe and not the face, and a man may stand on it.
 
-The mole is a hundred and forty feet of stone and it is eight feet high at the head, and from the head on a falling tide you can see the bottom in the slop, because the surface of the slop goes to a moving sheet of glare, and there is no other water in this harbor where a man can see what is lying on the bottom.
+The mole is a hundred and forty feet of stone and it is eight feet high at the head, and from the head at the top of the flood a man can see the bottom in the slop, because the surface of the slop goes to a sheet of glare, and there is no other water in this harbor where a man can see what is lying on the bottom.
 
 He did not look for the rib. He took the bearing and wrote it and came down.
 
-And on the way down, at the fourth step from the top, the tide bell went out in the road, three strokes, and the strokes arrived, and under them, three marks and a flick, a third of a second late and much too even to be anything, the note came up out of the bottom off the mole, and Calder's hands stayed exactly where they were on the stone.
+And on the way down, at the fourth step from the top, the tide bell went out in the road, three strokes, and the strokes arrived, and under them, three marks and a flick, a third of a second late and too even to be a bell, the note came up out of the bottom off the mole, and Calder's hands stayed exactly where they were on the stone.
 
 He stood on the mole steps and let it come and go, twice, and then went down off the mole and up the road to the yard at a fast walk with the compass in the bag, and Bevin Rook was standing at the bench with the book open and the pencil ready before Calder had got the gate.
 
-"Half past four," Calder said. "Falling, third of the make, west-northwest light air, slop on the mole face. I heard the harbor's three strokes and I heard the delayed note under it, and I did not turn round and I did not go back up. There is no source and I am not writing what it was."
+"Half past four," Calder said. "Top of the make, west-northwest light air, slop on the mole face. I heard the harbor's three strokes and I heard the delayed note under it, and I did not turn round and I did not go back up. There is no source and I am not writing what it was."
 
 Bevin wrote it, and read it back, and it went in under the hour and the state of the water with the line: *Knock, delayed, in the bottom off the mole. No source. Not written as a voice. Heard by Marr at the mole head, top of the mole, not the toe and not the face, with the office's station in his hand and a man waiting in the yard.*
 
-And Calder did not see that line until the end of the day, when Nessa read the entry out over his shoulder the way she read everything, and read it a second time before she put the book down, and neither of them said one word about it, because the arrangement said that the man who hears a knock in a bottom does not get to look at the pencil first, and that arrangement had now cost him something four times and given him something once, and he was not going to argue with a rule that had kept its side of the bargain while he had not.
+And Calder did not see that line until the end of the day, when Nessa read the entry out over his shoulder the way she read everything, and read it a second time before she put the book down, and neither of them said one word about it, because the standing rule was that the man who hears a knock in a bottom does not get to look at the pencil first, and that rule had now cost him something four times and given him something once, and he was not going to argue with a rule that had kept its side of the bargain while he had not.
 
 ---
 
@@ -118,6 +120,6 @@ Then, at the foot of the third sheet, in Calder's own left hand, four lines unde
 
 *The word placed is struck out of this yard's copy of the purpose filed with the harbor authority on the 27th of last month, and it stands uncorrected in the hearing record where the reeve read it in, and the yard does not ask for that to be altered. The yard believed it on the 27th and the yard does not know it on the 2nd, and both are in the record and both are dated. The reeve's ruling of the 2nd is that no line may be drawn between the three points, and the yard has not drawn one, and the distance between them is a mile and two hundred yards, and any man who wants to know whether three things on a straight are in a row may take a ruler out of his own pocket and find out for himself.*
 
-And the slate stayed on its own shelf where it had been since November, with its own heading on it, headed as the evidence heard by Calder Marr, unverified, from himself, and not corroborated by any document, witness, instrument, or second person, and the one false line in it, and the shelf it stood on a hand's breadth from the bench chest and four feet from the book, and not one word added to it on the second of this month, because a man's own account of what he heard in the bottom of a bell is a different kind of document from a figure that four people can go and check with a lead, and the yard keeps the two apart for that reason and for no other reason at all.
+And the slate stayed on its own shelf where it had been since the fourteenth of last month, with its own heading on it, headed as the evidence heard by Calder Marr, unverified, from himself, and not corroborated by any document, witness, instrument, or second person, and the one false line in it, and the shelf it stood on a hand's breadth from the bench chest and four feet from the book, and not one word added to it on the second of this month, because a man's own account of what he heard in the bottom of a bell is a different kind of document from a figure that four people can go and check with a lead, and the yard keeps the two apart for that reason and for no other reason at all.
 
-And the seals, and the names, and the ten crew's copies in oilcloth in the bench chest and three of them on other crews' walls, and the wall in the fish market with a Registry notice nailed over the top of it and a rule under both of them.
+And the seals, and the names, and the five rolled copies in oilcloth in the bench chest and three of them on other crews' walls, and the wall in the fish market with a Registry notice nailed over the top of it and a rule under both of them.

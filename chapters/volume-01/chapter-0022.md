@@ -12,7 +12,7 @@ Thursday the 27th began with a queue at the hearing room door at a quarter to ni
 
 "That was a speech."
 
-"It was a warning with three sentences in it." Kest put the sheet down. "Purpose. In writing. And I will tell you now what will happen when you hand it in, so that it is not a surprise you can be angry at later. If you file a purpose about ground, I read it into the hearing record, and the record is the harbor authority's, and what is in it is what a reeve of this harbor has said out loud in a room with a clerk writing it down. That is a different animal from a man talking in his own yard. And after the reading, any man in Morrow Quay may come into this room and read what you said and take it apart in front of you. In eleven days I am going to hold a hearing or I am going to let the defense fall, and I do not yet know which, and what you file goes in the file either way."
+"It was a warning with three sentences in it." Kest put the sheet down. "Purpose. In writing. And I will tell you now what will happen when you hand it in, so that it is not a surprise you can be angry at later. If you file a purpose about ground, I read it into the hearing record, and the record is the harbor authority's, and what is in it is what a reeve of this harbor has said out loud in a room with a clerk writing it down. That is a different animal from a man talking in his own yard. And after the reading, any man in Morrow Quay may come into this room and read what you said and take it apart in front of you. In fourteen days I am going to hold a hearing or I am going to let the defense fall, and I do not yet know which, and what you file goes in the file either way."
 
 "File it," Calder said. "That is what I came to do. I have brought it."
 
@@ -22,9 +22,9 @@ Kest read it standing up, in the voice he used for a hearing, twice, and then re
 
 *Purpose of the request. To show that the ground described in the Free Keel yard's own bearing sheet, and the ground described in the harbor authority's own shoal book, lie on a single line running west-southwest, and that on that line the bottom comes up at stated intervals and nowhere else, and that no measurement of that ground has been made by this office since the officer of the cutter on the pile stated on the 14th of this month that the instruments of this office over that ground were of no effect. The Free Keel yard asserts that the ground is placed and not scattered. It has no measurement of that assertion. It states the purpose of asking for the file of thirteen years ago because that file may show whether any person has ever measured a carrying space on that vessel or has ever had cause to.*
 
-Kest read the last line twice before he looked up.
+Kest read the sentence about having no measurement of it twice before he looked up.
 
-"Placement," he said. "You have written the word *placed* on the record of this office eleven days before a hearing, and you have written *scattered* beside it, and you have said in the same sentence that you have no measurement of it."
+"Placement," he said. "You have written the word *placed* on the record of this office fourteen days before a hearing, and you have written *scattered* beside it, and you have said in the same sentence that you have no measurement of it."
 
 "Yes."
 
@@ -110,7 +110,7 @@ The clamp stock was in pawn and the bench was bare and he had gone along the row
 
 "Somebody has had my old offset chisel," he said. "The one I keep for the inside of a stem. It is not in this yard. It has not been in this yard since Michaelmas, and I know it is not, because I looked for it in September and it was gone then, and I did not say anything about it in September because I was not going to start a thing with a woman in a Registry coat over a chisel."
 
-"Which girl of nineteen," Calder said.
+"Which of them," Calder said.
 
 Tobias put the tool board down.
 

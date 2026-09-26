@@ -12,7 +12,7 @@ The southerly was on the slate at ten past five on Saturday the 29th and Sella B
 
 "My master will take the second boat out on a morning's charter work because it is the harbor's ground and the harbor's own work and a day's wage, and he has said so. I have told him he should be off that water by ten. If he is not off it by ten, then the standing rescue cover my crew gave your yard on the nineteenth is not offered again this winter, by my crew, and I will not stand in a net loft and explain it twice, and I am telling you now so that it is a thing we both agreed instead of a thing you did to us.
 
-"And I am not going to be the one who says no to twenty-six marks with a defense in eight days. So I am saying all three and going home."
+"And I am not going to be the one who says no to twenty-six marks with a defense in sixteen days. So I am saying all three and going home."
 
 "Agreed, all three, in those words." Calder looked at the crew. "Nessa."
 
@@ -40,7 +40,7 @@ He gave him twelve.
 
 Bevin went over the side at a quarter to eight into water that was already lifting, and the mole's inner face was ten feet at the ninth seam and eleven under it, and the visibility was a foot and a half, and Calder put the pump's stroke in his ears where he could find it and stopped listening for anything else.
 
-The eleven minutes went. The twelve went at four minutes to nine, and the twelve and a half went, and Calder was on the point of saying the word when the boat came up bodily on a sea and the *Low Lantern*'s master put her helm over to hold the chain's lead off the stone, and the chain came up taut with a sound like a gun, and Bevin Rook came up the ladder nineteen seconds later with a wet canvas pocket in his teeth and a way of holding his left arm across his chest that nobody had taught him.
+The eleven minutes went. The twelve went at four minutes to eight, and the twelve and a half went, and Calder was on the point of saying the word when the boat came up bodily on a sea and the *Low Lantern*'s master put her helm over to hold the chain's lead off the stone, and the chain came up taut with a sound like a gun, and Bevin Rook came up the ladder nineteen seconds later with a wet canvas pocket in his teeth and a way of holding his left arm across his chest that nobody had taught him.
 
 He got one rung and then two and then stopped.
 
@@ -74,7 +74,7 @@ Nobody saw it happen and everybody heard it, one flat crack under the counter, a
 
 ---
 
-The harbor's clerk came out at two o'clock with Kest behind him and paid nine of the twenty-six.
+The harbor's clerk came out at two o'clock with Kest behind him and paid eighteen of the twenty-six.
 
 "Eighteen for the part done, and the harbor's share off the top at three, and there is your fifteen." The clerk said it without any pleasure at all. "The shackle is under a foundation stone of this authority's mole and the fouling is on the mole and the fouling is not off, and I have written *work not completed, obstruction of the authority's own masonry* and the authority has read it and signed it, and you will get the same nine on any tide you like and I would tell you that as a service."
 

@@ -2,7 +2,7 @@
 
 *The Panel at the Fifth Seam*
 
-The tide was three days past the equinox and making like a different sea, and Tobias Wren went up the mole on the morning of the third with a hand axe and a cold chisel and his own reasons, which were timber.
+The tide was a fortnight past the equinox and making like a different sea, and Tobias Wren went up the mole on the morning of the third with a hand axe and a cold chisel and his own reasons, which were timber.
 
 "There is no timber in this yard," he said, at the top of the steps, in a voice that brooked no argument, "and there is a cradle to be cut in the spring, and a cradle is oak, and every mole from here to the water gate is faced with oak baulks that the sea has been taking out of the wall for sixty years and that nobody has ever been allowed to take up. I have asked the office twice. I am asking a third time with a chisel in my hand so that they understand I am serious, and I would like you three to come because a man on a mole asking for timber is a man somebody will want to explain the law to."
 
@@ -22,11 +22,11 @@ They were standing on the mole's inner face at the third step, and the notice of
 
 "Reeve," Calder said, "we should go up."
 
-"We are going up." Kest did not move. "I have been eleven years in this office and I have never once been the man who put a thing in his own book that he had no right to see, and I have never once been the man who did not. And I am going to look at my own foundation stone this morning because a thing that is a bar on a mole is a bar on a mole, and a man who has never been down to look has not got an opinion, and an opinion is what I am obliged to have by Friday." He took his hands out of his pockets. "Whatever is down there goes in the book, and the book names the four of you as witnesses, and I am aware of exactly where that puts me, and I have put myself there on purpose, and I would thank you not to make a speech about it."
+"We are going up." Kest did not move. "I have been in this office fifteen years and I have never once been the man who put a thing in his own book that he had no right to see, and I have never once been the man who did not. And I am going to look at my own foundation stone this morning because a thing that is a bar on a mole is a bar on a mole, and a man who has never been down to look has not got an opinion, and an opinion is what I am obliged to have by Friday." He took his hands out of his pockets. "Whatever is down there goes in the book, and the book names the three of you as witnesses, and I am aware of exactly where that puts me, and I have put myself there on purpose, and I would thank you not to make a speech about it."
 
 Then Nessa said: "Reeve. Come here a moment. I want you to look at something and I want you to look at it before I have decided what I think I am looking at, because I have been wrong in front of people in this harbor before."
 
-The slop on a falling tide goes to glare, and in the glare you can see the bottom, and what was lying in the glare at the fifth seam, forty yards south of the third, in eleven feet of water against the mole's rubble, was a panel.
+The slop at the top of the flood goes to a sheet of glare, and in the glare you can see the bottom, and what was lying in the glare at the fifth seam, forty yards south of the third, in eleven feet of water against the mole's rubble, was a panel.
 
 Not a rib. A panel — a plate of it, four foot by something, pale, lying at an angle with its upper edge out of the rubble, and along the upper edge three keys, and in the lower corner a rim.
 
@@ -72,15 +72,15 @@ It was six clauses. He read them out and Calder read them again after him.
 
 "So the instrument is void."
 
-"The instrument is *conditional*, and the condition is that a plan countersigned by a circuit officer of that office is produced first, and that office has had eight days to countersign one thing and has not asked about it once. So I have written the best instrument this authority can write, and it is worth precisely nothing, and I would like you to understand three things about when I wrote it, and then I will put the paper away.
+"The instrument is *conditional*, and the condition is that a plan countersigned by a circuit officer of that office is produced first, and that office has had three days to countersign one thing and has not asked about it once. So I have written the best instrument this authority can write, and it is worth precisely nothing, and I would like you to understand three things about when I wrote it, and then I will put the paper away.
 
-"I wrote it on the thirty-first, which was the day the notice came, and I wrote it for the fifth seam and at eleven feet because the fifth seam is the one piece of that face where a man's hand can reach to the bottom off a step and eleven feet is as deep as a man goes down on his own. I had no reason whatever to think there was a thing in that water. I wrote it because a man who has a plain paper in his pocket at eleven o'clock on the morning he finds something is not standing in a shed with his hands up, and because I have been in this office eleven years and I have watched four men find things they could not afterwards prove they had found.
+"I wrote it on the thirty-first, which was the day the notice came, and I wrote it for the fifth seam and at eleven feet because the fifth seam is the one piece of that face where a man's hand can reach to the bottom off a step and eleven feet is as deep as a man goes down on his own. I had no reason whatever to think there was a thing in that water. I wrote it because a man who has a plain paper in his pocket at eleven o'clock on the morning he finds something is not standing in a shed with his hands up, and because I have been in this office fifteen years and I have watched four men find things they could not afterwards prove they had found.
 
 "And I have not shown it to you before today because I had not seen anything to point it at, and because the moment I showed a yard that paper they would have gone and looked for whatever was under it, and I am not having a man of mine out on my mole at night with a punt and a lamp." He folded the sheet in three and put it inside his coat, and the whole of it took about a minute.
 
 Nobody said anything on the steps for a while, and the water came up the wall and went back.
 
-"Reeve," Bevin Rook said. He had his right hand in the sling and his left arm bare to the elbow because it could not go in a sling that fitted, and he was the only one of the three of them who could not get his coat on, and he had not said anything for four days. "If that plan comes, who is the diver."
+"Reeve," Bevin Rook said. He had his left hand in the sling and his right hand bare, because the left was the one that had been in the bight and the right was the one that had held the pencil ever since, and he was the only one of the three of them who could not get his coat on, and he had not said anything for four days. "If that plan comes, who is the diver."
 
 Kest looked at him.
 
@@ -110,7 +110,7 @@ Then he said the other thing, and he said it to Kest and not to the crew.
 
 They could have done it that night, and Calder did not write down that he had thought about it, and everybody in that yard understood that he had, and the reason was on the page the next morning in his own hand.
 
-There was a hired punt on the fish dock that would take a man out for a mark and come back with him, and there was a top of tide at about two in the morning, and eleven feet of water against a mole wall at the fifth seam is not a dive. It is a man kneeling on a gunwale with a hand in the water. There was a hooked lead-line in the yard's locker with a bone toggle on it and it would hold a plate's edge well enough to lead a panel a hundred yards on a good bottom, and there was a lead-line in use on this very ground in November with a rag on a float and nobody had ever been on it.
+There was a hired punt on the fish dock that would take a man out for a mark and come back with him, and there was a top of tide at about two in the morning, and eleven feet of water against a mole wall at the fifth seam is not a dive. It is a man kneeling on a gunwale with a hand in the water. There was a hooked lead-line in the yard's locker with a bone toggle on it and it would hold a plate's edge well enough to lead a panel a hundred yards on a good bottom, and there was a lead-line in use on this very ground last winter with a rag on a float and nobody had ever been on it.
 
 Nobody in the yard said any of that. It sat in the shed like weather.
 
@@ -120,13 +120,13 @@ At eight in the morning Calder took the book and wrote it in, and Bevin Rook rea
 
 *The first is the notice of the 31st, clause one, which closes that ground, and the serving of it on the mole, and my own undertaking of the 25th, and any one of the three is enough and I would not go on the strength of an argument with a reeve about the width of his own paper.*
 
-*The second is this. The day I put a mark on that panel in my own book, the wall copy is a copy of a thing four men saw in a slop on a falling tide, and every number that comes after it is a number somebody has to take on trust from me. I have spent two months telling this harbor that the office should not be able to make a man say he was somewhere on the authority's word and nothing else. If I go down there alone tonight and come up with a figure, then on the seventh of this month I stand in the reeve's hearing room and I am a man who put a figure on a piece of glass in the dark with no tender, and every other figure I have ever given this harbor is a figure somebody else can check. I would rather be a man with three checkable numbers and no panel than a man with four numbers and no way to say where one of them came from.*
+*The second is this. The day I put a mark on that panel in my own book, the wall copy is a copy of a thing four men saw in a slop at the top of the flood, and every number that comes after it is a number somebody has to take on trust from me. I have spent two months telling this harbor that the office should not be able to make a man say he was somewhere on the authority's word and nothing else. If I go down there alone tonight and come up with a figure, then on the seventh of this month I stand in the reeve's hearing room and I am a man who put a figure on a piece of glass in the dark with no tender, and every other figure I have ever given this harbor is a figure somebody else can check. I would rather be a man with three checkable numbers and no panel than a man with four numbers and no way to say where one of them came from.*
 
 *And the third, and Wren is right about it and I am writing it down so that it is not only mine: there is no crane on this mole, there is no cradle, there is no timber, there is no boy with a hand, and a plate of glass with a Crown-shop rim in it does not come up in a fish dock punt. I would break it. I would be right that it was worth breaking. Both of those would be true, and I would be the man who did it, and the harbor would be right for the rest of its life.*
 
 *The panel is at the fifth seam in eleven feet and it is not going anywhere. There will be a tide next week and a tide the week after that. It has been there since before this harbor was cut, and it will be there in March, and the yard now knows where it is and has written it down and has not gone, and that is the whole of what we have, and it is more than we had on the twenty-sixth.*
 
-Nessa read that back and did not say one word about it, which she had not said on the sixth of November either, and Calder put the pencil down and got on with the morning.
+Nessa read that back and did not say one word about it, which she had not said the day before either, and Calder put the pencil down and got on with the morning.
 
 ---
 
@@ -140,4 +140,4 @@ And at the bottom of that sheet, where the wall meets the boards, three sheets a
 
 "And in six months there will be a man in this harbor who has never met any of us who can stand here and find out all four of those things without asking a single one of us a question." Bevin got down off the crate carefully with his left arm held out away from his body, in the way a man gets down who has been told not to grip. "Which is the argument, isn't it. That is the whole argument, and it took us two months and a boy's hand."
 
-"Take the crate back to where it came from," Nessa said, "and Calder, the hearing is the day after tomorrow, and you have ten terms in that book to write for the seventh, and you have not written one of them."
+"Take the crate back to where it came from," Nessa said, "and Calder, the hearing is on the seventh and it is four days off, and you have ten terms in that book to write for it, and you have not written one of them."
