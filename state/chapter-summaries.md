@@ -8,7 +8,7 @@ Each entry is two to five sentences and records: what the chapter's scene change
 
 ## Volume index
 
-- **Volume 01, *The First Bell*, Chapters 1–50:** the first transparent recovery, the claim, the seizure, and a one-season provisional working charter. **Chapters 1–10 are complete** and summarized below. Chapters 11–50 have no prose. The next writing phase is Batch 0002, Chapters 11–20, which covers the volume's Movement 2, *the leash*.
+- **Volume 01, *The First Bell*, Chapters 1–50:** the first transparent recovery, the claim, the seizure, and a one-season provisional working charter. **Chapters 1–20 are complete** and summarized below. Chapters 21–50 have no prose. The next writing phase is Batch 0003, Chapters 21–30, which covers the volume's Movement 3, *the ordered chain*.
 - **Volumes 02–15:** planned in `outline/series.md`; no chapters and no summaries exist yet.
 
 ## Volume 01, Batch 0001 (Chapters 1–10) — complete
@@ -53,6 +53,34 @@ In the circuit copying room Mara duplicates four documents at the office's expen
 
 Kest's limited inspection accepts the chain of labor in writing, offers a twelve-day disputed-claim defense and preserves the public duplicate, and refuses to bargain; he then tells Calder the *Vigil* has lodged a naval salvage claim over the whole shoal and that the permit's two dates are spent, and makes him say aloud that he will not put a boat on the ground. On the mole at half past two Calder hears the delayed keel-line note and, under it, Oren's call answering, and cannot decide whether it is his memory, the glass, or his own aftertaste shaped like what he wants; he keeps the discipline and does not write it down, and instead enters his hearing impairment in the crew's own book where Bevin and Nessa can read it. The *Vigil*'s officer's paper forbids approach within four hundred yards of the outer marks, a naval tender sets floats on the bearing of the pale run, and Calder states his decision aloud in front of the crew: he keeps investigating under naval scrutiny with no glass, no permit, no second entry and a bell he cannot trust, gives Nessa the standing shutdown, and gives Bevin the job of logging anything he calls a voice. The bell answers him out of the bottom of the harbor one last time, Nessa's only answer is to make him say it again in the morning, and Calder adds four words to the crew's book: *Note entered by Marr. Stated to the crew.* Ends on Calder's own written and spoken choice, with the tender's line as the price rather than the closing image.
 
-## Post-batch updates
+## Volume 01, Batch 0002 (Chapters 11–20) — complete
 
-At the end of every batch, append one entry per completed chapter here, then update the volume index, `state/continuity.md`, `state/open-threads.md`, and `state/current.md`. Do not set phase status in this file; the controller owns the phase ledger and completion markers.
+### Chapter 11 — The Poor Week
+Saturday 15th. Calder seeks ordinary harbor work and is refused twice because a seizure crew is too dear to hire; Sella Brigg of the *Low Lantern* enters a technically good Free Keel shared-tools claim to a third of the freed shoal iron's eventual sale via Tobias's borrowed strop. Establishes the batch engine: being right about glass made the yard expensive. Cost: no job, iron now encumbered.
+
+### Chapter 12 — Weather Work
+Sunday 16th gale. Ordinary surge dive inside the line on the *Merrit* for fifteen marks; Calder mishears the working bell for the echo bell, reaches wrong, and Nessa exercises the standing shutdown with work undone. The burn reopens on barnacles, the short hose is reduced to washers, the pump weeps, and the master pays eleven. Cost: four marks short, hose, packing, arm. Hearing loss now operational.
+
+### Chapter 13 — The Name on the Paper
+Monday 17th. The harbor clerk refuses a week's ordinary scrubbing countersign for Calder as Alden Marr's son without a Registry mark, offering a higher bond and raised share or a statement against his father's report. Calder refuses the statement and loses the job for lack of eight marks; Alden separately refuses to stand as a work witness, costing the same job for a non-report reason. Cost: the week's wages and twelve weeks into six on the note.
+
+### Chapter 14 — Kest's Terms
+Tuesday 18th. Kest distinguishes claim window (spent), work permit (two dates spent), and one-season charter (distant hearing grant) and offers twenty days further on thirty marks plus an eighth of future share, asking the duplicate be taken down; Calder refuses the takedown and keeps the wall. In the same scene Kest bars Calder from the mole during the harbor's own lift (hostile) and gives a five-mark pump-packing order on the reeve's account (not hostile). Cost: bond gap exposed.
+
+### Chapter 15 — The Free Keel
+Wednesday 19th net loft. The Free Keel tests shared tools and rescue cover; Calder pledges the *Kittiwake*'s November slip tides free and a written promise not to draw other crews onto the naval line, winning inside-the-line rescue cover. Sella holds her third but will not press a forced sale. Cost surviving winter: slip given, cradle deferred to spring, hull wear accepted.
+
+### Chapter 16 — Honest Work
+Thursday 20th. Buoy bell lift and re-hang inside the line under the Morrow Quay charter: Bevin on the bottom, Calder tending, Nessa on the fall. Work goes right; harbor and buoy bells ring clean with Bevin calling the true bearing back. Paid twenty-six in full, eighteen kept after costs. The harbor lifts the drifted mole anchor at its own cost while Calder watches off the wall. The crew eats. Gain: air, food, bond tin started.
+
+### Chapter 17 — Mara's Certificate
+Friday 21st. Mara shows a Registry query on her forty-mark certificate expense, duplicate witnessing, and three *not stated* entries. Calder asks her to certify the bearing sheet as provenance and write a custody-room line; she refuses both and is right — bearing is direction, not provenance, and a line would spend her witnessing credit — offering witness-to-method instead. Refusal stands; forty marks remain owed after food. Cost: deniable institutional friction begun.
+
+### Chapter 18 — What a Record Serves
+Saturday 22nd. Calder and Bevin set type for fifty coast-wide copies; the press can do ten without the scale drawing for twelve marks. Mara refuses her name on carried copies — a harbor-wall witness is not a coast-wide warrant — and Calder resets to crew-only copies, withholding bearing sheet and plate drawing. First consent form: a record serves working hands, not a crowd. Cost: twelve marks, bond tin short.
+
+### Chapter 19 — The Narrow Extension
+Monday 24th sitting. Twelve marks in hand plus yard gear held to eighteen secure twenty days further defense; harbor's eighth off any future raising conceded; four-hundred-yard bar and echo-look rule entered; duplicate stays public; naval officer notes without speaking; Mara witnesses method. Cost: real share gone before earned, pump and gear in pawn.
+
+### Chapter 20 — The Leash
+Tuesday 25th. Calder writes the full terms in the crew's book before the crew, gives up bottom diving till the burn takes a glove and any shoal measuring on this paper, makes Bevin bottom man inside the line, puts Mara's forty first after food, and beaches the *Kittiwake* through winter. Ends on his written and spoken bill, not a threat: *Note entered by Marr. Stated to the crew.*

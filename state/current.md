@@ -2,13 +2,25 @@
 
 ## Phase position
 
-The planning baseline for Volume 01 is established, and **Volume 01, Batch 0001, Chapters 1–10 is now written and complete in `chapters/volume-01/`.** This file does not set phase status, completion markers, or the queued next phase; those belong to `state/phase-ledger.json` and the controller.
+The planning baseline for Volume 01 is established, and **Volume 01, Batches 0001–0002, Chapters 1–20 are now written and complete in `chapters/volume-01/`.** This file does not set phase status, completion markers, or the queued next phase; those belong to `state/phase-ledger.json` and the controller.
 
 - Current volume: 1 — *The First Bell*, Chapters 1–50
-- Last completed chapter: 10
-- Chapters written: `chapter-0001.md` through `chapter-0010.md`
-- Next writing phase: Volume 01, Batch 0002, Chapters 11–20 (Movement 2, *the leash*). Its prompt is `workspace/volume-01/batch-0002/PROMPT.md`.
+- Last completed chapter: 20
+- Chapters written: `chapter-0001.md` through `chapter-0020.md`
+- Next writing phase: Volume 01, Batch 0003, Chapters 21–30 (Movement 3, *the ordered chain*). Its prompt is `workspace/volume-01/batch-0003/PROMPT.md`.
 - Last batch summary: below.
+
+## Batch 0002 summary
+
+**Batch goal, achieved.** Movement 2, *the leash*: Calder funds weather-exposed ordinary work inside the harbor line, holds the crew through a poor month, proves value in a hearing where his Marr name is used against him, faces a rival Free Keel claim on the freed shoal iron, wins a narrow twenty-day extension with a bond of twelve marks plus held gear and a harbor eighth off any future raising, and ends tending rather than diving, with the naval claim still closed over the shoal. No dive past the four-hundred-yard limit, no second echo entry, no glass returned, no compartment proved.
+
+**Conflicts found and how they were resolved:**
+
+1. Calendar: Batch 0001 ran Tue 11th–Fri 14th. Batch 0002 runs Sat 15th–Tue 25th (11: Sat poor week; 12: Sun gale; 13: Mon 17th; 14: Tue 18th; 15: Wed 19th; 16: Thu 20th; 17: Fri 21st; 18: Sat 22nd; 19: Mon 24th sitting; 20: Tue 25th). Sunday 23rd is an unwritten rest day; no events placed there.
+2. The twelve-day defense entered Fri 14th would lapse ~27th; the Mon 24th sitting extends it twenty days further on new terms rather than renewing the same twelve days. Recorded as extension, not second window.
+3. Ordinary diving while under echo aftercare: Ch12 and Ch16 dives are ordinary harbor work inside the line under the Morrow Quay charter, not echo entries. Ch12 is a short surge dive that reopens the burn and triggers Nessa's standing shutdown; Ch16 puts Bevin on the bottom with Calder tending. No bell entry occurs; the two-clean-daylight-looks rule for echo work is never lifted.
+
+**Interface compliance:** no panels, stat blocks, sheets, floating text, prompts, trees, level-ups, or software vocabulary. Message-like objects only: labor log, crew's book, reeve's slates, hearing-room slate wall, harbor notices, Registry memorandum and certificate, custody record references, lead-line tag and rag float (harbor lift), buoy bell and working bells, printed duplicate copies. None tells Calder what to do next. Standing bans observed: no "System," "stats," "skills/skill," "mastery," "status panel," "notification," "quest," "level up," "true memory." No Nine Harbors, Quietening, or Crown Seal named. Ilya Serr appears only as name/seal of a senior Registry examiner.
 
 ## Batch 0001 summary
 
@@ -39,20 +51,18 @@ The review of Batch 0001 returned FIX. Nine canon and continuity faults and thre
 
 **Interface compliance:** the batch contains no panels, stat blocks, character sheets, status messages, floating text, quest text, skill trees, level-ups, or software vocabulary. The only message-like objects used are a lead-line tag and a rag float mark, a crew's book entry, Kest's notice, Registry book entries, a reeve's slate, Mara's separate condition sheet, a written anchor description, the work permit, the custody numbers, and the spoken cutoff word. None of them tells Calder what to do next.
 
-## Story state at the end of Chapter 10
+## Story state at the end of Chapter 20
 
-Calder Marr is thirty-two, a line diver in Morrow Quay, eleven weeks into six on a chandler's note, one failed attempt short of the full Second Bell license, and now an unstable tide-ear who has been inside one echo and cannot safely be inside another for at least two clean daylight looks. He has no glass, no permit, no boat money, and a hearing that carries a second bell a third of a second behind the harbor's own.
+Calder Marr is thirty-two, tending rather than diving until his reopened forearm takes a glove, hearing still double with a third-of-a-second shadow, bound by a twenty-day defense from the 24th, a twelve-mark bond paid plus yard gear held to eighteen, a harbor eighth off any future raising, slip tides given to the Free Keel through November, the *Kittiwake*'s cradle deferred to spring, forty marks owed to Mara after food, and a third of any fair-price shoal-iron sale entered to the *Low Lantern*. He has no glass, no shoal access, no echo permission, and a crew that compensates for his ears by speaking numbers back.
 
-Oren Marr has been in the water thirteen years. Nothing about the Gannet Cut is now provable. What exists is a contradiction waiting for a measurement: a public ferry survey's ninth page, a public Crown yard case specification, and a case size given as a range.
+Oren Marr remains thirteen years lost. The compartment contradiction is still available but unproved; the bearing west-southwest and Orison at seventy fathoms remain a direction only.
 
-## Active pressures going into Chapter 11
+## Active pressures going into Chapter 21
 
-- **Legal and economic:** a twelve-day disputed-claim defense that lapses unless a sitting is held; the shoal permit spent; the *Vigil*'s naval salvage claim over the whole Gannet Shoal ground; the Free Keel owing nothing to the harbor but unable to work; the *Kittiwake* needing a cradle before the winter gales; the air pot a third gone.
-- **Evidence:** the shard and the weathered hull plate are in the Morrow circuit custody room as two separately entered items. The crew holds measurements, three repair-seam records, a scaled plate drawing, the anchor-bearing sheet, the shoal iron, the harbor-authority copy of a countersigned labor log, and a public provenance duplicate posted on the fish market wall. The unverified memory note exists on a slate in Calder's own hand and is kept separate from every physical finding.
-- **Bodily:** tinnitus with the recorded loading bell under it; a rope-burn reenactment on the right forearm; hearing confusion that will not resolve on a schedule anyone can promise.
-- **Personal:** Alden has refused twice and has given Calder one unusable sentence. Calder has not forgiven him and has not asked a third time. Mara has told him, in writing, that she has three *not stated* entries against him and that one of them will eventually be the reason his evidence is set aside.
-- **Approach:** a broad west-southwest bearing on old ground and Orison, and a *Vigil* tender setting floats on it.
-- **Approach refused:** a second echo, a dive on the shoal, and any account of the bell in the keel line written down anywhere except by Bevin, under rule, with the hour.
+- **Legal and economic:** twenty-day defense from 24th, lapsing without a further sitting; naval claim still closed within four hundred yards of the outer marks; pump and spare gear held against bond; chandler's note at twelve weeks into six; air pot partly rebuilt from buoy money; *Kittiwake* beached on the hard through winter.
+- **Evidence:** shard and plate remain in circuit custody under two numbers; crew holds labor log, measurements, three repair-seam records, scaled plate drawing with eleven keys, anchor-bearing sheet (witnessed as method, never certified as provenance), crew's book, public duplicate on market wall plus ten crew-only printed copies without Mara's name; unverified memory note still separate with its one false line; Oren mark still untold to Mara.
+- **Bodily:** reopened rope-burn on right forearm; continuous tinnitus with late second sound; hearing confusion compensated by crew call-backs; Nessa holds standing shutdown on any echo work; Bevin logs any claimed voice with hour and water state, unseen by Calder first.
+- **Approach:** broad west-southwest bearing only; harbor-lifted mole anchor now municipal and up; outer water untouched.
 
 ## Current relationship pressure
 

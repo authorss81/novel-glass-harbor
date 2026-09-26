@@ -210,6 +210,22 @@ Two items were resolved silently in the drafting of Batch 0001 and are recorded 
 
 No other rule, motivation, chain, or ending element was changed. The no-System rule held without exception.
 
+## Batch 0002 as written (Chapters 11–20) — binding on Chapters 21 onward
+
+### Calendar
+- Sat 15th (Ch11), Sun 16th gale (Ch12), Mon 17th (Ch13), Tue 18th (Ch14), Wed 19th (Ch15), Thu 20th (Ch16), Fri 21st (Ch17), Sat 22nd (Ch18), Mon 24th sitting (Ch19), Tue 25th (Ch20). Sun 23rd unwritten rest day.
+
+### Legal and money
+- Twelve-day defense entered 14th extended 24th into **twenty days further defense** on new terms: twelve marks paid, yard gear (pump, clamp stock, cordage) held to eighteen, harbor eighth off any future raising, duplicate stays public, four-hundred-yard bar restated, echo work requires two clean daylight looks plus conservator. Lapses without a further sitting.
+- Rival claim: *Low Lantern* (Sella Brigg) holds a harbor-entered third of freed shoal-iron sale via borrowed strop; iron stays unsold on stack with saw kerf intact.
+- Ordinary harbor work always under the Morrow Quay charter inside the line; claim window spent; work permit two dates spent; one-season charter still distant and defined in Ch14 as wider seasonal permission granted after hearing.
+- Chandler's note twelve weeks into six; air pot partly rebuilt; Mara's forty-mark certificate debt stands first after food; ten crew-only printed copies exist without her name; bearing sheet and plate drawing withheld from print.
+- *Kittiwake* November slip tides given to Free Keel; cradle deferred to spring; boat beached on hard through winter. Harbor lifted the drifted mole anchor at its own cost with crane, chain, slip's crew; Free Keel never touched it.
+
+### Body and power
+- Calder's burn reopened (two inches, barnacle strike) and ungloved; hearing misplaces bells operationally; crew compensates by call-backs (Bevin repeats numbers/bearings). Nessa's shutdown exercised in Ch12 surge dive with work undone; Calder obeyed. No echo entry in batch; power state unchanged (line diver, unstable tide-ear, no legal grounds).
+- Mara refused bearing-sheet certification and custody-room line and was right; refusals stand. Alden refused work-witnessing for roof reasons, costing the scrub job. Kest in Ch14 barred mole attendance and gave pump packing on reeve's account in the same scene.
+
 ## Proposed canon changes awaiting a planning phase
 
 Recorded here and mirrored in `state/open-threads.md`. A prose phase may not edit the six bible files, so each of these waits for an outline phase to ratify or overrule it.

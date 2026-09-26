@@ -1,6 +1,6 @@
 # Open Threads
 
-**Volume 01, Batch 0001, Chapters 1–10, is written.** Every promise below is marked **PAID** (a chapter settled it), **PART** (a chapter moved it and named it on the page), **CARRIED** (unchanged and still owed), or **OPEN BY DESIGN**. A thread is closed only when a written chapter pays it off. The Batch 0001 block is followed by the standing volume-by-volume and character promises, which are unchanged.
+**Volume 01, Batches 0001–0002, Chapters 1–20, are written.** Every promise below is marked **PAID** (a chapter settled it), **PART** (a chapter moved it and named it on the page), **CARRIED** (unchanged and still owed), or **OPEN BY DESIGN**. A thread is closed only when a written chapter pays it off. The Batch 0001 block is followed by the Batch 0002 block, then the standing volume-by-volume and character promises, which are unchanged.
 
 ## Opening batch promises (Volume 01, Batch 0001, Chapters 1–10) — as paid
 
@@ -22,7 +22,24 @@
 - **PAID — Earned forward pull (Chapter 10).** The batch ends on **Calder's own spoken decision**, in front of Nessa, Bevin, Tobias, and Mara, after the cutter's order has arrived: he keeps investigating under naval scrutiny with no glass, no permit, no second entry, and a bell he cannot trust, gives Nessa the standing shutdown and Bevin the logbook job, and prefers to be slow and straight about it. The tender's line is the price in the scene; the last beat is his own pencil and his own sentence.
 - **CARRIED — Route clue.** A broad west-southwest bearing only. Three independent bearings agreeing inside four degrees, the *Vigil*'s public mooring line, and Orison named once by Tobias at seventy fathoms down, which is the depth in `bible/world.md` and `bible/terminology.md`. **No map, no route, and no purpose.**
 
-## Threads opened by the batch and now owed
+## Batch 0002 promises (Volume 01, Chapters 11–20) — as paid
+
+- **PAID — Poor month economics (Ch11–13, 16).** Ordinary jobs refuse a seizure crew; a technically good Free Keel strop-share encumbers the shoal iron; a Marr-name direction kills a week's scrubbing unless Calder attacks his father's report, which he refuses. One honest buoy job pays twenty-six in full and the crew eats. Air, rope, tallow, wages, cradle, and note weeks stay on the page.
+- **PAID — Hearing room distinguished (Ch14, 19).** Claim window (spent recovery permission), work permit (named site and dates, spent), and one-season charter (wider seasonal permission, not held) are told apart without a glossary. Extension is twenty days on twelve marks plus held gear and a harbor eighth, not ownership.
+- **PAID — Shutdown exercised (Ch12).** Nessa calls "Enough" on a surge dive with the patch half seated; Calder obeys with air unspent. Hearing misplacement is operational and compensated by call-backs thereafter.
+- **PAID — Refusals that stand (Ch13, 17).** Alden refuses work-witnessing for roof reasons (not the report), costing a job. Mara refuses provenance certification and a custody-room line and is right; both stand. Kest in Ch14 bars the mole and gives pump packing in the same scene.
+- **PAID — Mole anchor lifted by harbor (Ch16).** Crane, chain, slip's crew, harbor cost, Kest's mark; Free Keel never touches it. Drifted iron is now municipal and up.
+- **PAID — Public record priced (Ch18–19).** Ten crew-only copies printed for twelve marks without Mara's name; bearing sheet and drawing withheld; duplicate stays public by ruling. Consent's first form stated: a record serves working hands.
+- **CARRIED — Twenty-day defense, bond gear, eighth share, iron third, Venn forty, slip tides, spring cradle, ungloved arm.** All survive into Ch21+ as debts.
+- **CARRIED — Compartment, nine-line mark, Oren mark, delayed note, custody numbers.** None resolved; all restated under existing locks.
+
+## Threads opened by Batch 0002 and now owed
+
+1. **The held gear bond.** Pump, clamp stock, and cordage in pawn to eighteen; must be redeemed by work before the next sitting or the defense fails. Carries to Batch 0003.
+2. **The harbor eighth.** An eighth off any future raising follows the crew to any charter. Owed through Volume 1.
+3. **Mara's Registry query.** Copying expense, double witnessing, three *not stated* entries underlined; deniable friction only, not her Volume 4 break. Carries to Volumes 3–4.
+
+## Threads opened by Batch 0001 and still owed
 
 These are new. Each names the volume that must close it, per thread hygiene.
 
