@@ -2,7 +2,7 @@
 
 *What the Fouling Took Apart, and a Word in the Book*
 
-Nothing came in or out of that yard on Wednesday the nineteenth of July, and at about half past two in the afternoon, on the top of the flood, the third joint was scraped and the fourth joint was scraped, and by four o'clock the whole of the statement that had been made in a market at the head of this dock on Tuesday afternoon at half past three was finished.
+Not a mark came in or out of that yard on Wednesday the nineteenth of July, and at about ten past two in the afternoon, on the top of the flood, the third joint was scraped and the fourth joint was scraped, and by four o'clock the whole of the statement that had been made in a market at the head of this dock on Tuesday afternoon at half past three was finished.
 
 **The six were read out in order at the boat before anybody was wet, on the eighteenth, on the nineteenth and on the twentieth, in the same words each time, and the limit was the same each time and it was his, and the word was the same and it was hers, and the stated reason went in before each of them and the clerk was not present on any of the three days and the absence is on the page three times.**
 
@@ -14,7 +14,7 @@ A quarter of an inch is new. Three inches and a quarter is not new.
 
 ---
 
-"**I have got two readings a quarter of an inch and two readings three inches and a quarter,**" Calder Marr said, "**and the two thin ones are the two north ones, and the two thick ones are sixty-eight and a hundred and thirty-seven feet south of them, and I said on Tuesday at half past three at the head of this dock that the whole of it was made once from the north end down.**"
+"**I have got two readings a quarter of an inch and two readings three inches and a quarter,**" Calder Marr said, "**and the two thin ones are the two north ones, and the two thick ones are sixty-eight and a hundred and thirty-seven feet south of the second, and the second is the inner of the two thin ones, and I said on Tuesday at half past three at the head of this dock that the whole of it was made once from the north end down.**"
 
 "**Then it was not,**" said the shipwright.
 
@@ -24,7 +24,7 @@ Tam Slee had the other end of the bar and he did not take his eyes off the mole.
 
 "**Say the next part,**" he said.
 
-"**The next part is that it is not one time at all. A quarter, and three inches, and a quarter, is not a morning. It is at least three different days in three different seasons and I cannot tell you how many more and I am not going to guess, and there is a joint in this crevice with nine inches on it, which is the oldest thing in it, and it is in the middle, and I do not know what that means and I am not going to say.**"
+"**The next part is that it is not one time at all. A quarter, and three inches, and a quarter, is not a morning. It is at least three different days in three different seasons and I cannot tell you how many more and I am not going to guess, and there is a joint in this crevice with nine inches on it, which is the oldest thing in it, and it is the fifth of the six and the second from the seaward end, and I do not know what that means and I am not going to say.**"
 
 Nobody said anything for about a minute, and the boat came off the face, and the tide at that face on the nineteenth of July is not good again until the middle of the next day.
 
@@ -56,7 +56,7 @@ He went down the boards and the yard entered all of it in the first column, beca
 
 Nobody improved on that.
 
-"**And I am not going to be paid the four marks, because I have not asked you for it and I am not going to, and I am owed eight shillings and tenpence since the sixth of February and that is a different figure and I am not going to let the two of them be in one sentence in any book in this harbor, and I checked your book on Thursday last and it is right and it is going to stay right.**"
+"**And I am not going to be paid the five marks,**" she said, "**because I have not asked you for it and I am not going to, and I am owed eight shillings and tenpence since the sixth of February and that is a different figure and I am not going to let the two of them be in one sentence in any book in this harbor, and I checked your book on Thursday last and it is right and it is going to stay right.**"
 
 ---
 
@@ -68,7 +68,7 @@ The fifth joint, at half past two, read **nine inches**. The sixth, at the seawa
 
 *First column, checkable by any man who can get off a mole in this harbor: that six joints lie in a crevice at about four fathoms on the second seam's own face, landward of the third seam's mark; that the fouling upon the seaward side of each of them, taken with a bar laid flat and a scraper and a rule at the top of the flood on the eighteenth, nineteenth and twentieth of July instant, the same hand and the same rule and the same bar, is a quarter of an inch, a quarter of an inch, three inches and a quarter, three inches and a quarter, nine inches, and three inches and a quarter, in that order from the root end of the crevice to the seaward end; and that the packing in the fifth of them is a different color from the packing in the other five to a depth of about a quarter of an inch and is the same color as the other five below that; and that a boatwright of the second lay, naming himself, put his own rule upon the joint on the nineteenth and gave the same figure for the fastenings as this party and said the spacing is not a spacing anybody in this coast works to.*
 
-*Second column, not checkable from a mole: that on Tuesday the eighteenth of July a person of this party said in a market that the six joints were made once, in one time, by one set of hands, from the north end downwards; and that the fouling on the nineteenth and the packing on the twentieth are against that; and that the party has entered that it is against it and does not know what the five thicknesses are and is not going to arrange them into a figure.*
+*Second column, not checkable from a mole: that on Tuesday the eighteenth of July a person of this party said in a market that the six joints were made once, in one time, by one set of hands, from the north end downwards; and that the fouling on the nineteenth and the packing on the twentieth are against that; and that the party has entered that it is against it and does not know what the three thicknesses are and is not going to arrange them into a figure.*
 
 ---
 
@@ -92,9 +92,9 @@ He lay still on the loft floor.
 
 **And then Calder Marr said a thing in that shed at about a quarter past nine on the night of the twentieth of July that he has not said since the eighth of December, and it went into a column in his own left hand with a name in it, and there is a name in that line and there is no name in any of the four above it.**
 
-"**There is a word for it,**" he said. "**A man of fifty told me it and I have got it and I have not used it since the December, and I am going to use it now, and I am going to write it down, and I am not going to be asked to take it out and I will not fight anybody who wants it out.**
+"**There is a word for it,**" he said. "**I have got it and I have had it since the December, and I said it out loud once, on the thirteenth of May, in the *Grey Widow's* cockpit, and I have not said it since, and I am going to use it now, and I am going to write it down, and I am not going to be asked to take it out and I will not fight anybody who wants it out.**
 
-"**It is called a tide-sickness. I have got it. That is the whole of what a tide-sickness is, it is a name a man of fifty uses for a thing he has had since he was thirty-one, and it is not a cause, and I am not writing a cause, and if anybody in this harbor in four years finds the word in this book and wants a cause out of it they are going to have to go and find one themselves and they are not going to find it here.**"
+"**It is called a tide-sickness. I have got it. That is the whole of what a tide-sickness is, it is a name a man uses for a thing he has had since he was a boy, and it is not a cause, and I am not writing a cause, and if anybody in this harbor in four years finds the word in this book and wants a cause out of it they are going to have to go and find one themselves and they are not going to find it here.**"
 
 Nessa Pike did not move for about half a minute.
 
@@ -114,9 +114,9 @@ Nessa Pike did not move for about half a minute.
 
 ---
 
-*Second column, not checkable from a mole, and entered in the holder's own left hand on Thursday the twentieth of July instant, and the word tide-sickness is in this line and there is no word in any of the four above it: that the holder has had it since the thirteenth of October and worse since the eighth of December, that it is a second sound under the first that arrives late, and that on a good day he can tell which sound is in the boat and on a bad day he cannot; and that on the eighteenth, nineteenth and twentieth of July instant, in the water and in a boat, in company, it was a bad day on all three; and that on the evening of the twentieth, in this shed, with the shipwright reading this column, ordinary talk in the room was going on as more than one talk at once, and the holder gave an answer to a question that had been put to him a quarter of a second after the answer that answered it, and that the shipwright was in the room and heard both and could not say which of the two he meant, and that she has said so and that she is not going to put it any other way; **and the reason this line is in this column and carries a name and the four above it do not, is that a man who can lose a quarter of a second out of an ordinary conversation in a shed is a man whose account of a seam under four fathoms of water is a thing that can be asked about, and the party has decided that it can be asked about in this book, on this page, on this date, by anybody who comes up this hill, and that is a different thing from being asked about it by a man with a seal, and it is the only difference there is, and the party would rather have it out in the open where it can be argued with than in a man's head where it can only be guessed at.** And the reason there is no cause in this line is that there is not one.*
+*Second column, not checkable from a mole, and entered in the holder's own left hand on Thursday the twentieth of July instant, and the word tide-sickness is in this line and there is no word in any of the four above it: that the holder has had it since the fourteenth of October and worse since the eighth of December, that it is a second sound under the first that arrives late, and that on a good day he can tell which sound is in the boat and on a bad day he cannot; and that on the eighteenth, nineteenth and twentieth of July instant, in the water and in a boat, in company, it was a bad day on all three; and that on the evening of the twentieth, in this shed, with the shipwright reading this column, ordinary talk in the room was going on as more than one talk at once, and the holder gave an answer to a question that had been put to him a quarter of a second after the answer that answered it, and that the shipwright was in the room and heard both and could not say which of the two he meant, and that she has said so and that she is not going to put it any other way; and that the word was said out loud once before, on the thirteenth of May, in the *Grey Widow's* cockpit, and that it has not been said since and it is said now and written here, and that nobody has been asked anything about it; **and the reason this line is in this column and carries a name and the four above it do not, is that a man who can lose a quarter of a second out of an ordinary conversation in a shed is a man whose account of a seam under four fathoms of water is a thing that can be asked about, and the party has decided that it can be asked about in this book, on this page, on this date, by anybody who comes up this hill, and that is a different thing from being asked about it by a man with a seal, and it is the only difference there is, and the party would rather have it out in the open where it can be argued with than in a man's head where it can only be guessed at.** And the reason there is no cause in this line is that there is not one.*
 
-**Nessa Pike read the whole of it back from the top to the bottom, in the shed, at about ten at night, in the rain, with a man of the *Grey Widow* lying awake on a net loft floor and not moving, and Calder Marr read it back after her, and there was nobody else in that shed to read it back after that.**
+**Nessa Pike read the whole of it back from the top to the bottom, in the shed, at about ten at night, in the rain, with a man of the *Grey Widow* lying awake on a net loft floor and not moving, and Calder Marr read it back after her.**
 
 **And the count of the four above it is still four, and the four above it have no name in them, and this party has not struck them out and is not going to, and a request to strike a line out of a column is refused.**
 

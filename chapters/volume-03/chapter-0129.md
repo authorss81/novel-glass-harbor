@@ -1,8 +1,8 @@
 # Chapter 129
 
-*Five Mondays, and a Wage*
+*Nine Mondays, and a Wage*
 
-The wall behind the reeve's bench came down at eight on Monday the third of July and it came down bare, and that was five Mondays, and there was no sitting and the clerk kept his own page and did not mention it.
+The wall behind the reeve's bench came down at eight on Monday the third of July and it came down bare, and that was nine Mondays, and there was no sitting and the clerk kept his own page and did not mention it.
 
 **At about ten the cistern was charged for the seventh time, on the rota, at no figure, by three people of this yard and two men of the third lay who came past and helped and would not take anything and were not thanked.**
 

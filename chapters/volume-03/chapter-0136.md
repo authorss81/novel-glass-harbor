@@ -2,7 +2,7 @@
 
 *Two Talks at Once, and the Wrong Thing Said at the Head of the Dock*
 
-The wall behind the reeve's bench came down at eight on Monday the seventeenth of July and it came down bare, and that was seven Mondays, and there was no sitting and the clerk kept his own page and did not mention it.
+The wall behind the reeve's bench came down at eight on Monday the seventeenth of July and it came down bare, and that was eleven Mondays, and there was no sitting and the clerk kept his own page and did not mention it.
 
 **And the cistern was not charged, and the reason is on the page and it is a working reason and it is in this yard's own hand.**
 
@@ -24,7 +24,7 @@ The wall behind the reeve's bench came down at eight on Monday the seventeenth o
 
 Gross on the board seventeen. The eighth two. The share two. The victuals of the day two, and a hired hand three and a second hired hand three, paid at the mole by the woman who hired the day, that being twelve out of seventeen and the yard's being five. **The pot of air came out of the bag on Friday the seventh and is not charged to this day, and about ninety fathoms of line came on the ring, and nothing else came off it.** That is two marks less than the same day of work brought on the twenty-fourth of June, and the yard wrote the two figures side by side on the mole's steps in front of everybody without saying which one it hoped for.
 
-**Five marks in a bag, and they are the first marks to come into this bag since the third day of July, and they came in this morning.**
+**Five marks in a bag, and they are the first marks to come into this bag since the tenth of July, and they came in this morning.**
 
 The six were read out in order at the boat before anybody was wet, in daylight, on the second seam's own face landward of the third seam's mark, with the shipwright holding the line. Named tender who is not the diver. Independent line, on the boat's own bow. Fixed air limit on the slate, set at the boat by the diver and entered as the diver's, and it was seventeen and he set it himself. Seated named weight. A cutoff the tender can pull without asking anybody, and the word is *Enough* and the word is hers. And a stated reason, written into this yard's own book before anybody was wet, in the holder's own left hand, unedited, with the clerk not present and the absence on the page rather than filled in.
 
@@ -46,9 +46,9 @@ He was in the water four times after that, seventeen minutes each, and the limit
 
 At about eleven the boat came off the face.
 
-**Four hours and a half before the flood.** The tide at the second seam's face on the seventeenth of July has half an hour of slack at about eleven in the morning and the flood is not good at that face until half past three, and the two hired men had been in the water since nine and were cold, and the pot was at about a third, and the holder had lost the count of the boat and not the count of himself.
+**Two hours and a quarter before the flood.** The tide at the second seam's face on the seventeenth of July has half an hour of slack at about eleven in the morning and the flood is not good at that face until twenty past one, and the two hired men had been in the water since nine and were cold, and the pot was at about a third, and the holder had lost the count of the boat and not the count of himself.
 
-They came up. The day was charged at seventeen gross with twelve of it gone at the mole by the woman who hired it, and the yard's five is in the bag, **and the crevice was clear for two feet and the fouling below it was not off, and there is one top of the flood a day, and there are two more floods.**
+They came up. The day was charged at seventeen gross with twelve of it gone at the mole by the woman who hired it, and the yard's five is in the bag, **and the crevice was clear for two feet and the fouling below it was not off, and there is one top of the flood a day, and there are six more floods before the fouling on that seaward face can be read with a rule.**
 
 ---
 
@@ -68,7 +68,7 @@ The work is ordinary. A flat bar laid flat across the seaward face of the joint,
 
 **There are six joints. There is one top of the flood a day and the boat will not stay on that face at any other hour, and six readings at one a day is three days, and the third day is Thursday the twentieth, and there is a pot of air and a day of a boat for it and this yard has not got six marks or a day of a boat for anything else this week and has entered that it is not going to try.**
 
-**The first of them, which is at the root end of the crevice, and which is therefore the north one, read a quarter of an inch. The second, which is sixty-eight feet south of the first, read a quarter of an inch.**
+**The first of them, which is at the root end of the crevice, and which is therefore the north one, read a quarter of an inch. The second, which is thirty-three feet south of the first, read a quarter of an inch.**
 
 He wrote the two out on the slate in the order he had taken them and did not sort them, because the man who took them had not known what he was taking them for, and a man who sorts his own figures before he has said out loud what they are is a man putting a name on a thing.
 

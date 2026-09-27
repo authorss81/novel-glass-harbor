@@ -54,7 +54,7 @@ He had a slate in his hand and no reason to have it in his hand except that it w
 
 Two men of the second lay were working a lighter off the north wall and one of them called across to the other one and the wind took about a third of it, and Calder Marr was certain, for about a second and a half, that the voice had come off the water below the wall rather than out of the man's mouth, and then certain for about a second and a half that it had come out of the man's mouth and not off the water at all.
 
-**He had been like that since the thirteenth of October and worse since the eighth of December, and the sentence about it is a man of fifty's, said on the water off the south end on the twenty-third of May, and it has gone into this yard's second column twice and has not been improved on and is not going to be.**
+**He had been like that since the fourteenth of October and worse since the eighth of December, and the sentence about it is a man of fifty's, said on the water off the south end on the twenty-third of May, and it has gone into this yard's second column twice and has not been improved on and is not going to be.**
 
 He wrote it down that afternoon, in his own hand, in the second column, with the reason against the line, and read the reason out to the shipwright before he put it in.
 

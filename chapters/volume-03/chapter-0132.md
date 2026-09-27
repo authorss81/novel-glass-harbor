@@ -18,9 +18,9 @@ On Sunday the ninth of July the two of them had the piece of metal on a cloth on
 
 ---
 
-**And at about four in the afternoon they went up on the crown above the third seam's mark and stood on it, both of them, for about ten minutes, in the wind.**
+**And at about half past three on the Sunday afternoon they went up on the crown above the third seam's mark and stood on it, both of them, for about ten minutes, in the wind.**
 
-The two tarpaulins were about nine feet apart where they have been since the twenty-eighth of April, weighted with a fender and forty feet of the harbor authority's own mooring rope lent at nothing and entered at nothing, and the one over the crate had a corner off it that had been off since the seventeenth of June and had not been lashed back because lashing a corner back on a stone crown in a westerly takes three men and a morning.
+The two tarpaulins were about nine feet apart where they have been since the twenty-eighth of April, weighted with a fender and forty feet of the harbor authority's own mooring rope lent at nothing and entered at nothing, and the one over the crate had a corner off it since the seventeenth of June, not lashed back because lashing a corner back on a stone crown in a westerly takes three men and a morning.
 
 **The whole business is nine feet under their boots and has been all summer and neither of them had thought about it once.**
 
@@ -30,15 +30,15 @@ The two tarpaulins were about nine feet apart where they have been since the twe
 
 ---
 
-The wall behind the reeve's bench came down at eight on Monday the tenth of July and it came down bare, and that was six Mondays.
+The wall behind the reeve's bench came down at eight on Monday the tenth of July and it came down bare, and that was ten Mondays.
 
 **And the cistern was charged at about ten, on the rota, the ninth time, at no figure, and the gate took three of them from ten until about two, and nobody was paid for it and nobody was thanked and nobody asked for anything.**
 
 A day at the second seam on a hirer's own account. The hirer was a master of the second lay who wanted a day on the face with a ring and a shackle of his own, and he paid at the mole, which is what a hirer is for.
 
-Gross on the board thirteen. The eighth two. The share two. The office's pot of air two, bought at that office's compressor at this yard's own two-mark rate and carried on that office's own hose, and it is the whole of the air in this harbor this morning. A hired hand three. The victuals of the day one and rope one. All three of the last paid at the mole by the man who hired the day, that being eleven out of thirteen and the yard's being four.
+Gross on the board thirteen. The eighth two. The share two. A hired hand three. The victuals of the day one and rope one. All three of the last paid at the mole by the man who hired the day, that being nine out of thirteen and the yard's being four. The office's pot of air is not on this day, because it went out of the bag on Friday the seventh and was spent in the water on the Saturday.
 
-**Four marks in a bag, and the last mark that came into this bag came in on the first of July, and what went out of it on Friday was the pot.**
+**Two marks in a bag on Monday morning, and what went out of it on Friday was the pot, and four marks came into it at about two in the afternoon off a man of the second lay, and there is six in it, and it is the first money in the bag since the first of July.**
 
 The six were read out in order at the boat before anybody was wet, in daylight, on the second seam's own face landward of the third seam's mark, with the shipwright holding the line. Named tender who is not the diver. Independent line, on the boat's own bow. Fixed air limit on the slate, set at the boat by the diver and entered as the diver's, and it was seventeen and he set it himself and would not let the holder raise it. Seated named weight. A cutoff the tender can pull without asking anybody, and it is hers, and the word is *Enough*. And a stated reason, entered in the yard's own book before anybody went in the water, in the holder's own left hand, unedited, with the clerk absent and the absence on the page.
 
@@ -86,7 +86,7 @@ The reason went in at ten past six in the yard's own book, in Calder Marr's own 
 
 ---
 
-**And the third column was filled on the Monday evening, with the two times at the head of it and the lateness against them, and it is the sixth entry in that column since the second of May and the sixth since the boy went off the stone on the fifteenth, and the party is not going to draw anything out of the six figures, for the reason the party gave when there were four of them, which is that a yard which begins to keep a figure on its own lateness is a yard that has stopped keeping a figure on its work.**
+**And the third column was filled on the Monday evening, with the two times at the head of it and the lateness against them, and it is the sixth entry in that column since the second of May and the sixth since the boy went off the stone on the fifteenth, and the party is not going to draw anything out of the six figures, for the reason it gave when there were four of them: a yard which begins to keep a figure on its own lateness is a yard that has stopped keeping a figure on its work.**
 
 *That the entry was read on the steps at about seven in the evening on Monday the tenth of July and was written in this book at about nine the same evening, the difference being about two hours, which is the same difference the boy of twenty-two used to put at the head of it, and which this party has noticed and has entered that it has noticed.*
 
@@ -98,13 +98,13 @@ The reason went in at ten past six in the yard's own book, in Calder Marr's own 
 
 "**We have a place it came out of,**" Calder Marr said, "**and the place is on the chart of this harbor in my own hand and it is the second seam's own face, and the water over it is ten, and there is a hull lying against that face that has been there longer than this mole head.**"
 
-""**That is a place,**" said the shipwright. "**And a place is what a man goes and looks at, and that is the first thing anybody in this yard has been able to say out loud since the third of May.**"
+"**That is a place,**" said the shipwright. "**And a place is what a man goes and looks at, and that is the first thing anybody in this yard has been able to say out loud since the third of May.**"
 
 ---
 
 **And that evening, with about nine people in the street and the market gone in, the two columns were read out at the head of the dock, and the money part is short and it is this.**
 
-Two marks in a bag on Monday morning. **Four marks in a bag at about two in the afternoon and nothing has come into it since the first of July, and the whole of the four is out of a day at the second seam on a hirer's own account, gross thirteen, the eighth two and the share two and the office's pot of air two and a hired hand three and the victuals one and rope one, all three of the last paid at the mole by the man who hired the day, that being eleven out of thirteen.** Thirty-one on the note and not re-written and the three counts of that page at twenty-two, thirteen and eleven and unmoved, and five marks of compressor's gland on it and not paid. **Eleven lines and forty-four marks in the wage column, the fifth of March the oldest, and six envelopes on a bench and not one of them anywhere, and the next of them is four marks on Tuesday the eleventh of July.** Nothing in a tin.
+Two marks in a bag on Monday morning. **Six marks in a bag at about two in the afternoon, and nothing had come into it between the first of July and this afternoon, and the four is out of a day at the second seam on a hirer's own account, gross thirteen, the eighth two and the share two and a hired hand three and the victuals one and rope one, all three of the last paid at the mole by the man who hired the day, that being nine out of thirteen.** The note is at thirty-one and has not been re-written and its three counts have not moved, and five marks of compressor's gland stand on it unpaid. **Eleven lines and forty-four marks in the wage column, the fifth of March the oldest, and six envelopes on a bench and not one of them anywhere, and the next of them is four marks on Tuesday the eleventh of July.** Nothing in a tin.
 
 Forty marks of claim standing whole. Forty marks to a conservator with no office, first after food, unpaid since the fifteenth of October, not reachable by the writ, not asked to be useful, **and not one mark of it paid out of anything that has come into this yard since the eighth of May.** Eight shillings and tenpence standing to each of two women, undiminished, unpaid, not paid in a month. **Eight marks and a day of a boat to this harbor's bellwright, owing since the twenty-third of May, unpaid, unargued, and not going to be paid this month and the standing sentence said in a street on the third of May stands.** A woman going to a man of Ashtide on the twenty-eighth of July for twenty-six marks and a day for about four hundred feet of her own warp, and this yard told her it was her business and is not going in the way of it, and her own words at the foot of the dock this morning were that the yard's own sheet is not on the wall any more and there is a man from Ashtide over the top of it with four marks at the head of it.
 

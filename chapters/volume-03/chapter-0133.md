@@ -32,7 +32,7 @@ She read it back.
 
 "**And I am not sorry that we put him on the stone on the fifteenth of May. His hand had been going since the fourth of April. It was the right thing and I would do it again and I have not said so out loud before and I am saying it now, and it is in the first column because I said it in a shed and a man in a shed can be asked about it tomorrow.**"
 
-Nobody said anything to that, and it went in, and she read it back and Calder Marr read it back after her, and there was nobody else in that shed to read it after that.
+Nobody said anything to that, and it went in, and she read it back and Calder Marr read it back after her, and the shed held the two of them and a lamp and nobody else.
 
 ---
 
@@ -48,7 +48,7 @@ Three lines, in Calder Marr's own left hand, on the yard's own paper.
 
 "**No price on it,**" said the shipwright.
 
-"**No price on it, and no scale, and no eleven names at the head of it, and it is going to be on a market wall on Saturday week if we are going to do this at all, and he is going to see it in Veyr in a fortnight and he is going to print it because he prints things.**
+"**No price on it, and no scale, and no eleven names at the head of it, and it is going on a market wall on Saturday the twenty-second if we are going to do this at all, and he is going to see it in Veyr in a fortnight and he is going to print it because he prints things.**
 
 "**I have thought about it for a day and a half and I have gone back and forth and I am going to say out loud what changed my mind, and it was not a principle. It was that a man with a press who has already written to us once is the only person in nine hundred miles who is going to be obliged to look at a paper of ours, and a return is the only paper in this harbor that any office in any city is obliged to look at. That is the whole of it.**"
 
@@ -88,4 +88,4 @@ Two marks in a bag and it has been two marks since Tuesday morning. **Four marks
 
 **And a woman of the second lay coming up this hill on the Wednesday to say that a day of looking at a thing is not a day of work and is going to be booked anyway, and to say eight shillings and tenpence in the same breath, and to say that if the yard is going to shut the face for three days she would rather know on the Thursday than the sixteenth.**
 
-**And on Friday a return goes up the coast, and on Saturday week a piece of paper that has no price on it is going on a market wall, and a printer in a city is going to read it in a fortnight and print it, and this yard cannot stop him and is not going to try.**
+**And on Friday a return goes up the coast, and on Saturday the twenty-second a piece of paper that has no price on it is going on a market wall, and a printer in a city is going to read it in a fortnight and print it, and this yard cannot stop him and is not going to try.**

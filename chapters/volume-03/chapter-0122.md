@@ -2,7 +2,7 @@
 
 *Asked a Second Time*
 
-The wall behind the reeve's bench came down at eight on Monday the nineteenth of June and it came down bare, and that was three Mondays, and there was no sitting and nothing went up in its place, and the clerk kept his own page and did not mention it.
+The wall behind the reeve's bench came down at eight on Monday the nineteenth of June and it came down bare, and that was seven Mondays, and there was no sitting and nothing went up in its place, and the clerk kept his own page and did not mention it.
 
 **At about ten that morning, because it is a rota day and the tank was down to about a third, three people of this yard walked out to the sluice behind the engine house with a hose and a bucket, and it took them from ten until about two, and nobody paid any part of it and nobody claimed any part of it and no part of it went into a wage column.** The gate was as bad as it has ever been. Two men of the third lay came past and helped for about an hour and would not take anything and were not thanked and did not want to be.
 

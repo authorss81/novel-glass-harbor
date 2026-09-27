@@ -80,7 +80,7 @@ She picked her basket up.
 
 ---
 
-**On Monday the twenty-sixth the wall behind the reeve's bench came down at eight and it came down bare, and that was four Mondays, and there was no sitting and the clerk kept his own page and did not mention it.**
+**On Monday the twenty-sixth the wall behind the reeve's bench came down at eight and it came down bare, and that was eight Mondays, and there was no sitting and the clerk kept his own page and did not mention it.**
 
 The cistern was charged at about ten by three people of this yard, the fifth time, on the rota, at no figure, with two men of the third lay who came past and helped for about forty minutes and would not take anything and were not thanked.
 

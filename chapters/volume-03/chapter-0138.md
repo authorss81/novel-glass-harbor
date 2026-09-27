@@ -16,11 +16,11 @@ Gross on the board fifteen. The eighth two. The share two. A hired hand three. A
 
 And the line came true.
 
-**The six joints stand in a straight line along the foot of that face and every one of the six sits at the same place on that line, and a man can take a string along the stone on the shed floor with two pins in it and it comes to three hundred and forty-one feet from the north end of the first joint to the south end of the last, and there is nothing in the string's way.**
+**The six joints stand in a straight line along the foot of that face and every one of the six sits at the same place on that line, and a man can take a string along the stone on the shed floor with two pins in it and it comes to three hundred and fifty-one feet from the north end of the first joint to the south end of the last, and there is nothing in the string's way.**
 
 The shipwright put a piece of chalk at each end and stood back and looked at it for a while.
 
-"**Three hundred and forty-one feet,**" she said, "**and six places on it, and a man can walk it in about eleven minutes, and every one of those six places is a hole in a stone wall with a joint in it, and I have walked that face twice a day since the sixth of May and I never once put a string along it.**"
+"**Three hundred and fifty-one feet,**" she said, "**and six places on it, and a man can walk it in about eleven minutes, and every one of those six places is a hole in a stone wall with a joint in it, and I have walked that face twice a day since the sixth of May and I never once put a string along it.**"
 
 "**Then lay the string.**
 
@@ -50,7 +50,7 @@ Six entries and six places, and the six places are all in the first four of the 
 
 **The weir-book** of this harbor keeps the herring weir. It is a book of tides and fish and weather and it is in a clerk's hand for about four hundred years and then in nobody's, and there are about nine pages in it in a fisher's own hand and they are the nine the clerk has never been able to make into a clerk's hand.
 
-> *… the eleventh night, a westerly, and the weir took eleven hundred and forty and we lost the second boat and the eleven hundred was not worth the boat and I have written it here because nobody is going to write it. My grandfather's weir is under the eleven feet of stone at the south end of the mole and I have dived on it and I know where every pile of it is. J. Voke.*
+> *… the eleventh night, a westerly, and the weir took eleven hundred and forty and we lost the second boat and the eleven hundred was not worth the boat and I have written it here because nobody is going to write it. My grandfather's weir is under the four feet of stone at the south end of the mole and I have dived on it and I know where every pile of it is. J. Voke.*
 
 **And the joint at the third place from the north end of that line is a foot and four inches below the weir's own sill stone, and the weir-book for the same page has the sill repaired and the repair is in the hand of the man whose grandfather built the weir and the repair is dated four years after the storm.**
 
@@ -64,7 +64,7 @@ Six entries and six places, and the six places are all in the first four of the 
 
 **And so, by four in the afternoon, there were nine places on the shed floor, and six of them had a hole in a stone wall at them, and three of them did not.**
 
-*First column, checkable by any man in this harbor who can get into the market office on a Friday morning: that six joints in a crevice at about four fathoms on the second seam's own face of this mole stand in a straight line, and that a string laid along that line with two pins in it comes to three hundred and forty-one feet; and that the six places are the six places named in six entries of a builder's day-book of the port of Ashtide kept in the market office press, being forty feet, and seventy-three feet, and one hundred and forty-one feet, and two hundred and ten feet, and two hundred and seventy-nine feet, and three hundred and forty-eight feet, in each case at the second seam; and that the builder's name is cut into the mole head; and that the third of the six from the north end lies a foot and four inches below the sill stone of this harbor's own weir; and that three further places have been entered, being a weir, a village not on this coast, and a sand and shell lay of this coast which is not on any chart in this harbor, and that the party has entered the three and has entered that it does not know why the three are there and is not going to guess and is not going to look for them this season.*
+*First column, checkable by any man in this harbor who can get into the market office on a Friday morning: that six joints in a crevice at about four fathoms on the second seam's own face of this mole stand in a straight line, and that a string laid along that line with two pins in it comes to three hundred and fifty-one feet; and that the six places are the six places named in six entries of a builder's day-book of the port of Ashtide kept in the market office press, being forty feet, and seventy-three feet, and one hundred and forty-one feet, and two hundred and ten feet, and two hundred and seventy-nine feet, and three hundred and forty-eight feet, in each case at the second seam; and that the builder's name is cut into the mole head; and that the third of the six from the north end lies a foot and four inches below the sill stone of this harbor's own weir; and that three further places have been entered, being a weir, a village not on this coast, and a sand and shell lay of this coast which is not on any chart in this harbor, and that the party has entered the three and has entered that it does not know why the three are there and is not going to guess and is not going to look for them this season.*
 
 *And that the party declines the word. Nine places is nine places, a line is a line, and a builder who wrote down where he worked by the foot because he was paid by the foot is not a man who was writing a history of anything.*
 
@@ -102,17 +102,17 @@ Perry Ollett was standing in front of it with his arms behind his back and read 
 
 "**I do not think you are wrong. I think you are a man who has run out of money and a man who has not. And I want it said in a market that I said both halves of that in the same breath and did not take either back.**"
 
-Nessa Pike said it to the slate and not to the wall, and her hand was steady, and what she wrote was this and it went up on the paper on Monday and not on Saturday, and it is the reason the paper is in a market at all:
+Nessa Pike said it to the slate and not to the wall, and her hand was steady, and what she wrote was this and it went up on the paper on the same Saturday and not on a Monday, and it is the reason the paper is in a market at all:
 
 *Second column, entered by Mara Venn, in her own hand, **unsigned at her own request**, on the twenty-second of July instant, in a market, in about forty people's hearing, and she has given the reason and the reason is that a finding of no office carries no seal and cannot be produced on demand by anybody, and a signature would make it a document and this is not a document: **that the party should publish the finding and the party should not publish the books, and that she thinks the party is wrong to do both, and that she has said so in a market and is not going to say it again in a shed, and that she is not going to be asked to sign it and that if anybody asks her to sign it the answer is no.***
 
-And Calder Marr's answer to that, in the same market, in about nine words, and the shipwright wrote it down:
+And Calder Marr's answer to that, in the same market, in one go and in fifteen words, and the shipwright wrote it down:
 
 "**Both. And I will not be able to tell you which was right in October.**"
 
 ---
 
-**And the third column was filled on the Saturday evening with the two times at the head of it and the lateness against them, and it is the seventh entry in that column since the second of May, and the lateness on this one is about three hours, which is the second longest this column has run and which the party is not going to make a practice of, and the reason the party is not going to make a practice of it is the same reason it gave when there were four of them.**
+**And the third column was filled on the Saturday evening with the two times at the head of it and the lateness against them, and it is the seventh entry in that column since the second of May, and the lateness on this one is about three hours, which the party is not going to make a practice of, and the reason it is not going to make a practice of it is the same reason it gave when there were four of them.**
 
 **And the money on Saturday the twenty-second, read out at the head of the dock in about eleven people with the market going in behind them, is one paragraph and it is the whole of the twenty days since the sixth of July.**
 

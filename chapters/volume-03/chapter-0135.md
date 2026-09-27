@@ -36,7 +36,7 @@ They came up at one o'clock and the shipwright asked her one question on the ste
 
 "**Mud.**"
 
-"**Then I will not tell you what that packing is made of until somebody stands a glass blower next to it. Go on. You have a lump of it on a bench and a chip of glass out of a lead's tallow, and you have not asked me one question that I can answer, and I have about two days and I am going to spend them on the two days I have got.**"
+"**Then I will not tell you what that packing is made of until somebody stands a caulker next to it. Go on. You have a lump of it on a bench and a chip of glass out of a lead's tallow, and you have not asked me one question that I can answer, and I have about two days and I am going to spend them on the two days I have got.**"
 
 ---
 

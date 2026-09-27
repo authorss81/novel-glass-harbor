@@ -36,7 +36,7 @@ Mara Venn stood on the top of those steps with her book under her arm and looked
 
 "**Not because it is thin. Because I am not being paid for it, and a thing a person is given because she is owed money is not a gift and not a trade and not a finding, it is a thing a yard does to make itself feel better at a cost of nothing, and I have been that twice in nine years and I did not enjoy either.**
 
-"**And you did not do it to make yourself feel better. You did it because you have four marks and a wall and a man in a city who prints what he is given, and and I want that said, because I was the one who said on Tuesday that you were a man who has run out of money and a man who has not, and I have had four days to think about that and I am not taking it back and I am not putting it the other way either.**"
+"**And you did not do it to make yourself feel better. You did it because you have four marks and a wall and a man in a city who prints what he is given, and I want that said, because I was the one who said on Saturday at the head of the dock that you were a man who has run out of money and a man who has not, and I have had four days to think about that and I am not taking it back and I am not putting it the other way either.**"
 
 "**Then we are not agreed,**" said Calder Marr.
 
@@ -46,7 +46,7 @@ Mara Venn stood on the top of those steps with her book under her arm and looked
 
 **And that is the shape of the disagreement, and it has not been repaired and it is not going to be, and this party has entered it whole, and neither half of it was settled by anything anybody handed to anybody.**
 
-"**Say ours, then,**" said Nessa Pike, "**because he has said hers twice and he has not said ours once, and it goes on the wall on Monday with hers on it, and a sheet with one side of it on it is a sheet with a party's opinion on it.**"
+"**Say ours, then,**" said Nessa Pike, "**because he has said hers twice and he has not said ours once, and it goes on the wall on the same Saturday with hers on it, and a sheet with one side of it on it is a sheet with a party's opinion on it.**"
 
 Calder Marr stood on the top of those steps for a while with the water going off.
 
@@ -60,7 +60,7 @@ Calder Marr stood on the top of those steps for a while with the water going off
 
 ---
 
-On Monday the twenty-fourth of July the wall behind the reeve's bench came down at eight and it came down bare, and that was eight Mondays, and there was no sitting and the clerk kept his own page and did not mention it.
+On Monday the twenty-fourth of July the wall behind the reeve's bench came down at eight and it came down bare, and that was twelve Mondays, and there was no sitting and the clerk kept his own page and did not mention it.
 
 **And the cistern was charged for the twelfth time, on the rota, at no figure, and the gate took three of them from ten until about two, and the cistern has held since the nineteenth of June.**
 
