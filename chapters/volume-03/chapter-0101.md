@@ -10,27 +10,23 @@ He put the form on the bench and did not sit down.
 
 "Two columns on it. That is not my doing and I will say so before anybody tells me it is. Whoever drew that form has never held a book in his life and I have to write what the box says the box says, and what the box says is: place, hour, keeper, limits, and a date."
 
----
-
 **"From which hour do the four days run," Calder Marr said, in the doorway, "and is the day of the finding one of them?"**
 
 The clerk stopped with one hand on the bench.
 
 "That is the right question to ask and nobody in this harbor has asked it and I have been waiting three days to see whether anybody would." He took the form back and turned it round and put it down again with the blank side up. "The office's own practice is the day of the finding and not the day it was written down. So the day of the finding is not one of the four. The fourth day after it is the day it falls due.
 
-"Your finding is on the twenty-eighth of April, which was a Tuesday. The day of the finding is not counted. The twenty-ninth, the thirtieth, the first of May, the second of May. **It fell due on Saturday the second of May at the end of the day and it is the fourth of May at ten in the morning, and that is two days, and I am not going to be the man who finds a third way round it.**"
+"Your finding is on the twenty-eighth of April, which was a Friday. The day of the finding is not counted. The twenty-ninth, the thirtieth, the first of May, the second of May. **It fell due on Tuesday the second of May at the end of the day and it is the fourth of May at ten in the morning, and that is two days, and I am not going to be the man who finds a third way round it.**"
 
 "And what is a late one," Nessa Pike said. "Is it a smaller one."
 
 "No. It is the same instrument in a worse week. **A return entered late is a return entered late and it is not a different instrument and it is not a smaller one, and the box has no room for a word about that and I have asked for a box with a word about that in the last two years.**" He said it flatly. "You have made none. I will say that to the circuit office and I will say it in those words and it will be true whichever way it was made."
 
----
-
-They made it. It took the rest of the morning and it was one page and it was in Calder Marr's own left hand and the boy read it out first in his own voice, because the boy does not trust a reading, and then the clerk read it out in his own, and both men read the same words.
+They made it. It took the rest of the morning and it was one page and it was in Calder Marr's own left hand and the boy read it out first in his own voice, because the boy did not trust a reading, and then the clerk read it out in his own, and both men read the same words.
 
 *Return the first, made by the holder of the provisional writ of the first of May, on Thursday the fourth of May.*
 
-*The finding: on Tuesday the twenty-eighth day of April last, on the mole's own face between the third and fourth seams, under a claim window of one date, two men not of this party being in the water and one of them a man of the *Grey Widow* and one of this harbor's own tide gang, each of them fixing his own limit at the boat, the tender named and not a diver.*
+*The finding: on Friday the twenty-eighth day of April last, on the mole's own face between the third and fourth seams, under a claim window of one date, two men not of this party being in the water and one of them a man of the *Grey Widow* and one of this harbor's own tide gang, each of them fixing his own limit at the boat, the tender named and not a diver.*
 
 *What was raised. Four hundred and forty pounds of old iron, in three pieces, of which the second piece is a bell-metal gun-port off something that had a gun in it, and none of it is glass and all of it is heavy; the first piece, a chain shackle and a turn of old cable, up at about twenty-six minutes past eleven in the morning; the three pieces off the bedded material, which was not gone under, at about twenty past one in the afternoon.*
 
@@ -46,21 +42,17 @@ The clerk read it and did not shorten it and then read it again, because he has 
 
 "This office can enter that a return was made on the fourth of May by the holder of the writ, that it states a place, an hour, a keeper and limits, and that it was due on the second. This office cannot enter what a lump of green glass is, and it is not going to try, and this is the fifth time this year that this office has discovered a thing it cannot hold and I am keeping all five in this book on purpose." He put his own page beside the form and wrote on it. "**And I am entering a line of this office's own, which is that the object was in a shed of this harbor from the twenty-eighth of April to this day, and that the party has entered the fact itself in its own return without being asked to, and that this office has had a notice on the mole since the thirty-first of October which says it may not be in there, and has not argued the notice, and has now told a circuit office in writing that it was in there for six days.** That is not a summary. That is the other half of a figure and you may have the two halves or you may have the top one."
 
----
-
 Nobody in that shed had put the two halves together before the clerk put them on the table, and when they were on the table nobody in that shed argued with them.
 
 **"Six days," Nessa Pike said.**
 
-"Six days," Calder Marr said. "And it went in there in a boat because the only place on that mole a bucket can stand in weather is a boat, and the boat lives in the shed, and I put the bucket in the boat on the Wednesday morning and I have known what that was every day since and I have not written it down and there is nobody in this crew I can hand it to that is not writing it down." He put his hand flat on the form. "**A yard with a reporting clause does not get to be quiet about its own bucket. That is the first thing the clause has cost us and it has cost us four marks' worth of dignity and about four hundred pounds of iron's worth of a lie we were about to tell somebody else.** Write the six days in the yard's own book with the reason, in the second column, and the reason is that no man on a mole in this harbor could check where a bucket was standing between the twenty-eighth of April and the fourth of May, and that is true, and it is also the reason a man in a city is going to be able to check it, and I want both of those in the same line."
+"Six days," Calder Marr said. "And it went in there in a boat because the only place on that mole a bucket can stand in weather is a boat, and the boat lives in the shed, and I put the bucket in the boat on the Friday, the day it came up, and I have known what that was every day since and I have not written it down and there is nobody in this crew I can hand it to that is not writing it down." He put his hand flat on the form. "**A yard with a reporting clause does not get to be quiet about its own bucket. That is the first thing the clause has cost us and it has cost us four marks' worth of dignity and about four hundred pounds of iron's worth of a lie we were about to tell somebody else.** Write the six days in the yard's own book with the reason, in the second column, and the reason is that no man on a mole in this harbor could check where a bucket was standing between the twenty-eighth of April and the fourth of May, and that is true, and it is also the reason a man in a city is going to be able to check it, and I want both of those in the same line."
 
 The boy wrote the line. It was the first time in five months that a man had asked him for a second column, and he entered the second column, and he read it back, and the three of them read it back after him and the clerk read it a fifth time and did not shorten that either.
 
----
-
 The boy did the rest of it in the afternoon, and the thirteenth week of a wage went into the column in his own right hand at about half past two, four marks, Tuesday the second of May, unpaid, and the reason against it in the boy's own words.
 
-*Entered on the fourth and not on the second because it was not on the second, and the reason it was not on the second is that the person who enters this column had four lines in it on the Wednesday the third and thirteen marks in a bag, and the thirteenth week was due on the Tuesday and nobody had said out loud that a wage week falls on a Tuesday, and the reason a wage week falls on a Tuesday is that a wage week has always fallen on a Tuesday and not that anything happened on a Tuesday.*
+*Entered on the fourth and not on the second, and the reason it was not on the second is that nobody in this yard had ever said out loud to me that a wage week falls on a Tuesday. I have been in this book two hundred days. I did not know it was a day anybody was counting, and the Tuesday came and went, and I would not write a line in on a day I had not been told was a day. That is the reason and it is a bad one and it is mine. It does not go in the second column either, because a man in a city can find out when this yard pays a wage and cannot find out why a boy of twenty-two did not write a number, and I would rather he had the money than the explanation.*
 
 **"That is five lines and twenty marks," he said, "and the fifth of March is the oldest line in it and it is staying where it is, and I am not going to take a man backwards in my own book to tidy a column because a clause has started counting days."**
 
@@ -78,7 +70,9 @@ He put his pencil down and looked at the form.
 
 Nobody answered him, because there was nobody left to tell him. Calder Marr looked at the stove and Nessa Pike went out to the bench with a lamp and the clerk gathered his page, and the question sat in the middle of a shed on the fourth of May and nobody improved on it.
 
----
+He had not been down the mole's steps since the eighth of December and he had not wanted to go. It was not the water; he had been in worse and had come up out of it. It was that a call used to end with a second thing in it. His mother on a step in a lane in this town, saying his name, and then saying the other thing about the name, and he had heard the name at six years old and had not heard the other thing, and had gone on being a man for thirty-one years without ever once wanting it back. On the eighth of December he had gone looking for it, eleven minutes inside a limit of forty with the six conditions read out loud in front of him, and he had come up without it. And what was gone was not a silence. It was a place where a thing had stood, and the place was still there, and there is no woman in Morrow Quay who can put it back and none of them is going to be asked.
+
+He had gone down the steps at eight that morning to look at the tide and had come back up without looking at the water, which was the eleventh time he had done that since December, and nine of them were in the second column with a reason against each, and he had scratched out none of the nine and was not going to.
 
 Alden Marr was at the far bench with his back to the two of them and the lamp behind him and a cough that came every forty minutes, and he had not been asked for anything, and Calder Marr did not go over to him.
 

@@ -12,8 +12,6 @@ He is thirty-four and he has been at the pile since the fourth of March with his
 
 "I am telling you anyway because you are going to find out from somebody else in about a week and I would rather you found out from me in about a minute." He put the coil down. "**And I have got no boat, and I have got the best gear on this coast in a lighter I cannot get at, and I have got no instrument of any kind, and I have got eleven weeks of my own money and I have not got a day.** I want a day. I am not asking for the second lay and I am not asking for a mole. I have dived the mole at eight fathoms on a slate and I can do this and I have got four men who would follow me up this hill tonight if I asked them and would not be paid until the summer."
 
----
-
 Nessa Pike put the cup down on the bench.
 
 "Then you are going to be told no in this shed and you are going to be told why, and the why is the whole of what I have to say to you and I have said it in my own words and Calder is going to say it in his, and then you are going to be offered something that is not work, and you are not to be insulted by it."
@@ -38,8 +36,6 @@ He put the writ on the bench where anybody in the room could put a hand on it.
 
 "You are going to be the fifth," Nessa Pike said, "because he does it anyway. Have a cup of tea and take the wall home with you."
 
----
-
 **And then they gave him the thing that was not work, and it was a copy of the tenth thing, in his own hand, at no charge, with his name on it.**
 
 "There is no charge," Calder Marr said, "and there is no charge because there is no money in this yard to charge and not because of anything else. The boy will write it out this evening and you can have it in an hour, and the copy will have your name on it at the top, because that is the one thing on that sheet that binds anybody and it is a piece of paper and no more. **The count of the six hand-copies does not change and the yard is entering that, because this is a copy of a copy and it is not one of the six and no two men in this harbor are going to be able to tell in four years which is which unless this yard says so on the page.**"
@@ -48,9 +44,9 @@ He put the writ on the bench where anybody in the room could put a hand on it.
 
 "Write it," Nessa Pike said, and the boy wrote it, and it went in the first column because Tarner was in the room.
 
----
+Calder Marr sat down on the bench opposite him after that, which he had not meant to do, and found that he could not think of a single reason for the sitting except that two men who had spent five months refusing each other in a market were in a room and it would have been a kind of thing to work. It had cost the yard a day. He knew exactly which day and what it had been worth at four marks, and he had a column on the wall behind the boy that said a clause this yard can obey in silence is worth more than a clause it is afraid of, and he was going to be the one who obeyed it in silence.
 
-**And then the man who had spent five months refusing this yard in a market sat down on a bench in a shed and said the thing the batch is for, in a working man's mouth and not as a point.**
+**And then the man who had spent five months refusing this yard in a market said the thing that was in the room, in a working man's mouth and not as a point.**
 
 "You have a road," he said. "Five miles of coast that no chart carries, with a cairn at eleven feet and a stem at nine fathoms and a bar that comes up to two and three-quarters on the flood off a spring, and six boats have your sheet in six hands, and none of them is yours. **A road that no chart carries is a thing a man can sell, and the reason this one cannot be sold is that nobody knows it is a road, and the day a man comes up this hill with a map of it, the first question is not what is under it. The first question is who pays for the map.**"
 
@@ -80,4 +76,4 @@ Nobody in that shed said anything about Lowfen, and it went in the second column
 
 The boy read it back and Nessa Pike read it after him and Calder Marr read it after her, and it is the third of the lines he has read back since the second of May and it is going to be the last of them, and there is nobody in this yard who is going to read the next one back, and none of the three of them said so out loud on the Saturday.
 
-The bag was thirty-nine and the note was thirty-one and there was nothing in a tin, and the column was five lines and twenty marks with the fifth of March in it, and the wage column was not a Tuesday's business this week because the boy was paid to the end of that week on the Monday and the next fell on the Tuesday after, and that was next week's problem and not this Saturday's.
+The bag was twenty-five and the note was thirty-one and there was nothing in a tin, and the column was five lines and twenty marks with the fifth of March in it, and the wage column was not a Tuesday's business this week, because this yard is going to pay the boy on Monday the fifteenth, in advance of the Tuesday, with the reason entered, and the Tuesday after that is the first Tuesday in this column's history with nobody in the yard to enter it, and that is a Tuesday's problem and not this Saturday's.

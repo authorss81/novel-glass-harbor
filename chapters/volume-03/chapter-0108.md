@@ -18,8 +18,6 @@ He asked who edits the charts. He asked whether the party holds an instrument in
 
 He wrote down all four answers, and the writing took him about nine minutes, and nobody in that market interrupted him once.
 
----
-
 **And the yard answered him in public, in four sentences, on the back of a slate, in Calder Marr's own hand, and the man with the slate read it and then copied it onto his own.**
 
 *"That this party does not know who takes a road off a chart, does not intend to find out in a hurry, and is not going to say the word for what a road with no chart on it is. That this party has been wrong in public twice this month in two columns, with a reason against every line of the second, and a party that has been wrong twice has no business putting a name on a thing."*
@@ -30,9 +28,7 @@ He wrote down all four answers, and the writing took him about nine minutes, and
 
 "Then I have got more than I asked for, which has not happened to me in this coast in nine years," the man said, and wrote it down too, and it went in the second column of this yard's own book in Calder Marr's own hand, with the reason that a man in a market cannot be checked and that this one can be asked again tomorrow, and because the man has offered to be asked again tomorrow and has said so out loud in a market in front of thirty people.
 
----
-
-**And then he offered to pay for a copy, and the yard had to refuse him, and the refusal is the chapter.**
+**And then he offered to pay for a copy, and the yard had to refuse him, and it cost more than the four marks.**
 
 "Then I will buy one," the man said. "Not the wall. A clean copy of the sheet with the bar on it, in your own hand, with a name on it and a date on it, and I will pay four marks for it, which is what a thing like that is worth in a shop in this town, and I will pay it into a hand and not into a hat and I will tell you what I want it for."
 
@@ -46,9 +42,9 @@ He said it standing on the boards, at about twenty past ten in the morning, in a
 
 "**I cannot refuse you by saying the sheet is the harbor authority's, because it is not and never was and it is in my own hand and it is on my own wall. I cannot refuse you by saying a man with a pen edits the charts, because that is a question this yard put on that wall on the third of May and has not answered it and is not going to answer it this morning.** So here is the reason, and it is a bad one and it is the only true one I have.
 
-"That sheet was copied out on the second of May, by hand, in six hands, in six different boats, and **not one of the six is mine and not one of the six was paid**. And one of the six is a man of fifty-eight out of the south lay who wrote his in pencil on a slate and would not let anybody help him with the figures, and it is correct in every figure, and it has one line in it that is not on the wall because it is his line and not mine. And one of the six is a woman of fifty-four who copied it in a hand that could have been a clerk's because she has spent thirty years writing out her own boat's figures for a man who cannot read them, and she said that out loud in a market and I put it on the wall.
+"That sheet was copied out on the second of May, by hand, in six hands, in six different boats, and **not one of the six is mine and not one of the six was paid**. One of the six is a man of fifty-eight out of the south lay who wrote his in pencil on a slate and would not let anybody help him with the figures, and it is correct in every figure, and it has one line in it that is not on the wall because it is his line and not mine. Another is a woman of fifty-four who copied it in a hand that could have been a clerk's, because she has spent thirty years writing out her own boat's figures for a man who cannot read them, and she said that out loud in a market and I put it on the wall.
 
-"A man who buys a copy of a copy is a man who has been told by a yard that has been wrong in public twice this month that this yard does not know whose hand is on the chart. **And the six people who copied that sheet on the second of May would not have copied it off a man with a map, and the reason they did not is that there was no map and there was a wall that said *order shown, purpose unknown* in a hand nobody can be asked about now with a boy standing next to it on the third of May saying he was not one of the six.**
+"A man who buys a copy of a copy is a man who has been told by a yard that has been wrong in public twice this month that this yard does not know whose hand is on the chart. **And the six people who copied that sheet on the second of May would not have copied it off a man with a map, and the reason they did not is that there was no map and there was a wall that said *order shown, purpose unknown* in a hand nobody can be asked about now, with a boy standing next to it on the third of May saying he was not one of the six.**
 
 "So I am not selling you a copy, and I am not giving you one either, and the difference between those two is the whole of what I have to say, and you may write it down."
 
@@ -72,9 +68,7 @@ She had been in the market on the Thursday and had listened to about forty minut
 
 "You refused me four marks in writing at a shop in Ashtide on the twelfth of April for an opinion I gave in a market," Mara Venn said, "and my forty marks is not one mark smaller for it, and I have said that in a room and I am saying it on the boards, and neither of those is an opinion I gave you and I am not going to let the two get mixed up on a page."
 
----
-
-"And then she said the thing this whole coast is built out of, to about nine people on the boards, without being asked and without looking at anybody."
+**And then she said the thing this whole coast is built out of, to about nine people on the boards, without being asked and without looking at anybody.**
 
 "**A record of a refused thing is a better record than a thing that was never asked for.** In nine years on this coast I have never seen a refusal written down in the hand of the man who asked for the thing, with the reason and the date on it, and I have seen about four hundred records of things that were done. And the four hundred tell you what four hundred people managed. The four refusals would tell you what a town will not have, and this coast has never once been told what it will not have, because everybody who comes here asking is a man with a slate or a man with a seal, and both of them have never been told no by anybody who wrote it down.
 
@@ -82,8 +76,10 @@ She had been in the market on the Thursday and had listened to about forty minut
 
 "Who reads it back tomorrow," she said, and looked at the place where the boy's book was on the bench behind them, and did not say it to anybody in particular, and nobody answered her, and Calder Marr looked at the boards and Mara Venn looked at the water.
 
----
+The board behind them was a board and there was no book on it, and there had been no book on it since Monday. He had come down the hill that morning expecting the shape of a folded ledger at the head of the dock and had caught himself two days late, on Wednesday, in the shed, doing it out of habit before he had remembered the hand. He had stood in the yard at ten past seven on the Wednesday and on the Thursday and told himself he was going to put something on that bench, and there were two reasons and he had the better one and the worse one and the worse one was that a yard that reads its own figures out loud to a man in a market is a yard that has decided the reading is the job, and the reading was the boy's job, and the boy's job was four marks a week and a hand, and a hand cannot be hired in a market for four marks because there are not any.
+
+"So she is not wrong," he said, to the boards, and only Nessa Pike heard it, and Nessa Pike said "no", and that was the whole of the conversation.
 
 **Nothing was sold. Nothing went up. The tenth thing is still on that wall under the naval paper of the eighteenth of March, and the word on that wall is not going on it this week, and nobody in this harbor has said the word and this yard is not going to say it and a man who was refused three times in April and wrote it down has four pages in his own hand that this yard did not write and cannot take back.**
 
-The road is not explained. It is not named. It is not connected to anything under this town and the yard has said on a market wall on the third of May that it cannot put the seventy fathoms and the eleven feet in the same sentence and will not. Eleven logged occasions stand where they stood and two of them stand with no call in them, and a figure taken on purpose on a flat calm with a slate and a stopwatch is a figure and not a note heard out of the weather, and no occasion is entered and none was entered this week and none is going to be entered because a man wrote four pages on a slate.
+The road is not explained. It is not named. It is not connected to anything under this town, and the yard has said on a market wall on the third of May that it cannot put the seventy fathoms and the eleven feet in the same sentence and will not. Eleven logged occasions stand where they stood and two of them stand with no call in them, and a figure taken on purpose on a flat calm with a slate and a stopwatch is a figure and not a note heard out of the weather, and no occasion is entered and none was entered this week and none is going to be entered because a man wrote four pages on a slate.
