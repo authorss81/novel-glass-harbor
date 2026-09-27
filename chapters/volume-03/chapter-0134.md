@@ -48,7 +48,7 @@ They went at it for another twenty minutes and then she stopped it herself.
 
 In April the boy had walked down to the head of the dock with him. There was nobody to walk with him. Calder Marr walked him to the steps and stopped there and the clerk went down on his own feet with the jacket under his arm and neither of them said anything about that, and the yard entered the fact and not the feeling.
 
-**What was in the jacket.** One sheet, in the harbor authority's own paper, in Calder Marr's own left hand, unshortened, with the place and the hour and the keeper and the limits against the head of it, and a copy for the harbor authority's ledger in the clerk's own hand, and the clerk's own page with the date and the hour it was written in it and not the hour it was done in it, because that is a clerk's practice and has been one since April.
+**What was in the jacket, and this is the second jacket of this volume and the form is the same form, and the yard is not going to describe a form twice.** One sheet, in the harbor authority's own paper, in Calder Marr's own left hand, unshortened, with the place and the hour and the keeper and the limits against the head of it, a copy for the harbor authority's ledger in the clerk's own hand, and the clerk's own page with the date and the hour it was written in it and not the hour it was done in it, because that is a clerk's practice and has been one since April.
 
 The clerk read the copy against the original and found nothing in the one that was not in the other, and said so, because he says what a box holds and this is what the box held.
 

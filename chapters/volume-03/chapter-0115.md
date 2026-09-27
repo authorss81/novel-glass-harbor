@@ -2,7 +2,7 @@
 
 *The Pilot Who Keeps a Channel by Hand*
 
-**The cistern was charged on the Thursday the fourth of June at about ten in the morning by two people of this yard and nobody else, and it is in this yard's own book with the hour, and the harbor authority's own book has nothing about it, because a thing done for nothing is not a thing an office writes down.** That is the second time inside seven days and the two of them are entered together on the same page with the reason, and the reason is the one that was entered on the Tuesday, and neither of them is in a wage column and neither of them is going to be thanked.
+**The cistern was charged on the Sunday the fourth of June at about ten in the morning by two people of this yard and nobody else, and it is in this yard's own book with the hour, and it is not a rota day, and the harbor authority's own book has nothing about it, because a thing done for nothing is not a thing an office writes down.** That is the second time inside seven days and the two of them are entered together on the same page with the reason, and the reason is the one that was entered on the Tuesday, and neither of them is in a wage column and neither of them is going to be thanked.
 
 The boat came into the roads at about two in the afternoon on the Sunday the fourth of June instant out of a westerly that had gone into the southwest and was easing, and she had been four days in it, and there is no hard weather between here and a storm-belt island except the four days she had just had.
 
@@ -52,7 +52,7 @@ Trewin looked at him for a moment and then laughed, once, without much in it.
 
 "**Right. Now I will tell you what my question was actually for, and it is not a question, it is a thing I came to say and I have said it badly.** A channel is not a set of figures. Everybody thinks a channel is a set of figures and a chart and a lead line and a man with a pole, and I have watched men do that in four countries and every one of them lost it inside five years.
 
-"A channel is a set of figures **plus a person who will go out and look at it when the figure is wrong, twice a year, for nothing.** Plus a mark somebody can move by hand on a bad night, if they know what the mark is *for*, which is the part that is not in any book and cannot be. My two men and me, that is all, and we do it for nothing, and the harbourmaster up the coast has asked me three times in nine years to put it in a printed return and I have said no three times."
+"A channel is a set of figures **plus a person who will go out and look at it when the figure is wrong, twice a year, for nothing.** Plus a mark somebody can move by hand on a bad night, if they know what the mark is *for*, which is the part that is not in any book and cannot be. My two men and me, that is all, and we do it for nothing, and the harbormaster up the coast has asked me three times in nine years to put it in a printed return and I have said no three times."
 
 "That is three more people than we have," Nessa Pike said.
 

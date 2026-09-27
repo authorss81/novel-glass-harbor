@@ -6,7 +6,7 @@ Thursday the twenty-seventh of July, a day at the second seam's own face on a hi
 
 Gross on the board fifteen. The eighth two. The share two. A hired hand three. A second hired hand three. The victuals of the day one and rope one. All four of the last paid at the mole by the man who hired the day, that being twelve out of fifteen and the yard's being three. **Three marks in a bag, and the office's pot of air is not charged to this day for the plain reason that nobody went in the water, and the last pot of it went out of the bag on Friday the seventh of this month and is spent and is not coming back.**
 
-**And the cistern was not charged, and the reason is on the page and it is a working reason and it is in this yard's own hand.**
+**And the sluice behind the engine house was not walked out to on that Thursday, and the reason is on the page, and it is a working reason and it is in this yard's own hand.**
 
 *That the rota falls on a Monday and a Thursday; that this party has walked it twelve times since the end of May at no figure and that the gate takes four hours with three men; that on Thursday the twenty-seventh instant this party was on the second seam's own face from seven in the morning until about half past two on a hirer's own account; and that the party could not walk a four-hour gate and do a day's reading at the same time with the same three men, and that the party has not walked that gate and has entered that it has not walked it, and that the cistern has held since the nineteenth of June and this party is not going to be thanked for that and is not going to use it for anything.*
 

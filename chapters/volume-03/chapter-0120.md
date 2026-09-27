@@ -24,9 +24,9 @@ He came in and put the oilcloth case on the bench and took a paper out of it, an
 
 **"I want the right to use the road. Not the paper. Not a seal. I want to be able to send a man of mine to go and look at those figures, twice a year, with a boat, on your own sheet, and to have a copy of the sheet to do it off, and I do not want your name on mine and I do not want you to know what I find on the third trip and not on the first two.**"
 
-"That is a licence," Nessa Pike said.
+"That is a license," Nessa Pike said.
 
-"That is a licence and I will have it written and I will pay for the writing and I will pay for the copy and I will put my name on it and I will not try to hide it."
+"That is a license and I will have it written and I will pay for the writing and I will pay for the copy and I will put my name on it and I will not try to hide it."
 
 **He put the four things down one at a time and he did it slowly, the way a man does a thing he has rehearsed in a boat for three days.**
 
@@ -48,7 +48,7 @@ He put his hand flat on the paper.
 
 "Take as long as you like."
 
-"**A licence to use a road cannot be given by the people who found it, because the people who found it are not the people who keep it, and this yard has never once been there.**" He put his hand flat on the table on either side of the paper. "**You have done that arithmetic better than I have been doing it since the third of May and I am not going to pretend otherwise, and six men copied that sheet by hand in six boats on the second of May and not one of the six is mine and not one of the six was paid, and that is the only reason there is anything on that wall for you to license.**
+"**A license to use a road cannot be given by the people who found it, because the people who found it are not the people who keep it, and this yard has never once been there.**" He put his hand flat on the table on either side of the paper. "**You have done that arithmetic better than I have been doing it since the third of May and I am not going to pretend otherwise, and six men copied that sheet by hand in six boats on the second of May and not one of the six is mine and not one of the six was paid, and that is the only reason there is anything on that wall for you to license.**
 
 "**If your name goes on it, then the road is kept by a man with two boats and a following, and the day you want a second thing out of it you will take it, and I would rather have nothing than that. I am not saying you would; I am saying that the thing you would be buying does not exist yet and cannot be sold, and that if it did exist you would be the wrong man to hold it and I have not got the right man.**
 
@@ -86,7 +86,7 @@ Thirty marks would have paid for the warp twice over. It would have paid for a s
 
 **It is on the page in the yard's own hand and it is the only line in that book this month that is written about a thing that did not happen.**
 
-*That on Wednesday the fourteenth of June instant a man offered this party thirty marks in coin, a mooring above the north wall, his own ground warps, capstan bar, hand lead and line for the season at no figure, and an entry in a book of his own that is not this party's, in exchange for a licence to go and look at the road and a copy of the sheet; that this party refused it and gave the paper back with the refusal written on the back of it in nine sentences in the holder's own left hand; and that the reason the refusal costs this harbor a third recovery is that the thirty marks would have paid for about four hundred feet of a woman's own warp on the bottom of this harbor, which is on a market wall with her name and a figure and a date on it since the seventh of June; and that the party entered that it had been offered money for the first time since the first of February and that it is not able to replace that money, and that a yard that cannot replace an offer is not a yard that gets to turn one down out of a principle, and that this yard has turned one down out of a principle and knows exactly what that is worth.*
+*That on Wednesday the fourteenth of June instant a man offered this party thirty marks in coin, a mooring above the north wall, his own ground warps, capstan bar, hand lead and line for the season at no figure, and an entry in a book of his own that is not this party's, in exchange for a license to go and look at the road and a copy of the sheet; that this party refused it and gave the paper back with the refusal written on the back of it in nine sentences in the holder's own left hand; and that the reason the refusal costs this harbor a third recovery is that the thirty marks would have paid for about four hundred feet of a woman's own warp on the bottom of this harbor, which is on a market wall with her name and a figure and a date on it since the seventh of June; and that the party entered that it had been offered money for the first time since the first of February and that it is not able to replace that money, and that a yard that cannot replace an offer is not a yard that gets to turn one down out of a principle, and that this yard has turned one down out of a principle and knows exactly what that is worth.*
 
 Nessa Pike read that back and then she put her hand flat on the page, which she does not do.
 

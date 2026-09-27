@@ -46,7 +46,7 @@ He read it back twice. The second time took him eleven minutes and the first had
 
 Then he was paid, and the paying is on the page and there is no speech attached to it.
 
-*The yard pays Bevin Rook four marks, a week at the rate from the first of February, for the week of Monday the ninth to Sunday the fifteenth of May inclusive, on Monday the fifteenth, and not on Tuesday the sixteenth, and the reason is that this yard is not going to pay that boy a wage on a Tuesday with a hand that cannot hold a pencil in it, and the next wage week falls on Tuesday the sixteenth and no line goes in for it, and the reason that goes in is that this yard has no reader and a column with nothing in it is not a column with a week missing in it.*
+*The yard pays Bevin Rook four marks, a week at the rate from the first of February, for the week of Tuesday the ninth to Monday the fifteenth of May inclusive, on Monday the fifteenth, and not on Tuesday the sixteenth, and the reason is that this yard is not going to pay that boy a wage on a Tuesday with a hand that cannot hold a pencil in it, and the next wage week falls on Tuesday the sixteenth and no line goes in for it, and the reason that goes in is that this yard has no reader and a column with nothing in it is not a column with a week missing in it.*
 
 "Four marks is a week," Nessa Pike said, "and a week is seven days, and four marks for seven days is not a day's rate and I am not going to work it out in front of you and put it on the page, and if anybody asks me for a day's rate for him I will tell them what a boy of twenty-two is worth a day and it is nothing."
 

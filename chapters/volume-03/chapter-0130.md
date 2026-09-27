@@ -36,7 +36,7 @@ She put the nail back in her pocket.
 
 *Fourth. That no posting, appointment, commission, transport or instruction out of any city in the past month has put anybody past this harbor line, and that the outer marks and the bar of four hundred yards off them are where the writ of the first of May says they are, and are not nearer, and that this party is not going past them this season and has not tried and is not going to.*
 
-*And the one thing decided. **That this yard is not going to be a party to the naming of a road, and is not going to buy a licence to one, and is not going to sell a copy of anything again, and is not going to put a name on anything it cannot check, and that decision is this party's own and is not this office's and is not anybody in a city, and it is the only thing this yard has had this month that nobody can take off it.**"
+*And the one thing decided. **That this yard is not going to be a party to the naming of a road, and is not going to buy a license to one, and is not going to sell a copy of anything again, and is not going to put a name on anything it cannot check, and that decision is this party's own and is not this office's and is not anybody in a city, and it is the only thing this yard has had this month that nobody can take off it.**"
 
 He read it back to the shipwright. There was nobody else in that shed to read it after her. Alden Marr was at the far bench with his back to them and a cough that came every forty minutes and was not asked for anything, and neither brother went over to him, and he was sixty-one, and he did not ask either, and the line in the first column saying so is a single line and can be checked by either brother on any day of a week by asking the other one.
 
