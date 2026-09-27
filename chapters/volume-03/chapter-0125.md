@@ -14,7 +14,7 @@ Sella Brigg was in front of it at about ten past eight with a basket and her han
 
 "**There is three on it now.**"
 
-"There is," Calder Marr said. "**A man called Ollett, of a boat called the *Sallow Reach*, out of Ashtonide, put that up on Saturday morning for a shilling a copy, and he did it on the same nails because those are the only nails, and he put it over the top because that is what you do with a thing that goes on the outside. Nobody in this harbor has asked him to move it and nobody is going to.**"
+"There is," Calder Marr said. "**A man called Ollett, of a boat called the *Sallow Reach*, out of Ashtide, put that up on Saturday morning for a shilling a copy, and he did it on the same nails because those are the only nails, and he put it over the top because that is what you do with a thing that goes on the outside. Nobody in this harbor has asked him to move it and nobody is going to.**"
 
 "And is it any good."
 
@@ -40,7 +40,7 @@ Then she asked the thing, and it was not the thing anybody in this yard had expe
 
 "And a printed sheet with your figures on it went up yesterday," Sella Brigg said, "**with a date on it and a price on it, and that sheet says everything the sheet of the seventh of June says and about four times as much.**
 
-"So I am going to ask a man from Ashtonide."
+"So I am going to ask a man from Ashtide."
 
 Nobody in that street said anything.
 
@@ -68,7 +68,7 @@ Calder Marr did not say anything at all, and about four people in that street wa
 
 She picked her basket up.
 
-"**A man from Ashtonide will be up this hill on Wednesday or Thursday with a printed sheet and a price on it, and I will give him a figure and a date, and you are not to be here when it happens.**"
+"**A man from Ashtide will be up this hill on Wednesday or Thursday with a printed sheet and a price on it, and I will give him a figure and a date, and you are not to be here when it happens.**"
 
 "Then I will not be," Calder Marr said.
 
@@ -82,7 +82,7 @@ She picked her basket up.
 
 **On Monday the twenty-sixth the wall behind the reeve's bench came down at eight and it came down bare, and that was four Mondays, and there was no sitting and the clerk kept his own page and did not mention it.**
 
-The cistern was charged at about ten by three people of this yard, the fifth time in three weeks, on the rota, at no figure, with two men of the third lay who came past and helped for about forty minutes and would not take anything and were not thanked.
+The cistern was charged at about ten by three people of this yard, the fifth time, on the rota, at no figure, with two men of the third lay who came past and helped for about forty minutes and would not take anything and were not thanked.
 
 **And the boat came off the haul-off.**
 
@@ -92,9 +92,9 @@ It took four of them from about eleven until about one, on their own capstan, on
 
 She went back down to her own mooring at the north end above the twelfth at about one, in the water, on the yard's own ground, at no figure, and the yard entered that a day went into that and not out of it, and that there was no money either way, and that the reason is on the page and the reason is that a boat on a mole's crown in June is a boat that is going to be a boat in a condition by August.
 
-**And the third column was filled on the Monday evening, with the two times and the lateness, and it is the fourth time it has been filled since the second of May and the third time since the boy went off the stone.**
+**And the third column was filled on the Monday evening, with the two times and the lateness, and it is the fourth time it has been filled since the second of May and the fourth time since the boy went off the stone.**
 
-*That the entry was read on the steps at about seven in the evening on Monday the twenty-sixth of June and was written in this book at about nine the same evening, the difference being about two hours, which is the same difference the boy of twenty-two used to put at the head of it and which this party has noticed and has entered that it has noticed; and that the party is not going to draw anything out of the three figures it has got — about ten hours, about an hour, about eight hours and about two hours — and that the reason is that a yard which begins to keep a figure on its own lateness is a yard that has stopped keeping a figure on its work.*
+*That the entry was read on the steps at about seven in the evening on Monday the twenty-sixth of June and was written in this book at about nine the same evening, the difference being about two hours, which is the same difference the boy of twenty-two used to put at the head of it and which this party has noticed and has entered that it has noticed; and that the party is not going to draw anything out of the four figures it has got — about ten hours, about an hour, about eight hours and about two hours — and that the reason is that a yard which begins to keep a figure on its own lateness is a yard that has stopped keeping a figure on its work.*
 
 Nessa Pike read it back and Calder Marr read it after her and there was nobody else in the shed.
 
@@ -108,10 +108,10 @@ The two columns were read out at the head of the dock at about six on the Monday
 
 Forty marks of claim standing whole and not reduced. Forty marks to a conservator with no office, first after food, unpaid since the fifteenth of October, and not one mark of it paid out of any money that has come into this yard since the eighth of May. **Eight shillings and tenpence standing to each of two women, and about four hundred feet of one of their own warps on the bottom of this harbor, and on Sunday a woman said in a market that she was going to ask a man of another port, and this party has no standing with that woman and did not ask for any.** Eight marks and a day of a boat to this harbor's bellwright, paid in April, owing again since the twenty-third of May, unpaid and not argued away, **and a bell is going to be out in a boat in about four years at eight marks and a day of a boat then as it is now, and the four of them were told on the third of May so that in four years there is no argument about it.**
 
-A cistern charged on Monday the twenty-sixth, the fifth time in three weeks. The ninth seam's mooring still out with no end of it entered. The north berth out. The third lay full. The tide gang four men short. The fire party's hose dead until the autumn. The mole-head light not on and the repair account empty since the middle of February and no boat of this office's own since the evening of the twenty-eighth of April. The *Kittiwake* on the hard. The hard at Ashtide. Nineteen winters in a naval file since Thursday. The *Sea Wren* at the pile. Eleven copies and a printed sheet on the wall that has all eleven places on it. A man of the third lay, nine winters, not found, and this yard has not gone.
+A cistern charged on Monday the twenty-sixth, the fifth time. The ninth seam's mooring still out with no end of it entered. The north berth out. The third lay full. The tide gang four men short. The fire party's hose dead until the autumn. The mole-head light not on and the repair account empty since the middle of February and no boat of this office's own since the evening of the twenty-eighth of April. The *Kittiwake* on the hard. The hard at Ashtide. Nineteen winters in a naval file since Thursday. The *Sea Wren* at the pile. Eleven copies and a printed sheet on the wall that has all eleven places on it. A man of the third lay, nine winters, not found, and this yard has not gone.
 
 **Two things of nobody's in the open air on a mole's crown above the third seam's mark, about nine feet apart, under two tarpaulins, weighted with a fender and forty feet of the harbor authority's own mooring rope lent at nothing and entered at nothing, and they were not moved today and they are not going into a boat and they are not going into a shed, and the yard's own boat went back into the water this morning from about a foot above them.**
 
 Three returns on the road to a city. No occasion entered in the delayed note since the fifteenth of June. Eleven logged occasions and two empty answers and neither moved, and the delay a hand's width of a second and not taken and not written down.
 
-**And on Wednesday the twenty-seventh the wage goes in again, and on Friday the third of July there is a day at the second seam on a hirer's own account, and on Wednesday the twenty-eighth a man who went up the coast on Sunday the twenty-first came back into this harbor with two sentences in his mouth about an office that has had a fisher's paper since the first of March and has said nothing until now, and he is going to say them on a market board, and this yard is not going to be asked first.**
+**And on Wednesday the twenty-seventh the wage goes in again, and on Saturday the first of July there is a day at the second seam on a hirer's own account, and on Wednesday the twenty-eighth a man who went up the coast on Tuesday the twentieth came back into this harbor with two sentences in his mouth about an office that has had a fisher's paper since the first of March and has said nothing until now, and he is going to say them on a market board, and this yard is not going to be asked first.**

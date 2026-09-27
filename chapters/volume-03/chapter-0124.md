@@ -6,7 +6,7 @@ She came into the roads on Friday the twenty-third of June at about two in the a
 
 Her master came up the hill at half past four. He was thirty-nine, in a good coat, with a printed sheet rolled under his arm, and he was in the doorway before he was in, the way a man who has read a form does it.
 
-"**Perry Ollett, of the *Sallow Reach*, of Ashtonide — Ashtide, the cannery port. I have six men and I have my own gear and I am not asking you for anything, and I have been up and down this coast for five weeks and I have not been in this harbor before today.**"
+"**Perry Ollett, of the *Sallow Reach*, of Ashtide. I have six men and I have my own gear and I am not asking you for anything, and I have been up and down this coast for five weeks and I have not been in this harbor before today.**"
 
 "Then come in," Calder Marr said. "**And I will tell you in the doorway what this yard is, because you have not asked and I would rather you had it than guessed it. Two and a half men. A bag. A note at thirty-one. No air and no hose, and the longest thing of hose in this harbor is about nine fathoms, and the reason that is so is that there is not the money in this town to buy one.**"
 
@@ -34,9 +34,9 @@ Nessa Pike read that part twice and put her thumb on it.
 
 "**It is nailed to a wall that belongs to nobody, over a naval paper that has been there since the eighteenth of March, and I did not have to steal it and I did not have to ask anybody for it, and a man at the foot of your own dock took my shilling and handed it to me and did not know what was on it.**"
 
-Nobody in that shed said anything for a moment. The slip had been on the wall for seventy-eight days. It said eleven names and said that four of them were not reached and not asked, and that nothing on that wall changes the count and that no holder of any of them had been asked by that yard for any of them and would not be.
+Nobody in that shed said anything for a moment. The slip had been on the wall for fifty-one days. It said eleven names and said that four of them were not reached and not asked, and that nothing on that wall changes the count and that no holder of any of them had been asked by that yard for any of them and would not be.
 
-**It was a list of where the yard's own public record could be found, and it had been free to read for ten weeks, and the yard could not take it off the wall and could not have refused it, because a slip with a list on it that the yard keeps in its own shed is a list a man in this harbor can read out of a window, and the only thing worse than a published list is a secret one.**
+**It was a list of where the yard's own public record could be found, and it had been free to read for seven weeks, and the yard could not take it off the wall and could not have refused it, because a slip with a list on it that the yard keeps in its own shed is a list a man in this harbor can read out of a window, and the only thing worse than a published list is a secret one.**
 
 ---
 
@@ -52,7 +52,7 @@ Nobody in that shed said anything for a moment. The slip had been on the wall fo
 
 ---
 
-Then he said the other thing, and he said it plainly, and it is the sentence this movement turns on.
+Then he said the other thing, and he said it plainly, and it is the sentence this week turns on.
 
 "**I am not going to ask you where you found the eleven, and you are not going to tell me, and neither of us is going to be any use to the other one about it. But I am going to say the half of it out loud because it is the true half and not the half that is about me.**
 
@@ -72,7 +72,7 @@ Ollett looked at him for a while.
 
 "**I told the first one the truth, which is that I wanted to print a sheet, and I told the second one the same, and they are the only two of the four who have stopped writing to me.**"
 
-**And the yard did not ask which four, and did not ask the other seven either, and entered that it did not ask, and entered the reason, and the reason is the same reason it has given since the third of May and it is not going to change because a man from Ashtonide has been more useful with it than this yard has been.**
+**And the yard did not ask which four, and did not ask the other seven either, and entered that it did not ask, and entered the reason, and the reason is the same reason it has given since the third of May and it is not going to change because a man from Ashtide has been more useful with it than this yard has been.**
 
 ---
 
@@ -82,7 +82,7 @@ Ollett looked at him for a while.
 
 "The hose," Ollett said. "Obviously the hose."
 
-"**The hose and the six men and the four marks. And I am not going to pretend to a man from Ashtonide that a sheet nailed to a wall under a naval paper is a rival to a printed sheet with a scale on it, because it is not, and I have spent a hundred days this year being wrong in public and I am not going to do it again in a shed with the man holding the better paper.**"
+"**The hose and the six men and the four marks. And I am not going to pretend to a man from Ashtide that a sheet nailed to a wall under a naval paper is a rival to a printed sheet with a scale on it, because it is not, and I have spent a hundred days this year being wrong in public and I am not going to do it again in a shed with the man holding the better paper.**"
 
 ---
 
@@ -122,13 +122,13 @@ The ring and the shackle and the swivel and about four feet of warp came up at a
 
 The two columns were read out at the head of the dock at about six on the Saturday evening with the market still in.
 
-**Nine marks in a bag**, the seven of them out of a day at the second seam on the *Anna Beth's* own account at this yard's own rate, gross sixteen, the eighth two and the share two off the top, the victuals two and a hired hand three paid at the mole by the woman who hired the day, that being nine out of sixteen, and the pot of air having gone out of the bag on the Friday and is not coming back, so that the whole of the job left this yard four marks and not seven, which is the figure the yard wrote on the mole's steps on the thirty-first of May before anybody knew which of those two numbers was going to be the one. Thirty-one on the note, not re-written, the three counts of that page at twenty-two, thirteen and eleven and unmoved. Nothing in a tin. **Nine lines and thirty-six marks in the wage column, the fifth of March the oldest, four envelopes on a bench.**
+**Nine marks in a bag**, the seven of them out of a day at the second seam on the *Anna Beth's* own account at this yard's own rate, gross sixteen, the eighth two and the share two off the top, the victuals two and a hired hand three paid at the mole by the woman who hired the day, that being nine out of sixteen, and the pot of air having gone out of the bag on the Friday and not coming back, and the ring and the shackle and the swivel and the four feet of warp all having come on the ring, so that nothing else came off the day; **which is three more than the four this yard costed the same day of work to on the mole's steps on the thirty-first of May, when the pot of air and about a hundred fathoms of rope were both charged to the job instead of bought the day before, and the yard wrote that four up on the steps in front of everybody without telling anybody in advance which of the two numbers was going to be the one.** Thirty-one on the note, not re-written, the three counts of that page at twenty-two, thirteen and eleven and unmoved. Nothing in a tin. **Nine lines and thirty-six marks in the wage column, the fifth of March the oldest, four envelopes on a bench.**
 
 **And a printed sheet went up on the market wall of this harbor on Saturday the twenty-fourth of June over the yard's own, with a scale on it and a date on it and a price on it and the place of every copy of a public sheet of the fourteenth of October at the head of it in eleven lines, and a shilling changed hands at the foot of the dock for a copy, and the yard did not ask for the shilling back and has entered that it did not ask.**
 
 Forty marks of claim standing whole. Forty marks to a conservator with no office, first after food, unpaid since the fifteenth of October, not reachable by the writ, and not asked to be useful. **Eight shillings and tenpence standing to each of two women, Sella Brigg and Edric Pringle, undiminished and unpaid, and about four hundred feet of one of them's own warp on the bottom of this harbor, and thirty marks that would have paid for it refused in this shed on Wednesday the fourteenth, and she has not been told and is not going to be told this week.** Eight marks and a day of a boat to this harbor's bellwright, paid in April, owing again since the twenty-third of May, unpaid and not argued away.
 
-A cistern charged on Monday the nineteenth, on the rota, at no figure, and the fourth time in three weeks. The ninth seam out of service with no end of it entered anywhere. The north berth out. The third lay full. The tide gang four men short. The fire party's hose dead until the autumn. The mole-head light not on, and the repair account empty since the middle of February, and no boat of this office's own since the evening of the twenty-eighth of April. The *Kittiwake* on the hard with no cradle. The hard at Ashtide, unanswered. Nineteen winters, in a naval file since Thursday, and in four lines of a letter in a coat. The *Sea Wren* at the pile. **Eleven copies, and a list of the eleven nailed to a wall in this harbor since the third of May for a shilling, and four of them answered a stranger and two of those have stopped writing, and this yard did not ask which four and is not going to.** A man of the third lay, nine winters, not found, and this yard has not gone.
+A cistern charged on Monday the nineteenth, on the rota, at no figure, and the fourth time. The ninth seam out of service with no end of it entered anywhere. The north berth out. The third lay full. The tide gang four men short. The fire party's hose dead until the autumn. The mole-head light not on, and the repair account empty since the middle of February, and no boat of this office's own since the evening of the twenty-eighth of April. The *Kittiwake* on the hard with no cradle. The hard at Ashtide, unanswered. Nineteen winters, in a naval file since Thursday, and in four lines of a letter in a coat. The *Sea Wren* at the pile. **Eleven copies, and a list of the eleven nailed to a wall in this harbor since the third of May for a shilling, and four of them answered a stranger and two of those have stopped writing, and this yard did not ask which four and is not going to.** A man of the third lay, nine winters, not found, and this yard has not gone.
 
 Two things of nobody's in the open air on a mole's crown, about nine feet apart, under two tarpaulins. Three returns on the seaward road to a city, and nothing entered in the delayed note since the fifteenth of June, and eleven logged occasions and two empty answers and neither moved.
 
