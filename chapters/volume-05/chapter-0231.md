@@ -8,7 +8,7 @@ Thursday the fourth and Friday the fifth of February, at the head of this dock a
 
 **And the far bench stood empty through the whole of the said Thursday and through the whole of the said Friday, and neither brother went over to it, and this party entered the two days and put nothing of what came before them against either line.**
 
-**And the bench under that pump was bare for a sixth night running, which is the sixth night it has been bare since a man of thirty-four put a sheet into the inside of his coat on that mole on the Saturday of the month of January, and that bench is the only bare thing in that shed and its shape is the shape of that sheet.**
+**And the bench under that pump was bare for a fifth night running, which is the fifth night it has been bare since a sheet and a half came apart in the ship's hand on that mole on the Sunday of the thirty-first of January, and that bench is the only bare thing in that shed and its shape is the shape of that sheet.**
 
 ---
 
@@ -82,7 +82,7 @@ She read it. He read it after her. And then she put her hand flat on the bench, 
 
 *And that the far bench was not occupied at any hour on the said Thursday nor at any hour on the said Friday, and that the holder did not go over to him on either of the two days, and that no figure of what came before either day is put against either line.*
 
-*And that the bench under that pump was bare for a sixth night on the said Thursday, and that it is the only bare thing in that shed, and that its shape is the shape of a sheet and a half that is not on it.*
+*And that the bench under that pump was bare for a fifth night on the said Thursday, and that it is the only bare thing in that shed, and that its shape is the shape of a sheet and a half that is not on it.*
 
 *And that at about a quarter past five on the said Thursday afternoon, with the market gone in and about nine people in that street, a man of about forty of the third lay said at the head of that dock that on the Saturday past a man in a house on the far side of a place two days down this coast had asked him what a yard in Morrow Quay had said in a shed about a light on a point; and that the said man said that he had been told it by a man of the second lay at the head of that dock on the twenty-sixth day of January past in about nine people's hearing, and that he did not know at the time that it had come out of a shed; and that the said man said the line back when the holder asked him to and the line is the ninth, and a hard night, and the light on the point was burning, and two boats came in on it about two in the morning and lay there till it was light.*
 
