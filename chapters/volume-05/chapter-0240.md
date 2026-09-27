@@ -46,7 +46,7 @@ Monday the twenty-second and Tuesday the twenty-third of February, in the shed, 
 
 ---
 
-**And at about half past eight on the said Tuesday night, with the lamp lit, and the lamp turned round, and the two of them, and the day's entries read back from the top of that bench by the ship's hand and read back after her by the holder, and nobody else in that shed, and the bench under that pump bare for a twenty-fourth night.**
+**And at about half past eight on the said Tuesday night, with the lamp lit, and the lamp turned round, and the two of them, and the day's entries read back from the top of that bench by the ship's hand and read back after her by the holder, and nobody else in that shed, and the bench under that pump bare for a twenty-fifth night.**
 
 She read it and he read it after her and neither of them read anything else for about four minutes, and the reason against that is the reason of the Friday of the twenty-first, which is that there is nothing left in that book to read out that is not one of the things they have been saying for twenty days.
 
@@ -76,7 +76,7 @@ She read it and he read it after her and neither of them read anything else for 
 
 "**Here it is, and it is a fact, and a man can check it on any day of a week, and it is not a resolution and it is not a good place to stop.
 
-"**The bench under that pump is bare. It has been bare for twenty-four nights, since a man of thirty-four put a sheet into the inside of his coat on that mole on the Saturday of the thirtieth of January, and it is the only bare thing in that shed, and the shape of that bench is the shape of a sheet and a half that came up this hill on foot on the ninth of December and came apart in your hand on the thirty-first and cannot be put back and cannot be bought.
+"**The bench under that pump is bare. It has been bare for twenty-five nights, since a man of thirty-four put a sheet into the inside of his coat on that mole on the Saturday of the thirtieth of January, and it is the only bare thing in that shed, and the shape of that bench is the shape of a sheet and a half that came up this hill on foot on the ninth of December and came apart in your hand on the thirty-first and cannot be put back and cannot be bought.
 
 "**The copy of a record of the twenty-fourth of November is nine feet away in a drawer in that room. The acknowledgment of the twenty-ninth of November is in the same drawer. The half sheet of a court in a city, which is answered in ten words in a market and is going back into that drawer, is in the same drawer. The printer's letter of the twentieth of December is on that bench with a question in it that has not been answered and that this yard has the answer to and is not going to send.
 
@@ -114,7 +114,7 @@ She read it and he read it after her and neither of them read anything else for 
 
 *And that the said holder said that there are five days between the said Tuesday and the first of March next, and that the writ of the first of May past runs to midnight on the said first of March, is inside that harbor line, is bounded by the outer marks, carries four names and no fifth, is not the Second Bell license, does not lead to one and renews nothing, and that that yard is a party of one and a half until that day, and that since the Saturday the half of it has had a hand on it that cannot hold a line, and that that is not going into a column as a figure because there is no figure for it.*
 
-*And that the bench under that pump is bare for a twenty-fourth night, that it has been bare since the Saturday of the thirtieth of January instant, that it is the only bare thing in that shed, and that the shape of that bench is the shape of a sheet and a half that came up that hill on foot on the ninth of December past and came apart in the said woman's hand on the thirty-first of that month and cannot be put back and cannot be bought.*
+*And that the bench under that pump is bare for a twenty-fifth night, that it has been bare since the Saturday of the thirtieth of January instant, that it is the only bare thing in that shed, and that the shape of that bench is the shape of a sheet and a half that came up that hill on foot on the ninth of December past and came apart in the said woman's hand on the thirty-first of that month and cannot be put back and cannot be bought.*
 
 *And that the copy of a record of the twenty-fourth of November past is nine feet away in a drawer in that room, and that the acknowledgment of the twenty-ninth of November past is in the same drawer, and that the half sheet of a court in a city, which was answered in ten words in a market in about forty people's hearing on the ninth of February instant, is in the same drawer, and that the printer's letter of the twentieth of December past is on that bench with a question in it that has not been answered and that that yard has the answer to and is not going to send.*
 
