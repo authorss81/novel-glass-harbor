@@ -16,15 +16,15 @@ A mark and twelve shillings and fourpence in a bag. Three hundred and eight penc
 
 ---
 
-**And at about eleven on the Thursday morning a woman of fifty-eight came up the hill with a flat board under her arm and about nine sheets of paper on it, and she gave her name before she said anything else, which is what a person does who has come up a hill to be left alone.**
+**And at about eleven on the Thursday morning a woman of fifty-eight came up the hill with a flat board under her arm and the whole of one job on it, being thirteen sheets, which is the eleven she had copied and her own sheet of them and the office's slip, and she gave her name before she said anything else, which is what a person does who has come up a hill to be left alone.**
 
 Pernel Saye, of this harbor, a copyist, with a counter in a room off the fish market that is open to anybody from eight until the market is off the boards, where a sheet is a penny and forty sheets a shilling.
 
 "**I want four minutes of a man who reads a page,**" she said, "**and I am not going to stand here and explain the whole of it, because the whole of it is a number.
 
-"**I copied for that circuit office on the eighth of September. Eleven sheets, out of a file they keep in a room on the second floor that I have been up to twice in my life and am not going up again. It came in on the Friday and went out on the Monday, and the office paid me at the going rate and did not argue, and I have not been paid yet and I am not going up there about it, because I will be paid on the twentieth and it is eleven days and I am not a fool.**
+"**I copied for that circuit office on the eighth of September. Eleven sheets, out of a file they keep in a room on the second floor that I have been up to twice in my life and am not going up again. It came in on the Friday and went out on the Monday, and the office paid me at the going rate and did not argue, and I have not been paid yet and I am not going up there about it, because I will be paid on the twentieth and it is nineteen days and I am not a fool.**
 
-"**And here is the thing. There are two leaf numbers on my sheet. Their slip says one of them and my sheet says another, and they are in the same hand on the same piece of paper about two inches apart, and it is not my hand, and I did not copy either of them, I only wrote the one at the head of my own sheet the way I write it on everything I have ever copied in this town.
+"**And here is the thing. There are two leaf numbers in front of me and they are in different hands. The one at the head of my own sheet is mine, because I write a leaf number at the head of everything I have ever copied in this town. The other is on their own slip, a couple of inches above it on a second sheet, and it is not my hand, and their second clerk copies the head of a job into that slip and I did not write that and I did not copy it, and I have not read one word of what is under either of them.
 
 "**And the head of my own sheet is the only part of it that is mine. Everything else on that board came out of their file, and it is not mine, and I did not look at it and I would not look at it if it was left out on the step.**"
 
@@ -39,11 +39,11 @@ Calder Marr read the four lines at the top of it twice and then a third time, wh
 
 "**I cannot help you with that,**" he said.
 
-"**I did not think you could. What I want to know is whether the number at the head of my sheet is the number on their slip, and I cannot read their second clerk's figures, and I am not going to take a sheet up two flights of stairs on my own time to ask her whether she can count to sixty-two.**"
+"**I did not think you could. What I want to know is whether the number at the head of my sheet is the number on their slip, and I cannot read their second clerk's figures, and I am not going to take a sheet up two flights of stairs on my own time to ask her whether she can count.**"
 
 "**Then read me the number off their slip.**"
 
-She had it on a second sheet, and it was the same, and she put the two side by side on the bench and let him look at both of them and said nothing at all while he did it.
+She had it on a second sheet, in the office's hand, and she put the two side by side on the bench and let him look at both of them and said nothing at all while he did it.
 
 "**It is the same number,**" he said. "**Sixty-two. And that is the whole of what I can do for you, and it is not a thing you needed a man for.
 
@@ -67,7 +67,7 @@ She put her thumb on the corner of the board and said, *that is checkable*, and 
 
 **And on Friday the second a letter went into the letterbox on this hill, and it cost four pence, and it was in the holder's own left hand, and it is the only money this yard has spent on itself in nine weeks.**
 
-The letterbox on the hill is a box with a slot in it and it is emptied on Tuesdays and Fridays, and the man of the first lay who has a boat of about two hundred tons wrote to this yard on Wednesday and asked for one thing, which was the figure of the bar of gravel, so that he could put his word under a line in a paper of his own about a boat of his own that went on the ground on the second of August. The yard had refused him that figure in a doorway in about eleven sentences on Monday the twenty-fifth of September, and had refused it four times over, and the four reasons were good and checkable and one of them was that a printed thing cannot be certified afterwards without becoming a different kind of thing.
+The letterbox on the hill is a box with a slot in it and it is emptied on Tuesdays and Fridays, and the man of the first lay who has a boat of about a hundred and ninety tons wrote to this yard on Wednesday and asked for one thing, which was the figure of the bar of gravel, so that he could put his word under a line in a paper of his own about a boat of his own that went on the ground on the second of August. The yard had refused him that figure in a doorway in about eleven sentences on Monday the twenty-fifth of September, and had refused it four times over, and the four reasons were good and checkable and one of them was that a printed thing cannot be certified afterwards without becoming a different kind of thing.
 
 "**Then it goes in the same four lines and in the same hand,**" said Calder Marr, "**and the reason it goes at all is that a man has asked me a question in writing, and a man who asks in writing and gets nothing in writing has been told no by a man with a door and not by an office, and I am not going to let that stand in about sixty boats without a decision of mine behind it.**"
 
@@ -81,7 +81,7 @@ The letterbox on the hill is a box with a slot in it and it is emptied on Tuesda
 
 "**Post it,**" said Nessa Pike, "**and pay the four pence out of the bag where anybody can see you pay it, and do not put the four pence on the same line as mine.**"
 
-"**It is not the same four pence, and there is going to be a line in the book on Tuesday morning that says so, and your seven pence is the seventh of August and it is standing and it is not being paid and it is not going to be paid out of the bag this month, and if one of those two ever gets put beside the other I will take the book off the bench and go down to the boards.**"
+"**It is not the same four pence, and there is going to be a line in the book on Tuesday morning that says so, and your seven pence is the twentieth of August and it is standing and it is not being paid and it is not going to be paid out of the bag this month, and if one of those two ever gets put beside the other I will take the book off the bench and go down to the boards.**"
 
 *First column, entered on Friday the second of October instant at about four in the afternoon in this shed: that a letter was put into the letterbox on this hill on the Friday morning in the holder's own left hand, and that the postage of it, four pence, was paid out of the bag at the counter in this town in the holder's own hand and is entered here with the hour; that the said letter states in four lines that the figure of the bar of gravel was given in print on the twenty-fifth of August past and stands, that a certification is a conclusion with a person's name at the foot of it, that there is a figure of two and a half for the same bar made four times in nineteen years which this party is not going to decide between in a shed, and that the party has not taken the printed figure back; and that it is the holder's own hand and not a clerk's; and that this party has entered that it has published a refusal in the ordinary post and has entered why, and that the reason is that a man who has been refused in a doorway is going to say so in a market whether this party writes to him or not, and that the whole of the difference this party has to offer him is his own copy of the four reasons; and that the postage of the said letter is not the seven pence owing to this party's own shipwright for the postage of a letter of the twentieth of August, and that those are two different figures and neither of them is the other, and that the seven pence stands unpaid.*
 

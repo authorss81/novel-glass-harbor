@@ -32,18 +32,18 @@ Mara Venn, thirty, of no office and of no party, who was at the market office fr
 
 Pernel Saye put the pen down, which she did not do in the middle of a morning either.
 
-"**Then here it is,**" she said, "**and I have been sitting on it since the Friday, which is four days, and I did not bring it to you because I did not know whether you were in this town and I did not know whether you would want it, and I have been not-knowing about it for four days and I am a woman of fifty-eight and I do not have a great many four days in a year.
+"**Then here it is,**" she said, "**and I have been sitting on it since the second, which is five weeks and two days, and I did not bring it to you because I did not know whether you were in this town and I did not know whether you would want it, and I have been not-knowing about it for five weeks and I am a woman of fifty-eight and I do not have a great many five weeks in a year.
 
-"**When a leaf comes out of a file to be copied, the copying room fills a slip. It goes in duplicate. The top copy goes into the removal register at the end of the day's work and the counterfoil comes to the woman who did the copying, and the counterfoil is hers for two years and after that it is waste paper, and I have nine years of waste paper in a box under this counter and I have never once in my life thrown one of them away.
+"**When a leaf comes out of a file to be copied, the copying room fills a slip on the day it comes out. It goes in duplicate. The top copy goes into the removal register at the end of that day's work and the counterfoil comes to the woman who did the copying, which in my case was the eighth and was six days after the slip was filled, and the counterfoil is hers for two years and after that it is waste paper, and I have nine years of waste paper in a box under this counter and I have never once in my life thrown one of them away.
 
-"**And I have not read it. I will not tell you I have not read it, because that would be a lie and I have been a copyist for thirty-one years and I read everything I copy, because I cannot copy a hand I have not looked at. What I did not do is take it home and think about it, and I have not, and I have had four days in which to.
+"**And I have not read it. I will not tell you I have not read it, because that would be a lie and I have been a copyist for thirty-one years and I read everything I copy, because I cannot copy a hand I have not looked at. What I did not do is take it home and think about it, and I have not, and I have had five weeks in which to.
 
 "**Here.**"
 
 She went down and came up with a grey card about the size of a man's hand and put it on the counter flat and turned it round so that it faced the woman standing there.
 
 > *Morrow circuit office — copying room. Second day of September.*
-> *Withdrawn: file of the ASTER GANNET, leaf 62. One leaf, to the copying room, copied entire, returned with the file.*
+> *Withdrawn: file of the ASTER GANNET, leaf 62. One leaf, to the copying room on the eighth instant, copied entire, returned with the file.*
 > *On the application of a commissioned officer of the Crown Navy, by letter of the first instant, a copy of which letter is on the file. This office agrees to the withdrawal.*
 > *Reason entered by this office: risk management.*
 > *The leaf is not to be produced. A copy is held.*
@@ -54,13 +54,13 @@ Mara Venn read it twice. She put one thumb on the fourth line and kept it there 
 
 "**Then what is it.**"
 
-"**It is an office saying what it is. In its own hand. About a page of its own file. **That is all it is and that is the whole of what has happened in this town in the last month, and it took two words, and the two words are not about the page.**
+"**It is an office saying what it is. In its own hand. About a page of its own file. That is all it is and that is the whole of what has happened in this town in the last month, and it took two words, and the two words are not about the page.**
 
 "**A page is a thing a person wrote. A form is a thing an office wrote about the page. And when the office writes the form, the form goes in front of the page, because that is what forms are for, and a man in a room in October who is handed the form will read the form. He will not turn it over. He will not ask what was on leaf sixty-two before the second of September. Nobody ever has.**"
 
 She took her own four folded sheets out of the oilcloth and opened them on the counter beside the grey card, and they were her own writing, and at the head of the first of them in her own hand was a leaf number.
 
-"**And now the rest of it, and I am going to say it fast because I have been not-saying it since Friday.
+"**And now the rest of it, and I am going to say it fast because I have had a quarter of an hour of it and I would rather have said it before I asked for the copy.
 
 "**That number is sixty-two. That is my number, in my hand, written by me in June, because I write a leaf number on everything I sign, and I have never in nine years had a reason to write a leaf number on anything except my own fair copies.
 
