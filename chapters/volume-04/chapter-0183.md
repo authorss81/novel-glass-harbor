@@ -34,7 +34,7 @@ There were about eleven people on the steps and the quay behind them at ten on a
 
 "**That man is out of a Tuesday and I put him on these steps for two days and I told him on Friday and not on Monday morning, and I did it on the Friday because a man who is told on a Friday has a Saturday to be angry about and a man who is told at ten on a Monday morning has got about four hours.
 
-"**And it is not in my ledger because my ledger is spent, and it is spent, and I told the yard that in September in the open air and I am not going to pretend to a man on a Tuesday that it is anything else. It is not entered because there is no room to enter it in, and a thing that cannot be entered cannot be produced, and a thing that cannot be produced cannot be argued about, and a man who has been in this harbor nineteen years knows exactly what he is being handed and what it is worth, and that is not a favour to him.
+"**And it is not in my ledger because my ledger is spent, and it is spent, and I told the yard that in September in the open air and I am not going to pretend to a man on a Tuesday that it is anything else. It is not entered because there is no room to enter it in, and a thing that cannot be entered cannot be produced, and a thing that cannot be produced cannot be argued about, and a man who has been in this harbor nineteen years knows exactly what he is being handed and what it is worth, and that is not a favor to him.
 
 "**And my repair account has been empty since the middle of February and is empty this morning, and I am not going to open it for two days of a man's time on a pair of steps in October, and I would rather say that out loud to about eleven people than have it found out in a market in March.**"
 

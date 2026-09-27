@@ -38,7 +38,7 @@ Calder Marr did not answer for about ten seconds and about forty people waited.
 
 "**That is the second time a man has asked this yard that in a market in this harbor this year, and I am not going to stand here and tell you it is a different question. It is the same question with a different man holding it, and the answer has not moved and it is not going to.
 
-"**The answer is that this yard does not know. This yard said that out loud in this market on the thirteenth day of August last in about forty people's hearing, and it is not going to say it a second time about the same thing, and anybody in this market who wants to know what the answer was then can go and read the sheet of the fifteenth of August, which is on that wall with a naval paper nailed over the top of it where a man has to lift a corner, and the reason is on the face of it in about nine words.
+"**The answer is that this yard does not know. This yard said that out loud in this market on the thirteenth day of August last in about forty people's hearing, and it is not going to say it a second time about the same thing, and anybody in this harbor who wants to know what the answer was then can go and read the sheet of the twenty-fifth of August, which is on that wall on the same nails and on the outside of what was there, and there is nothing on the top of it but a nail, and the return is under it, and a man can read the return if he stands at the side of it in the right wind, and the reason is on the face of it in about nine words.
 
 "**And the reason it has not moved is the reason I have just given you, and I am not going to say it again in a different way in the same street.
 

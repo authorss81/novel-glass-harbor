@@ -22,7 +22,7 @@ It is one sheet. It is six heads. It is about a page and a half of writing, and 
 >
 > **Two. The item.**
 >
-> *One item of recovered transparent mineral, entered in the custody room of this office. The number against it is not on this sheet. The party that made the application knows what the item is and has known since the fourteenth day of October two years past, and this office is not going to write it out again on a sheet that goes up a hill.*
+> *One item of recovered transparent mineral, entered in the custody room of this office. The number against it is not on this sheet. The party that made the application knows what the item is and has known since the fourteenth day of October last year, and this office is not going to write it out again on a sheet that goes up a hill.*
 >
 > **Three. How it came here.**
 >

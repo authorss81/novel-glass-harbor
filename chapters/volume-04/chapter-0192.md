@@ -16,7 +16,7 @@ A sheet of this yard's own paper, folded once. A sheet of the same yard's own pa
 
 "**The shed. A page in this shed is read by the man who wrote it and by one other person, and one of us has a bone in her forearm and the other one is the holder, and a page in this shed is worth what two men in one room are worth. It is the instrument this yard has been building since the third of May and it is the only one of the three that a man in a market can be shown and cannot be given.**
 
-"**The market. About four hundred people can read a page in a market. It is the only one of the three that anybody in this town can argue with, and it is the only one of the three that can be taken down by any man with a knife, and this yard put a sheet on that wall on the fifteenth of August and had a naval paper nailed over it and has not been asked about it since.
+"**The market. About four hundred people can read a page in a market. It is the only one of the three that anybody in this town can argue with, and it is the only one of the three that can be taken down by any man with a knife, and this yard put a sheet on that wall on the twenty-fifth of August on the same nails everything goes up on, on the outside of whatever was there, and nothing has been nailed over it since and it has not been asked about it since.
 
 "**And the room. A page in a room in a city goes on a record and cannot be got off. And we have had one of those and I have read it, and I know exactly what is in it and I know exactly what is not in it, and what is not in it is every reason this yard has ever written.**"
 

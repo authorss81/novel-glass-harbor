@@ -20,7 +20,7 @@ The pump came off the bench at about seven in the morning, which is a sentence a
 
 "**No, because there is a thing I have not said and I am going to say it, and then I am going to go and rig a fall.**"
 
-She put her hand flat on the bench, the way she does when she is not going to improve on a thing.
+She squared the sheet in front of her with the heel of her hand and left it there, which is the other thing she does when she is not going to improve on a thing.
 
 "**Here is the thing and then I am going to the pump. A man reads the second column out in a room and the man with the pen writes down the line and not the reason against it, because reasons are long, and he goes away with five facts about a thing neither of you can check. I said that to you on the twentieth of August in this shed and it is still true and I have not improved on it in twenty-four days.
 

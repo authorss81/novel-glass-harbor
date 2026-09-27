@@ -40,7 +40,7 @@ He wrote it down in front of the man and read it back and the man did not ask to
 
 **And on Saturday the sixteenth, at ten in the morning, in the hearing room over the tide-gang store on the west basin, this party was in a room for the second time in a week, and it was not represented by anybody, and it went in the morning with the book in its bag.**
 
-About nine people were in the room. The wall behind the reeve's bench came down bare on Monday the eighteenth of August being the seventeenth and on Monday the first of September being the eighteenth and on Monday the eleventh being the nineteenth, and it was bare again on the morning of this sitting with a slate on it and nothing on the slate, which is how it has been for nineteen Mondays while this harbor has had a form coming up its hill.
+About nine people were in the room. The wall behind the reeve's bench came down bare on Monday the twenty-eighth of August being the seventeenth and on Monday the fourth of September being the eighteenth and on Monday the eleventh being the nineteenth, and it was bare again on the morning of this sitting with a slate on it and nothing on the slate, which is how it has been for nineteen Mondays while this harbor has had a form coming up its hill.
 
 **Ambrose Sell was at the table with a paper and he said his name and the name of his office before he read it, and he said that he was the clerk of the sitting and not the man who directed it, and that he had not been told anything he could not put on a sheet of paper and was not going to say anything he could not.**
 
