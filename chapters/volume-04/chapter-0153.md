@@ -8,7 +8,7 @@ Monday the twenty-first and Tuesday the twenty-second of August, at the second s
 
 And a woman of the third lay came up the hill on the Monday morning at about half past eight and booked a day, and she said before she said anything else that she would pay twelve of seventeen at the mole the way she always had, and Calder Marr said that was the arrangement and had been since the third of May.
 
-That was the first money this yard had taken since the second of August. It is eleven days.
+That was the first money this yard had taken since the seventh of August. The eleven marks that came in on the seventh went out again on the Tuesday of the same week, four of them on a wage and four on two pots of the office's air and three on a boat of another crew, and the bag has been at nothing since that Tuesday night. It is fourteen days.
 
 ---
 
@@ -48,13 +48,13 @@ He went back down the hill.
 
 And on the Tuesday night, at about nine, the shipwright read back the whole of the day and he read it back after her, and there was nobody else in that shed, and then she took the pencil and did a thing with the envelopes that had not been done since the second of May and had been thought about every Tuesday since the first of August.
 
-She counted them off the bench. Eleven of them. She counted them twice and made him count them once.
+She counted them off the bench. Twelve of them. She counted them twice and made him count them once.
 
-"**Eleven,**" she said.
+"**Twelve,**" she said.
 
-"**Eleven.**
+"**Twelve.**
 
-"**And of those eleven, how many have we not made.**"
+"**And how many weeks fallen due this year have we not made one for.**"
 
 "**One.**"
 
@@ -62,17 +62,17 @@ She counted them off the bench. Eleven of them. She counted them twice and made 
 
 "**The first and the eighth were made. The fifteenth was not made. There is no envelope with the week of the fifteenth on it anywhere in this shed, because I did not write one.**"
 
-"**Then that is two figures and they are not the same figure,**" said Nessa Pike, "**and I want both of them on the page in the same breath, because the day somebody comes up this hill and asks how many weeks this yard has paid, the answer is eleven and the answer is thirteen and both of them are true and I am not going to let the second one die in a man's head because it is the awkward one.
+"**Then that is two figures and they are not the same figure,**" said Nessa Pike, "**and I want both of them on the page in the same breath, because the day somebody comes up this hill and asks how many weeks this yard has paid, the answer is twelve and the answer is that one of the weeks that fell due is not one of the twelve, and both of those are true and I am not going to let the second one die in a man's head because it is the awkward one. A week with no envelope on it is not a week that was not paid for. It is a week that was not written down, and this yard does not get to have those two the same.
 
 "**And I want the reason it is in the second column and not the first, and the reason is that an envelope that is not made is not a wage. The column is not the wage. The wage is four marks into a hand, and a man who is owed four marks is owed four marks whether or not there is a piece of paper with a week written on it, and the piece of paper is a thing this yard does so that it can tell at the end of a year which weeks it did, and it is not a receipt and nobody has ever received it.**"
 
-*Second column, not checkable from a mole, entered on Tuesday the twenty-second of August instant at about nine in the evening in this shed: that the count of envelopes on the bench in this chest is eleven and that the number of those eleven that were never made is one, being the week of Tuesday the fifteenth of August, and that the two figures are different figures and neither of them is the other, and that the reason they are entered together is that a yard which is asked how many weeks it has paid ought to be made to say both numbers in the same breath rather than the one that is easier; and that an envelope that is not made is not a wage and this column is not the wage, and the reason for that is that a piece of paper with a week written on it is a thing this yard does so as to know at the end of a year which weeks it did, and it is not a receipt, and nobody in this harbor has ever received one, and the forty marks standing to a boy of twenty-two are not a receipt and are not reduced by anything on this line.*
+*Second column, not checkable from a mole, entered on Tuesday the twenty-second of August instant at about nine in the evening in this shed: that the count of envelopes on the bench in this chest is twelve, and that the number of weeks fallen due this year with no envelope standing against them is one, being the week of Tuesday the fifteenth of August, and that the two figures are different figures and neither of them is the other, and that the reason they are entered together is that a yard which is asked how many weeks it has paid ought to be made to say both numbers in the same breath rather than the one that is easier; and that an envelope that is not made is not a wage and this column is not the wage, and the reason for that is that a piece of paper with a week written on it is a thing this yard does so as to know at the end of a year which weeks it did, and it is not a receipt, and nobody in this harbor has ever received one, and the forty marks standing to a boy of twenty-two are not a receipt and are not reduced by anything on this line.*
 
 Nobody read that one back twice. The entry above it says why, and the reason is hers, and she gave it in advance on a Monday night in July and has not changed it.
 
 ---
 
-**And on the Tuesday night, after the envelopes, the holder put the whole of the three marks into the first column with the figure and the date on it, and this is the first time in this volume that the name of the man is written in this yard's book in this yard's own hand and it is written once and it is not going to be written again.**
+**And on the Tuesday night, after the envelopes, the holder put the whole of the three marks into the first column with the figure and the date on it, and it is the first time in five months that the name of a man this yard owes money to is written in this book in this yard's own hand, and it is written once and it is not going to be written again.**
 
 Perry Ollett, master of the *Sallow Reach*, a crew of Ashtide, six men, a compressor of her own and forty fathoms of her own hose, is owed three marks for a day of work on Tuesday the eighth of August, and he named six marks out loud in a doorway on Sunday the thirtieth of July and was paid three at the mole in front of the man who hired the day, and he said at the mole that he wanted it said that he said six and was paid three and both of those are the arrangement.
 

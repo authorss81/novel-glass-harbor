@@ -56,7 +56,7 @@ He put the page under his arm and looked at the boards for a moment.
 
 ---
 
-**And at about five in the evening on the Wednesday, when the clerk had gone back down the hill, the two of them went down and looked at the wall properly, with a rule and not a stick, and four sheets had come off it since the morning, and the bare nails were the same bare nails, and nobody in that yard saw it happen and nobody was asked about it.**
+**And at about five in the evening on the Wednesday, when the clerk had gone back down the hill, the two of them went down and looked at the wall properly, with a rule and not a stick, and three more sheets had come off it since the morning, and the bare nails were the same bare nails, and nobody in that yard saw it happen and nobody was asked about it.**
 
 *That on the evening of Wednesday the sixteenth of August instant it was found, on going down to the market wall, that four further sheets had come off it since the morning, being the printed sheet of a crew of Ashtide put up on Monday the twenty-seventh of July, a sheet of the seventh of June instant, and this yard's own sheet of the tenth thing; that this party does not know on what day or at what hour those three came off, and has not asked, and is not going to ask, and has entered that it does not know; and that what remains on that wall is this yard's own fourth return, made on Friday the fourteenth of July, and that it is the only paper on that wall that any office in any city is obliged to look at, and that it is still on those nails and a man can read it if he stands at the side of it in the right wind.*
 
@@ -64,7 +64,7 @@ He put the page under his arm and looked at the boards for a moment.
 
 ---
 
-**And in the shed that evening the shipwright asked him one question, in her own trade's voice, and the chapter that follows is what he said.**
+**And in the shed that evening the shipwright asked him one question, in her own trade's voice, and it is the whole of what he said about it that night.**
 
 "**Then tell me what you think it is,**" Nessa Pike said. "**A sheet coming off a wall. Is that a thing a man did or a thing an office did. I am asking it in the way I would ask whether a plank on a hull let go in a blow or was cut, because in my trade those are two different repairs and one of them is somebody's fault and the other one is the wood.**
 

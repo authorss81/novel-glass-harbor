@@ -66,7 +66,7 @@ Rowan Trewin looked at him for a while with his hand still on the sheet under th
 
 "**Then it is eighteen and I am not going to argue about it with a man who has been counting tides for nineteen years, and the line goes up as it is and neither of us is going back to it.
 
-"**And the reason it is on a wall and not in a book and not in a column is yours and I am going to say your reason out loud so that a man reading it in four years knows it was not ours. A book is ours. A column is ours. A wall is ours. A press is a man's, and there is one in a city with your figure in it going and my figure in it going, and neither of us can stop it, and both of those figures are on that press and neither is going to be withdrawn and this volume is not going to decide which of them is right and I am not going to argue it with you in a shed.
+"**And the reason it is on a wall and not in a book and not in a column is yours and I am going to say your reason out loud so that a man reading it in four years knows it was not ours. A book is ours. A column is ours. A wall is ours. A press is a man's, and there is one in a city with your figure in it going and my figure in it going, and neither of us can stop it, and both of those figures are on that press and neither is going to be withdrawn and this yard is not going to decide which of them is right and I am not going to argue it with you in a shed.
 
 "**And the rest of what you asked for is not on this sheet and I am not going to put it there, and I have said out loud why and I am not going to explain myself out of it a second time.**"
 
@@ -78,7 +78,7 @@ He said it. Trewin took his hand off the sheet, took the two stones off it, and 
 
 ---
 
-**And on the Thursday the two of them did not go anywhere near the water and did not buy air and did not earn a mark, and they went up onto the crown above the third seam's mark at about eleven in the morning and stood in front of the two objects of nobody's and did not touch them and did not talk about them, and the ship's remark was that ninety-one days is a figure and not a subject.**
+**And on the Thursday the two of them did not go anywhere near the water and did not buy air and did not earn a mark, and they went up onto the crown above the third seam's mark at about eleven in the morning and stood in front of the two objects of nobody's and did not touch them and did not talk about them, and the ship's remark was that ninety-nine days is a figure and not a subject.**
 
 Then they came down and wrote it all out, and the two entries that are the price of the day are these, and both are in the first column with the date against them, and the shipwright read them back and he read them back after her.
 
@@ -90,6 +90,6 @@ Then they came down and wrote it all out, and the two entries that are the price
 
 *And that three hours of a boat's time were given to this party on the Wednesday by a man who did not have to give them and this yard did not pay for them and did not ask for them and has entered that it did not ask, with the reason, which is that a man who keeps a channel by hand came up this coast for nothing in June and told this party he would come again in the autumn for nothing, and that this party did not call him and did not write to him and would have paid him nothing, and that a yard which has been given three hours of a boat for nothing and has entered it as a gift and not as a debt is a yard that can be given a thing.*
 
-**Nothing came in and nothing went out of that bag on the Wednesday or on the Thursday, and a mark and nineteenpence is in it and it is the whole of the money this yard has, and a wage of four falls on the Tuesday next.**
+**Nothing came in and nothing went out of that bag on the Wednesday or on the Thursday, and a mark is in it and it is the whole of the money this yard has, and a wage of four falls on the Tuesday next.**
 
 **And the coast road is not resolved and this party is not going to resolve it. It was refused a license in nine sentences on the back of a paper and the road is published and cannot be un-published, and both halves of that are true at the same time: a road nobody else can use is not a road, and a road everybody can use is not this yard's. Both halves of that go up on a wall in this harbor on Friday and neither of them is going away afterward. Nobody in this harbor is going to call it anything else, and a man of fifty-four is going to keep sounding it in the spring and is not going to be thanked for it either.**
