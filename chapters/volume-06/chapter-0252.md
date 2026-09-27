@@ -6,7 +6,7 @@ Thursday the eighteenth and Friday the nineteenth of March, on the mole's steps 
 
 **The cistern behind the engine house was charged at no figure at about ten on the said Thursday morning by four men this yard does not know and this party walked none of it, and that is the thirtieth of the charges this party has entered walked on none of since the third day of August past, and the walk is nil and it stays nil, and no day of work was booked in this yard on that Thursday, and the reason against that line is that four men this yard does not know have been at that cistern since ten and a party of one does not work a day it has spent at a cistern.**
 
-**And the far bench was not occupied on the said Thursday at any hour, and was occupied on the said Friday from about ten until about four, and the holder of that writ is up that coast road and did not go over to him on either of the two days, and a man of sixty-one was not asked for anything on either of them and asked nothing on either of them, and the only question asked in that shed on the said Friday was asked by a man of sixty-one of this yard and not by anybody in it.**
+**And the far bench was not occupied on the said Thursday at any hour, and was occupied on the said Friday from about ten until about four, and the holder of that writ is up that coast road and did not go over to him on either of the two days, and a man of sixty-one was not asked for anything on either of them and asked nothing on either of them, and the only question asked in that shed on the said Friday was asked by a man of sixty-one of this harbor and not by anybody in it.**
 
 **And no day of work was booked in this yard on the said Friday either, and the reason against that line is the same reason and not a second one, and a boat of about forty tons came alongside that mole at about eight in the morning on the said Friday and stayed three hours and went away again without its owner in it.**
 
@@ -52,9 +52,9 @@ Tobias Wren looked at her for a while. Then he sat down on the bench, on the nea
 
 Nessa did not say anything for a moment. The wind came under the shed door again and found the gap.
 
-"Six marks is a week and a bit of what the second seam pays a man," she said.
+"Six marks is two days of what the second seam pays a man," she said, "and this yard has not had one of those days since the fourteenth of March."
 
-"Six marks is the boat. It is not a week of anything. It is a day of a hull and a day of wire and a day of a man's hands that are mine because there is nobody else to do it, and it is dear, and it is dear because I am the only man on this coast with a hull that can stand being put where you are going to put her." He looked at her hands. "That is not a favour and it is not a favour you are being offered. It is a price, and you may not have it, and I am telling you the price so that you cannot say afterwards that nobody told you."
+"Six marks is two of your days and I can see that you have done that sum already, and it is not the sum that makes it dear." He turned the slate round and put it face down. "It is a day of a hull and a day of wire and a day of a man's hands that are mine because there is nobody else to do it, and it is dear, and it is dear because I am the only man on this coast with a hull that can stand being put where you are going to put her." He looked at her hands. "That is not a favour and it is not a favour you are being offered. It is a price, and you may not have it, and I am telling you the price so that you cannot say afterwards that nobody told you."
 
 **"And one more thing, and I am putting it in front of you now so it is not a surprise in a month," he said. "I will not be a teacher."**
 
@@ -68,7 +68,7 @@ Nessa did not say anything for a moment. The wind came under the shed door again
 
 He went down the steps. Nessa stood at the top of them with the slate still on the bench behind her and did not pick it up for about a minute.
 
-Then she wrote the day down. Six marks. A man of about forty, called Ruad, paid by the day. The fuel. And under it, in the second column, in her own left hand: *six marks a day is nine times what a day of work on the second seam pays this yard, and this yard has nothing coming in, and the season of that mark is nine marks, and nobody in this country is going to be asked for nine marks.*
+Then she wrote the day down. Six marks. A man of about forty, called Ruad, paid by the day. The fuel. And under it, in the second column, in her own left hand: *six marks a day is twice what a day of work on the second seam pays this yard, and this yard has had none of those days since the fourteenth of March, and the season of that mark is nine marks, and nobody in this country is going to be asked for nine marks.*
 
 ---
 

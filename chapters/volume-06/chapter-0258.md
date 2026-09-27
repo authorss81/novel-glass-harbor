@@ -48,7 +48,7 @@ He said that without any weight on it at all, which was worse than if he had put
 
 **"Who is the other side," said Calder Marr.**
 
-"That," said the reeve, "is the whole of what is left in that office, and I have been waiting nine days to be asked it, and the answer is that the other side of your mark is a man of about fifty of the second lay who can say a thing or two about fouling and a smith in Ternwatch with a flat on the crown of a shackle who has never heard of you and would not come, and neither of those is an interested party, and if I seat a man of fifty of the second lay as a party I am inventing a proceeding to get at a name, and I do not invent proceedings. That is what this office has got left and it is not enough to seat anybody, and you can see the whole of it from where you are standing."
+"That," said the reeve, "is the whole of what is left in that office, and it is the other half of the thing I have been holding since the fourth of March, and nobody has asked me it once, and the answer is that the other side of your mark is a man of about fifty of the second lay who can say a thing or two about fouling and a smith in Ternwatch with a flat on the crown of a shackle who has never heard of you and would not come, and neither of those is an interested party, and if I seat a man of fifty of the second lay as a party I am inventing a proceeding to get at a name, and I do not invent proceedings. That is what this office has got left and it is not enough to seat anybody, and you can see the whole of it from where you are standing."
 
 He put both hands flat on the counter.
 

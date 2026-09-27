@@ -4,7 +4,7 @@
 
 Friday the twenty-sixth and Saturday the twenty-seventh of March, in a boat of about forty tons at the face of the second seam, and in the shed on the mole.
 
-**A boat of about forty tons went out on the said Friday at eleven with the man of the second lay and the ship's hand in her, hired at one mark and eightpence for the day, and one mark and eightpence went out of that yard's own book at about half past four in the afternoon, and no day of work was booked in that yard on either of the said two days, and the reason against the line of the said Friday is that four men this yard does not know charged the cistern at about ten and a party of two does not book a day it has spent at a cistern and at a fouled mark.**
+**A boat of about forty tons went out on the said Friday at eleven with the man of the second lay and the ship's hand in her, hired at one mark and eightpence for the day, and one mark and eightpence went out of that yard's own book at about half past four in the afternoon, and no day of work was booked in that yard on either of the said two days, and the reason against the line of the said Friday is that a party of two spent the whole of that day in a hired boat at the face of that seam and there is no paper in that drawer for a day to be booked against, and the reason against the line of the said Saturday is the same reason and not a second one.**
 
 **And the far bench was occupied on the said Friday from about ten until about four and was not occupied on the said Saturday at any hour, and the holder of that writ was in a boat off the face of the second seam on the said Friday and did not go over to him on either of the two days, and a man of sixty-one was not asked for anything on either of them and asked nothing on either of them.**
 
@@ -12,13 +12,13 @@ Friday the twenty-sixth and Saturday the twenty-seventh of March, in a boat of a
 
 ---
 
-There was about a foot of green on the weather side, where on Wednesday there had been four inches, and a green that comes up three inches in three days is a green that a man has been putting there.
+There was about a foot of green on the weather side, where on the twenty-third there had been about four inches, and a green that comes up eight inches in three days is a green that a man has been putting there.
 
 "Say that again," said the man of the second lay.
 
 "I did not say it. You said it."
 
-"I said what I would have said. There is no green in this water that comes up three inches in three days, and the only way a mark gets fouled faster than the water does it is a man with a bag of something from another harbour and a bad conscience, and I have never known a bad conscience to travel without a bucket."
+"I said what I would have said. There is no green in this water that comes up eight inches in three days, and the only way a mark gets fouled faster than the water does it is a man with a bag of something from another harbour and a bad conscience, and I have never known a bad conscience to travel without a bucket."
 
 **And there was a line on the mark that was not theirs.**
 
@@ -98,7 +98,7 @@ She left the fourth column empty under its ragged head.
 
 ---
 
-*First column, entered on Saturday the twenty-seventh day of March next at about half past eight in the evening in this shed: that on the said Friday there was about a foot of green on the weather side of that mark, where on the seventeenth of March there had been about four inches, and that a green that comes up three inches in three days is a green that a man has been putting there, and that the said man of the second lay said he had never known a bad conscience to travel without a bucket.*
+*First column, entered on Saturday the twenty-seventh day of March next at about half past eight in the evening in this shed: that on the said Friday there was about a foot of green on the weather side of that mark, where on the twenty-third of March there had been about four inches, and that a green that comes up eight inches in three days is a green that a man has been putting there, and that the said man of the second lay said he had never known a bad conscience to travel without a bucket.*
 
 *And that on the said Friday there was a line on that mark that is not the line of this yard, being four-strand and untarred and new and bent in a figure of eight and tied with a sheet bend, and that a sheet bend is what a man ties in a hurry when he cannot find a fisher's bend and does not know one, and that the three of those are entered as three findings and not as one.*
 

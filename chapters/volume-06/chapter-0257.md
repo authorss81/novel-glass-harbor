@@ -14,7 +14,7 @@ Sunday the twenty-eighth and Monday the twenty-ninth of March, at the head of th
 
 ---
 
-The man was thirty-one and of the third lay and he had a coaster out of Ashtide with a second hand on her, and he had come up this coast on the Friday with a chart in a bag, and he put the chart on the fish quay at about ten on the Sunday morning where anybody could get at it, which is a thing that costs a man his afternoon and more.
+The man was thirty-one and of the third lay and he had a coaster out of Ashtide with a second hand on her, and he had come up this coast on the Friday before, being the twenty-sixth of that month, with a chart in a bag, and he put the chart on the fish quay at about ten on the Sunday morning where anybody could get at it, which is a thing that costs a man his afternoon and more.
 
 It was a Crown chart of the western approaches. It had a plate on it and a number and a printer's name in Veyr, and the plate said, in a legend about six lines long, that the ground marked as a wreck field was the remains of a fleet lost in a sea catastrophe, and that vessels navigating in the vicinity should keep clear of the shoals, and that the loss of the fleet was a matter of record and not of dispute.
 
@@ -22,7 +22,7 @@ It was a Crown chart of the western approaches. It had a plate on it and a numbe
 
 He said it at the head of the dock at about ten, in front of the market going up, and about eleven people heard it, and about four of them listened.
 
-**Calder Marr had been in that harbor four days and had not stood at the head of that dock since the Saturday before he went up the coast road, and he went down and stood there, and he answered it, and he answered it badly, and he knew he was answering it badly while he was doing it, which is a thing that has happened to him four times in two hundred and fifty chapters and never once at the top of a mole with people standing round.**
+**Calder Marr had been in that harbor four days and had not stood at the head of that dock since the Saturday before he went up the coast road, and he went down and stood there, and he answered it, and he answered it badly, and he knew he was answering it badly while he was doing it, which is a thing that has happened to him four times in five volumes and never once at the top of a mole with people standing round.**
 
 "I am going to give you three things," he said, "and I am going to tell you before I give them that not one of them is an answer, and I am not going to stand here and call a fact an answer, and if anybody writes down after this that a yard in Morrow Quay was asked and said three numbers, then the three numbers will be the answer, and they are not, and you will be able to check that they are not because I have said it out loud.
 
@@ -84,7 +84,7 @@ Nessa came in at about eleven and asked him what he had said, and he told her, a
 
 *Second column, not checkable from a mole, entered on the said Monday at about half past nine in the evening in this shed, and no name is against it: that nothing of that answer was written down, and that the reason is that a thing said out loud at the head of a dock in the morning is gone by the middle of the hour, and that a thing written down in that yard's own book is a thing a yard said about itself, and that in about four years a man in a city would read it and think a yard knows whether a fleet was scuttled, and that it does not know.*
 
-*And that a question asked at the head of a dock goes to about nine other harbors by midsummer off the back of the thirty-eighth line, and that the four people who keep the book of ground four days up that coast are going to be asked nine times a year by strangers about a page that is theirs, and that the said woman said that that is what the thirty-eighth line buys, and that the answer those nine places will get is a refusal, and that a refusal is better than a sheet and is not a fleet, and that neither of them is the fleet.*
+*And that a question asked at the head of a dock goes to about nine other harbors by midsummer off the back of the thirty-eighth line, and that the four people who keep the book of ground four days down that coast are going to be asked nine times a year by strangers about a page that is theirs, and that the said woman said that that is what the thirty-eighth line buys, and that the answer those nine places will get is a refusal, and that a refusal is better than a sheet and is not a fleet, and that neither of them is the fleet.*
 
 *And that the name of the place at seventy fathoms is not on a page of that yard's book and was said once in a shed in the year before last by a man of sixty-one to four people and has not been said since and is not going to be said in a market, and that no office in Veyr is going to be given it, and that the holder of that writ put that refusal in a market in about eleven people's hearing in the order the second of three things rather than at the end of it.*
 

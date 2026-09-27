@@ -48,7 +48,7 @@ The man of the second lay came down the mole at about half past nine on the Wedn
 
 He looked at her a second longer than he needed to, which from him is a laugh.
 
-The boat went out at eleven. The tide was two hours off the top and about a hand's breadth of a half-ebb running north-east across the face, which is the worst of it and the only hour there is. The mark was where it had been set on the twelfth, four days back and not a week; she was wrong about the week and did not correct it out loud, because being wrong about a date in front of a man who is about to work is worse than being wrong quietly.
+The boat went out at eleven. The tide was two hours off the top and about a hand's breadth of a half-ebb running north-east across the face, which is the worst of it and the only hour there is. The mark was where it had been set on the twelfth, five days back and not a week; she had said a week on the Saturday and was wrong by two days, and she did not correct it out loud, because being wrong about a date in front of a man who is about to work is worse than being wrong quietly.
 
 The mark was fouled on the weather side with about four inches of green.
 
@@ -76,11 +76,11 @@ Then she went down the mole and posted the hire money to the man of the second l
 
 *First column, entered on Wednesday the seventeenth day of March next at about half past six in the evening in this shed: that no day of work was booked in this yard on the said Tuesday, and that the reason against that line is the fourth page of a form that came up that mole in a hand on the fourth of that month, and that a hirer at the face of the second seam pays for a piece of paper and the piece of paper is in a drawer in that shed and the drawer is empty of it.*
 
-*And that on the said Wednesday a boat of about forty tons went out at eleven with the man of the second lay and the ship's hand in her, hired at two marks for the boat and the man's day and one mark and eightpence paid out of that yard's own book at about half past four in the afternoon at a box on the corner of that mole, and that the hire was on a private person's account and for a private person's purpose and was not salvage and was not a claim and was not work under any instrument, and that the two of them were off the water at half past two and were never in it at any time of the day.*
+*And that on the said Wednesday a boat of about forty tons went out at eleven with the man of the second lay and the ship's hand in her, hired at one mark and eightpence for the boat and the man's day and one mark and eightpence paid out of that yard's own book at about half past four in the afternoon at a box on the corner of that mole, and that the hire was on a private person's account and for a private person's purpose and was not salvage and was not a claim and was not work under any instrument, and that the two of them were off the water at half past two and were never in it at any time of the day.*
 
 *And that the mark of that yard's own, set on the face of the second seam on the twelfth of March past, is fouled on the weather side with about four inches of green, and that the shackle has two places on it about the size of a thumbnail where the iron is bright, one at the pin and one at the bow, and that the two of them were written on a slate and read back before the slate was turned round, and that the fouling and the bright places are two separate findings and are entered separately and were not entered on one line.*
 
-*And that the fouling is not a season's fouling and the mark is four days old, and that nobody in that shed said a word about what that is, and that that silence is entered here and not improved on.*
+*And that the fouling is not a season's fouling and the mark is five days old, and that nobody in that shed said a word about what that is, and that that silence is entered here and not improved on.*
 
 *And that the said Tuesday was a wage Tuesday and that the twenty-first week of the list of weeks fallen due with no envelope standing against them fell due on it, and that the wage column stands at twenty-six lines and one hundred and four marks with the fifth of March the oldest and twenty envelopes on that bench, and that the column did not move on the said Tuesday and the envelope count did not move with it.*
 
