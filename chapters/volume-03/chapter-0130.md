@@ -1,0 +1,85 @@
+# Chapter 130
+
+*Four Marks, and What Is Not on a Wall*
+
+The yard did not put a sheet up on the market wall on Wednesday the fifth of July, and that is the first thing in this month that was a decision and not a day.
+
+There were three things on that wall and the top one had been there eleven days, and a man in a market had read it every morning that week, and the yard had a column in its own book that a man in Veyr had read and printed a week ago, and on the Wednesday morning the holder and the shipwright stood in front of the wall at about eight with a sheet cut and a nail in a hand and did not put it up.
+
+"**Say the reason out loud, in the street, to anybody who is standing here,**" Nessa Pike said, "**because if we do it quietly it is a decision and if we do it out loud it is a position, and I want it to be a position.**"
+
+"**Then here it is, and it is a bad one and it is the only one we have.**
+
+"**A sheet on a wall is a thing a crew with a compressor and six men puts up. It is printed, it has a scale on it, it has a date on it, it has a price on it, and it has a person to answer a letter about it, and that person is a printer in a city with a press and a name and a trade and no shame in any of it.**
+
+"And we have two and a half men and a bag with four marks in it and a note at thirty-one and a third column that goes in a day late, and if we put a sheet up on that wall it will be a worse sheet than the one on top of it, and everybody in this market will know it inside a day, and the only difference is that ours will be in a hand and not in type, and a hand is not an answer to a letter from a city.
+
+"**And there is the other half and it is the one I would like written down. We have been wrong in public three times this year, in three columns, with a reason against every line of the second column, and every one of the three was found by somebody else and not by us. A party that has been wrong three times has no business putting its figures over a stranger's, and the stranger's are better, and that is the correct order of things and it has arrived at this harbor in eleven days and we did it to ourselves.**"
+
+"And the column is no use," Nessa Pike said. "**I know. But it goes on the page anyway, with the reason, and the reason is that the party has found out in June that the only thing that makes a wall worth reading is somebody else being able to be asked a question about it, and this party cannot be asked a question by anybody in a city about anything on that wall, because there is nothing in this harbor that could answer.**"
+
+She put the nail back in her pocket.
+
+"**And I am not writing that in the second column, because two of us can check it by standing in front of that wall for six weeks and counting who stops. It goes in the first. And it is the first entry in this yard's book in four months that is about a thing we did not do.**"
+
+---
+
+**And then, at about eleven, Calder Marr wrote a page that is not about glass and is not about money and is not going to be read by anybody in this harbor, and he wrote it because a month of papers has made it necessary that somebody in this shed should write down what is not going to be permitted.**
+
+*That on Wednesday the fifth of July instant this party entered in its own book, on its own account, and without being asked by anybody, four things it will not permit and one thing it has decided.*
+
+*First. That no person, boat or lead of this party has been inside the closure of the notice of the thirty-first of October on any day of the last three weeks, and none is to be, and any instrument of this harbor authority that would put one there carries the reeve's acknowledgement at the reeve's cost and there is no ninth of those and there is not going to be one asked for by this party in this season.*
+
+*Second. That the chart of this harbor went out of this office's hands on Thursday the twenty-second of June and that this party is not a party to it and did not ask to be and was not asked and is not going to say one word about it again.*
+
+*Third. That whatever any office in any city does with any man in any coat, this party has not been told, has not asked, does not want to know this month, and will find out when it finds out; and that if a paper comes up this hill about the second season of the writ of the first of May, this party will read it, will answer it on the day it comes, and will not treat the man who brings it as a friend or as an enemy; and that the reason is the writ's own last line, which says that the second season is not this office's to give, and that whatever comes will arrive out of a city from a man who has never been inside this harbor, and that the holder will be told about it when it arrives and not before. **That is the channel, and it is on a bench in this shed in a sheet with three names on the clause and no face in the room, and it has been the channel since the first of May and this party did not have to invent one and is not going to.***
+
+*Fourth. That no posting, appointment, commission, transport or instruction out of any city in the past month has put anybody past this harbor line, and that the outer marks and the bar of four hundred yards off them are where the writ of the first of May says they are, and are not nearer, and that this party is not going past them in this volume and has not tried and is not going to.*
+
+*And the one thing decided. **That this yard is not going to be a party to the naming of a road, and is not going to buy a licence to one, and is not going to sell a copy of anything again, and is not going to put a name on anything it cannot check, and that decision is this party's own and is not this office's and is not anybody in a city, and it is the only thing this yard has had this month that nobody can take off it.**"
+
+He read it back to the shipwright. There was nobody else in that shed to read it after her. Alden Marr was at the far bench with his back to them and a cough that came every forty minutes and was not asked for anything, and neither brother went over to him, and he was sixty-one, and he did not ask either, and the line in the first column saying so is a single line and can be checked by either brother on any day of a week by asking the other one.
+
+---
+
+**On Thursday the sixth of July the cistern was charged at about ten for the eighth time in three weeks, on the rota, at no figure, and the gate was as bad as it has ever been, and it took three of them from ten until about one.**
+
+**And Ewan Tristram was there at about half past eleven with his hat in his hand and did not offer and then said the thing he came down for, and the yard stood at the back of the market going in and did not come forward.**
+
+"**That is eight. And I am going to say the end of it out loud in a market, because I have said the middle of it out loud in a market once in June and it is about time somebody said how it finishes.**
+
+"**This office's page has eight walks on it at no figure, and this office has not paid for one of them, and the cistern behind that engine house has not gone dry since the nineteenth of June, and on Monday an end of the first of September went into a book on the ninth seam, which is the first thing this office has entered in five months that a person in this harbor can use.**
+
+"And I am going to say the rest of it and I am not going to soften it, and I have been the wharfinger of the second lay for twenty-two years and I have been in this harbor fifty-one and I have not softened a figure in my life. **A cistern that holds is a cistern that holds. It is not a repair account. The light is not on and it is not going to be this year, because a light costs oil. The north berth is out. The third lay is full. Forty feet of this office's own marline is in the sea off the north wall and there will be seventy before September. The fire party's hose is dead until the autumn. The *Kittiwake* is on the hard and this office's carpenters are free, and free is a word that means they are waiting for an account. The hard at Ashtide has not been answered since the ninth of November and it is not going to be answered in July. Nineteen winters are in a naval file and in a letter of four lines and the man they belong to is fifty-one and says he is not angry and is not asleep.**
+
+"**And the list being made up in a city this week has three of those lines in it already, and this town put them there itself in May for nothing, and there is nobody in this market to be angry at except us.**
+
+"**So: the cistern holds. That is what the three weeks bought. It is a hole with a lid on it and the lid is on a Monday and a Thursday and a man walks out to it, and a hole with a lid on it is not a town, and I have said the word out loud and I am not going to take it back, and I would rather it was in a market than in a file, and I am not asking anybody for anything.**"
+
+Nobody asked him for anything.
+
+---
+
+The two columns were read out at the head of the dock at about six on the Thursday the sixth of July, in the wind, with the market gone in and about nine people in the street and the mole head's light not on behind them.
+
+**Four marks in a bag.** Thirty-one on the chandler's note, not re-written, the three counts of that page at twenty-two, thirteen and eleven as last written and unmoved since the fourth of January, and five marks of compressor's gland on it and not paid, and the tin empty and the tin has been empty since the twenty-eighth of April. **Eleven lines and forty-four marks in the wage column, the fifth of March the oldest and staying where it is, and six envelopes on a bench in the chest and not among the five rolled in oilcloth, and not one of the six has been anywhere, and the next of them is four marks on Tuesday the eleventh of July, and the bag is four, and a wage that is exactly paid is not a week and a half and not good news.**
+
+**And the whole of the money that has come into this yard in twenty-one days is ten marks, of which twelve went out as three weeks of a wage to a man who is not on the stone and two went out for a pot of air, and the four are in the bag, and the note has not moved and the three counts on the note have not moved and no office in this harbor has paid this yard a mark since the eighth of May and no office in this harbor is going to.**
+
+Forty marks of claim standing whole, unpaid, not reduced, not asked to be reduced. Forty marks to a conservator with no office, first after food, unpaid since the fifteenth of October, not reachable by the writ, not an assistant, not asked to be useful. **Eight shillings and tenpence standing to each of two women, undiminished, unpaid, and not paid in this month, and about four hundred feet of one of them's own warp on the bottom of this harbor, and a printed sheet over the top of her name on a market wall, and a woman who has said in a market that she is going to ask a man of another port, and this yard has no standing with her and did not try.** **Eight marks and a day of a boat to this harbor's bellwright, owing since the twenty-third of May, unpaid, unargued, not paid in this batch, and a bell is going to be out in a boat in about four years at eight marks and a day of a boat then as it is now, and the four of them were told on the third of May so that in four years there is no argument about it, and that sentence stands.**
+
+No air in this harbor, no delivery hose, and a crew of Ashtide at the outer end of the second lay with a compressor of her own and forty fathoms of her own hose, and a printed sheet in a market and a printed sheet going to press in a city and eleven marks in twenty-one days.
+
+A cistern charged eight times in three weeks at no figure, entered on the office's own page at no figure and against the office's own interest, and **a cistern holding since the nineteenth of June, and a wharfinger has said the word *town* out loud in a market and has not taken it back.** The ninth seam out with an end of it entered at last, the first of September, and that is the first thing this office has entered in five months a person can use. The north berth out. The third lay full. **Those three lines in a list in a city being made up this week, out of a document this harbor wrote in May and sent up for nothing, and this yard published them and is entered as the commonest cause in both cases and is not going to be excused from either.** The tide gang four men short. The fire party's hose dead until the autumn. The mole-head light not on and a light costs oil and the repair account empty since the middle of February and no boat of this office's own since the evening of the twenty-eighth of April. The *Kittiwake* on the hard. The hard at Ashtide. Nineteen winters. The *Sea Wren* at the pile. Eleven copies and a list of eleven on a wall and a man of Ashtide with four of the eleven answered and two of them stopped writing. A man of the third lay, nine winters, not found, and this yard has not gone.
+
+**Two things of nobody's in the open air on a mole's crown above the third seam's mark, about nine feet apart, under two tarpaulins, weighted with a fender and forty feet of the harbor authority's own mooring rope lent at nothing and entered at nothing. Green through the body and cloudy, and nine scallops in about three inches, all the same hand, none of them running out of anything, seen twice and accounted for neither time. A mark on one face which is not a seal and is not a letter and is not a figure, which no person in a boat identified and which this party is not going to identify, and which in four months somebody is going to bring up next to four other objects and ask whether they are the same.**
+
+Three returns on the road to a city. A question written back out of a city with three quarters of it answered and one quarter not answered and the reason in the first line. A coast office with two sentences and a list. **And a lead plug in a chest in a shed on this hill with a lock the yard owns, and a number in it that was said out loud once in a room on Sunday the second of July and is not in any book in this harbor and is not going to be, and a boy's writing on the lid of that chest that there is nothing in it that anybody in this harbor can check, and this party has undertaken in its own book not to ask about it again, and the undertaking binds this party and not the office and not the market and not the boy, who was not asked and is not to be.**
+
+No occasion in the delayed note since the fifteenth of June. **Eleven logged occasions since the twenty-sixth of October and two of them with no call in them, and neither figure is moved by anything in this batch and neither is moved by a measurement, and the delay is a hand's width of a second and has not moved and was not taken and was not written down.** A hand lead's line made in the net loft on the second of May, badly once and made again, and said on the twenty-fourth of May in about nine words to be right, and used on the tenth of June, on the twenty-fourth, on the first of July and on the third of July, and four knots in it that a man ties when he is thinking about something else that are his and have not been taken out.
+
+**And a crew of two and a half, and a third column read on Tuesday evening and written on Wednesday morning, and four entries in a second column in five months in the form of a man not being able to say in which of two directions a sound had come, with a reason against each and no cause against any of the four, and nobody asked, and it is on the page four times and it has no name on it and it is going to keep.**
+
+**And on the sixth of July a yard of two and a half men with four marks in a bag and a note at thirty-one published a bar of gravel and a cairn of ballast stones in a market and in six boats, and could not sell a copy of anything, and would not put a name on a road, and did not go and look at five miles of that coast, and did not go and look at eleven miles of water to look at two stones and a bar, and is not going to this month, and has a man of fifty-four coming in the autumn to say out loud which of two figures is right, and no instrument in this harbor that can call him, and none that can stop him, and a man in a city with a press who will print something about that bar in July that will be wrong in one particular, and this yard cannot do one single thing about it and is not going to try.**
+
+**And on the first of July the yard's own boat went back into the water at the north end, and in about a fortnight a westerly will find her there, and in about a month somebody is going to want a hand on a mole who is better on a lead than anybody in this yard, and this yard is going to have to say no to him out loud and in advance and write down that it wanted to, and the reason it will do it is in a second column with a reason against it, and the reason is that a man who has asked not to be told is not a man this yard can put on a lead and then write down.**
