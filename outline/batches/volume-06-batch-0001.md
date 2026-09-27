@@ -1,0 +1,133 @@
+# Volume 06, Batch 0001: Chapter cards for Chapters 251–260
+
+Movement 1, *an instrument that is not there, and a boat that is not the yard's*.
+
+Binding plan: `outline/volume-06.md`, especially § *Escalation sequence* Movement 1, § *Handoff to Chapter 261*, and locks **L1, L1a, L2, L5, L6, L7, L8, L14, L15, L16, L17, L20, L21, L22, L23, L25, L26, L27, L28, L28a, L29, L32, L33, L34**. Read those before writing a word of the card they bind.
+
+**THE BATCH'S GRID, AND IT IS FIXED BY `outline/volume-06.md` LOCK L1 AND NOT BY THIS FILE: the fifteenth of March next is a Monday. The batch opens Tuesday the sixteenth and closes Sunday the fourth of April, twenty consecutive days, two days to a chapter, no day missing and no day in two chapters. NO CHAPTER MAY STATE A YEAR. IF A COMPUTED WEEKDAY DISAGREES WITH THE CHAPTER BEFORE IT, THE CHAPTER IS RIGHT.**
+
+**THE MONEY, ONCE, AND EVERY CHAPTER CHECKS ITSELF AGAINST IT: the bag opens at seventy marks, three shillings and one penny, being eleven thousand two hundred and thirty-seven pence. Nothing comes in during the twenty days. Four things go out: one mark and eightpence on the seventeenth, one mark and eightpence and a penny of line on the twenty-third, one mark and eightpence on the twenty-seventh, two marks and eightpence on the second of April, and one penny of postage on the third. The bag closes at sixty-five marks and threepence, being ten thousand four hundred and three pence, and the figure the bag is short of the wage of four marks is nine thousand seven hundred and sixty-three pence. The whole of what has gone out of that yard since the sixth of December past becomes eight marks, six shillings and two pence in eleven transactions at four counters.**
+
+**THE BATCH'S THINGS THAT ARE TRUE ON EVERY PAGE AND MAY NOT BE ASSUMED BY A READER:** the writ is gone; the charter is gone; the Second Bell eligibility is gone and is not applied for; the notice of the thirty-first stands with its four clauses; the four-hundred-yard bar off the outer marks stands; the plate in eleven feet is not reached and its note stands open; the five bells are not raised and the limit four people of that coast wrote stands and nobody asks them to take it off; the condition is named nowhere; no stage is taken; the Quietening and the Crown Seal are not named; Alden Marr is at a far bench and Calder does not go over to him; the boy is not on the stone and the third column is not filled; Mara Venn is a person of no office and is not on a page of the first eight of these chapters.
+
+---
+
+## Chapter 251 — *The Drawer With Six Papers In It and a Place for One That Is Not There*
+
+**Tuesday the sixteenth and Wednesday the seventeenth of March. The shed, the mole, and a boat of about forty tons at the face of the second seam. Political and institutional pressure, and the first day of a party that cannot be hired.**
+
+**Goal:** Nessa reads the form of the fourth of March aloud in the shed, to nobody, and finds out what this yard can still do. **Resistance:** the form is careful and says nothing wrong, and there is nothing to fight. **The turn of the chapter:** the yard discovers that the leash does not need its cooperation — a charter is what a hirer relies on, and without one there is nothing to book, and for the first time since the sixth of October a working day cannot be booked at all, and the day's answer is not a speech but a boat hired to look at a mark.
+
+**Beats.** Open in the shed with the drawer: six pieces of paper in it, being the four and the Crown form of the fourth and the page about that harbor of the sixth, and the charter's place empty, and she counts them twice. She reads the form: not a writ, not a licence, not a finding, nothing a suspension, nothing a penalty, a party which does not produce a thing on the day is not fined because a court does not fine a poor man, the harbor authority is not the office that can give it back, and **nothing in it requires anybody in that yard to say one word.** Then the consequence, spoken once and plainly by the shipwright: a hirer at that face of the second seam pays a day on the strength of a paper, and the paper is in a drawer, and there is no paper, so there is no day. **Tuesday: nothing booked, the reason entered.** Wednesday: the boat of forty tons is hired at one mark and eightpence because the man of the second lay will not go out with a mark fouled a week on the weather side, and a boat of about forty tons is a hand short since the middle of July, and she goes out with him because he needs a hand and she is the one who is there. **On the water and at the mark:** fouled about four inches of green on the weather side, and the shackle bright where the fouling is not. **Second column, no name:** the fouling is one week old and the mark has been handled since it was set, and the only people on this coast who could handle it own a case of five bells four days away, and the limit they wrote stands, and this yard is not going to ask them to take it off.
+
+**Ending:** the fourth-inch of green and the bright shackle, and a line in the second column that says the mark has been on somebody's list and it is not this yard's, and no conclusion. **Not in this chapter:** the man on the coast road; the fourth leaf; the Ternwatch man; any letter.
+
+---
+
+## Chapter 252 — *Six Marks a Day and a Man of About Forty, and the Terms of a Boat That Is Not the Yard's*
+
+**Thursday the eighteenth and Friday the nineteenth of March. The shed, the mole's steps, and a boat alongside. The cistern is charged on the Thursday and walked on none — the thirtieth such charge since the third of August.**
+
+**Goal:** find out what a boat costs when nobody owns one. **Resistance:** the man who owns one is sixty-one, half-deaf, and does not want to be needed. **The turn:** the boat is not free and is not lent, and what it costs is not money.
+
+**Beats.** Thursday: the rota, four men this yard does not know, at no figure, walked on none, and the count at thirty. The day is not worked and the reason is on the page. **Friday: Tobias Wren's boat is alongside the mole at about eight in the morning because he was told on the quay that there is a mark fouled, and he came to look at it, not to be asked.** He is sixty-one. He is half-deaf and uses a whistle. He asks three questions and the third one is the whole chapter: **who is paying.** There is no answer. He names his terms out loud before he will agree to any of it — a day is six marks of boat and gear and the wear, the man of about forty comes because he cannot do without him and that man is a separate figure and a separate wage, and the fuel is fuel. **He will not be a teacher.** He says so before anybody asks him to be. He says the going out is the whole of his trade and it is not the whole of theirs, and that in thirty-one years by another man's account he has never once been asked what was in a thing he went into, and he is not going to start. **Second column:** six marks a day is nine times what a day of work on the second seam pays this yard, and this yard has nothing coming in, and the season of the mark is nine marks, and nobody is going to be asked for nine marks.
+
+**Ending:** a boat alongside a mole with nothing in it and a man in it who has named a price and will not take less and does not want to be thanked. **Not in this chapter:** the fouling's reading, the far bench, the form that took the charter being argued about.
+
+---
+
+## Chapter 253 — *Seventeen Days, and a Bench at the Far End of the Shed He Did Not Go To*
+
+**Saturday the twentieth and Sunday the twenty-first of March. The coast road's far end in one paragraph, and then the shed, and the far bench. Emotional consequence, and the batch's quietest chapter.**
+
+**Goal:** the holder of that writ comes back, and the yard is not the one he left. **Resistance:** he has nothing to show for seventeen days and there is a bench at the far end of the shed with a man at it. **The turn:** the four people who keep the book of ground will not come down this coast and will not send anybody, and the reason they give is a sentence he brings back in his own hand, and it is in the first column and it is not an answer.
+
+**Beats.** The return is staged in about a page and is not a triumph: the cart, the four days there and four days back, the price named in Volume 05 and not paid, the man of about forty-five who asked for nothing and is owed a thing for which there is no figure. **He is thinner and his forearm is bad and he has been eleven days on the body in the second column with a reason against the line and no name in it.** He reads the form of the fourth of March at the bench in about four minutes and does not say anything about it, and the woman asks him one question about it and he gives her the answer that is in it and nothing else. **The far bench:** occupied on the Sunday from about ten until about four. **He does not go over.** The reason is entered in the second column and it is not improved on, and it is the reason of every day since the sixth of October. **The far bench is occupied on the Thursday the eighteenth, in his absence, and entered.**
+
+*Corrected against the chapters, 27 September 2026: the far bench is occupied on the **nineteenth**, the **twenty-first** and the **twenty-sixth** of March, and not occupied at any hour on the other seventeen days, and that is the list the chapters give. The card said the eighteenth and the chapters say the nineteenth; the chapters are right and the card was wrong.*
+
+**Ending:** a man who has been away seventeen days coming home to a yard that cannot be hired, and not going over to a bench, and the book saying both. **Not in this chapter:** any account of what the four people said beyond the one sentence; the fouling; the second boat day.
+
+---
+
+## Chapter 254 — *The Forty-Sixth Time the Wall Came Down, and the Shackle That Was Bright*
+
+**Monday the twenty-second and Tuesday the twenty-third of March. The hearing room over the tide-gang store's wall — not the room — the mole, and the water at the face of the second seam. Labour, and the second boat day.**
+
+**Goal:** look at the mark properly, with the boat hired and a man in it, and come back with a fact a person could check. **Resistance:** the weather and the tide and the money. **The turn:** the mark has been lifted and set again, and the line on it is not this yard's, and the shackle is a make nobody in this harbor makes — and the yard cannot ask the only four people who could know.
+
+**Beats.** Monday: the wall behind the reeve's bench comes down bare for the forty-sixth time since the first of May, the counter does not restart, the clerk keeps his own page, and **no sitting is held in that room on that day or on any other day of this book.** The cistern is charged on the Monday and walked on none, the thirty-first. **Tuesday is a wage Tuesday and the twenty-second week falls due with no envelope, and the figure is entered in the same breath with its date, and the reason is the reason of the twenty-ninth of December and is not improved on.** The boat is hired again at a mark and eightpence and a penny of line. **On the water:** the fouling is about four inches on the weather side and the shackle is bright in two places, and where a shackle has been bright like that it has been in a hand and a hand takes time, and there is a mark on the frame where something was cut and mended and the mend is not this yard's work. **Nessa's four stitches in a right hand since the twentieth of February, and she holds the slate left-handed, and it is on the page and it is not admired.**
+
+**Ending:** a bright shackle, a mend that is not this yard's, and a first column that says only what was found. **Not in this chapter:** the four people of that coast, the fouling's second reading, any conclusion about who.
+
+---
+
+## Chapter 255 — *What Fouling Says, and the Four People Who Are Not Going to Be Asked*
+
+**Wednesday the twenty-fourth and Thursday the twenty-fifth of March. The shed, the mole, and the water. Investigation, and the chapter where the volume's oldest refusal meets the volume's newest fact. The cistern is charged on the Thursday and walked on none — the thirty-second.**
+
+**Goal:** say out loud, in about nine people's hearing on a mole, what the fouling says and what it does not. **Resistance:** the answer that is available is the four people of that coast, and the limit they wrote stands, and the yard is not going to ask them to take it off.
+
+**Beats.** The reading is a working one and is done by the man of the second lay, who has been fouling these marks for nineteen years and who says what fouling is before he says what this one is: **growth takes a season, and a shackle that is bright has been handled, and a mended cut has been mended by somebody who had more than a day.** The season of the mark is nine marks and it was set on the twelfth of March and the fouling is three days old, and **the mark is eleven days old, and the fouling is not a season's fouling and nobody in that shed says a word about what that is.** The four people of that coast are named once and only as people who own a case of five bells about five and a half fathoms inside four hundred yards off the outer marks, on nobody's schedule, and **the limit they wrote themselves and signed is quoted in the yard's own first column and stands, and the holder does not ask them to take it off, and the man of the second lay does not suggest it.** The second column says what nobody will say: that there is a second party on that ground, and that the yard's word for that is in the second column and not the first, and that a thing in the second column with a reason against the line is a thing that cannot be checked from a mole, and this yard knows that and does it anyway.
+
+**Ending:** the fouling read by a man who has read fouling for nineteen years, and the refusal, and the two things kept apart. **Not in this chapter:** the shackle's make, which is Chapter 256's; the man from Ternwatch; the volume's question.
+
+---
+
+## Chapter 256 — *A Line and a Shackle of a Make Nobody Here Makes, and a Leaf With Four Columns*
+
+**Friday the twenty-sixth and Saturday the twenty-seventh of March. The shed, the water, and a bench. Conflict and a decision, and the batch's method arriving.**
+
+**Goal:** decide what this yard does about a mark on its own ground that somebody else has been on. **Resistance:** every option costs money this yard does not have, and one of them requires asking four people to lift a limit. **The turn:** the yard stops setting marks and starts keeping a book of what it finds — a fourth leaf, ruled by hand, four columns, the fourth of which says what a thing is not — and it goes on no wall and nobody can check it, and the yard enters that it knows.
+
+**Beats.** Friday: the third boat day, a mark and eightpence. **On the water:** about a foot of green, and a line on the mark that is not this yard's line, and a shackle whose shape is not a shape made in this harbor. The shipwright knows the make because she has made the other one. Friday afternoon in the shed: three options and their prices, said out loud before any of them is agreed. **A CUT, which needs a boat and a diver and an instrument this yard does not have. A MARK THAT IS BIGGER, which needs money and says louder. AND A COMPLAINT, which is a name in a book in a town two days down this coast, and that is the four people of that coast, and that is not on the table and is not going to be put on the table.** **Saturday: the leaf is ruled.** Four columns. What was there. Who saw it. What was done. And the fourth, which is new, and which is headed in her own hand and is about what a thing is not. **It does not go on the market wall in this harbor, and the reason is on the page, and the reason is that the yard's own fourth return is on that wall under one sheet and is the only paper on it that any office in any city is obliged to look at.** **Second column: a page no man can check, and this yard has built one already, and it has been paying for that since the sixth of March, and this is the second one and it is cheaper and it is worse.**
+
+**Ending:** a ruled leaf with four columns and an entry in the first of them, and no entry in the fourth beyond the heading. **Not in this chapter:** the letter, the man from Ternwatch, the question at the mole head.
+
+---
+
+## Chapter 257 — *The Question at the Mole Head, and Three Things That Are Not an Answer*
+
+**Sunday the twenty-eighth and Monday the twenty-ninth of March. The mole's head on the Sunday; the shed and the hearing room's wall on the Monday. Mystery and political pressure.**
+
+**Goal:** the yard's own question, asked out loud for the first time in this volume, and the honest answer to it. **Resistance:** every answer available is an office, and an office's answer is not an answer.
+
+**Beats.** **The Monday is the forty-seventh wipe and the thirty-third charge, and both are entered, and no sitting is held in that room.** **Sunday, at the head of that dock, in about eleven people's hearing, a person of no office asks the yard the volume's question** — not the Volume 05 question, which is asked for the second time later and is not answered; this one: *whether the fleet was scuttled or whether it went down.* He is a man who fishes and who has a reason and it is a small one and it is his own. **The yard's answer is a refusal with a reason, and the reason is a person of no office and not an office, and the yard says out loud, before it gives anything, that what it is about to give is not an answer.** Three things, given in an order, on purpose, because a figure that is right and in the wrong place is a lie: **there is no witness in this harbor old enough; the only record that could carry it is under seventy fathoms of water four hundred miles west; and a party with no instrument cannot get to it.** **The three figures may not be swapped for one another, and the volume's own second answer is not an answer and is not improved on.** The man says it is three numbers and a refusal, and is told it is three facts and a refusal, and does not accept it, and the boards come down.
+
+**Ending:** a question asked at a mole head and a refusal that is at least honest, and the answer to the first question this volume asked sitting unanswered on the same morning. **Not in this chapter:** the man from Ternwatch; Kest; anything about the mark beyond one line.**
+
+---
+
+## Chapter 258 — *The Twenty-Third Week, and a Season That Ends on the Thirty-First With Nothing Issued*
+
+**Tuesday the thirtieth and Wednesday the thirty-first of March. The shed, the reeve's office on the west basin, and one boat. Political pressure, and the volume's institutional turn.**
+
+**Goal:** find out whether there is anything to be had from a harbor authority whose season ends tomorrow. **Resistance:** the answer is no, and the man who says it is not a friend of this party and is not pretending to be.
+
+**Beats.** **The thirtieth is a wage Tuesday and the twenty-third week falls due with no envelope and the column does not move.** Wednesday: the last day of the harbor authority's season. **Kest says three things in his own voice in his own office and puts none of them in a book.** One: the authority issues no instrument after today, because its ledger is spent and it is the thirty-first and the authority does not make promises for a season it will not be in. Two: the authority is not the office that can give the charter back and never was, and that sentence is said twice in this series already and is said here a third time and does not improve. Three: **there is a thing the authority can do and it is not an instrument — it can seat two people and take a finding as it is given, and it does that at its own cost out of a tide gang's morning, and the reeve says the price out loud before the yes and the price is a morning of four men, and the yard refuses the morning and does not get the finding.** **The cost is entered in the first column against the line and it is this yard's own refusal and nobody else is going to pay for it.** He is not a friend of this party and he is not a rescue and the yard says so in the shed afterwards.
+
+**Ending:** an office that can do one thing for nothing and will not do it for nothing, and a reeve who will not be thanked and does not want to be. **Not in this chapter:** the mark; the letter; Mara Venn.**
+
+---
+
+## Chapter 259 — *A Fireman of a Pressure House, and the Condition That Nothing Goes Under That Has Not Been Cut*
+
+**Thursday the first and Friday the second of April. The shed, the mole, and a stranger's boat. The cistern is charged on the Thursday and walked on none — the thirty-fourth and last of this batch. A day is lost to the body on the Thursday. Training and controlled experimentation, and the volume's supply line.**
+
+**Goal:** find out whether the air for a descent can be had from anybody on this coast. **Resistance:** it can, and the man who has it will not take a Crown wage doing it and will not go under a thing that has not been cut, and there is nobody on this coast who cuts.
+
+**Beats.** Thursday: the rota; **a day lost to the body, entered in the second column with a reason against the line and no name in it and no figure, because there is no figure for a day.** Friday: **a man of about thirty-four of a pressure house at Ternwatch comes up that hill with a copy of that yard's printed sheet of thirty-eight lines in his coat**, folded at the thirty-eighth, which is the only line in it that yard did not write for itself, and it says where every other copy is, and he has a boat's crew's hand and a fireman's burn and he is not an officer of anything. He has read the sheet because his brother sails in one of about sixty boats. **He is not asking for work. He is offering air at a price and a condition.** The price, named before he will answer anything else: two marks and eightpence a day of his own time, his travel at his own rate, and the air at what a Crown house charges a Crown hull, which is a figure he can say out loud and is not going to be argued with. **The condition: he will not go under anything that has not been cut, and he will not be in a boat that has not been over a thing he knows, and he does not want to be asked to write anything down.** **And nobody in that shed can cut.** A day is lost to the second column on the Thursday; a tide gang's morning is refused in Chapter 258 and not spent twice; and the third lay fills on the first of April and one berth is short of two.
+
+**Ending:** a stranger in the shed with a folded sheet and a price and one condition, and a yard that cannot meet the condition, and nobody in the room mentioning the only man in this harbor who could. **Not in this chapter:** the letter to the man of thirty, the going down, anything about the plate.**
+
+---
+
+## Chapter 260 — *Two Letters Crossing, and a Party That Has Become One Address More*
+
+**Saturday the third and Sunday the fourth of April. The shed, the post, and the mole. Recovery in the book's sense and the batch's turn.**
+
+**Goal:** decide how this yard reaches a town it cannot go to. **Resistance:** every channel it has is either one it will not use or one it cannot look in. **The turn:** it posts a letter to a man who cannot read, in a town that keeps one of the five pages, on the same week a letter from a person of no office comes up the hill, and neither is answered, and the change is that a yard which spent five volumes refusing to be an address has become one address more.
+
+**Beats.** **Saturday: the letter.** It is one page. It is not a question and it is not a claim and it does not ask him to do anything, and it says three things: what was found on the mark, the date, and that the sheet he was told about is in a kitchen and that nobody is going to come and read it to him. **Nessa writes it. Calder does not sign it and the reason is entered and the reason is that a name on a letter is a name on a list.** A penny of postage. **A letter from Mara Venn came up the hill on the Friday and is read on the Saturday and is one page and it says one fact and no request:** that an office she worked for has a form, and that a person who keeps unsettled material in a house is a keeper of it, and that she has not seen the form served and cannot say what it does, and that she is a person of no office and will come to this harbor if she is asked by a person and not by a yard. **Nothing is asked of her. Nobody asks her. That is entered.** **Sunday: the far bench is occupied from about ten until about four, and the holder did not go over to him, and the two letters are in the same week and one of them is going two days down this coast and neither has been answered and the yard is not going to write again.** The second column says the price: a letter is a channel, a channel is a door, and this yard has been refusing to be findable for five volumes and has just been findable in six more places, and it did it for a man who cannot read, and there is no figure for that.
+
+**Ending:** a leaf with four columns, one entry in the first, none in the fourth beyond its heading; a letter gone; a mark fouled a foot and a half with a line on it that is not this yard's; and a bag of sixty-five marks and threepence and a week fallen due that did not fall. **The batch ends on a figure that a person can check on any day of a week, which is what the last line of every volume of this book is for.**
