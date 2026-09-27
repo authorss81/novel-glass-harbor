@@ -2,6 +2,8 @@
 
 **A hundred finished chapters now exist: Volume 01, Chapters 1–50, and Volume 02, Chapters 51–100. Both volumes are complete and both are audited.** Summaries record what the prose actually did, not what the card planned.
 
+**Twenty mechanical repairs were applied in place by the Volume 02 audit, in five chapters, and none of them moved a word count: the Edric Pringle pronoun in Chapters 62 and 69, and a British spelling of *harbor* and *favor* in Chapters 91, 93 and 97.** **Every figure in every summary below is a figure as written after those repairs**, and the batch totals are unchanged: 31,769 / 31,300 / 26,358 / 25,683 / 33,327, and 148,437 for Volume 02.
+
 ## Format for every completed chapter
 
 Each entry is two to five sentences and records: what the chapter's scene changed, what new canon it established, what it cost, and which thread it closed or opened. Entries appear in chapter order under a volume heading, and the most recent twenty chapters stay available for voice continuity.
