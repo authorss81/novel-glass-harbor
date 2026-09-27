@@ -20,7 +20,7 @@ Hessa Barlow, forty-four, of this harbor, with a room at the back of a chandler'
 
 "**And the day you worked yesterday went slower than a day with three on it and everybody on that wharf knew it and nobody said it, and the day of the twenty-third of October was about four hours and a quarter and I have not forgotten which four hours they were because there were four men standing there and three of them are still standing there.
 
-"**And a day of work that this yard has refused is the most expensive thing anybody can hand you and nobody hands it to you for nothing. Somebody offered you one for Monday and you are going to say no, and I am telling you now, before you have said it, that saying no to it is going to be the correct thing and I am not going to be thanked for knowing that in advance.**"
+"**And a day of work that this yard has refused is the most expensive thing anybody can hand you and nobody hands it to you for nothing. Somebody offered you one for Tuesday and you are going to say no, and I am telling you now, before you have said it, that saying no to it is going to be the correct thing and I am not going to be thanked for knowing that in advance.**"
 
 Nessa Pike had her hand on the table and she had not said anything for about two minutes.
 
