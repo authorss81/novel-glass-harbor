@@ -40,7 +40,7 @@ Nobody said anything for about a minute, and out on the boards a man was caulkin
 
 "**What the thirty marks were for is four hundred feet of a woman's warp, and it is at the bottom of this harbor now with a man of Ashtide's money on it, and she is paid, and we owe her eight shillings and tenpence, and the whole of what that refusal has cost this yard in nine weeks is in a column and a figure and it is not going to be in a column and a figure in October either. It is a cost this yard is still carrying. That is all a refusal is, once it is done. It is a thing you are carrying.**"
 
-He put it back in the back of the writ and folded the writ in half and put it in the bag, and the bag is the crew's book bag and it has a mark and twelve shillings and fourpence's worth of nothing in it in the sense that matters, and the book in it is forty-seven weeks of this yard's own weather and its own shame and is going into a file in a city on Saturday week.
+He put it back in the back of the writ and folded the writ in half and put it in the bag, and the bag is the crew's book bag and it has a mark and twelve shillings and fourpence's worth of nothing in it in the sense that matters, and the book in it is forty-seven weeks of this yard's own weather and its own shame and is in a file in a city and is not coming back out of it.
 
 ---
 

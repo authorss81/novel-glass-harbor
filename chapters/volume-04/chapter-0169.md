@@ -8,7 +8,7 @@ Wednesday the twenty-seventh and Thursday the twenty-eighth of September, in a d
 
 "**I wrote to him on Monday night. I told him what you said to me, as near as I could get it, and I told him I had come down the hill and thought about it and I was going to put his line down with the yard declining to certify and nothing else. I did not send you a copy and I am not going to apologize for that, because if I had sent you a copy you would have written him a letter and this would have been a different thing and I do not want it to be a different thing.
 
-"**And he wrote back on Friday and it came up on the Wednesday with the morning boat, and I have read it four times and I have not been able to get round one sentence of it, and I have brought it up here to be got round by two people instead of one.**"
+"**And he wrote back on Tuesday night and it came up on the Wednesday with the morning boat, and I have read it four times and I have not been able to get round one sentence of it, and I have brought it up here to be got round by two people instead of one.**"
 
 He read it out in the doorway, standing, with the wind coming in past him.
 

@@ -4,7 +4,7 @@
 
 Thursday the twenty-first and Friday the twenty-second of September, on the second seam's own face, at the head of the dock, and in the shed.
 
-**A man of the first lay named Wil Tranter, who is fifty-one years old and is master of a coaster of about two hundred tons of his own, came up this hill on Friday the twenty-second at about half past two in the afternoon with a printed sheet in a coat pocket and took it out and put it on the bench face up and said he had bought it for a penny.**
+**A man of the first lay named Wil Tranter, who is fifty-one years old and is master of a coaster of about a hundred and ninety tons of his own, came up this hill on Friday the twenty-second at about half past two in the afternoon with a printed sheet in a coat pocket and took it out and put it on the bench face up and said he had bought it for a penny.**
 
 He said it the way a man says a thing he is not yet sure he is glad about.
 
@@ -26,7 +26,7 @@ Nobody in that yard said anything for a moment.
 
 ---
 
-**And what happened next is in the book and it took about eleven minutes and it is the reason this chapter exists.**
+**And what happened next took about eleven minutes and it went into the book the same night, and when it was done the two of them were still standing at the bench and the penny sheet was still face up on it.**
 
 "**I am not going to tell you which one of them is right,**" said Calder Marr, "**and I am not going to tell you that I do not know, either, because I do know that I do not know and that is a different thing and I have not got time to explain it to a man at half past two on a Friday.
 
@@ -50,7 +50,7 @@ Wil Tranter took his hand off the paper.
 
 "**Five miles of that coast has not been looked at by this yard and is not going to be this season,**" said Calder Marr, "**and that is written on the face of that sheet in my own words, and a man in a city can read it, and the man who set the type could not leave it out because I printed it myself and it is in his stick and not mine.
 
-"**And I am not going to be talked out of it in a shed, and I am not going to be talked into it on the mole either. If somebody in this harbor wants five miles of that coast looked at, the way to do it is not to ask a yard of two and a half people that has a book going into a file in a city. It is to hire a boat. It is about four days with a man on a lead and it is not a thing any of us can pay for, and that is the honest end of it.**"
+"**And I am not going to be talked out of it in a shed, and I am not going to be talked into it on the mole either. If somebody in this harbor wants five miles of that coast looked at, the way to do it is not to ask a yard of two and a half people that has a book in a file in a city. It is to hire a boat. It is about four days with a man on a lead and it is not a thing any of us can pay for, and that is the honest end of it.**"
 
 "**You put it on a wall,**" the man with the brush said. "**You put it on a wall and told sixty boats where the copies were.**"
 
@@ -60,7 +60,7 @@ Nobody said anything after that for a while. Wil Tranter folded his sheet and pu
 
 "**Then I will tell you the other half, because I have been carrying it since Friday morning and it has been sitting on the other side of the penny all morning.
 
-"**I have a paper of my own. It came on the Saturday boat and it is a man's own paper about a boat of my own, and it is not about a wreck and it is not about glass and it is nothing anybody in this harbor would want. And in it there is a line that says a vessel of a hundred and ninety tons could not have crossed that bar on the second of August past with eleven feet six aft, and it is going into a thing in a city in October, and the man who wrote it has never been on this coast and has never seen the water and is asking me whether I will put my word under his line.
+"**I have a paper of my own. It came on the Saturday boat and it is a man's own paper about a boat of my own, and it is not a salvage paper and it is not about glass and it is nothing anybody in this harbor would want. And in it there is a line that says a vessel of a hundred and ninety tons could not have crossed that bar on the second of August past with eleven feet six aft, and it is going into a thing in a city in October, and the man who wrote it has never been on this coast and has never seen the water and is asking me whether I will put my word under his line.
 
 "**And I have not said yes and I have not said no, and I came up here first, and I would like to know what a man in this harbor is supposed to put his word under when there are two figures on a printed sheet and neither of them belongs to him.**"
 
@@ -68,7 +68,7 @@ Nobody said anything after that for a while. Wil Tranter folded his sheet and pu
 
 ---
 
-**And on the Thursday of the twenty-first, which is a rota day, the cistern behind the engine house was charged at no figure by strangers, and this party did not walk it, which is the fourth rota day of this month, and it has held since the nineteenth of June. And on the Friday the yard worked about four hours and forty minutes on the second seam's own face, landward of the third seam's mark, on a hirer's own account, with nobody in the water, and a hand lead's line over the side and back four times.**
+**And on the Thursday of the twenty-first, which is a rota day, the cistern behind the engine house was charged at no figure by strangers, and this party did not walk it, which is the sixth rota day of this month, and it has held since the nineteenth of June. And on the Friday the yard worked about four hours and forty minutes on the second seam's own face, landward of the third seam's mark, on a hirer's own account, with nobody in the water, and a hand lead's line over the side and back four times.**
 
 **Gross on the board seventeen.** The eighth, two. The share, two. The victuals of the day, two. A hired hand, three. A second hired hand, three. Twelve out of seventeen paid at the mole and the yard's being five, and the five went up on the mole's steps at about half past twelve in daylight in front of about nine people, beside the three of the fourteenth and the two fives of August and the seven of the twenty-fourth of June, and no figure was argued and the eighth and the share came off the top of the day rate the way they have come off the top of every day rate since the third of May.
 

@@ -22,7 +22,7 @@ He wrote it down standing up, on the bench, in the doorway, because it was raini
 
 ---
 
-**And then the third column, and it is the reason this chapter is the shape it is.**
+**And then the third column, which had not been filled since the first of August and was not going to be filled on that Sunday night either, and the two of them went at it for about twenty minutes.**
 
 The head of it is in a boy's hand and has been since the second of May, two times in the boy's own writing, and a request to scrape them out is refused in the same words it is refused for a line in any column. Beneath them, the last entry in the third column is the first of August and it was filled at about four hours' lateness.
 

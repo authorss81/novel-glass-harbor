@@ -12,7 +12,7 @@ The mole head's light was not on behind them and was not going to be, because a 
 
 ---
 
-**And then the whole of the morning went into the shed with a slate, and the slate is the reason this chapter is the shape it is.**
+**And then the whole of the morning went into the shed with a slate, and the slate stayed on the bench from then until the lamp was lit and it was not put away once in between.**
 
 A mark and twelve shillings and fourpence in a bag. That is three hundred and eight pence, and Calder Marr wrote the pence on the slate because it is the only figure of this yard that can be wrong by being written down wrong, and he wrote it twice and got it the same both times.
 
@@ -44,7 +44,7 @@ He said the whole of it out loud. It took about forty seconds and it went like t
 
 The tide made a quarter of an inch in the shed sill and neither of them looked at it.
 
-"**Then that is a bag that is a quarter short of nothing and three marks and a bit short of a wage,**" said Nessa Pike, "**and there is no day of work booked between now and Wednesday, and I want to know what you are going to write on Tuesday.**"
+"**Then that is a bag that is two marks and twelve pence short of a wage,**" said Nessa Pike, "**and there is no day of work booked between now and Wednesday, and I want to know what you are going to write on Tuesday.**"
 
 "**I am going to write that it was not paid.**"
 
@@ -60,7 +60,7 @@ That was the first money this yard had earned since the twenty-eighth of August.
 
 ---
 
-**And on Tuesday the twelfth the wage of four did not go in, and the envelope was not made, and it was entered in the first column in the holder's own left hand with the figure and the date against it and the reason against the line, and it is the fourth time in four weeks and the second time in five.**
+**And on Tuesday the twelfth the wage of four did not go in, and the envelope was not made, and it was entered in the first column in the holder's own left hand with the figure and the date against it and the reason against the line, and it is the second Tuesday in a row on which one has fallen due and has not gone in.**
 
 *First column, checkable by any man who can get off a mole in this harbor: that the wage of four marks for the week ending on Tuesday the twelfth day of September instant was not paid and no envelope was made, that the bag held a mark and twelve shillings and fourpence on the morning of that day, that the column stands at eighteen lines and seventy-two marks with the fifth of March the oldest and staying there, and that this is the second Tuesday in a row on which a wage has fallen due and has not been paid, and that the last week that was paid was the week ending on the twenty-ninth of August and was paid out of a day of work that this party did on the mole's toe inside the first clause of the notice of the thirty-first of October under the ninth acknowledgement in a ledger, and that the yard has entered the connection and is not going to improve on it; and that the reason against the line is that a debt is a debt and a wage is a wage and a man is not paid a shilling of it and told it is a payment, and that this party has entered it against itself with the date and the hour rather than wait for a day it does not know is coming.*
 

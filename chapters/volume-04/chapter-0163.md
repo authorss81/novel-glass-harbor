@@ -24,7 +24,7 @@ He wrote it down in front of the man and read it back and the man did not ask to
 
 ---
 
-**And then the note came out, and it came out because a shilling did not go in on it, and Calder Marr said the thing about it out loud in the shed at about ten past four in the afternoon and it is nine words and then a reason.**
+**And then the note came out, and it came out because a shilling did not go in on it, and Calder Marr said the thing about it out loud in the shed at about ten past four in the afternoon, and the reason came after the sentence and the sentence was five words long.**
 
 "**Then we do not re-write it.**
 
@@ -38,7 +38,7 @@ He wrote it down in front of the man and read it back and the man did not ask to
 
 ---
 
-**And on Saturday the sixteenth, at ten in the morning, in the hearing room over the tide-gang store on the west basin, this party was in a room for the second time in a fortnight, and it was not represented by anybody, and it went in the morning with the book in its bag.**
+**And on Saturday the sixteenth, at ten in the morning, in the hearing room over the tide-gang store on the west basin, this party was in a room for the second time in a week, and it was not represented by anybody, and it went in the morning with the book in its bag.**
 
 About nine people were in the room. The wall behind the reeve's bench came down bare on Monday the eighteenth of August being the seventeenth and on Monday the first of September being the eighteenth and on Monday the eleventh being the nineteenth, and it was bare again on the morning of this sitting with a slate on it and nothing on the slate, which is how it has been for nineteen Mondays while this harbor has had a form coming up its hill.
 

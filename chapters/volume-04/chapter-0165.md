@@ -28,7 +28,7 @@ Nineteen lines and seventy-six marks in the wage column, the fifth of March the 
 
 "**And eleven logged occasions in the delayed note since the twenty-sixth of October, two of them logged with no call in them, and neither count moved, and the delay is a hand's width of a second and has not moved and was not taken on the eighth of August and nobody in this harbor has ever said why and this party is not going to be the first.
 
-"**And this is a yard of two and a half people whose book is going into a file in a city on Saturday, and I am not going to say one word about that, and if anybody in this market wants to know what a poor crew does with a form they can come up the hill and watch us not do it.**"
+"**And this is a yard of two and a half people whose book went into a file in a city on the ninth of September and cannot be got back out of it, and I am not going to say one word about that, and if anybody in this market wants to know what a poor crew does with a form they can come up the hill and watch us not do it.**"
 
 Nobody argued any of it. A man of the second lay said *that is a hard thing to have on a wall* and Calder Marr said it is not on a wall, it is on a board in the rain, and the man said *it is on a wall, you have had a wall since May*, and Calder Marr said that was fair and went in.
 
