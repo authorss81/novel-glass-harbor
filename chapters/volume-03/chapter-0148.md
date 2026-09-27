@@ -20,7 +20,7 @@ The woman was thirty-eight or thereabouts and had salt in the seams of a coat th
 
 "**What is in the case.**"
 
-"**Five bells,**" said Nessa Vale. "**In a case under the after hatch with a grating over it, and the grating was pinned and the pins were seized, and one of us went down there in June with a hammer to get at them and could not, and that is the last time anybody in our crew has been in that locker since the spring.**
+"**Five bells,**" said Nessa Vale. "**In a case under the after hatch with a grating over it, and the grating was pinned and the pins were seized, and one of us went down there in June with a hammer to get at them and could not, and that is the last time, and it was in June of this year, and nobody of ours has been in that locker since.**
 
 "**And I am going to tell you what a bell-archive is because a man in a coat has nailed a paper on your market wall with an officer's name at the foot of it that says every part of her is Crown material, and you have all read it, and half of you are standing here working out what is in the boat.**
 
@@ -52,7 +52,9 @@ Calder Marr read it twice and stood with it in his hand for about a minute and a
 
 "**And I am not going to ask them to take it off, and I am not going to try, and the reason is that it is not mine to take off. It is theirs and it says so in the first line and the yard is going to enter that the holder asked for it to be lifted and could not lift it and did not ask again, and that the wanting is in this yard's own book with a date on it, and that in about four years a man is going to come up this hill and ask this party whether it had the whole of it, and the answer is going to be that it asked, and that it was told no by four people on a mole's steps, and that it wrote down that it had asked.**
 
-"**And both of those are true and neither of them cancels the other, and I am not going to be the one who says that sentence for the first time. I said it in a room in April about a lead and a hose and a claim window, and I have said it twice since, and it is going to be said in this harbor by somebody who is not me, and it is not going to be said by me in a market about four people who have lost a boat.**"
+"**And both of those are true and neither of them cancels the other, and I am not going to be the one who says that sentence for the first time, because a woman said it in front of me a quarter of an hour ago on this mole's crown with forty people on it, and she said it first, and she said it better than I could have said it. I said the same shape of a sentence in a room in April about a lead and a hose and a claim window, and I have said it twice since, and I never had anybody write it down, and I did not write hers down either and I am not going to now.
+
+"**And it is going to be said in this harbor by somebody who is not me, and it is not going to be said by me in a market about four people who have lost a boat.**"
 
 ---
 
@@ -76,7 +78,7 @@ She put her pencil down.
 
 "**And there is no office in this harbor that will send anybody, because the officer of this harbor authority entered on Sunday the sixth in his own book that there is nothing in his book that will put a boat of his past the outer marks, and he said it out loud on a mole, and he was right.
 
-"**So there are five bells about a mile and a half off your harbor and there is nobody going, and I am not going, and I am not asking anybody to send me, and I am sixty... I am thirty, and I am owed forty marks since the fifteenth of October, and the cost of not being able to do this is not the six marks. It is that I know what they are and I cannot get at them, and that is a thing I have now said out loud in a room in this harbor and I cannot unsay it, and I would like somebody in this room to understand that the not-saying costs me and not the boat.**"
+"**So there are five bells about a mile and a half off your harbor and there is nobody going, and I am not going, and I am not asking anybody to send me, and I am thirty, and I am owed forty marks since the fifteenth of October, and the cost of not being able to do this is not the six marks. It is that I know what they are and I cannot get at them, and that is a thing I have now said out loud in a room in this harbor and I cannot unsay it, and I would like somebody in this room to understand that the not-saying costs me and not the boat.**"
 
 ---
 
@@ -88,4 +90,4 @@ She put her pencil down.
 
 Forty marks of claim standing whole to a boy of twenty-two who cannot do the thing he was kept for, and the first column says so in this party's own hand with a date on it, and the three nots of the eighth of June stand. Forty marks to the woman sitting at the long table, first after food, unpaid since the fifteenth of October, not paid this week and not asked for. Eight shillings and tenpence standing to each of two women, in no sentence together in this book and not in one anywhere. Eight marks and a day of a boat to this harbor's bellwright, unpaid since the twenty-third of May, unargued, not paid, not asked about, and no second going out bought and none to be bought inside four years. **And four people of the Sill who have no boat, no wages and about nine marks between them, and who have not asked this yard for anything, and whom this yard is not going to give anything to, and both of those are correct, and the yard has entered that it would have liked to and had nothing.**
 
-**And a case of five bells about a mile and a half off the outer marks in about five and a half feet of water, with a grating lid pinned over it and the pins seized, and no instrument in this harbor that reaches that water and no money in this harbor that reaches that water and no trade on this coast whose work it is, and a limit written by four people on a mole's steps in their own words with four names on it and the word *Harbors* not on it anywhere.**
+**And a case of five bells about a mile and a half off the outer marks in about five and a half fathoms of water, with a grating lid pinned over it and the pins seized, and no instrument in this harbor that reaches that water and no money in this harbor that reaches that water and no trade on this coast whose work it is, and a limit written by four people on a mole's steps in their own words with four names on it and the word *Harbors* not on it anywhere.**
