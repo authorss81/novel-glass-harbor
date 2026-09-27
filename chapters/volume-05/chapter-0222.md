@@ -8,7 +8,7 @@ Sunday the seventeenth and Monday the eighteenth of January, in the shed, and on
 
 **And on the said Monday the wall behind the reeve's bench came down at eight and it came down bare, and that was the thirty-seventh Monday since the first of May, and the counter did not restart, and the clerk kept his own page and did not mention it, and no sitting was held.**
 
-**And the far bench was not occupied on the said Sunday at any hour and was not occupied on the said Monday at any hour, and this party entered that and entered no figure against it of what came before it.**
+**And the far bench was not occupied on the said Sunday at any hour and was not occupied on the said Monday at any hour, and this party entered that and set no figure of what came before it against that line.**
 
 ---
 
@@ -86,7 +86,7 @@ Nessa Pike did not say anything about that and neither did the holder.
 
 *First column, entered on Monday the eighteenth day of January instant at about half past nine in the evening in this shed: that at about ten on the said Monday morning the cistern behind the engine house was charged at no figure by four men this yard does not know and this party walked it, and that the walk is nil and stays nil, and that that is the first of five rota days in this month that this party has entered walked on none of; and that on the said Monday the wall behind the reeve's bench came down at eight and came down bare, and that it was the thirty-seventh Monday since the first of May, and that the counter did not restart, and that the clerk kept his own page and did not mention it, and that no sitting was held.*
 
-*And that the far bench was not occupied on the said Sunday at any hour nor on the said Monday at any hour, and that this party entered that and entered no figure against it of what came before it; and that no day of work was booked on the said Sunday and the board was not written on it, and that the reason against the line is that a day on which nothing happened still happened.*
+*And that the far bench was not occupied on the said Sunday at any hour nor on the said Monday at any hour, and that this party entered that and set no figure of what came before it against that line; and that no day of work was booked on the said Sunday and the board was not written on it, and that the reason against the line is that a day on which nothing happened still happened.*
 
 *And that this yard put in a day on the said Monday, from eight until about half past one, on the face of the second seam and landward of the third seam's mark, on a hirer's own account and with nobody in the water, and that the man of the second lay brought the pump and brought the man and that the pump was his and the man was his and the day was his own account; and that a hand lead's line went over the side and back four times, and that the gross on the board was twelve, and that the eighth, the share and the victuals of the day and two hired hands came off the top of it in the order they have come off since the third of May, and that nine of the twelve was paid at the mole and the yard's was three, being four hundred and eighty pence; and that the day's book was written in the ship's hand on the boards at about half past one and not afterwards, and the count and the times went onto a slate in her own writing and the slate went into the book.*
 

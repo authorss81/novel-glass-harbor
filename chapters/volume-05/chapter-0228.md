@@ -4,7 +4,9 @@
 
 Friday the twenty-ninth and Saturday the thirtieth of January, in the shed, and on the face of the second seam.
 
-**And the far bench was not occupied at any hour on either of the said two days, and this party entered that and entered no figure against it of what came before it.**
+**And the far bench was not occupied at any hour on either of the said two days, and this party entered that and put no figure against it of what came before it.**
+
+**And no day of work was booked on the said Saturday and the board was not written on it, and the reason against that line is that a day this yard spends counting what is in its own book and standing at an empty bench is not a day this yard works, and that the man who sells lime and chalk came up that mole at about ten on the said morning and the two of them were where he could put his hand on the inside of his coat and say it.**
 
 ---
 
@@ -14,7 +16,7 @@ The board for the day is twelve gross. The eighth, one. The share, one. The vict
 
 **And nobody argued about anything all day. That is entered because it happened and because a week is a week and this one was the first in a month in which two people in this shed said nothing to each other that they had not both already agreed on, and the reason against making anything of that is that a quiet week is a week the tide was on.**
 
-Three marks is four hundred and eighty pence. The bag held three thousand five hundred and ninety-five pence and the sum of the two is four thousand and seventy-five pence, which is twenty-five marks, six shillings and three pence.
+Three marks is four hundred and eighty pence. The bag held four thousand and seventy-five pence and the sum of the two is four thousand five hundred and fifty-five pence, which is twenty-eight marks, six shillings and three pence.
 
 ---
 
@@ -78,7 +80,7 @@ She read the nine out loud at the top of that bench and they are all places:
 
 ---
 
-**And at about ten on that Saturday morning a man of about thirty-four came up the top of that mole with an empty barrow and stood at the door of that shed, and the fourth of the four was on the bench under a weight where it had been for nine days, and he took it, and looked at it, and put it inside his coat.**
+**And at about ten on that Saturday morning a man of about thirty-four came up the top of that mole with an empty barrow and stood at the door of that shed, and the fourth of the four was on the bench under a weight where it had been for fourteen days, and he took it, and looked at it, and put it inside his coat.**
 
 "**That is the sheet out of the crate.**"
 
@@ -102,7 +104,9 @@ And he went down the mole with his hand on the inside of his coat, and the bench
 
 ---
 
-*First column, entered on Saturday the thirtieth day of January instant at about half past nine in the evening in this shed: that the far bench was not occupied on the said Friday at any hour nor on the said Saturday at any hour, and that this party entered that and entered no figure against it of what came before it.*
+*First column, entered on Saturday the thirtieth day of January instant at about half past nine in the evening in this shed: that the far bench was not occupied on the said Friday at any hour nor on the said Saturday at any hour, and that this party entered that and put no figure against it of what came before it.*
+
+*And that no day of work was booked on the said Saturday and the board was not written on it, and that the reason against that line is that a day this party spends counting what is in its own book and standing at an empty bench is not a day this party works, and that the said man came up that mole at about ten on the said morning and the two of them were where he could put his hand on the inside of his coat and say it.*
 
 *And that this yard put in a day on the said Friday, from eight until about half past one, on the face of the second seam and landward of the third seam's mark, on a hirer's own account and with nobody in the water, and that the man of the second lay brought the pump and brought the man; and that a hand lead's line went over the side and back five times, and that the gross on the board was twelve and nine of the twelve was paid at the mole and the yard's was three, being four hundred and eighty pence; and that the day's book was written in the ship's hand on the boards at about half past one and not afterwards.*
 
@@ -124,7 +128,7 @@ And he went down the mole with his hand on the inside of his coat, and the bench
 
 *And that the said woman said that the point with the light is on that list as a place, and that there is a page on that bench about a light on a point, and that it is one of the four, and that it came up that hill in a boat's locker, and that the point with the light on that list and the light in that page have got nothing whatever to do with each other, and that this yard has not been to either, and that the two of them are not going to be joined in that book or in a street or in a shed, and that if a man four years from now puts those two together then he will have made it and not this yard; and that the said woman said that that is the whole of it and that she was not going to say the other three sentences she has got in her about it, because the other three are all ways of saying that one and she is not going to say a thing three ways.*
 
-*And that at about ten on the said Saturday morning a man of about thirty-four came up the top of that mole with an empty barrow and stood at the door of that shed, and that the fourth of the four was on that bench under a weight where it had been for nine days, and that he took it and looked at it and put it inside his coat; and that the said holder told him that nobody had written on the said sheet, and that it came up that hill folded in a crate of chalk and is going down that hill, and that nothing has been added to it and nothing has been taken off it, and that there is no copy of it in this harbor and none anywhere else that this yard knows of and it is not going to be got, and that that is not a thing this yard has done.*
+*And that at about ten on the said Saturday morning a man of about thirty-four came up the top of that mole with an empty barrow and stood at the door of that shed, and that the fourth of the four was on that bench under a weight where it had been for fourteen days, and that he took it and looked at it and put it inside his coat; and that the said holder told him that nobody had written on the said sheet, and that it came up that hill folded in a crate of chalk and is going down that hill, and that nothing has been added to it and nothing has been taken off it, and that there is no copy of it in this harbor and none anywhere else that this yard knows of and it is not going to be got, and that that is not a thing this yard has done.*
 
 *And that the said man asked whether the said sheet has got a name on it and was told that it has; and that he said that he was glad he had carried it up a hill and that he was not going to say anything else about it, and that he was going to carry it down that hill in his coat and not in the barrow, because the barrow has got chalk in it, and that he did not have a reason for that that made any difference; and that he went down that mole with his hand on the inside of his coat, and that the bench under the pump was bare for the first time since the ninth of December past.*
 
@@ -134,4 +138,4 @@ And he went down the mole with his hand on the inside of his coat, and the bench
 
 *And that the said woman said that the point with the light on the list of nine places and the light in the second of the four pages have got nothing to do with each other, and that this party has not been to either, and that the two of them are not going to be joined in that book or in a street or in a shed, and that a man who joins them four years from now will have made it and not this party; and that the reason against that line is not checkable from a mole and is not going to be, and that the four lines above the named line of the twentieth day of July past are still four and are still nameless and are not struck out, and that a request to strike a line out of a column is refused in the same words it is refused for a line in any column.*
 
-**Three marks came into this yard on the twenty-ninth of January and nothing on the thirtieth, and nothing went out of it on either day, and twenty-five marks, six shillings and three pence is in the bag, which is four thousand and seventy-five pence, and the figure the bag is short of the wage of four marks is three thousand four hundred and thirty-five pence. Twenty-six lines and one hundred and four marks in the wage column, the fifth of March the oldest, twenty envelopes on that bench, and fourteen weeks fallen due with no envelope standing against them. Every other figure this harbor is owed is on the page above and is not read out again here.**
+**Three marks came into this yard on the twenty-ninth of January and nothing on the thirtieth, and nothing went out of it on either day, and twenty-eight marks, six shillings and three pence is in the bag, which is four thousand five hundred and fifty-five pence, and the figure the bag is short of the wage of four marks is three thousand nine hundred and fifteen pence. The wage column is at twenty-six lines and one hundred and four marks, the fifth of March the oldest, the envelopes on that bench are twenty, and the weeks fallen due with nothing against them are fourteen. Every other figure this harbor is owed is on the page above and is not written out over here.**
