@@ -2,7 +2,7 @@
 
 *The Living Archive and the Lead, and the Day He Did Not Take the Lead*
 
-Tuesday the second and Wednesday the third of March, in the shed, at the bottom of that mole, and in two places four hundred miles apart.
+Tuesday the second and Wednesday the third of March, in the shed, at the foot of that mole, and on the road out of it.
 
 **Neither of the two days of this chapter is a rota day and the cistern behind the engine house was charged on neither of them, and that is entered with a reason, and the reason is that the rota is a Monday and a Thursday and the second and third days of March are a Tuesday and a Wednesday.**
 
