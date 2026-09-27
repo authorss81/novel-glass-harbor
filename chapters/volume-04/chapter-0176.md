@@ -1,0 +1,97 @@
+# Chapter 176
+
+*A Letter With a Leaf Number On It, and a Woman Who Came Up the Hill*
+
+Sunday the eleventh and Monday the twelfth of October, in a room off the fish market, at the mole's steps, and in the yard.
+
+**On Sunday the eleventh of October a woman of thirty sat at her own table, read her own writing of the eleventh of November last, and could not remember the fourth of the four grounds she had written, and had to look. She wrote that down afterward in her own book, unsigned, with the date on it, and the reason it is unsigned is the reason she has never signed anything since the seventh of April: a finding of no office carries no seal and cannot be produced on demand by anybody, and a signature would make it a document.**
+
+The first of the four, in the same hand of eleven months ago, was the one about the closure.
+
+She compared the leaf number at the head of her own fair copy with the number on a grey card on a counter off the fish market, and the two numbers were the same, and two people in this town can check that and neither of them has seen the page. Then she wrote four lines on a sheet of her own, put them in an envelope, and took it to the post at about half past two, and it cost a penny, and the penny was hers and is not the forty marks.
+
+> *To the circuit office of this place, and to whoever at the court has the file of the ASTER GANNET, and to no one else, —*
+>
+> *I am a tide conservator. I have held no office since the fourth of January and I am not resigning anything, because there is nothing to resign from, and that is the reason I am writing this on paper instead of saying it in a room, and I have been waiting eleven months to find out what to call the thing and it turns out that it has a name and that the name is a form.*
+>
+> *I will not be cited, quoted, produced, or asked again, by that office or by any office of it, and I will not be asked through anybody else either. No form of mine, and no sheet, and no notation, and no hand, and no date of mine, is to be used to support an account that I did not write and have not read.*
+>
+> *If a line of mine is under a sentence of somebody else's, I did not put it there and I cannot take it out of it. I would rather say that now, in my own hand, on my own paper, in a place I have never been, than have it said in a room in a city by a man quoting a card out of a box.*
+>
+> *I am not going to be thanked for this and I am not going to be sorry about it and I have not written it for any yard and I am not going to be a door for anybody in this town.*
+>
+> *M. Venn, tide conservator, of no office.*
+
+---
+
+**On Monday the twelfth of October the wall behind the reeve's bench came down at eight and it came down bare, and that was twenty-three Mondays since the first of May, and the clerk kept his own page and did not mention it, and no sitting has been held in that room since the sixteenth of September.**
+
+**And at about ten on the Monday morning the cistern behind the engine house was charged at no figure by four men this yard does not know and this party did not walk it, and that is the fourth rota day of this month and the seventeenth since the third of August, and this party has walked none of the seventeen, and it has held since the nineteenth of June.**
+
+Alden Marr was at the far bench from about nine until about four on the Monday and was not asked for anything on the Sunday or the Monday and asked nothing on either day, and Calder Marr did not go over to him on either day, and it is one line in the first column and either brother can check it.
+
+---
+
+**And at about four in the afternoon on the Monday the twelfth a woman of thirty came up this hill and sat down on the bench in the doorway with her book on her knee, and she had not been asked and nobody had sent her, and this party had not known she was in the harbor.**
+
+Mara Venn, thirty, of no office, of no party, not a holder, not on the four names of the writ of the first of May, and not a person the reporting clause on that writ has ever reached.
+
+"**I am going to say this once, in about nine minutes, and then I am going to go down the hill,**" she said, "**and I am not going to answer a question and I am not going to be helped with anything, and I want those three things said out loud before I start.
+
+"**And the reason I am here is this, and it is the only reason, and it is not that I need anything and it is not that either of you did anything.
+
+"**And the reason I am here is this, and it is the only reason, and it is not that I need anything and it is not that either of you did anything. I have been in this harbor since the thirtieth of June and I have not been useful to anybody at nothing since the fourth of August and I said so in a room in front of nine people. On Friday the ninth, at half past ten in the morning, at a copying counter off the fish market, a woman of fifty-eight who taught me to write a leaf number at the head of a sheet gave me a card in the hand of the circuit office of this harbor.
+
+"**And on the card it says that on the second day of September a leaf was taken out of the file of the ASTER GANNET in a room on a second floor of this town, and that a commissioned officer of the Crown Navy asked for it by letter, and that the Registry agreed, and that the reason the Registry entered against it is two words, and the two words are *risk management*, and that the leaf is not to be produced and a copy is held.
+
+Neither of them said anything.
+
+"**And then she showed me the foot of her own job sheet, which is her own hand and not the office's, and it says the copy is to be read with leaf eighty-eight.
+
+"**And I have never seen leaf eighty-eight. And I know what leaf sixty-two is, because leaf sixty-two is mine, and it is a form of the eleventh of November last with my refusal on it in my hand, on four grounds, with my trade against my name and a date, and the office counter-signed it because I would not let it leave without one.
+
+"**And the first of my four grounds is that the office will not countersign an instrument that puts a person inside a closure that the same office's own notice created.
+
+"**That is all of it. I have got a number and a card and my own copy of a page that is not in this town, and a slip that says my page is to be read with a page I have never seen, and no way at all of getting at either of them.**"
+
+"**Then what do you want,**" said Calder Marr.
+
+"**Nothing. That is the whole of what I have come to say and I have said it and I am not going to soften it and I am not going to make it sound better than it is because I have thought about it for two days and there is no way to make it better.**
+
+"**I am not going to give you the line.**
+
+"**On the twenty-ninth of September I priced you a line in my own trade's words with my name and my price on it, and I said no, and the price was not six marks and two days and it was not money, it was an undertaking in your own first column in your own left hand that this party does not ask me for anything again, and I told you in that room that you were not going to be able to pay it.
+
+"**And the price has not changed. A file has come to us. That is not a reason and it is not a hardship. And if I wrote that line out again on this bench this afternoon in this yard's own book, in my own hand, with my name and my trade and a date on it, and you had it a week before the sitting, it would be worth precisely nothing and you would know it and so would I, and the reason is that a line of mine in a book of yours is a document, and the Registry's page is a document, and a man in a room in October holds two documents and they are the same instrument and only one of them has a seal on it, and the one without the seal is mine. That is how a person of no office becomes a thing a person with an office can use.**"
+
+"**I am not going to thank you,**" said Calder Marr, "**because you have not given me anything, and I said in a room on the twenty-ninth that I was not going to thank you and I am not going to be a man who says it now because I have come off worse. And I am not going to say I am sorry, because you have not asked, and a man in a market who is sorry is a man who has already been told what a thing cost.**
+
+"**And I am not going to ask you one question. I want that on the page tonight, and I want the reason on the page, and the reason is that this party was refused in a room open to anybody in eleven people's hearing four days ago, and a party which has been refused once and then comes up a hill with a second errand is a party which has decided that a person is a door, and you told me in that room that you are not a door, and I have written that down and I have not taken it out.**"
+
+"**Good,**" said Mara Venn, "**and I am not going to ask either of you for anything, and I want that on your page too, because in about two years one of you is going to want something and I would like it written down in September that it was not asked for.
+
+"**And there is one more thing and I am going to say it in the doorway because it is about a plate and I have come up here four days in advance of either of you wanting to say it, and I have come up here so that you can put it in a book with a date on it and I will not be asked about it again in your own lifetime.
+
+"**My first ground of the four is about a plate at the fifth seam of this mole, in eleven feet, in a closure, and about an office that would not put a person inside a closure its own notice had made. And I have not thought about that ground in eleven months. And an office in this town has taken my page out of its own file, and had it copied, and written down that the copy is to be read with a page I have never seen.
+
+"**I am not going to say anything else about the plate. Neither of you is going to ask me about the plate. And I have written a letter this afternoon that says I will not be cited, quoted, produced, or asked again, and I put it in the post at half past two, and I have told you about it after I put it in the post and not before, and the order of those two things is not an accident and is not for you.**"
+
+Nessa Pike had not moved since the woman sat down.
+
+"**Then say the whole of it out loud once so that this yard can hear it and write it down,**" she said, "**because you have just told us four things and this is a yard that keeps two columns and a thing nobody can check goes in the wrong one by accident and then gets argued about for four years.**
+
+"**And here is what I want written down and I am saying it as the person holding the pencil and not as a woman being sensible. This yard has a number in its first column off a copying job sheet. It has a woman in a room off the fish market it cannot pay. It has a file on a second floor it has not asked for and is not going to. And it is going into a room on Friday morning with a book, and it is not represented, and it is going to be told what it means. Four things and not one of them can be put in front of anybody. That is the position, and I want it on the page tonight, and I do not want it improved on in a market in a fortnight.**"
+
+*First column, entered on Monday the twelfth day of October instant at about half past nine in the evening in this shed: that on the afternoon of the said day a person of no office, being Mara Venn, thirty, of this harbor and of no party, came up this hill and sat down in the doorway unasked and unsent, and that she was not asked for anything by this party and asked this party for nothing, and that both halves of that were said out loud in this yard and are entered here with the hour against them; and that she said in this yard, and this party entered, that on Friday the ninth instant a woman of this harbor, who keeps a copying counter in a room off the fish market, gave her at that counter a card in the hand of the circuit office of this harbor, bearing that on Friday the second of September past a leaf was withdrawn from the file of the ASTER GANNET in a room on a second floor of this town, that a commissioned officer of the Crown Navy applied for it by letter of the first instant, that the Registry agreed, that the reason the Registry entered against it is in the Registry's own hand in two words, and that the leaf is not to be produced and a copy is held.*
+
+*And that this party entered that it does not know and has not asked and is not going to guess what is on the said leaf sixty-two; and that the said woman stated in this yard that leaf sixty-two is a form of the eleventh of November last with her refusal upon it in her own hand on four grounds with her trade against her name and a date, and that the first of those four grounds is the ground about a closure created by the same office's own notice, out of which no office will countersign an instrument putting a person inside; and that she has not seen leaf eighty-eight and has had no office since the fourth of January; and that this party did not ask her one question and has entered why, which is that this party was refused in a room open to anybody in this town in eleven people's hearing on the twenty-ninth of September past, and that a party which has been refused once and then comes up a hill with a second errand is a party which has decided that a person is a door.*
+
+*And that the said woman said in this yard that she will not give this party the line, and gave the reason, and that the reason is the price named in the market office on the twenty-ninth of September past, which was an undertaking and not money, and that the price has not changed, and that a line written into a book of this yard would be a document and the Registry's page is a document, and that two documents in one room and only one of them carrying a seal is how a person of no office becomes a thing a person with an office can use; and that this party did not thank her and did not say it was sorry and said why, and that the said woman said she was not going to be thanked.*
+
+*And that the said woman said in this yard that on Sunday the eleventh instant she wrote four lines on a sheet of her own and put them in the post at half past two in the afternoon of that day, and that they say, in her own hand, that she will not be cited, quoted, produced, or asked again by that office or by any office of it, and that no form and no sheet and no notation and no hand and no date of hers is to be used to support an account she did not write and has not read, and that a letter cannot stop a thing that has already been done and that she has written it anyway; and that this party was told of it after it had gone to the post and not before, and that the order of those two things was the said woman's decision and not this party's; and that she said in this yard that the first of her four grounds is about a plate at the fifth seam of this mole in eleven feet and about a closure, and that this party did not ask her one word about the plate and has entered that it will not, and that she came up this hill four days in advance of this party wanting to ask her, and said so before this party had said anything.*
+
+*Second column, not checkable from a mole, entered on Monday the twelfth day of October instant at about half past nine in the evening in this shed, and no name is against it: that the holder entered on the twenty-ninth of September instant that he had not told that woman that he wrote down in the second column, on the eighth of September instant, a sentence she told him on the seventh of August not to write down, and that on the fourth of October instant he entered a decision to tell her and entered the reason he did not, and that on the twelfth instant she sat down in that doorway and told this party four things about a card and a file and a plate, and that the holder did not tell her in that doorway and has not told her, and that the reason he did not is the reason of the fourth of October instant and there is nothing new to add to it and he is not going to invent a second reason; and that the reason this line is in this column and not the first is that a man in a boat can be checked for what he said to a woman in a doorway and cannot be checked for what he did not say.*
+
+*And that the holder entered on the ninth of October instant that he did not know that a document had been said about an office in this town, and that on the twelfth instant he knows it, and that it is a form about a page, and that the two words on it are about the office and not about the page, and that the reason this line is in this column and not the first is that a man on a mole can check the words on a card and cannot check what an office has done with a page it agreed to take out of its own file; and that this party has entered against itself that it has now been told the whole of this thing by the one person in this harbor who is able to tell it, and that she told it for nothing, and that it cost her four days and a fair copy at a penny a sheet and a letter in the ordinary post out of a penny of her own, and that this party has not paid her a shilling of it and could not, and that whether she ought to have done it is not checkable from a mole and is not this party's business, and that the shipwright said in the doorway that this yard has four things and not one of them can be put in front of anybody, and that this party agrees with her.*
+
+**Nothing came into this yard on the Sunday and nothing went out on the Monday, and six marks and twelve shillings is in the bag, and a wage of four marks goes out of it on Tuesday the thirteenth. Thirty-one on the note, not re-written, three counts unmoved. Five marks of gland, unpaid, useless. Nothing in a tin. Three marks to a man of Ashtide, unmoved since the eighth of August, and he is not named in that book again. Seven pence to this yard's own shipwright. Eight marks and a day of a boat to this harbor's bellwright, unargued, and that man was not asked anything this month. Eight shillings and tenpence to a woman of this harbor. Forty marks standing whole to a boy of twenty-two, and the three nots of the eighth of June stand. Forty marks to a person of no office, first after food, unpaid since the fifteenth of October, and a penny out of her own pocket is not the forty marks. Twenty-one lines and eighty-four marks stand in the wage column with the fifth of March the oldest, and there are fifteen envelopes on a bench, and three weeks have fallen due this year with nothing standing against them. The third column has not been filled since the first of August and nobody has been appointed to it. The two objects of nobody's are about a hundred and forty-three days up the crown and neither of them has moved. The light is not on. The north berth is out. The tide gang is four men short. The hard at Ashtide is unanswered. The cistern behind the engine house was charged at no figure by strangers on the first, the fifth, the eighth and the twelfth of October, and this party walked none of the four. Nineteen winters are in a naval file and in a list in a city, and the woman making that list has this yard's four returns in her hands and nobody in Morrow Quay will ever be able to check what she writes with them. The plate at the fifth seam is in eleven feet and the note against it is open, and this party did not ask one word about it on Monday the twelfth and has entered that it will not.**
