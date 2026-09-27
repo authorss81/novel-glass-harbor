@@ -68,7 +68,7 @@ Tarner put both hands on the bench.
 
 "Ask it."
 
-"Whose day is it," Tarner said. "On Thursday. Twenty-six marks comes out of my pocket for a day that goes in your book, and the eighth and the share go to a harbor authority that has my ring and not my warp, and the mooring I am there to free belongs to a skipper called Pringle who has not paid me for it since November and knows exactly what he is doing. So: whose day is it. And when the man comes with the notebook, does he come to *Sea Wren* or does he come to this shed, and what does he write, and whose name is at the top of it."
+"Whose day is it," Tarner said. "On Thursday. Twenty-six marks comes out of my pocket for a day that goes in your book, and the eighth and the share go to a harbor authority that has my ring and not my warp, and the mooring I am there to free belongs to a skipper called Pringle who has not paid me for it since November and knows exactly what she is doing. So: whose day is it. And when the man comes with the notebook, does he come to *Sea Wren* or does he come to this shed, and what does he write, and whose name is at the top of it."
 
 It was Bevin Rook who answered, and he took about twenty seconds over it, which was longer than he usually took.
 

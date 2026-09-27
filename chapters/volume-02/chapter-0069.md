@@ -16,17 +16,17 @@ She put her hand flat on the wall at the head of it, about where the chalk was, 
 
 "Fourteen today for a ring," Pringle said. "I have read the figure on your wall and I have got a hand with a bad pencil and I did the sum on the way down. You will get the same on a good day and less on a bad one and that is the trade, and I have been in this trade forty years and I would like the four words said out loud in a book that I did it, not that the wind did."
 
-"Enter it," Nessa Pike said. "In his words, in his own hand, the figure, the crate, the cause, and that the party is not disputing the cause. And Calder, say the fourth thing out loud and do not let me say it for you, because it is yours."
+"Enter it," Nessa Pike said. "In her words, in her own hand, the figure, the crate, the cause, and that the party is not disputing the cause. And Calder, say the fourth thing out loud and do not let me say it for you, because it is yours."
 
 "I put a shackle through a stone post that was never meant to have a shackle in it, because this office had no better iron, and the wall's run is changed at the head, and the ring went with the new run," Calder Marr said. "And the office's iron and the office's fault and the office's wall, and I asked for better iron on Thursday and was told in the reeve's own barge that there was none and that this office was not going to buy iron in the last week of February with a fleet coming in, and I accepted that and I worked on it anyway, and both of those are mine."
 
-"Then we are two men who did the same thing," Pringle said, "and I have been up the hill since five and I would like a crate of fish for the fleet that goes into the first of March at eight o'clock and not at some other time, and I would like a man with a book to write the hour on it, because in eleven weeks somebody is going to tell the fleet that the fish came at noon."
+"Then we are two who did the same thing," Pringle said, "and I have been up the hill since five and I would like a crate of fish for the fleet that goes into the first of March at eight o'clock and not at some other time, and I would like a man with a book to write the hour on it, because in eleven weeks somebody is going to tell the fleet that the fish came at noon."
 
 ---
 
 The funding was done before anybody touched a boat, and it took twenty minutes, and it is in the yard's book in the boy's own right hand with the hour on it, and it is the shortest money entry of the winter because there was very little in it.
 
-Fourteen gross from Edric Pringle, on his own ring and his own warp and his own account, at the north wall, landward of the third seam, with no diver and no permit, which is not a favor and not a breach, because the notice of the thirty-first closes the mole's toe and inner face from the third seam to the eleventh and does not reach a herring skipper's own ring on the north wall, and no notice has ever closed water.
+Fourteen gross from Edric Pringle, on her own ring and her own warp and her own account, at the north wall, landward of the third seam, with no diver and no permit, which is not a favor and not a breach, because the notice of the thirty-first closes the mole's toe and inner face from the third seam to the eleventh and does not reach a herring skipper's own ring on the north wall, and no notice has ever closed water.
 
 The harbor's eighth, two. The harbor's share, two. Air, two. Rope, a mark. A hand, two marks, the second day of Wend Crale, engaged on the twenty-seventh and paid on the twenty-eighth out of the day he worked.
 
@@ -68,7 +68,7 @@ The whole of it was over at two in the afternoon. The boy made four men read it 
 
 The money went in on the Tuesday night and the position was read out and read back twice, and the book has it in a column.
 
-"Gross, fourteen, from Edric Pringle, of the *Anna Beth*, for one day's work on his own ring and his own warp and his own account, at the north wall, landward of the third seam, with no diver and no permit, and nothing raised.
+"Gross, fourteen, from Edric Pringle, of the *Anna Beth*, for one day's work on her own ring and her own warp and her own account, at the north wall, landward of the third seam, with no diver and no permit, and nothing raised.
 
 "The eighth, two. The share, two. Air, two, and the pot is a third gone and the pot is now a third gone and about a quarter of a mark worse than it was in January, which I have worked out and I am entering because a man will ask. Rope, a mark. The hand, two marks, the second day of Wend Crale, and he did not work it and he was paid it and I have entered that he was not fit and told us at eight in the morning and was not asked to be.
 

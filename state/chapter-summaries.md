@@ -1,12 +1,28 @@
 # Chapter Summaries
 
-Fifty finished chapters now exist for Volume 01, Batches 0001–0005. **Volume 01 is complete.** Summaries record what the prose actually did, not what the card planned.
+**A hundred finished chapters now exist: Volume 01, Chapters 1–50, and Volume 02, Chapters 51–100. Both volumes are complete and both are audited.** Summaries record what the prose actually did, not what the card planned.
 
 ## Format for every completed chapter
 
 Each entry is two to five sentences and records: what the chapter's scene changed, what new canon it established, what it cost, and which thread it closed or opened. Entries appear in chapter order under a volume heading, and the most recent twenty chapters stay available for voice continuity.
 
 ## Volume index
+
+### Volume 02 — *The License Sea*, Chapters 51–100. COMPLETE AND AUDITED.
+
+**Audited 26 September 2026 in `reviews/volume-02/volume-02-close.md`,** which is the volume audit and the home of its rulings, and which supersedes every batch account of itself below. **Volume 02 closed on Wednesday the third of May 2026, not on the first of March.** The five movements, their chapter ranges, the turn each lands, and what each paid:
+
+| Movement | Chapters | What it opened | What it paid |
+|---|---|---|---|
+| 1, the leash opens | 51–60 | the run does not stop at the mole and goes **under the town** | five marks in a bag at the close and nothing in a tin; Mara Venn's standing gone on the fourth of January; a wrist crushed on the twelfth; the run's four hundred feet of ordinary figures and no chart |
+| 2, weather and the capacity of a harbor | 61–70 | **the coast office's word *capacity* answered by a fisher's own document** | the ninth seam's mooring worked and in service; forty feet of the authority's marline in the sea; a fourth week of wage paid a week late out of a column the boy worked out himself |
+| 3, the paper that asks for the book | 71–80 | **a public record is a thing other people can now use** | a working boat taken in daylight over the yard's own market wall; the charter gone at midnight on the thirty-first of March; eleven copies named in public with four holders the yard cannot reach |
+| 4, the forged seal | 81–90 | **a claim seal proved forged, and a road that is real** | the only claim the yard ever had to a real object, given back in a market; a conservator's finding that no office in the harbor may enter; **the seal is false and the witness is real and neither is a reason to believe the other** |
+| 5, the rescue and the writ | 91–100 | **a writ with a Crown reporting clause and four names on it** | about four hundred feet of a woman's warp off her own wharf; a man found alive in five fathoms; a compressor gland, ten feet of hose, a hand lead's line and a claim window that raised nothing; the bellwright's eight marks paid; sixteen marks of a boy's wage paid out of four other men's pockets; the note not re-written, said out loud |
+
+**The volume's central pressure is resolved and resolved in the opposite direction to its opening:** the leash did not shorten, it lengthened, acquired a name and four persons, and carries a four-day reporting clock. **The volume closes on a bag of thirteen marks, a note at twenty-three, an empty tin, a bell with no tongue on its frame, a chandler's note that was not re-written and that the yard said out loud on a market wall, and a provisional writ with four names and a Crown signature on it.**
+
+**One state figure is corrected by the audit:** Batch 0002 is **31,300 words**, not 30,995, and its per-chapter figures for Chapters 61, 63, 65 and 68 are 3,024 / 3,195 / 3,498 / 2,790. The batch totals, re-measured: **31,769 / 31,300 / 26,358 / 25,683 / 33,327. Volume 02 in total: 148,437 words across fifty chapters.**
 
 ### Volume 01 — *The First Bell*, Chapters 1–50. COMPLETE AND AUDITED.
 
@@ -284,7 +300,7 @@ Thursday the nineteenth, the top of the flood, in the slop. The reason goes into
 
 ## Volume 02, Batch 0002 (Chapters 61–70) — complete. Movement 2, weather and the capacity of a harbor.
 
-**Actual word count, measured with `wc -w` including headings: 30,995 words across ten chapters** (Ch61 3,025 · Ch62 3,502 · Ch63 3,172 · Ch64 2,752 · Ch65 3,356 · Ch66 3,275 · Ch67 3,062 · Ch68 2,648 · Ch69 2,637 · Ch70 3,566). **Six chapters inside the 2,200–3,200 guideline and four past it**, the largest (Ch70, the batch's one hearing) about eleven per cent over, and no chapter anywhere near Volume 01's Ch31 or Ch40. **No chapter in the batch is two rooms**, and the batch's pressures alternate: supply understood, a rival crew, ordinary paid work, an office, money and a boy, a closure and a record, aftermath, labour in weather, a recovery that pays, and a sitting.
+**Actual word count, re-measured by the Volume 02 audit after the Batch 0002 review repair: 31,300 words across ten chapters** (Ch61 3,024 · Ch62 3,502 · Ch63 3,195 · Ch64 2,752 · Ch65 3,498 · Ch66 3,275 · Ch67 3,062 · Ch68 2,790 · Ch69 2,636 · Ch70 3,566). **The figure of 30,995 and the per-chapter figures for Chapters 61, 63, 65 and 68 that stood here were measured before the review repair was applied and were never recomputed; the chapters are the authority and the corrected figures are above.** **Six chapters inside the 2,200–3,200 guideline and four past it**, the largest (Ch70, the batch's one hearing) about eleven per cent over, and no chapter anywhere near Volume 01's Ch31 or Ch40. **No chapter in the batch is two rooms**, and the batch's pressures alternate: supply understood, a rival crew, ordinary paid work, an office, money and a boy, a closure and a record, aftermath, labour in weather, a recovery that pays, and a sitting. **Edric Pringle's pronouns in Chapters 62 and 69 were repaired mechanically by the volume audit; see `reviews/volume-02/volume-02-close.md` Part 2, item 1.**
 
 ### Chapter 61 — The List of Things That Exist
 
@@ -376,7 +392,7 @@ Friday the thirty-first of March. A herring skipper comes up the dock at half pa
 
 ## Volume 02, Batch 0004 (Chapters 81–90) — complete. Movement 4, the forged seal. **THE VOLUME'S MIDPOINT.**
 
-**Actual word count: 25,683 words across ten chapters** (Ch81 2,647 · Ch82 2,569 · Ch83 2,673 · Ch84 2,456 · Ch85 2,258 · Ch86 2,702 · Ch87 2,579 · Ch88 2,574 · Ch89 2,605 · Ch90 2,620), measured with `wc -w` including headings, re-measured after the Batch 0004 review repair, against the 2,200–3,200 guideline. **Every chapter is above the floor and every chapter is inside the guideline** — the first batch of Volume 02 to come in that way, and eleven to fourteen per cent under the ceiling on the two longest. **No chapter is two rooms.** The hearing room is not used at all in this batch; its slate wall is wiped twice and is named both times, and the reeve's own page is carried forward. The batch's pressures alternate: poverty and a refusal, paid work, a discovery, an office, a refusal asked once, material proof, an argument, action on the water, publication, and a ledger. **A reviewer pass over Chapters 81–90 returned FIX; the log is `logs/batch-0004.review.log` and every finding is disposed of in `state/continuity.md` § *Batch 0004 review repairs*. Five required repairs and ten prose, precision and file-reference repairs were made and no chapter was restarted, no scene was cut, no cost was dropped and no planned plot was altered. The two that change what a later batch inherits are the panel's dating, which is withdrawn so that no later chapter may date the work or restore the thirty-year reading, and the fifth of April, which had a person in the water and now says so on the page.**
+**Actual word count: 25,683 words across ten chapters** (Ch81 2,647 · Ch82 2,569 · Ch83 2,673 · Ch84 2,456 · Ch85 2,258 · Ch86 2,702 · Ch87 2,579 · Ch88 2,574 · Ch89 2,605 · Ch90 2,620), measured with `wc -w` including headings, re-measured after the Batch 0004 review repair, against the 2,200–3,200 guideline. **Every chapter is above the floor and every chapter is inside the guideline** — the first batch of Volume 02 to come in that way, and eleven to fourteen per cent under the ceiling on the two longest. **No chapter is two rooms.** The hearing room is not used at all in this batch; its slate wall is wiped twice and is named both times, and the reeve's own page is carried forward. The batch's pressures alternate: poverty and a refusal, paid work, a discovery, an office, a refusal asked once, material proof, an argument, action on the water, publication, and a ledger. **A reviewer pass over Chapters 81–90 returned FIX; the reviewer's own log is not kept in this repository and every finding is disposed of in `state/continuity.md` § *Batch 0004 review repairs*. Five required repairs and ten prose, precision and file-reference repairs were made and no chapter was restarted, no scene was cut, no cost was dropped and no planned plot was altered. The two that change what a later batch inherits are the panel's dating, which is withdrawn so that no later chapter may date the work or restore the thirty-year reading, and the fifth of April, which had a person in the water and now says so on the page.**
 
 ### Chapter 81 — A Job Without a Paper
 
