@@ -12,7 +12,7 @@ Monday the nineteenth of April, in the shed on the mole, and on the crown of tha
 
 ---
 
-The wall is the fifty-first thing that happened that week and nobody in that harbor mentioned it to anybody, and the reason nobody mentioned it is in the second column and it is the reason of the fourth of March past and has not been improved on.
+The wall came down for the fiftieth time that week and nobody in that harbor mentioned it to anybody, and the reason nobody mentioned it is in the second column and it is the reason of the fourth of March past and has not been improved on.
 
 What the two of them did instead, between nine and about one, was wait, and there is no figure for waiting and there is not going to be one.
 

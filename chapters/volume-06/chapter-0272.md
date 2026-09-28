@@ -4,7 +4,7 @@
 
 Friday the sixteenth of April, in the shed on the mole, and on the mole steps.
 
-**The wall did not come down on the said Friday and the cistern was not charged on it, and the said Friday was not a wage Tuesday, and nothing came into that yard on it and nothing went out of it, and the figure in the bag is the figure it was on Thursday night, and that is the sixth night running in which nothing has moved in it.**
+**The wall did not come down on the said Friday and the cistern was not charged on it, and the said Friday was not a wage Tuesday, and nothing came into that yard on it and nothing went out of it, and the figure in the bag is the figure it was on Thursday night, and that is the first night running in which nothing has moved in it since the penny went out on the Thursday.**
 
 **And the far bench was occupied on the said Friday from about ten until about two and was not occupied at any other hour of it, and the holder of that writ did not go over to him at any hour of the said Friday, and a man of sixty-one was not asked for anything and asked nothing.**
 
@@ -56,7 +56,7 @@ At the foot of it, under a rule, there is a line that says **SERVED** and there 
 
 Nessa Pike wrote it in the second column, in her own left hand, while the woman watched, and the line is nineteen words long and it says that the woman of no office refused to name the person who filled in the first line of the said sheet, and that nobody asked her twice, and that the reason against the line of the asking is a young man in an office who is frightened of a thing he is not allowed to name.
 
-"Why is it not a bad thing to have a name in a book," said the woman. "You have a book with two columns and a fourth one with six lines in it that nobody in this harbor can check, and you have put a man's name into the first column of that one, and a man of twenty-two's hand is at the head of the third. I have read your name on the bottom of a thing you did not sign. **You are frightened of names and you are frightened of pages and you have never once in your life been frightened of a woman with a form in her coat, and I would like somebody to tell me what to do about that.**"
+"Why is it not a bad thing to have a name in a book," said the woman. "You have a book with two columns and a fourth one with seven lines in it that nobody in this harbor can check, and you have put a man's name into the first column of that one, and a man of twenty-two's hand is at the head of the third. I have read your name on the bottom of a thing you did not sign. **You are frightened of names and you are frightened of pages and you have never once in your life been frightened of a woman with a form in her coat, and I would like somebody to tell me what to do about that.**"
 
 "I cannot tell you what to do about that," said Calder Marr, "and I have known for about nine days and I have not got past it, and the reason is on the second of April and it is the same reason in your own words and I have not improved on it either."
 

@@ -4,7 +4,7 @@
 
 Thursday the fifteenth of April, in the shed on the mole, and at the post on the corner.
 
-**The cistern behind the engine house was charged at no figure at about ten on the said Thursday morning by four men this yard does not know, and this party walked none of it, and that is the thirty-eighth of the charges that party has entered walked on none of since the third of August past. The wall behind the reeve's bench did not come down on the said Thursday, and the said Thursday was not a wage Tuesday, and nothing came into that yard on it and nothing went out of it, and the figure in the bag is the figure it was on Saturday night, and that is the fifth night running in which nothing has moved in it.**
+**The cistern behind the engine house was charged at no figure at about ten on the said Thursday morning by four men this yard does not know, and this party walked none of it, and that is the thirty-eighth of the charges that party has entered walked on none of since the third of August past. The wall behind the reeve's bench did not come down on the said Thursday, and the said Thursday was not a wage Tuesday, and nothing came into that yard on it and one penny went out of it at about half past two in the afternoon, and the figure in the bag is a penny under the figure it was on Saturday night.**
 
 **And the far bench was occupied on the said Thursday from about ten until about four and was not occupied at any other hour of it, and the holder of that writ did not go over to him at any hour of the said Thursday, and a man of sixty-one was not asked for anything and asked nothing.**
 
