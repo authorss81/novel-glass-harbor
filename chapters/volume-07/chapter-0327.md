@@ -4,9 +4,9 @@
 
 Friday the eleventh of June, in the fish market in the morning, and in the shed on the mole in the evening.
 
-**The said Friday was not a wage Tuesday. The wall behind the reeve's bench did not come down on it and the cistern was not charged on it, the cistern standing on a rota of a Monday and a Thursday. Nothing came into this yard on the said day and nothing went out of it, and there are twenty pence in the bag, being one shilling and eightpence. The far bench was occupied on the said Friday from about ten in the morning until about four in the afternoon and at no other hour of it.**
+**The said Friday was not a wage Tuesday. The wall behind the reeve's bench did not come down on it and the cistern was not charged on it, the cistern standing on a rota of a Monday and a Thursday. Nothing came into this yard on the said day and nothing went out of it, and there are twenty pence in the bag, being one shilling and eightpence. Four old books lay open on that bench and a fifth was in its owner's house, and that is the whole of what the ten days have produced.**
 
-**And the holder of that writ did not go over to the man on it at any hour of the said day, and a man of sixty-one at a far bench was not asked for anything and asked nothing, and nothing was put on that bench and read as a gift, and the holder of that writ was in that harbor on the said day and went up no coast road on any day of these ten, and neither brother has said why. Mara Venn is in that harbor and is going nowhere on any day of these ten, and is of no office, and is not on the crew, and her forty marks stand first after food and are not reduced and are not paid.**
+**A man of sixty-one sat on that bench from ten until four and was asked nothing and asked nothing, and nothing was put on it and read as a gift. The holder of that writ did not go over to him at any hour of the said day, was in that harbor from the market to the shed, and went up no coast road on any day of these ten, and neither brother has said why. Mara Venn is in that harbor, going nowhere, of no office, not on the crew, and her forty marks stand first after food, not reduced and not paid.**
 
 ---
 
@@ -40,7 +40,7 @@ The man of about thirty-six shut the book and picked it up and went out of the m
 
 In the shed that night, Nessa Pike wrote the father's three spellings down in the second column exactly as they had been read, with the three figures and the three dates, and under them the line that has now gone in four times: that a line of figures in five books identifies a difference in five books and not a truth about a sea.
 
-"It is found," said Calder Marr, looking at the entry. "Not in a room with a door shut. In a market, in about nine people's hearing, out loud, with a boat's name nowhere in it yet, but with a father's name in it, which is more. The man who is not in that market is the man this work most wants to be in it, and he was on the crown all day and was not sent for."
+"It is found," said Calder Marr, looking at the entry. "Not in a room with a door shut. In a market, in about nine people's hearing, out loud, with a boat's name nowhere in it yet, but with a father's name in it, which is more. The man who was not in that market is the man this yard most wants in it, and he was on the crown all day and was not sent for."
 
 "Write that as what it is," said Nessa Pike.
 
@@ -48,11 +48,11 @@ In the shed that night, Nessa Pike wrote the father's three spellings down in th
 
 He sat for a while with his hands on the bench, and the four books lay open beside the entry, and the fifth was back in its owner's house.
 
-"This party has always said that a record a man cannot check is worth less than one he can," he said. "This is the best record this party has ever been offered, and it is in five books now, and every book disagrees with every other by a quarter of a fathom or three quarters, and the soundings are of a coast that has moved, and the only way to check it is to go there, and the only kind that could get a blockade broken is the kind that cannot be checked at all. That is the turn. Write it down, because I am not going to refuse it for the old reason, and I am not going to accept it for free either."
+"This party has always said that a record a man cannot check is worth less than one he can," he said. "This is the best record this party has ever been offered, and it is in five books now, and every book disagrees with every other by a quarter of a fathom or three quarters, and the soundings are of a coast that has moved, and the only way to check it is to go there, and the only kind that could get a blockade broken is the kind that cannot be checked at all. Write it down, because I am not going to refuse it for the old reason, and I am not going to accept it for free either."
 
 She wrote it, and then she closed the small book and put the pencil down, because her left hand ached the way it always aches when she writes long, and she held the hand in the other for a while the way she has done since February.
 
-"Five books," she said, when the ache had eased. "Four of ours and one of his. Ten spellings if you count his three with our seven. And the chart on the reeve's wall with nothing across it, and his chart in his bag with nothing across it. It is all of a piece. The books say there is water where the charts say there is nothing, and the price says the water has moved and the road has to be given up. Nobody in this shed made any of that. It came the way it came."
+"Five books," she said, when the ache had eased. "Four of ours and one of his. Eleven spellings if you count his three with our eight. And the chart on the reeve's wall with nothing across it, and his chart in his bag with nothing across it. It is all of a piece. The books say there is water where the charts say there is nothing, and the price says the water has moved and the road has to be given up. Nobody in this shed made any of that. It came the way it came."
 
 "No," said Calder Marr. "Nobody in this shed made it. That is why it is worth something. A thing this yard made would be worth what this yard is worth, which is twenty pence and four columns nobody can check. This came out of other men's work, spread over eighteen years, and it disagrees the way honest work disagrees."
 
@@ -76,6 +76,6 @@ He stood up and went to the door of the shed and looked down the hill at the har
 
 ---
 
-**Nothing came into this yard on the said Friday and nothing went out of it, and there are twenty pence in the bag, being one shilling and eightpence, and the figure the bag is short of the wage of four marks, being six hundred and forty pence, is six hundred and twenty pence, being three marks, eleven shillings and eightpence, and it is not going to be paid and nobody is to write one word under it saying anybody is going to. The wall did not come down and the cistern was not charged. The far bench was occupied from ten until four and was not approached. The two objects of nobody's are three hundred and sixty-five days up the crown of that mole and the bench under that pump is bare for the hundred and thirty-first night, and neither of them has moved, and a man of about forty-one is mended in the foot and is back to warps and not in a boat, and a man of sixty-one with a bandaged right hand worked on that crown and was not thanked and is not going to be.**
+**Nothing came into this yard on the said Friday and nothing went out of it, and there are twenty pence in the bag, being one shilling and eightpence, and the figure the bag is short of the wage of four marks is six hundred and twenty pence, being three marks, eleven shillings and eightpence, and it is not going to be paid and nobody is to write one word under it saying anybody is going to. The wall did not come down and the cistern was not charged. The far bench was occupied from ten until four and was not approached. The two objects of nobody's are three hundred and sixty-five days up the crown of that mole and the bench under that pump is bare for the hundred and thirty-first night, and neither of them has moved, and Cobb Terrell said out loud at the foot of that slip that the bill was paid and the foot was mended and went back up the hill to mend warps for any man who wanted them, and not in a boat, and a man of sixty-one with a bandaged right hand worked on that crown and was not thanked and is not going to be.**
 
 **Nothing in that shed was signed. Nobody in that yard was thanked. Nobody in that harbor got a penny out of it.**

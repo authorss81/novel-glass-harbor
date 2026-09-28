@@ -22,15 +22,15 @@ Nessa Pike put the wage line in the book in her own left hand: a wage Tuesday, f
 
 ---
 
-Cobb Terrell came down again on the eighth, without the crutch, walking carefully, putting weight on the left foot for the first time in ten days, because the ten days the bonesetter named are up with this day.
+Cobb Terrell came down again on the eighth, without the crutch, walking carefully, having put weight on the left foot for the first time since the seventh, because the ten days the bonesetter named were up with the seventh of June and he came down the hill yesterday to stand in the yard door and did not go past it.
 
-He sat on the same bench and put the foot on the same bucket, but he stood on it to get there, and he smiled for the first time since the twenty-eighth of May.
+He sat on the same bench and put the foot on the same bucket, and he stood on it to get there, and he smiled for the first time since the twenty-eighth of May.
 
-"Ten days," he said. "The man said ten days without weight and fourteen off the water. Today is the tenth day if you count the Saturday as the first. I have counted it three ways and it comes out the same. I am standing on it and I am not going in a boat for six more days."
+"Ten days," he said. "The man said ten days without weight and fourteen off the water. The ten were up with yesterday and the fourteen are up with Friday. I have counted it three ways and it comes out the same. I am standing on it and I am not going in a boat for three more days."
 
 "You are standing on it," said Nessa Pike, and wrote it down.
 
-"I am," said Cobb Terrell. "And I am telling this shed that a foot mends and that the mending is not the thing. The thing is what a man hears when he is sitting still. I have heard that your drawer has four books in it and that two of them have been opened, and I am not asking to see them. I am telling you that my grandfather spelled a rock two ways in one voyage and called both of them right, because the rock was where he left it and the name was what he called it."
+"I am," said Cobb Terrell. "And I am telling this shed that a foot mends and that the mending is not the thing. The thing is what a man hears when he is sitting still. I have heard that your drawer has four books in it and that they are not to be opened past the first page, and I am not asking to see them. I am telling you that my grandfather spelled a rock two ways in one voyage and called both of them right, because the rock was where he left it and the name was what he called it."
 
 He stayed about half an hour and drank water and went back up the hill walking carefully, and nobody thanked him and he did not ask to be thanked.
 
@@ -50,13 +50,13 @@ Nessa Pike copied nothing out of either book. She wrote in the second column tha
 
 "Then it is checkable by going there," said Nessa Pike, "and a route remembered across several vessels is checkable by going there, and this yard has always said that the kind that cannot be checked is worth less than the kind that can."
 
-"That is what this yard has always said," said Calder Marr. "Write that down too, because these ten days are going to turn it round, and I want it on the page that it was straight before it was turned."
+"That is what this yard has always said," said Calder Marr. "And if this yard is going to say it out loud again, it is going to say it out loud plain, in this shed, with nobody standing at a door."
 
 She wrote it down, and then she sat back on the stool and looked at the two open pages for a long time without writing anything, because there was something in the pages she had not yet put into words.
 
 "What holds me," she said at last, "is the dates. Eleven, seventeen, twenty-three years past. Three men went out in three different years and wrote down the same water and none of them agreed with the others, and every one of them went home and ate supper and never knew. That is what a trade is. A man writes down what the lead says and the next man writes down what his lead says, and the leads disagree by half a fathom, and nobody in either year is lying."
 
-"No," said Calder Marr. "Nobody is lying. That is why it is the best record we have ever been offered. It is honest work that disagrees with itself. A thing made up would agree better."
+"No," said Calder Marr. "Nobody is lying. That is the harder case and it is the commoner one. It is honest work that disagrees with itself. A thing made up would agree better."
 
 "And the coast has moved under all of it," said Nessa Pike. "That went in the first column on the fifth, before any book was opened. So even if the leads had agreed to the inch in their own years, they would not agree with any lead cast now. That is the price, and it was named before the first use, and there has been no first use."
 
@@ -68,7 +68,7 @@ The woman of no office got up from the bench and poured water from the jug into 
 
 *First column, entered on Tuesday the eighth day of June next at about half past nine in the evening in this shed: that the said day was a wage Tuesday, and a wage of four marks, being six hundred and forty pence, was not paid on it, and no envelope was made, and the said column stands at twenty-six lines and one hundred and four marks and did not move, and twenty envelopes stand on that bench in that chest and did not move, and that thirty-three weeks have now fallen due with no envelope standing against any of them; and that the book of the Morrow Lass in a round hand and the book of the Gull's Rest in two hands were opened past the first page on the said day and no more, and hold soundings for the middle water of Bramble Strait in different spellings and different hands, being Skur Deep, Scurr Deepe and Skere Depe, with figures of nine, nine and a half and eight and three quarters fathom, dated eleven, seventeen and twenty-three years past.*
 
-*Second column, not checkable from a mole, entered on the said Tuesday at about half past nine in the evening in this shed, and no name is against it: that nobody in that crew asked the boy of twenty-two one word about the three omissions he has entered standing against the said day, and that he was not on the stone on the said day and was put on nothing; and that a man of about forty-one named Cobb Terrell came down to that shed on the said day without a crutch and put weight on the left foot for the first time in ten days and is not to be on the water for six more; and that a line of figures in two books identifies a difference in two books and not a truth about a sea.*
+*Second column, not checkable from a mole, entered on the said Tuesday at about half past nine in the evening in this shed, and no name is against it: that nobody in that crew asked the boy of twenty-two one word about the three omissions he has entered standing against the said day, and that he was not on the stone on the said day and was put on nothing; and that a man of about forty-one named Cobb Terrell came down to that shed on the said day without a crutch, the ten days without weight having been up with the seventh, and is not to be on the water until Friday the eleventh; and that a line of figures in two books identifies a difference in two books and not a truth about a sea.*
 
 *And that this yard did not go back to the copyist's counter in the room off the fish market on the said day and did not send anybody there; and that the holder of that writ was in that harbor on the said day and went up no coast road.*
 
@@ -78,6 +78,6 @@ The woman of no office got up from the bench and poured water from the jug into 
 
 ---
 
-**Nothing came into this yard on the said Tuesday and nothing went out of it, and there are twenty pence in the bag, being one shilling and eightpence, and the figure the bag is short of the wage of four marks, being six hundred and forty pence, is six hundred and twenty pence, being three marks, eleven shillings and eightpence, and it is not going to be paid and nobody is to write one word under it saying anybody is going to. A wage of four marks was not paid on the said day and thirty-three weeks have now fallen due with no envelope standing against any of them, and the next falls due on Tuesday the fifteenth of June for the thirty-fourth week, which is outside these ten days. The wall did not come down and the cistern was not charged. The far bench was occupied from ten until four and was not approached. The two objects of nobody's are three hundred and sixty-two days up the crown of that mole and the bench under that pump is bare for the hundred and twenty-eighth night, and neither of them has moved.**
+**Nothing came into this yard on the said Tuesday and nothing went out of it, and there are twenty pence in the bag, being one shilling and eightpence, and the figure the bag is short of the wage of four marks is six hundred and twenty pence, being three marks, eleven shillings and eightpence, and it is not going to be paid and nobody is to write one word under it saying anybody is going to. A wage of four marks was not paid on the said day and thirty-three weeks have now fallen due with no envelope standing against any of them, and the next falls due on Tuesday the fifteenth of June for the thirty-fourth week, which is outside these ten days. The wall did not come down and the cistern was not charged. The far bench was occupied from ten until four and was not approached. The two objects of nobody's are three hundred and sixty-two days up the crown of that mole and the bench under that pump is bare for the hundred and twenty-eighth night, and neither of them has moved. Cobb Terrell went back up that hill walking carefully at about half past ten with his own figure in his own mouth, being two marks, seven shillings and fourpence, and said out loud that he was not asking for work and was not asking for money, and nobody thanked him.**
 
 **Nothing in that shed was signed. Nobody in that yard was thanked. Nobody in that harbor got a penny out of it.**
