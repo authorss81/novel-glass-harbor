@@ -1827,3 +1827,43 @@ Six hundred and forty-nine pence of a day's work bought by a stranger; twenty-ei
 ### What the batch paid, in one line
 
 **NOTHING IN AND NOTHING OUT, SO 0 + 0 − 0 = 0 AND THE BAG STANDS AT NOTHING, AND THE FIGURE SHORT OF THE WAGE STANDS AT SIX HUNDRED AND FORTY PENCE, BEING FOUR MARKS, WITH THIRTY-SIX WEEKS FALLEN DUE. THE BATCH'S OTHER COSTS WERE ELEVEN BOATS OUT ON A BREACH FOR TWO NIGHTS AND ELEVEN MEN'S OWN SEASONS; THE STORM-READER STAGE TAKEN ONCE, IN SHARED WORK, WITH A CREW, AT A COST, AS A TRADE AND NOT A POWER, WITH THE COST BEING A COAST THAT HAS MOVED; TWO FEET OF WATER ON A REMEMBERED LINE THAT NOBODY CAN CHECK; TWO FINGERS OF A WORKING MAN'S LEFT HAND AND NINE DAYS OFF THE WATER; A LIGHT, A ROAD OF ELEVEN TONS, TWO DAYS OFF A SHIPWRIGHT'S BENCH, TWO DAYS HOME FOR A BOY OF FOURTEEN, A BERTH, A SLIP AT THREE SHILLINGS A WEEK FOR THREE WEEKS, AN ANCHOR AT ELEVEN SHILLINGS, FOUR GALLONS AND ABOUT A TON; A WRECK OF ABOUT NINETEEN TONS ON THE BOTTOM WITH SIX MEN ASHORE AND NO REPLACEMENT AT THE LAST PAGE; A TUESDAY TOLD TO A WOMAN OF NO OFFICE IN PLAIN WORDS; A PUBLIC SENTENCE ON A MAN'S OWN FEET THAT NOBODY IMPROVED ON AND NOBODY COMFORTED; A DAY LOST WITH A REASON AGAINST THE LINE AND NO NAME IN IT AND NO FIGURE; AND A SHEET OF FORTY LINES ON A MARKET WALL FOUR DAYS UP THAT COAST. THE CHEAPEST THING IN THAT HARBOR WENT UP SIX SHILLINGS ON THE FIRST OF JUNE AND DID NOT COME BACK DOWN. NONE OF THESE COSTS WAS OWED TO THIS YARD, NOT ONE PENNY OF THEM CAME TO IT, AND NONE WAS PAID TWICE.**
+
+---
+
+## Volume 07 close and hand-off — as AUDITED, 28 September 2026
+
+**THE VOLUME 07 CLOSE AND VOLUME AUDIT WAS RUN ON 28 SEPTEMBER 2026 AND ITS FILE IS `reviews/volume-07/volume-07-close.md`. IT ADDED NO CHAPTER, WROTE NO PASSAGE A CHAPTER WAS SUPPOSED TO CARRY AND DID NOT, AND QUEUED NO WRITING PHASE. THE NEXT VOLUME'S OUTLINE IS NOT THIS PHASE'S BUSINESS AND IS NOT PLANNED HERE.**
+
+**THE WHOLE-VOLUME FIGURES, MEASURED WITH `wc -w` INCLUDING HEADINGS ON THE CHAPTERS AS THEY STAND AFTER THE AUDIT'S TWENTY-FOUR MECHANICAL REPAIRS, 28 SEPTEMBER 2026: BATCH 0001 28,904 · BATCH 0002 32,804 · BATCH 0003 25,313 · BATCH 0004 39,288 · BATCH 0005 44,181. THE VOLUME IS 170,490 WORDS ACROSS FIFTY CHAPTERS, AND THE FIVE SUM TO THE SIXTH. THE FIGURE THE CLOSE PROMPT CARRIED, 170,173, IS CORRECTED IN PLACE. TWENTY-SEVEN OF THE FIFTY CHAPTERS ARE PAST THE 2,200–3,200 GUIDELINE AND TWENTY-THREE ARE INSIDE IT, AND THE HOUSE HAS NOW SPENT THREE CONSECUTIVE BATCHES WITH EVERY CHAPTER PAST IT. AND THIRTY-FIVE PER CENT OF THE VOLUME — 60,103 WORDS — IS THE YARD'S OWN DAILY APPARATUS, ITS LEDGER ENTRIES, ITS FOURTH-COLUMN LINES AND ITS CLOSING BLOCK, AND ONLY 110,067 IS BODY, SO THE HOUSE'S LENGTH RULE IS MEASURING ITS OWN APPARATUS AND NOT ITS PROSE.**
+
+**THE AUDIT'S FIGURES FOR THE FIFTY CHAPTERS, EACH RE-DERIVED FROM THE CHAPTER AND NOT FROM A STATE FILE, WITH THE METHOD BESIDE IT:**
+
+| Figure | The value | Method |
+|---|---|---|
+| **The four-column leaf at the five closes** | 43/143/none/35 · 53/177/none/45 · 63/208/none/55 · 73/246/none/65 · 83/289/none/75 | Read off the page of Chapters 310, 320, 330, 340 and 350. **The third column is none on fifty consecutive days and nobody is appointed** |
+| **The wall wipe** | 53rd to 60th, one a Monday, no skip, no repeat, the counter not restarting, no sitting on any of the eight | Every instance extracted from all fifty chapters |
+| **The cistern charge** | 47th to 60th, one a charge, walked on every one | Same |
+| **The wage Tuesday** | 18 May, 25 May, 1 June, 8 June, 15 June, 22 June, 29 June, and the weeks-fallen-due running 29, 30, 32, 33, 34, 35, 36, one a Tuesday and nothing on the other forty-three days | Same |
+| **The far bench** | **36 days across the fifty chapters, in five batches of 3 / 3 / 10 / 10 / 10** | Counted from the prose. The days of the first two batches are named on the page: 19, 22, 24 May and 28, 30 May, 2 June. The six days on which it is asserted unoccupied are Chapters 303, 307, 309, 315, 317 and 318 |
+| **The bellwright's day-count of not asking** | 10, 20, 30, 40, 50 at the five closes | Read off the five closes. The fiftieth is repaired from forty |
+| **The two objects of nobody's** | **338 on 15 May rising one a calendar day to 388 on 4 July, with one skip of 358** | Every instance extracted. **The skip is Friday the fourth of June, the one day in the volume's 51-day span that is in no chapter** |
+| **The bench under the pump** | 104 to 154 one a calendar day, with one skip of 124, the same day | Same |
+| **The day of the ninety** | Eleventh on 25 June to twentieth on 4 July, one a chapter, not re-anchored | Carried on the face of every one of the last ten chapters |
+| **The second seam's fouling** | **A foot and seven inches on the weather side and nothing on the other, where it was on the nineteenth of May past, on every page from Chapter 305 to Chapter 350.** The ladder of five figures is given once, in Chapter 305, by the man who keeps it in his own book and gave his name to nobody | Every instance extracted. One figure, one side, one day it was measured on |
+| **The money** | 261 at the open, 92, 20, 20, 0, 0 at the five closes; **336p in and 597p out across fifty days, on three transactions inside the harbor line, none of them a trade; 261 + 336 − 597 = 0** | Re-derived chain by chain at the audit's Part 3 § 3.2 |
+| **The sheet of forty lines** | **A name and an hour on all forty lines, a price and a payer on thirty-seven, one correction, five places, six things after it not on it** | All forty lines read and counted at the audit's Part 1 § 12.1 |
+| **The three figures that must not be swapped** | Nine communities and the records one in each, six centuries, three hundred years of the office — in that order, on Chapters 330, 340 and 350 and nowhere else | Every instance extracted |
+| **The weekday-and-date pairs** | **62 pairs, 0 mismatches against the house grid, 1 recorded departure on Friday the fourth of June** | Every pair extracted at each chapter's own opening line and everywhere in the body |
+| **Counted sentences** | Eleven found, nine right, two wrong and repaired: *I have seen that water* is five words not eight; the market sentence of the third of July is twenty-five words not nineteen | Each counted off the page, word by word |
+| **The condition** | **ZERO namings.** Three loose hits on the word *condition* and all three are the condition of a question | Search across all fifty chapters |
+| **The body-words and *network*** | On three pages in six passages, all denials, in no mouth | Anchored sweep of all fifty chapters |
+| **The compartment** | *compartment* **one**, in a denial; *Aster Gannet* **one**, in the same denial | Same |
+| **The two men of sixty-one in one sentence** | **One instance in fifty chapters, in Chapter 350's apparatus, and it is an assertion that they are two** | Every occurrence read in context |
+| **The two objects' tarpaulin** | The phrase is byte-identical in Chapters 310, 320, 330, 340 and 350 and is *not* forward-dated in the earlier three | All five instances read, and the earlier state-file finding is withdrawn |
+| **The word *panel*, the interface vocabulary, second person** | *panel* **zero**; the interface vocabulary **zero**; 479 second-person occurrences, every one inside a character's speech, a reading and not a script | Search and reading |
+
+**THE AUDIT'S TWENTY-FOUR MECHANICAL REPAIRS ARE IN ELEVEN CHAPTERS — 305, 329, 334, 335, 337, 338, 341, 343, 344, 346, 349 AND 350 — AND EACH IS LISTED INDIVIDUALLY AT THE AUDIT'S § 21a WITH THE LOCK IT BREAKS AND THE FIX. NO SCENE WAS CUT, NO COST WAS DROPPED, NO DATE WAS MOVED, NO CHARACTER WAS AGED AND NO PLANNED PLOT WAS ALTERED.**
+
+**THE VOLUME INDEX ROW FOR VOLUME 07 IS BROUGHT FORWARD HERE, AND IT NOW READS:**
+
+### Volume 07 — *The Closed Sea*, Chapters 301–350. **WRITTEN IN FULL, ALL FIFTY CHAPTERS. ALL FIVE MOVEMENTS PAID, THE MIDPOINT REVERSAL ON THE PAGE WITH THE BEAT ON TOBIAS WREN AND NOT ON THE MAN AT THE FAR BENCH, THE CLIMAX PAID AS FORTY SMALL DECISIONS BY TEN BOATS AND ELEVEN MEN WITH A PAGE A STRANGER CAN CHECK, THE RESOLUTION SPOKEN IN NINE OTHER MEN'S MOUTHS, THE FINAL CHAPTER IMAGE PAID IN ALL SEVEN OF ITS ELEMENTS ON THE FACE OF CHAPTER 350, AND THE VOLUME'S NEW-VOLUME QUESTION ASKED ONCE, AT A MOLE HEAD, IN SIXTY-THREE WORDS THAT NAME NO PERSON, AND NOT ANSWERED, AND THE CLIMAX NEITHER SUCCEEDED INTO AN ANSWER NOR COLLAPSED INTO ONE. CLOSED AND AUDITED AT `reviews/volume-07/volume-07-close.md`, 28 September 2026. THE VOLUME MEASURES 170,490 WORDS ACROSS FIFTY CHAPTERS. NO WRITING PHASE IS QUEUED, AND NONE IS BECAUSE THERE IS NO VOLUME 08 OUTLINE IN THIS REPOSITORY.**

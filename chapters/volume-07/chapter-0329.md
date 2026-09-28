@@ -32,7 +32,7 @@ What he said instead was one true thing, and he said it because he has seen it b
 
 "That spelling," he said, pointing with his chin at the stitched book, where *Skorr Depe* stands under the date twenty-seven years past. "I have seen that water."
 
-That was all. Eight words. He said nothing else that afternoon, and nobody asked him for anything else, because he may be looked at and he may not be asked, and he was looked at by about forty people and asked by none of them.
+That was all. Five words. He said nothing else that afternoon, and nobody asked him for anything else, because he may be looked at and he may not be asked, and he was looked at by about forty people and asked by none of them.
 
 The ring stood for a while longer, and then people began to go down the hill in twos and threes, and the man of about thirty-six shut his father's book and picked it up, and Nessa Pike shut this yard's four books one at a time and carried them back to the shed, and Tobias Wren stayed on his bench with the hook across his knees until four o'clock, when he always goes.
 
@@ -56,11 +56,11 @@ She wrote it, and the pencil moved slowly across the page in her left hand, at a
 
 When it was done she looked at the entry for a long time, and then she said the thing that neither of them had said on the crown, because on the crown about forty people had been watching and in the shed there were three.
 
-"He pointed with his chin," she said. "At the stitched book. At Skorr Depe, twenty-seven years past. He bent to see the date. He knows that hand, or he knows that water, or he knows both. And he gave us eight words and nothing more. I have seen that water. That is what a man says when he has been somewhere and is not going to say he has been there."
+"He pointed with his chin," she said. "At the stitched book. At Skorr Depe, twenty-seven years past. He bent to see the date. He knows that hand, or he knows that water, or he knows both. And he gave us five words and nothing more. I have seen that water. That is what a man says when he has been somewhere and is not going to say he has been there."
 
 "That is what he said," said Calder Marr. "Because he has seen it before and not because he is explaining it. If he had wanted to explain, he could have said either of the two things he could say, and he refused both, and neither of them is in this yard's book and this yard is not putting either of them in. And he is not a teacher and not a door and not a sacrifice, and there is no one here he is standing in for."
 
-The woman of no office folded the mending she had finished and laid it on the bench, and said that forty people had watched a man look at pages for four minutes and heard eight words, and that no person in that ring had asked for a ninth word, and that this harbor had done one thing right in ten days.
+The woman of no office folded the mending she had finished and laid it on the bench, and said that forty people had watched a man look at pages for four minutes and heard five words, and that no person in that ring had asked for a sixth word, and that this harbor had done one thing right in ten days.
 
 ---
 

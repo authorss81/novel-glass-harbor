@@ -70,7 +70,7 @@ Nessa Pike kept her eyes on the page. She was the ship's hand and she writes lef
 
 She picked up her coat and folded it over her arm, and then she did not put it on, and that was the part of the afternoon that stayed in that shed.
 
-"**Here is what I lost,**" she said. "**It is not a record. I have no record. Nobody has ever been able to take anything off me that I was keeping, and you have never once in six volumes pretended otherwise and it is the one thing about this yard I have never had to check. On Tuesday I had a whole week in front of me. On that Tuesday I would have spent a day of it on this, and I would have won it, and I would have been half right, and I would have come up here on the Wednesday and asked you again and it would have been finished by the Thursday. That is what is gone. Not a fact. A Tuesday.**"
+"**Here is what I lost,**" she said. "**It is not a record. I have no record. Nobody has ever been able to take anything off me that I was keeping, and you have never once in as long as I have known you pretended otherwise and it is the one thing about this yard I have never had to check. On Tuesday I had a whole week in front of me. On that Tuesday I would have spent a day of it on this, and I would have won it, and I would have been half right, and I would have come up here on the Wednesday and asked you again and it would have been finished by the Thursday. That is what is gone. Not a fact. A Tuesday.**"
 
 "**Yes,**" said Calder Marr.
 

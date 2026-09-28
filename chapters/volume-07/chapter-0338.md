@@ -80,7 +80,7 @@ The ship's hand wrote it and put the attribution in and did not put a name again
 
 "**That is three times you have said that in a month,**" said the woman of no office.
 
-"**It is the third time and it is the same reason and I am not going to improve on it,**" he said, "**and I am going to say the fourth thing too, since we are counting, and the fourth thing is this. Six men are standing on a quay in this harbor with no boat, and on Thursday night this page gets read back in full and I am going to say that out loud in that shed in front of two people, and it is going to be the first time in six volumes that this yard has entered a thing it cannot do and left it in.**"
+"**It is the third time and it is the same reason and I am not going to improve on it,**" he said, "**and I am going to say the fourth thing too, since we are counting, and the fourth thing is this. Six men are standing on a quay in this harbor with no boat, and on Thursday night this page gets read back in full and I am going to say that out loud in that shed in front of two people, and it is going to be the first time in the whole of this yard's life that this yard has entered a thing it cannot do and left it in.**"
 
 "**You are not going to do it on Thursday,**" said the woman of no office.
 

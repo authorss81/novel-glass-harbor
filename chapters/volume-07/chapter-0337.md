@@ -94,7 +94,7 @@ In the shed that night there were three of them and nobody comforted anybody.
 
 "**It is not going to come to that,**" said Calder Marr, "**and I have got one thing to put in the second column with a reason against it and no name in it, and the reason is not the rule of the first of May, because this is not a question. Write this. That the use of that mark is closed, that the four figures are four figures and no more, that no page of that book has been copied and none is going to be, and that if a person of this yard ever wants a fifth figure out of that book then the answer is no, and that the answer is going to be no at any hour of any day and is not going to be softened on the day a boat is in trouble.**"
 
-"**That is a rule,**" said the woman of no office, "**and you have never made one in six volumes.**"
+"**That is a rule,**" said the woman of no office, "**and you have never made one in as long as I have known you.**"
 
 "**I have made two,**" he said, "**and one of them is from the first of May past and the other is from the twenty-fourth of April past, and this is the third, and it is not any worse than the other two, and I would rather have three rules in a month than none, and I am not going to pretend to you that it did not cost me anything to make it.**"
 

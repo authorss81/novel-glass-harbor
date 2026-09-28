@@ -20,7 +20,7 @@ That last part was the condition and Calder Marr made it himself and would not g
 
 The question as it was put, in eleven places, on the twenty-fifth of June, was this, and it was said the same way every time, and it is fifty-one words and this yard counted them twice on the Friday morning and is not going to count them again:
 
-*Will you take your own boat out of this harbour past the mole head on the night of this day next, and across the bar, and into the strait, and bring back flour and oil and physic, on your own account, and without a declaration, which is a breach, and which nobody can make you keep to and nobody can pay you for?*
+*Will you take your own boat out of this harbor past the mole head on the night of this day next, and across the bar, and into the strait, and bring back flour and oil and physic, on your own account, and without a declaration, which is a breach, and which nobody can make you keep to and nobody can pay you for?*
 
 And the answer was given in a chandler's, in a net loft, in a kitchen, in a boatyard, on a hard, in a shed, at a counter, in a fish market, on a mole, and twice on a quay, and the yard has it that way and not as a list.
 
