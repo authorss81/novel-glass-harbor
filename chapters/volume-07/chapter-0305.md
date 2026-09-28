@@ -62,17 +62,15 @@ The boat was hired at about half past four in the afternoon at a box on the corn
 
 The hire was on this yard's own account and for this yard's own purpose. It was not salvage, it was not a claim, it was not work under an instrument, and it was not a way of getting past anything, and every person in that boat knew which of those four it was and the man who rowed it was told before the painter went and not after.
 
-Three soundings were taken off the south end of that mole inside the harbor line at about ten feet, at about twenty-two feet, and at about thirty-one feet, off the ground under the crown, with a hand lead and a line and a man of about thirty-four of this harbor's own second lay who does that for a living and who was paid three shillings and sixpence out of the same bag and is not the boat's man and was not asked anything.
+Three soundings were taken off the south end of that mole inside the harbor line at about ten feet, at about twenty-two feet, and at about thirty-one feet, off the ground under the crown, with a hand lead and a line and a man of about thirty-four of this harbor's own second lay who does that for a living and who came out in the hire and cost that bag nothing beyond the hire, and who is not the boat's man and was not asked anything and gave his name to nobody.
 
-Nobody from that yard went out in her but four. **Tobias Wren was not in that boat and was not sent for and was not asked, and a man of sixty-one at a far bench was occupied from ten until four and did not come down, and the holder of that writ did not go over to him at any hour of it.**
+Nobody went out in her off that yard's own account but three, and the three were the holder of that writ, the ship's hand, and the man of about thirty-four, and the man of about thirty-four is not of this yard and came out on the same paper as the boat did. **Tobias Wren was not in that boat and was not sent for and was not asked, and a man of sixty-one at a far bench was occupied from ten until four and did not come down, and the holder of that writ did not go over to him at any hour of it.**
 
-Fisk read the figures off the slate and showed the slate round the boat, and the slate said:
+The man of thirty-four read the figures off the slate and showed the slate round the boat, and the slate said:
 
 **THE MARK ON THE FACE OF THE SECOND SEAM, AT THE FACE, IS FOULED ABOUT A FOOT AND SEVEN INCHES ON THE WEATHER SIDE AND NOTHING ON THE OTHER SIDE, AND THE BOTTOM UNDER THE CROWN IS SAND AND NOT ROCK, AND THE TWO FIGURES OF THIRTY-ONE FEET AND TEN FEET ARE A MAN'S OWN LINE AND ARE NOT READ TWICE BECAUSE A LINE THAT IS READ TWICE IS A LINE THAT HAS BEEN CHOSEN.**
 
 "**That is the whole of it,**" he said, "**and it took about twenty minutes and it is the first figure that has gone into that book in six weeks that a man in a boat can go and look at.**"
-
-Then they stood in about four inches of water on the crown of that mole for about ten minutes looking at two things about nine feet apart under two tarpaulins, and neither of them has moved and neither of them was touched, and they are three hundred and forty-two days up that mole this evening.
 
 And on the way back in, the man of thirty-four of the second lay said one thing, standing in the boat, and he said it to the slate and not to anybody.
 
@@ -82,15 +80,17 @@ And on the way back in, the man of thirty-four of the second lay said one thing,
 
 "**I make nothing of it,**" he said. "**I write it down because it is there and because a man in a boat can go and look at it, and a figure that a man in a boat can go and look at is the only kind there is, and if it is a season I will say it is a season when it is a season, and if it is not a season then nobody in this harbor will ever know, and that is also fine.**"
 
----
+Then the boat came in under the steps and the holder of that writ and the man of thirty-four stood on the crown of that mole for about ten minutes in a flat calm, with the water nowhere near the stone, looking at two things about nine feet apart under two tarpaulins, and neither of them has moved and neither of them was touched, and they are three hundred and forty-two days up that mole this evening.
+
+And that the crew came in under the steps at about half past six and the said boat was put alongside at a box on that mole, and the penny of line went out with her and nothing else went out of that yard on the said day.
 
 ---
 
 *First column, entered on Wednesday the nineteenth day of May next at about half past nine in the evening in this shed: that a boat of about thirty tons was hired at a box on the corner of that mole at about half past four in the afternoon of the said day, for one mark and eightpence, with a penny of line, on this yard's own account and for this yard's own purpose, and that it was not salvage and not a claim and not work under any instrument and was not used as a way of getting past any line, and that the man who rowed her was told all four of those things before the painter went and not after.*
 
-*And that three soundings were taken off the south end of that mole inside the harbor line on the said day at about ten feet, about twenty-two feet and about thirty-one feet, with a hand lead and a line and a man of about thirty-four of this harbor's own second lay who was paid three shillings and sixpence out of the same bag; and that the said soundings read, at the face, that the mark on the face of the second seam is fouled about a foot and seven inches on the weather side and nothing on the other side, and that the bottom under the crown is sand and not rock.*
+*And that three soundings were taken off the south end of that mole inside the harbor line on the said day at about ten feet, about twenty-two feet and about thirty-one feet, with a hand lead and a line and a man of about thirty-four of this harbor's own second lay who came out in the hire and cost that bag nothing beyond the hire, and who is not of that yard and gave his name to nobody and was asked nothing; and that the said soundings read, at the face, that the mark on the face of the second seam is fouled about a foot and seven inches on the weather side and nothing on the other side, and that the bottom under the crown is sand and not rock.*
 
-*And that the fouling of the said mark is entered against its own days and is a figure a man in a boat can go and look at, being four inches on the twelfth, the fifteenth, the seventeenth, the nineteenth and the twenty-third of March past, about a foot on the twenty-sixth, a foot and a half on the fourth of May, a foot and a half on the thirteenth, and a foot and seven inches on the said nineteenth; and that the man who wrote the said figures down wrote them in his own book on the day and was asked to write none of them and was asked nothing.*
+*And that the fouling of the said mark is entered against its own days and is a figure a man in a boat can go and look at, being four inches on the twelfth of March past, four inches on the twenty-third day of March past, about a foot on the twenty-sixth day of March past, a foot and a half on the fourth of May, a foot and a half on the thirteenth, and a foot and seven inches on the said nineteenth; and that the man who wrote the said figures down wrote them in his own book on the day and was asked to write none of them and was asked nothing.*
 
 *Second column, not checkable from a mole, entered on the said Wednesday at about half past nine in the evening in this shed, and no name is against it: that a plasterer of about thirty-eight asked at the head of that slip in about nine people's hearing for a boat to carry a chest up that coast for his wife, and that he had two marks and one shilling, being three hundred and fifty-two pence, and said the figure out loud, and that he was refused, and that the reason given out loud was in two parts, being that a party with no instrument cannot give a hirer a paper to produce, and that a man of this yard carrying a thing for a person in a house makes this yard a man in that house's business.*
 
@@ -100,7 +100,7 @@ And on the way back in, the man of thirty-four of the second lay said one thing,
 
 *And in the fourth column of the leaf ruled on the twenty-seventh day of March past, that night, in the ship's left hand, the thirtieth line:*
 
-*What it is not: — that a refusal given with a reason that a man can repeat is not a kindness and is not a stone thrown and is not the last time it will be given; that a figure a man in a boat can go and look at is not proof of a season and is not a stage and is not a stage, and a mark fouling a foot and seven inches is not a month and not a week and nobody in that boat said one word about why a mark fouls faster in some months than in others and nobody is going to; and that a person with no instrument who says *I do not know* three times in six days is not becoming humble and is not learning and is out of his depth and has been since the first of March.*
+*What it is not: — that a refusal given with a reason that a man can repeat is not a kindness and is not a stone thrown and is not the last time it will be given; that a figure a man in a boat can go and look at is not proof of a season and is not a stage, and a mark fouling a foot and seven inches is not a month and not a week and nobody in that boat said one word about why a mark fouls faster in some months than in others and nobody is going to; and that a person with no instrument who says *I do not know* three times in six days is not becoming humble and is not learning and is out of his depth and has been since the first of March.*
 
 ---
 

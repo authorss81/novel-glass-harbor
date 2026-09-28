@@ -4,7 +4,7 @@
 
 Sunday the sixteenth of May, on the hard and the slip, at a chandler's on the front street, and off the north side of that mole in the evening.
 
-**The said Sunday was not a wage Tuesday. The wall behind the reeve's bench did not come down on it and the cistern was not charged on it. Nothing came into that yard on it and nothing went out of it. And the far bench was not occupied on the said Sunday at any hour, and the holder of that writ did not go over to him at any hour of it, and a man of sixty-one at a far bench was not asked for anything and asked nothing, and nothing was put on that bench and read as a gift.**
+**The said Sunday was not a wage Tuesday, and the wall behind the reeve's bench did not come down on it, and the cistern was not charged on it. Nothing came into this yard on the said Sunday and nothing went out of it. A man of sixty-one was not on that far bench at any hour of the said Sunday and was asked nothing and asked nothing; the holder of that writ did not go over to him at any hour of it; and nothing was put on that bench and read as a gift.**
 
 ---
 
@@ -36,11 +36,11 @@ The man of about fifty-five did not say anything to that and went to look at his
 
 ---
 
-The chandler is on the front street and has been there thirty-one years, and he is a man of about fifty, and on Saturday a man in a blue coat came into his shop and asked him, in about nine people's hearing, what boats had been out of Morrow Quay in a fortnight and where they had gone to.
+The chandler is on the front street and has been there thirty-one years, and he is a man of about fifty, and on Saturday the fifteenth a man in a blue coat came into his shop and asked him, in about nine people's hearing, what boats had been out of Morrow Quay in a fortnight and where they had gone to.
 
 He told Nessa Pike about it on the Sunday at about eleven, at the counter, with about four people in the shop, and he told it the way a man tells a thing he is not ashamed of and is not proud of either.
 
-"**I gave him nine,**" he said. "**Not nine boats. Nine words. I said, *I sell candles and rope and I do not keep a register of other people's water.* That is nine words and it is true and it is what I would have said to any man who came in and asked me, and if you want to know what I would have said to a man who came in and asked me on a Tuesday before all this, it is the same sentence, because I have said it to about four of them since I came.**"
+"**I gave him nine,**" he said. "**Not nine boats. Nine words. I said, *I sell candles and rope, not other men's water.* That is nine words and it is true and it is what I would have said to any man who came in and asked me, and if you want to know what I would have said to a man who came in and asked me on a Tuesday before all this, it is the same sentence, because I have said it to about four of them since I came.**"
 
 "**Did you give him a list.**"
 
@@ -72,7 +72,7 @@ He said it because somebody said *did you go out to her*, which is a question an
 
 "**And.**"
 
-"**And he said, *then you will want to hear it again from the man who wrote it.*"**
+"**And he said, *Then you'll want it again from who wrote it.***"
 
 Nobody said anything for about four seconds, and then about eleven people said something at once and the boat's man put his hand up flat, the way a man does on a mole.
 
@@ -100,11 +100,11 @@ The boat's man nodded and went down the steps and did not say thank you and was 
 
 *First column, entered on Sunday the sixteenth day of May next at about half past nine in the evening in this shed: that a tender of about sixty tons came into the water off the north side of that mole at about four in the afternoon of the said day and lay there about three hours with a line out to a buoy, one light burning at her masthead, no flag showing, two guns covered, and a boat on her davits, and went out again at about a quarter past seven; and that about forty people were on that mole between about five and seven o'clock in the afternoon of the said day, which is more than that mole has held on an ordinary Sunday since the first of April.*
 
-*And that a boat's man of about forty went out in a dinghy with a painter at about five in the afternoon of the said day and came back at about half past five and moored and came up the steps; and that he was asked nothing by any person and that he was asked one question by a man on the said tender, being whether a crate had gone off that mole on the fourteenth day of May, and that he said he had not been there on the fourteenth, that he did not know, and that he was not going to say; and that the man on the said tender said, *then you will want to hear it again from the man who wrote it*; and that these are nine words and the said man counted them and said so out loud on the steps of that mole in about forty people's hearing.*
+*And that a boat's man of about forty went out in a dinghy with a painter at about five in the afternoon of the said day and came back at about half past five and moored and came up the steps; and that he was asked nothing by any person and that he was asked one question by a man on the said tender, being whether a crate had gone off that mole on the fourteenth day of May, and that he said he had not been there on the fourteenth, that he did not know, and that he was not going to say; and that the man on the said tender said, *Then you'll want it again from who wrote it*; and that these are nine words and the said man counted them and said so out loud on the steps of that mole in about forty people's hearing.*
 
 *And that a boat lies on the slip of this harbor's own hard with a green length of copper under her housing that wants replacing, and that the copper is at Ternwatch, and that Ternwatch is a day's water with a foul bottom at one end and about four hours of it in a month when a man would go, and that a boat's man is four marks a day; and that a slip of this harbor is three shillings a week; and that neither figure was paid and neither was asked for and neither is going to be.*
 
-*Second column, not checkable from a mole, entered on the said Sunday at about half past nine in the evening in this shed, and no name is against it: that a chandler of the front street of this harbor was asked on Saturday the fourteenth day of May past, in about nine people's hearing in his own shop, what boats had been out of this harbor in a fortnight and where they had gone, and that he gave nine words and no list, and that he has said out loud in about four people's hearing that the same nine words would have been given on any Tuesday in the year; and that a man in a blue coat of about fifty with a book was in that shop and is at the head of that slip and on that tender and on that mole, and that he is not a servant and is not an officer and is not named in this book and has not been asked anything by anybody.*
+*Second column, not checkable from a mole, entered on the said Sunday at about half past nine in the evening in this shed, and no name is against it: that a chandler of the front street of this harbor was asked on Saturday the fifteenth day of May past, in about nine people's hearing in his own shop, what boats had been out of this harbor in a fortnight and where they had gone, and that he gave nine words and no list, and that he has said out loud in about four people's hearing that the same nine words would have been given on any Tuesday in the year; and that a man in a blue coat of about fifty with a book was in that shop and is at the head of that slip and on that tender and on that mole, and that he is not a servant and is not an officer and has not given his name to anybody and has not been asked anything by anybody.*
 
 *And that the price of the said nine words is not a figure and is on a page of a man of about fifty and goes in no column of this yard's book, being that he cannot now be certain which of the boats he could have named was out and which was not; and that the reason against the line of this yard's correcting it is that this yard did not ask him and was not on that street.*
 
@@ -112,8 +112,8 @@ The boat's man nodded and went down the steps and did not say thank you and was 
 
 *And in the fourth column of the leaf ruled on the twenty-seventh day of March past, that night, in the ship's left hand, the twenty-seventh line:*
 
-*What it is not: — that nine words said to a boat's man on a tender are not an order and are not a threat and are not a charge, and that *the man who wrote it* is not a name and is not a person and is not anybody this yard can put in a column; that a chandler's answer in nine words is not a list and is not a surrender and is not a thing this yard may afterwards correct; and that a rule which keeps nine people off a hill for six volumes is a rule and not a wall, and that this yard cannot say yet what it is keeping them off from.*
+*What it is not: — that nine words said to a boat's man on a tender are not an order and are not a threat and are not a charge, and that *who wrote it* is not a name and is not a person and is not anybody this yard can put in a column; that a chandler's answer in nine words is not a list and is not a surrender and is not a thing this yard may afterwards correct; and that a rule which has kept nine people off that hill since the first of May past is a rule and not a wall, and that this yard cannot say yet what it is keeping them off from.*
 
 ---
 
-**Nothing came into this yard on the said Sunday and nothing went out of it, and there are two hundred and sixty-one pence in the bag, which is one mark, eight shillings and fivepence, and the figure the bag is short of the wage of four marks is three hundred and seventy-nine pence and it is not going to be paid. The two objects of nobody's are three hundred and thirty-nine days up the crown of that mole and the bench under that pump is bare for the hundred and fifth night, and neither of them has moved, and a tender came off the north side of that mole this evening and went out again, and about forty people watched it go, and nine of those forty could have named a crate.**
+**Nothing came into this yard on the said Sunday and nothing went out of it, and the bag holds two hundred and sixty-one pence, being one mark, eight shillings and fivepence, and the figure the bag is short of the wage of four marks is three hundred and seventy-nine pence, being two marks, four shillings and elevenpence, and it is not going to be paid. The two objects of nobody's are three hundred and thirty-nine days up the crown of that mole and the bench under that pump is bare for the hundred and fifth night, and neither of them has moved. A tender came off the north side of that mole this evening and went out again at about a quarter past seven, and about forty people watched it go, and nine of those forty could have named a crate.**

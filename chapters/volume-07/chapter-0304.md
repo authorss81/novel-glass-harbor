@@ -8,7 +8,7 @@ Tuesday the eighteenth of May, in the shed on the mole, at the harbor authority'
 
 ---
 
-He is a clerk of the harbor authority of Morrow Quay and he is about sixty and he has been a clerk for twenty-two years and his name is Ambrose Sell and he has never in this book been a man in a room with anybody in it, and on Monday afternoon and on Tuesday morning he was a man in a room with one man in it.
+He is a clerk of the harbor authority of Morrow Quay and he is about sixty and he has been a clerk for twenty-two years, and he did not give his name on the Monday afternoon and was not asked for it, and on Monday afternoon and on Tuesday morning he was a man in a room with one man in it. He is not the clerk of the circuit office of this coast, who is a different man in a different building and who has not been up this hill since the twenty-eighth of October past.
 
 The man was fifty and of the second lay and had a coaster of about seventy tons alongside that came in on the Friday before last and was going out on the Tuesday for a cargo of salt out of a yard up the coast.
 
@@ -16,13 +16,13 @@ The man was fifty and of the second lay and had a coaster of about seventy tons 
 
 "**Let me see it.**"
 
-Sell looked at it for about a minute and a half and put it down on the table in front of him and did not move it toward any book.
+The clerk looked at it for about a minute and a half and put it down on the table in front of him and did not move it toward any book.
 
 "**This is a proper form,**" he said. "**They have got the paper right and the ink is the ink they use at Ternwatch and the two names are real names, because I know both of the men and one of them owes my wife's brother a shilling. There is nothing wrong with this.**"
 
 "**Then lodge it.**"
 
-Sell put both hands flat on the table.
+The clerk put both hands flat on the table.
 
 "**I cannot lodge it. I have told you the reason and I told you the reason yesterday afternoon and you have come back this morning, which is fair, because yesterday afternoon I said it quickly.**"
 
@@ -36,7 +36,7 @@ Sell put both hands flat on the table.
 
 "**Then what do I do.**"
 
-"**I do not know,**" said Ambrose Sell.
+"**I do not know,**" said the clerk.
 
 "**You have been a clerk twenty-two years.**"
 
@@ -46,7 +46,7 @@ The man of fifty stood in that room for a while and did not say anything and the
 
 "**Then I will go out without it.**"
 
-"**That is a decision about your boat and not about my office,**" said Sell, "**and I would be obliged if you did not make it in here, and I am saying that because there are four people in this harbor who will be told where you were this morning and one of them is me.**"
+"**That is a decision about your boat and not about my office,**" said the clerk, "**and I would be obliged if you did not make it in here, and I am saying that because there are four people in this harbor who will be told where you were this morning and one of them is me.**"
 
 ---
 

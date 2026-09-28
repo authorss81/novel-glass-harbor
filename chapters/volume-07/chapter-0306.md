@@ -14,16 +14,16 @@ She keeps the slate on the back of the board because the front of the board is f
 
 **The nine are these, and they are written in a hand that is not a clerk's hand, and nobody in that market has ever copied them:**
 
-> **FEBRUARY. THE NINETEENTH OF MAY.**
-> Lamp oil, a barrel — **31s 6d.** No quotation.
-> A sack of flour — **4s 9d.** No quotation.
-> Salt, a bushel — **1s 3d.** No quotation.
-> New rope, a fathom — **2s 6d.** No quotation.
-> Canvas, a fathom — **1s 11d.** No quotation.
-> Coal, a hundredweight — **1s 2d.** No quotation.
-> Buntangs for a boat, a set — **9s.** No quotation.
-> Tar, a cask — **5s 4d.** No quotation.
-> Physic, a small bottle — **1s 2d.** None in this harbor.
+> **FEBRUARY. THE NINETEENTH.**
+> Lamp oil, a barrel — **three hundred and seventy-eight pence.** No quotation.
+> A sack of flour — **fifty-seven pence.** No quotation.
+> Salt, a bushel — **fifteen pence.** No quotation.
+> New rope, a fathom — **thirty pence.** No quotation.
+> Canvas, a fathom — **twenty-three pence.** No quotation.
+> Coal, a hundredweight — **fourteen pence.** No quotation.
+> Buntangs for a boat, a set — **one hundred and eight pence.** No quotation.
+> Tar, a cask — **sixty-four pence.** No quotation.
+> Physic, a small bottle — **fourteen pence.** None in this harbor.
 
 "**I have written *no quotation* eight times on that slate and I want the ninth thing understood,**" said the woman of about fifty-eight. "**A market price is a sentence and not a bill. I have not had a bill for any of them since the ninth of April. A man comes into my market and asks me what a barrel of lamp oil is and I say I have none, and that is the true answer, and I have said *I have none* about two hundred times since April and about forty of those people had money.**"
 
@@ -45,7 +45,7 @@ A man of about forty-five at the front of the stall said:
 
 And then she turned the slate over, which she does about twice a month, and on the other face of it there was one line and no heading.
 
-> **A sheet of paper — 1d. Forty sheets — 1s.**
+> **A sheet of paper — one penny. Forty sheets — one shilling.**
 
 "**Wrapping paper,**" she said. "**For fish. That is the only thing I buy it for and that is the only thing it has been for in nine years, and it has not moved, and it is not going to move, and it is the only figure on that slate that has not moved and I would like one person in this market to look at it for a minute, because I have a feeling it is going to.**"
 
@@ -81,7 +81,7 @@ Nobody improved on it. It went in the second column with a reason against the li
 
 *First column, entered on Thursday the twentieth day of May next at about half past nine in the evening in this shed: that a woman of about fifty-eight with the end stall in the fish market of this harbor keeps a figure on the back of a slate for nine things, being a barrel of lamp oil at thirty-one shillings and sixpence, a sack of flour at four shillings and ninepence, a bushel of salt at one shilling and threepence, a fathom of new rope at two shillings and sixpence, a fathom of canvas at one shilling and elevenpence, a hundredweight of coal at one shilling and twopence, a set of buntangs for a boat at nine shillings, a cask of tar at five shillings and fourpence, and a small bottle of physic at one shilling and twopence; and that all nine of those figures are the figures she last paid in February and are not prices charged to her and are not quotations, and that on the said day she had not been offered a different figure in any of the nine, and that there is no physic in this harbor at any figure.*
 
-*And that on the said day the said slate carried a tenth figure, being one sheet of paper at one penny and forty sheets at one shilling, for wrapping fish, which is the only use it has ever had in nine years, which has not moved, and which the said woman asked one person in that market to look at; and that a shipwright of this harbor looked at it for about a minute and wrote the figure in a small book she carries.*
+*And that on the said day the said slate carried a tenth figure, being one sheet of paper at one penny and forty sheets at one shilling, for wrapping fish, which is the only use it has ever had in nine years, which has not moved, and which the said woman asked one person in that market to look at; and that the ship's hand of that harbor looked at it for about a minute and wrote the figure in a small book she carries.*
 
 *Second column, not checkable from a mole, entered on the said Thursday at about half past nine in the evening in this shed, and no name is against it: that the woman of the end stall said out loud in about forty people's hearing, in that market, on the said day, that none of the nine figures on her slate is set in that market and that every one of them comes off a manifest out of a merchant's agent at Ternwatch, and that the agent's price is set in an office in a city four hundred miles from that harbor by people who have never come to that quay and are never going to; and that she said that a market price is a sentence and not a bill, and that she has had no bill for any of the nine since the ninth of April past, and that about forty people who asked her in that period had money.*
 

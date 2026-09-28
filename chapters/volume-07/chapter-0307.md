@@ -1,10 +1,10 @@
 # Chapter 307
 
-*Friday the Twenty-First of May, Eleven Boats of the Third Lay Lying Off With About Fourteen Men in Them, Fourpence a Candle, and a Sentence Said in a Chandler's About a Restriction That Comes in a Sentence and Not in a Boat*
+*Friday the Twenty-First of May, Eleven Boats of the Third Lay Lying Off With About Fourteen Men in Them, Fourpence a Candle, and a Man of About Sixty of the First Lay Who Has Three Things and Will Not Say the Rest of Them in a Shop*
 
 Friday the twenty-first of May, at a chandler's on the front street, on that mole in the afternoon, and in the shed on that mole in the evening.
 
-**The said Friday was not a wage Tuesday. The wall behind the reeve's bench did not come down on it and the cistern was not charged on it. Nothing came into that yard on it and nothing went out of it. And the far bench was not occupied on the said Friday at any hour, and the holder of that writ did not go over to him at any hour of it, and a man of sixty-one at a far bench was not asked for anything and asked nothing, and nothing was put on that bench and read as a gift.**
+**The said Friday was not a wage Tuesday. The slate wall behind the reeve's bench did not come down on it, and the cistern was not charged on it, the cistern standing on a rota of a Monday and a Thursday. Nothing came into this yard on the said Friday and nothing went out of it. That bench stood empty for the whole of the said Friday, from the light to the dark; nobody was on it at any hour of it and the man of sixty-one who sits on it three days out of ten was not asked for anything and asked nothing, and the holder of that writ did not go over to him at any hour of it, and nothing was put on that bench and read as a gift.**
 
 ---
 
@@ -24,25 +24,37 @@ The man of about sixty of the first lay was in that shop from about ten until ab
 
 He said the thing at about half past eleven and about nine people heard it and nobody improved on it and it went in the second column because nobody can check it and because it was said out loud.
 
-"**I am not talking about that yard and I want to say that first, because you are all going to go up that hill this afternoon and you are going to say that a man of sixty said something about them, and I have not.**" He put his two hands on the counter. "**A restriction that comes in a sentence and not in a boat is a thing a man cannot be angry at. And a man who cannot be angry at it will be angry at something else by Friday. That is the whole of it and I have had it since Tuesday and I have been standing in this shop for two days working out whether it is a true thing and it is a true thing.**"
+"**I am not talking about that yard and I want to say that first, because you are all going to go up that hill this afternoon and you are going to say that a man of sixty said something about them, and I have not.**" He put his two hands flat on the counter. "**What I have got is three things. I have had them since Tuesday. And I am not going to say the thing that holds the three of them together in this shop.**"
 
-"**What are the something elses.**"
+"**Then it is three things and not one.**"
+
+"**It is three things and not one, and that is the whole of why I want the rest of it out of this shop and not in it.**" He took his hands off the counter and looked at them. "**A sentence said in a chandler's on a Friday morning is in eleven markets by Sunday, and it comes back with a man's name on it that the man did not put there. I have watched that happen to a man on this coast twice. Once it was fair and once it was murder, and standing here afterwards I could not tell you which was which.**"
+
+"**Then say it where there is no market.**"
+
+"**There is no such place in this harbor this week,**" said the man of about sixty, "**and I am not going to be the first man on this coast to invent one.**"
+
+"**Name the three.**"
 
 "**Three, and all three of them are honest.**" He held up a finger. "**The first is the man with the book, and a man with a book is a man you can see. The second is a chandler, and a chandler is a man who is not asking you for anything, and men who are not asking you for anything are the easiest thing in this harbor to be angry at. The third is that harbor authority on the west basin, and a man with a bench and a slate wall and a quarter owed to him by his own office is the single most obvious wrong in this town.**"
 
 "**And they are all wrong.**"
 
-"**They are all wrong, and all three of them are honest targets, and that is the difficulty and not the comfort.**" He put his hands down. "**And I will tell you the part that frightens me and I am telling you because I am sixty and I have been on this water forty-one years and I am not going to pretend I do not know what I am looking at. The day a man in this harbor works out that it is cheaper to be angry at a boat than it is at a sentence, this harbor will get a captain. And it will not be the one with the book, because the one with the book is on a ship and is forty miles off, and it will be one of ours, and it will be a good one, and it will be a man who is angry and who is telling the truth about being angry, which is the two worst things to combine.**"
+"**They are all wrong, and all three of them are honest targets, and that is the difficulty and not the comfort.**" He put his hands down. "**And I am going to stop there on purpose, and about nine of you have just worked out that I have, and I am not going to explain it to you and I am not going to be asked for it in this shop.**"
 
 "**Have you got a name.**"
 
 "**No,**" said the man of about sixty. "**And I am not going to go and look for one, and I am not going to stand in this shop and tell a shed of people what to do about a thing I have not got a name for. I have asked this harbor two questions already and been answered neither, and I have decided that the correct number of times to ask a question is three and not four, and I am not spending the third one in a fortnight.**"
 
+"**Then what are you doing in my shop.**"
+
+"**Counting candles,**" said the man of about sixty, "**and I am going to take two of them at fourpence and go down to the water and come back into this shop on Monday.**"
+
 ---
 
 At about four in the afternoon a boy of about seventeen came up that mole from a dinghy and carried a message up the steps in about nine people's hearing, and this yard's ship's hand asked him to say it out loud and to say who it was from and who it was for, and he did, and she wrote it down, and the rule is from the eleventh of April past and has not been improved on.
 
-"**Hark Vell,*** he said. "**From the *Anna Ray*. To the harbor authority. Two of us need a berth or a stove.**"
+"**Hark Vell,** he said. "**From the *Anna Ray*. To the harbor authority. Two of us need a berth or a stove.**"
 
 "**The *Anna Ray*.**"
 
@@ -66,7 +78,7 @@ The boy took it up the front street.
 
 *And that a boy of about seventeen was hired to carry a message up that mole in a dinghy at about four in the afternoon of the said day, and that the ship's hand asked him to say it out loud and to say who it was from and who it was for, and that he said: *Hark Vell. From the Anna Ray. To the harbor authority. Two of us need a berth or a stove.*; and that the boy was then told to take it up the front street and not to that shed and not to say that he had been asked to say it out loud and not to change the words; and that the message was taken up the front street by the said boy and no person of that yard went with him.*
 
-*Second column, not checkable from a mole, entered on the said Friday at about half past nine in the evening in this shed, and no name is against it: that a man of about sixty of the first lay of this harbor, forty-one years on that water, who asked a question in a market in this harbor on the second day of December past and again on the eleventh day of March past and was answered neither time, said out loud at about half past eleven in the morning of the said day in a chandler's on the front street, in about nine people's hearing, that a restriction which comes in a sentence and not in a boat is a thing a man cannot be angry at, and that a man who cannot be angry at it will be angry at something else by Friday; and that he named three honest targets for that anger, being a man with a book, a chandler, and the harbor authority of this harbor, and said that all three are wrong; and that he said out loud in the same breath that the day a man in this harbor works out that it is cheaper to be angry at a boat than at a sentence, this harbor will get a captain, and that it will not be the one with the book, and that it will be a good one, and that it will be a man who is angry and who is telling the truth about being angry.*
+*Second column, not checkable from a mole, entered on the said Friday at about half past nine in the evening in this shed, and no name is against it: that a man of about sixty of the first lay of this harbor, forty-one years on that water, who asked a question in a market in this harbor on the second day of December past and again on the eleventh day of March past and was answered neither time, said out loud at about half past eleven in the morning of the said day in a chandler's on the front street, in about nine people's hearing, that he had had three things since Tuesday and was not going to say the thing that holds the three of them together in a shop, and gave the reason out loud, being that a sentence said in a chandler's on a Friday morning is in eleven markets by Sunday and comes back with a man's name on it that the man did not put there, and that he had watched that happen twice on this coast and once it was fair and once it was murder and he could not tell afterwards which was which; and that he named three honest targets, being a man with a book, a chandler, and the harbor authority of this harbor, and said that all three are wrong; and that he stopped there on purpose, and that about nine people in that shop worked out that he had, and that he said the rest of it to nobody and was not asked for it by anybody in that shop.*
 
 *And that he was asked in that shop for a name and said he has not got one and is not going to go and look for one, and said that he has asked this harbor two questions already and has decided that the correct number of times to ask a question is three and not four, and is not spending the third one in a fortnight. And that no person in that yard was asked for anything on the said day and went and looked for nothing and was told nothing that was not already in that shed's own book.*
 
@@ -74,8 +86,8 @@ The boy took it up the front street.
 
 *And in the fourth column of the leaf ruled on the twenty-seventh day of March past, that night, in the ship's left hand, the thirty-second line:*
 
-*What it is not: — that eleven boats lying off inside a harbor line is not a blockade and is not a breach and is not an act of anybody, and that a candle at fourpence is not a cost this yard can carry or refuse to carry; that a sentence said out loud in a chandler's by a man of sixty is not a warning and is not a request and is not a hand-over and is not going to be answered by anybody in that shed; and that this yard's one rule about addresses, made on the ninth of April and not improved on in May, has now been held twice in sixteen days for two different reasons and both of them were somebody else's cost, and that a rule which is never wrong is not a rule.*
+*What it is not: — that eleven boats lying off inside a harbor line is not a blockade and is not a breach and is not an act of anybody, and that a candle at fourpence is not a cost this yard can carry or refuse to carry; that three things named out loud in a chandler's by a man of sixty is not a warning and is not a request and is not a hand-over and is not going to be answered by anybody in that shed, and that a man who has said three things and has stopped on purpose has not said a fourth thing and is not going to be asked for it here; and that this yard's one rule about addresses, made on the ninth of April and not improved on in May, has now been held twice in sixteen days for two different reasons and both of them were somebody else's cost, and that a rule which is never wrong is not a rule.*
 
 ---
 
-**Nothing came into this yard on the said Friday and nothing went out of it, and there are ninety-two pence in the bag, which is seven shillings and eightpence, and the figure the bag is short of the wage of four marks is five hundred and forty-eight pence. The far bench was not occupied at any hour of the said day. The two objects of nobody's are three hundred and forty-four days up the crown of that mole and the bench under that pump is bare for the hundred and tenth night, and neither of them has moved. Eleven boats of the herring third lay were lying off that mole this evening with about fourteen men in them, none of them past the line, all of them inside, and a boy of about seventeen carried six words up that hill and took them up the front street instead.**
+**Nothing came into this yard on the said Friday and nothing went out of it, and the bag holds ninety-two pence, which is seven shillings and eightpence, and the figure the bag is short of the wage of four marks is five hundred and forty-eight pence, being three marks, five shillings and eightpence. The far bench was not occupied at any hour of the said day. The two objects of nobody's are three hundred and forty-four days up the crown of that mole and the bench under that pump is bare for the hundred and tenth night, and neither of them has moved. Eleven boats of the herring third lay were lying off that mole this evening with about fourteen men in them, none of them past the line and all of them inside. A boy of about seventeen carried nine words up that hill and took them up the front street instead, and a man of sixty-one of the first lay took two candles at fourpence and went down to the water, and the rest of what he had he has not said to anybody.**
