@@ -6,7 +6,7 @@ Friday the seventh of May, off the south end of that mole, and in the shed on th
 
 **The wall did not come down on the said Friday and the cistern was not charged on it, and the said Friday was not a wage Tuesday. Nothing came into that yard on it and nothing went out of it, and not one penny of the day's plant and air came out of it either, because it did not go in.**
 
-**And the far bench was occupied on the said Friday from about ten until about four and was not occupied at any other hour of it, and the holder of that writ did not go over to him at any hour of the said Friday, and a man of sixty-one was not asked for anything and asked nothing, and nothing was put on that bench and read as a gift.**
+**And the far bench was occupied on the said Friday from about ten until about four and was not occupied at any other hour of it, and the holder of that writ did not go over to him at any hour of the said Friday, and a man of sixty-one at a far bench was not asked for anything and asked nothing, and nothing was put on that bench and read as a gift.**
 
 ---
 
@@ -44,7 +44,7 @@ Nobody read the marks on it. There are marks on it and they are cut and not stru
 
 ---
 
-The crate went up onto the crown of that mole at about one and it is under a tarpaulin about nine feet from the two objects of nobody's and about four feet from where they have stood since the autumn, and it did not go into that shed and it is not going into that shed.
+The crate went up onto the crown of that mole at about one and it is under a tarpaulin about nine feet from the two objects of nobody's, where they have stood since the autumn, and it did not go into that shed and it is not going into that shed.
 
 Then the weather came up.
 
@@ -60,7 +60,7 @@ About a hundred people were out of that front in the rain. Nobody was hurt on th
 
 *That a glass storm went through this harbor on the seventh day of May next from about four in the afternoon until about ten at night, and that the skylight of this shed, the door light of this shed, a pane of plate out of a shopfront on that front, the running glass of two boats inside the harbor line, eleven windows along that front and the lens of the mole-head light were broken or taken out on the said day, and that about a hundred people were out in the rain, and that nobody was hurt, and that this yard is not going to say what caused it in any volume and is not going to write a cause against this line, and that the reason against the line is that a yard which cannot check a thing does not get to name what made it.*
 
-*That is the twenty-first of the two hands and the two pages, and the other hand is the ship's and the other page is in that book on the mole, and neither page is on top of the other, and the two of them are a mile and a quarter apart in a boat.*
+*That is the twenty-first of the two hands and the two pages, and the other hand is the ship's and the other page is in that book on the mole, and neither page is on top of the other, and the two of them are a mile and a quarter apart.*
 
 ---
 
@@ -78,7 +78,7 @@ About a hundred people were out of that front in the rain. Nobody was hurt on th
 
 *Second column, not checkable from a mole, entered on the said Friday at about half past nine in the evening in this shed, and no name is against it: that the said round of glass is not in that shed and is not in any shed, and that the reason against the line of its being in one is the second clause of the notice of the thirty-first of October past, which keeps recovered transparent mineral out of every shed in this harbor, and which this yard did not write and cannot lift.*
 
-*And that a glass storm went through that harbor on the said day and no cause is named against it in this book or in any other, and that the reason against the line of naming one is that a yard which cannot check a thing does not get to name what made it; and that the same entry in a second hand and on a second page, in a boat a mile and a quarter off that mole, is the other half of the same account and is not on top of this page.*
+*And that a glass storm went through that harbor on the said day and no cause is named against it in this book or in any other, and that the reason against the line of naming one is that a yard which cannot check a thing does not get to name what made it; and that the same entry in a second hand and on a second page, in a man's own book four streets off the front of this harbor, is the other half of the same account and is not on top of this page.*
 
 ---
 

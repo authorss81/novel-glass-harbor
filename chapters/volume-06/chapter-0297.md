@@ -64,7 +64,7 @@ Fisk read it off the slate and showed it round the boat and the slate said: **TH
 
 "**That is the whole of the eleventh of May,**" he said, "**and it took about four minutes and nobody in that boat saw the beginning of it, and a man in a boat on Friday could see the end of it. That is what a figure cut in a sill is for.**"
 
-"**Write both of those,**" said Calder Marr. "**Write that nobody saw the beginning of it. That is the whole of what has happened in about four hundred years on the coast of this country and the whole of what happened in five minutes in a room at seventy fathoms and they are the same sentence.**"
+"**Write both of those,**" said Calder Marr. "**Write that nobody saw the beginning of it. That is the whole of what has happened in about three hundred years on the coast of this country and the whole of what happened in five minutes in a room at seventy fathoms and they are the same sentence.**"
 
 ---
 
@@ -78,13 +78,13 @@ Fisk read it off the slate and showed it round the boat and the slate said: **TH
 
 *And that a round of glass about the size of a saucer in a metal collar with a wheel in the collar and a screw through the collar, with a chain of eleven stamped links on it and a piece of worked glass bedded in it, was taken out of a crate on the crown of that mole at about ten in the morning of the said day and was carried down the mole steps and came off the cart about two feet from the top of the steps at about eleven o'clock in the morning in front of about nine people, and was not put into any shed at any hour of the said day; and that it was put down on the stone of the mole steps at about half past eleven in the morning of the said day and was not put back into the bed in the said sill, and that the said sill is at about seventy fathoms off the south end of that mole, and that the said round has not been in the said bed at any hour that anybody knows of.*
 
-*And that the holder of that writ and a person of no office of this harbor said out loud in that boat between about half past eleven in the morning and about one in the afternoon of the said day that they were letting the chamber close, and that the said decision was taken on the fifth day of May at about four in the afternoon before anybody had agreed to the day, and was carried out on the said day, and that nobody in between was asked and that the whole of the price of it was in the first column of the fifth of May.*
+*And that the holder of that writ and a person of no office of this harbor said out loud on the stone of the mole steps, with the ship's hand asking for it from the boat, between about eleven and about half past eleven in the morning of the said day, that they were letting the chamber close, and that the said decision was taken on the fifth day of May at about four in the afternoon before anybody had agreed to the day, and was carried out on the said day, and that nobody in between was asked; and that nothing was written on the said day, and that the whole of it went in at about half past nine that night in that shed with all three of them standing at the bench, and that the whole of the price of it was in the first column of the fifth of May.*
 
 *And that the pot was put on the top course of that mole's own floor at about twenty past twelve and was lifted straight off and came up at about a quarter past two, and that from the said boat at about seventy fathoms it was read that a plate of glass is down in the rebate in the said sill and is not coming up, and that the said rebate is deeper than the said bed by the thickness of the said plate, and that nothing is holding the said plate up.*
 
 *Second column, not checkable from a mole, entered on the said Tuesday at about half past nine in the evening in this shed, and no name is against it: that the decision to let the said chamber close was not taken on the said day and was not taken on the Saturday or the Sunday or the Monday, and that it was taken in advance on the Wednesday preceding, and that the whole of its price was named out loud before the day and not after it.*
 
-*And that nobody in that boat said out loud that the yard was right about it, and that the reason against the line of the saying is that the yard does not know that it was right about it and has a rule about what it does not know.*
+*And that nobody on that mole said out loud that the yard was right about it, and that the reason against the line of the saying is that the yard does not know that it was right about it and has a rule about what it does not know.*
 
 *And that the concealment was not told on the said day and was told once and once only on the day preceding in a room with two people in it, and that it goes in no column of that book, and that the reason against the line of the entering of it is the reason of the first day of March past about a record a man cannot check.*
 

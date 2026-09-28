@@ -6,7 +6,7 @@ Monday the tenth of May, in a room in this harbor, and in the shed on the mole i
 
 **The wall behind the reeve's bench came down bare at eight in the morning on the said Monday for the fifty-third time since the first of May past, and the counter did not restart, and the clerk kept his own page and did not mention it, and no sitting was held in that room on that day or on any other day of this book. The cistern behind the engine house was charged at no figure at about ten on the said morning by four men this yard does not know, and this party walked none of it, and that is the forty-fifth of the charges this party has entered walked on none of since the third of August past.**
 
-**The said Monday was not a wage Tuesday. Nothing came into that yard on it and nothing went out of it. And the far bench was not occupied on the said Monday at any hour, and the holder of that writ did not go over to him at any hour of it, and a man of sixty-one was not asked for anything and asked nothing, and nothing was put on that bench and read as a gift.**
+**The said Monday was not a wage Tuesday. Nothing came into that yard on it and nothing went out of it. And the far bench was not occupied on the said Monday at any hour, and the holder of that writ did not go over to him at any hour of it, and a man of sixty-one at a far bench was not asked for anything and asked nothing, and nothing was put on that bench and read as a gift.**
 
 ---
 
@@ -34,7 +34,7 @@ She had the door shut before he came up the stairs. There were two people in tha
 
 "**There is a mark on it.**"
 
-That is all he said the first time, and he said it the way a man says a thing he has rehearsed on a mole for a year and a half and has never said.
+That is all he said the first time, and he said it the way a man says a thing he has rehearsed on a mole for six months and has never said.
 
 "**It is a sound. It is not on the plate and it is not in the plate and it is not a crack and it is not a maker's mark and it is not a number. It comes up out of the bottom of this harbor in a ground line's delay. Three marks and a flick, in a call a boy on a quay used to answer me with when we were eleven, and I have known what it is since the fourteenth of October, and I have not written it in any book, and there is no office in this country that has it, and it is not on any chart and it is not in the custody room and it is not in the reeve's page.**"
 
@@ -72,7 +72,7 @@ Then she sat down, which she had not done for the whole of it, and neither of th
 
 "**No.**"
 
-"**And I am not going to call it one and you are not going to call it one and if a man in a market in four years asks either of us what this was, the true answer is that a man of thirty-two and a woman of thirty were in a room on the tenth of May and that is all, and the second part of the true answer is that the second part of the true answer is in the second part of the true answer.**"
+"**And I am not going to call it one and you are not going to call it one and if a man in a market asks either of us what this was, the true answer is that a man of thirty-two and a woman of thirty were in a room on the tenth of May and that is all, and the second part of the true answer is that there is no second part of the true answer.**"
 
 "**That is a very good way of putting it.**"
 

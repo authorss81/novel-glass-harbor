@@ -16,7 +16,7 @@ The six conditions were read at the boat at about nine in the morning in order a
 
 The entry was made in the ship's own left hand off the slate in the boat and read out to the two of them in the boat, and it is this, and it is the whole of it: **THE PLATE IS IN THE REBATE. THE BED IS EMPTY. THE ROUND IS OUT. THERE ARE TWO HUNDRED AND NINE MARKS IN THE SILL AND A DAY IN THE SILL, BEING THE ELEVENTH OF MAY, AND THE DAY IS THE SAME DAY IT WAS ON THE THURSDAY PRECEDING AND HAS NOT BEEN CUT AGAIN.**
 
-"**That is checkable by anybody with a lead and fourteen pounds,**" said Fisk. "**It took about nine minutes and it is the first time in about four hundred years that anybody has written that sill down and put it in a book he could lose.**"
+"**That is checkable by anybody with a lead and fourteen pounds,**" said Fisk. "**It took about nine minutes and it is the first time in about three hundred years that anybody has written that sill down and put it in a book he could lose.**"
 
 "**Nobody has lost it,**" said the ship's hand.
 
@@ -60,9 +60,9 @@ He waited about four seconds, and then he said: "**I do not know.**"
 
 She went and got the sheet out of the drawer, and the middle fold of it is still soft and still parting at one corner, and she put it on the bench face up and she did not say anything at all, and she read the nine lines out in that shed in the flat voice she uses for a column.
 
-"**One. The fleet is ordered down. Two. The fleet is the transparent fleet and every vessel of it lies in the water of this city. Three. The order is of the fleet and not of a master of it. Four. The masters are not to asked which of them made it. Five. The order is carried by the masters and not by any office. Six. No copy of this order is to be made. Seven. A copy of this order is not this order. Eight. A man holding a copy of this order has not got an order. Nine. And it is to be carried out in one tide.**"
+"**One. The fleet is ordered down. Two. The fleet is the transparent fleet and every vessel of it lies in the water of this city. Three. The order is of the fleet and not of a master of it. Four. The masters are not to be asked which of them made it. Five. The order is carried by the masters and not by any office. Six. No copy of this order is to be made. Seven. A copy of this order is not this order. Eight. A man holding a copy of this order has not got an order. Nine. And it is to be carried out in one tide.**"
 
-"**That is the fourth one wrong,**" he said. "**It is *are not to be asked*.**"
+"**You had the fourth one wrong,**" he said. "**It is *are not to be asked*.**"
 
 "**I know it is, and I read it wrong, and you have got it now, and you had not got it a minute ago.**" She put her hand flat on the sheet. "**Calder. Listen to me and then say one sentence and then I will never raise it again in this shed as long as I am in it. You can learn those nine lines again in about ninety seconds. You have just done it. And you will be able to say them tomorrow, and next week, and in four years, and every day of your life, because they are on a sheet in a drawer in a shed on a mole and anybody can come up this hill and ask to see it. What you have lost is the other thing. The other thing does not have a copy and there is no drawer for it and nobody is ever going to be able to check that you had it.**"
 

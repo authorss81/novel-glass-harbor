@@ -32,7 +32,7 @@ Tobias Wren was in that boat. He was not asked to go and he went, and he stood o
 
 "**I have seen that make,**" he said, "**and I have not seen one in this harbor in twenty years, and there are two things I could say about it and I am not going to say either of them, because I do not know which of the two it is and a man of sixty-one does not get to be right about a thing he has only seen once.**"
 
-"**That is the right answer,**" said Garrow Fisk, "**and it is the first time in about four hundred years anybody has said it and it is not going in a column.**"
+"**That is the right answer,**" said Garrow Fisk, "**and nobody in that boat is going to improve on it, and it is not going in a column.**"
 
 "**It is going in the second column with the reason,**" said Nessa Pike, "**and the reason is that a man who has seen a make once is not a man who can be asked what it means and a yard that asked him would be a yard asking for its own comfort.**"
 
@@ -44,7 +44,7 @@ And then the thing that made the day, and it was made at about eleven o'clock in
 
 "**No.**"
 
-"**Read it. It is a name in your own book and I have never once asked you for anything out of that book in a year and a half.**"
+"**Read it. It is a name in your own book and I have never once asked you for anything out of that book in six months.**"
 
 "**I am not refusing it, I am doing it, and they are not the same thing and you know they are not the same thing.**" She turned the leaf round to the head of the third column and she did not touch the boy's hand at the head of it and she did not scratch it out and nobody in that boat was asked anything about the omissions he has entered and no name of his is in any column of that book and none has ever been. "**The name at the head of the third column is Mara Venn. It is not that boy's and it is not yours and it has not been said out loud in this boat or that shed before today, and it is said out loud once, and that is the once.**"
 

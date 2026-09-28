@@ -6,7 +6,7 @@ Thursday the sixth of May, off the south end of that mole, and in the shed on th
 
 **The cistern behind the engine house was charged at no figure at about ten on the said Thursday morning by four men this yard does not know, and this party walked none of it, and that is the forty-fourth of the charges this party has entered walked on none of since the third of August past. The wall did not come down on the said Thursday and the said Thursday was not a wage Tuesday. Nothing came into that yard on it and nothing went out of it, and not one penny of the day's plant and air came out of it either, because it never went in.**
 
-**And the far bench was not occupied on the said Thursday at any hour, and the holder of that writ did not go over to him at any hour of it, and a man of sixty-one was not asked for anything and asked nothing.**
+**And the far bench was not occupied on the said Thursday at any hour, and the holder of that writ did not go over to him at any hour of it, and a man of sixty-one at a far bench was not asked for anything and asked nothing, and nothing was put on that bench and read as a gift.**
 
 ---
 
