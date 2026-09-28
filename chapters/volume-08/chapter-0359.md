@@ -40,7 +40,7 @@ At about half past nine in the morning at the end of the third lay, a man of abo
 
 They have said this to each other before, in a market in the last month, and neither of them has said it since, and the whole of what is entered is that the man of about thirty-eight said he would rather that chart was read out in that market in front of nine people than carried about in a bag for another nine years, and that the man of about thirty-one said he knew that, and that he had had it in a bag for nine years and looked at it himself about once a season and he was the person who wanted it looked at, and that he had not changed his mind and was not going to, and that neither of them said anything else and nobody improved on it and nobody else heard it.
 
-**THE WORD FOR NONE OF THOSE THINGS WAS SAID IN THAT HARBOR ON ANY DAY OF THIS MONTH BY ANYBODY, AND NOBODY IN THAT HARBOR PROPOSED A BODY OR A COMMITTEE OR AN ASSEMBLY OR A FLEET OR A WING OR A GUARD ON ANY DAY OF THIS MONTH, AND THE MAN OF ABOUT THIRTY-EIGHT IS A PERSON OF NO OFFICE AND IS NOT A WITNESS AND WAS NOT TURNED INTO ONE AND MAY NOT BE CITED IN A ROOM IN THIS VOLUME OR ANY OTHER.**
+**THE MAN OF ABOUT THIRTY-EIGHT SAID IT OUT LOUD A SECOND TIME ON THAT DAY, AT THE END OF THE THIRD LAY, TO A MAN OF ABOUT THIRTY-ONE OF THAT SAME LAY, AND IT WAS HEARD BY TWO PEOPLE, AND ONE OF THEM WROTE IT DOWN AND PUT NO NAME AGAINST IT. HE IS A PERSON OF NO OFFICE AND HE IS NOT A WITNESS AND HE WAS NOT TURNED INTO ONE, AND NOBODY IN THAT HARBOR HAS ASKED HIM FOR ONE THING SINCE HE CAME DOWN THAT COAST, AND A STONE WITH A BOAT'S HOLE IN IT IS ON NO PAGE OF THAT YARD'S OWN BOOK.**
 
 ---
 

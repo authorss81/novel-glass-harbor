@@ -46,7 +46,7 @@ He is a boat's man of about forty-one and he is of the second lay and he can rea
 
 And then he said that he was not saying no, and everybody in that market waited for the rest of it, and he said: **"**I am saying I am not going to be one of eleven people saying something I do not know the size of. Ask the man who made it what he means by subscribing. Ask him in a room and get it in writing. I have a boat and I cannot read a word of that leaf, and I would be signing a thing I have never seen, and a man who does that is no better than the man who cut that shackle.**"
 
-**AND THAT WAS ENTERED AS WHAT IT WAS, WHICH IS NOT A REFUSAL AND NOT A YES AND WAS NOT COUNTED AS EITHER, AND NOBODY IN THAT MARKET SAID THE WORD *NETWORK*, AND NOBODY PROPOSED A BODY OR A COMMITTEE OR AN ASSEMBLY OR A FLEET OR A WING OR A GUARD, AND THE MAN OF ABOUT THIRTY-EIGHT STOOD AT THE END OF THE SAME AISLE FOR FORTY MINUTES AND SAID NOTHING AT ALL, AS HE SAID ON THE THIRD DAY OF JULY THAT HE WOULD, AND HE WAS NOT ASKED.**
+**AND THAT WAS ENTERED AS WHAT IT WAS, WHICH IS NOT A REFUSAL AND NOT A YES AND WAS NOT COUNTED AS EITHER, AND THE FOUR THINGS HE ASKED FOR WERE FOUR THINGS AND EACH OF THEM WAS TOLD TO HIM BY A PERSON STANDING IN THAT AISLE, AND HE ASKED THEM IN THE ORDER HE HAD THEM, AND THE MAN OF ABOUT THIRTY-EIGHT STOOD AT THE END OF THE SAME AISLE FOR FORTY MINUTES AND SAID NOTHING AT ALL, AS HE SAID ON THE THIRD DAY OF JULY THAT HE WOULD, AND HE WAS NOT ASKED.**
 
 And the woman of no office, who had been standing at the back, said her four sentences after the market had gone and not before, and none of the four was for the market.
 
