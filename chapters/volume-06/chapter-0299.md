@@ -12,7 +12,7 @@ Thursday the thirteenth of May, in the shed on the mole, and on the water inside
 
 A boat of about forty tons was hired at a mark and eightpence for the day with a man in her, and one mark and eightpence went out of that yard's own book at about half past four in the afternoon at a box on the corner of that mole, and the hire was on a private person's account and for a private person's purpose and was not salvage and was not a claim and was not work under any instrument.
 
-Nobody from that yard went out in her but two, and the man of fifty-one of the second lay was not in her and was not asked and was not sent for, and the reason against the line of the asking is the standing reason and it was given out loud on the steps of that mole on the first of May past and it has not been improved on since, and his ground is not in it.
+Nobody from that yard went out in her but three, and the man of fifty-one of the second lay was not in her and was not asked and was not sent for, and the reason against the line of the asking is the standing reason and it was given out loud on the steps of that mole on the first of May past and it has not been improved on since, and his ground is not in it.
 
 They were inside the harbor line the whole morning and at no point in the day were they inside the bar of four hundred yards off the outer marks, and the bar was not narrowed by anything and was not asked to be.
 

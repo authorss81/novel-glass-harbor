@@ -50,7 +50,7 @@ Tobias Wren came up the steps at about one in the afternoon with a book under hi
 
 And then the ship's hand did the arithmetic, and she did it out loud, and she had not been able to do it since the seventh of April and everybody in that shed knew that.
 
-"**Five marks, one shilling and fourpence on the third of April, and the wage of four marks is six hundred and forty pence, and I have been putting a figure against that gap in this book since the seventh of April and there has been nothing to put it against since the third.**"
+"**Five marks, one shilling and fourpence on the fourth of May, and the wage of four marks is six hundred and forty pence, and I have been putting a figure against that gap in this book since the third week of March, and there has been nothing to put it against since the seventh of April.**"
 
 She wrote it in the day's column and turned the book round.
 
@@ -60,7 +60,7 @@ She wrote it in the day's column and turned the book round.
 
 "**Forty-three pence, being three shillings and sevenpence.**"
 
-"**That has got a subject,**" he said. "**It has had a subject twice in this book and once in a year and a half and the first of those two was a mark and a bit and the second was a form off a mole and both of them got better. And it has come back and it is not going to be paid and nobody in that shed is to write one word under it that says anybody is going to pay it.**"
+"**That has got a subject,**" he said. "**It has had a subject three times in this yard's life, twice in this book and once before it, and the first of the two in this book was a mark and a bit and the second was a form off a mole and both of them got better. And it has come back and it is not going to be paid and nobody in that shed is to write one word under it that says anybody is going to pay it.**"
 
 "**Second column,**" said Nessa Pike. "**And the reason against the line of it being in the first is that a man in four years can go and count what is in the bag and cannot go and count what is not in it, and that is what it is for and it is not a debt and it is not a bill and it is not a thing anybody is owed.**"
 

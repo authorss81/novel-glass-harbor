@@ -34,7 +34,7 @@ He read the dates on the eleven links. It took him about half an hour and he did
 
 There is a date struck on the outside of the collar itself, and the collar is this office's own work, and the strike on the collar is later than the strike on that link, and the difference between the two is a difference in two made things, and it says nothing whatever about which of them is right, or why, or by whom.
 
-**Nobody is in a room about it. There is no such person in this harbor, and none of them has been sent for, and none of them has been asked anything, and the name on that line has not been spoken to in this shed this afternoon and is not going to be spoken to in this harbor.**
+**Nobody is in a room about it. There is no such person in this harbor, and none of them has been sent for, and none of them has been asked anything, and the name on that line has not been spoken to in that shed this afternoon and is not going to be spoken to in this harbor by anybody but the ship's hand, and she will say it once, out loud, in that shed, when she reads a column back, and that is the one time and it is not a conversation.**
 
 He read it and he read it again and he put the piece of glass down and put the tarpaulin back and came down off the crown and went and sat at the bench outside the shed.
 
@@ -70,7 +70,7 @@ He did not answer that for a while.
 
 "**Then it has gone.**"
 
-"**What has gone is not the order,**" said Nessa Pike. "**What has gone is you carrying it about in your own head for four years, and this yard has been standing in front of that wall for six movements saying that a record a man can look at is worth something and a record a man cannot look at is worth nothing, and it turns out that is not a rule about records. It is a rule about us, and it was never a rule that worked in our favor once.**"
+"**What has gone is not the order,**" said Nessa Pike. "**What has gone is you carrying it about in your own head for a fortnight, and this yard has been standing in front of that wall for six movements saying that a record a man can look at is worth something and a record a man cannot look at is worth nothing, and it turns out that is not a rule about records. It is a rule about us, and it was never a rule that worked in our favor once.**"
 
 ---
 
@@ -92,4 +92,4 @@ He did not answer that for a while.
 
 ---
 
-**Nothing came into this yard on the said Wednesday and nothing went out of it, and there are four hundred and twenty-nine pence in the bag, which is two marks, nine shillings and one penny. The two objects of nobody's are three hundred and thirty-five days up the crown of that mole and the bench under that pump is bare for the hundred and first night, and neither has moved, and a man of thirty-six sat on a bench outside a shed at half past two in the afternoon and could not say one of nine lines that he had carried in his own head for a fortnight, and the lines are in a drawer in that shed, and he is not in a drawer, and there is no figure in this book for the difference.**
+**Nothing came into this yard on the said Wednesday and nothing went out of it, and there are four hundred and twenty-nine pence in the bag, which is two marks, nine shillings and one penny. The two objects of nobody's are three hundred and thirty-five days up the crown of that mole and the bench under that pump is bare for the hundred and first night, and neither has moved, and a man of thirty-two sat on a bench outside a shed at half past two in the afternoon and could not say one of nine lines that he had carried in his own head for a fortnight, and the lines are in a drawer in that shed, and he is not in a drawer, and there is no figure in this book for the difference.**

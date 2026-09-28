@@ -18,7 +18,7 @@ She had the door shut before he came up the stairs. There were two people in tha
 
 "**Say it.**"
 
-"**Say it twice.**" She did not sit down and he did not either. "**You said the first time in a shed at half past ten at night in about nine seconds in a voice you told me you could not have repeated if you had wanted to. I have carried that for four years and I have never once been able to use it, because I have never once been able to say to anybody *a man told me in a shed*, and a man in a shed is a man in a room, and that is the whole of what that first time bought and it bought nothing at all.**"
+"**Say it twice.**" She did not sit down and he did not either. "**You said the first time in a shed on the night of Sunday the thirteenth of November in about nine seconds in a voice you told me you could not have repeated if you had wanted to. I have carried that for six months and I have never once been able to use it, because I have never once been able to say to anybody *a man told me in a shed*, and a man in a shed is a man in a room, and that is the whole of what that first time bought and it bought nothing at all.**"
 
 "**And the second time.**"
 
@@ -26,7 +26,7 @@ She had the door shut before he came up the stairs. There were two people in tha
 
 "**Agreed.**"
 
-"**And the price of that is mine and not yours,**" she said, "**and it is this. In about four years there will be a record of this harbor and a man in a city will read it, and there will be nothing in it about tonight, and there will be nothing in it about a thousand nights, and the only thing that will be true of tonight is that a man of thirty-six and a woman of thirty were in a room on the tenth of May. I have decided I can live with that. You have not, and I am not going to help you.**"
+"**And the price of that is mine and not yours,**" she said, "**and it is this. In about four years there will be a record of this harbor and a man in a city will read it, and there will be nothing in it about tonight, and there will be nothing in it about a thousand nights, and the only thing that will be true of tonight is that a man of thirty-two and a woman of thirty were in a room on the tenth of May. I have decided I can live with that. You have not, and I am not going to help you.**"
 
 "**Then say it,**" he said, "**and I will say it twice.**"
 
@@ -40,7 +40,7 @@ That is all he said the first time, and he said it the way a man says a thing he
 
 "**Whose.**"
 
-"**My brother's.**" He said it to the middle of the table. "**It is Oren's and it is the reason I went into that shard on the thirteenth of October, and it is the reason I want the bottom back, and it is the whole of the reason, and I put two hundred and forty checkable words in a slate instead of it and I have been doing that for four years and you are the only person in this country who knows that.**"
+"**My brother's.**" He said it to the middle of the table. "**It is Oren's and it is the reason I went into that shard on the thirteenth of October, and it is the reason I want the bottom back, and it is the whole of the reason, and I put two hundred and forty checkable words in a slate instead of it, and you are the only person in this country who knows that.**"
 
 He did not stop. He took about two seconds and he said it again, out loud, in the same room, to the same woman, in the same voice.
 
@@ -72,7 +72,7 @@ Then she sat down, which she had not done for the whole of it, and neither of th
 
 "**No.**"
 
-"**And I am not going to call it one and you are not going to call it one and if a man in a market in four years asks either of us what this was, the true answer is that a man of thirty-six and a woman of thirty were in a room on the tenth of May and that is all, and the second part of the true answer is that the second part of the true answer is in the second part of the true answer.**"
+"**And I am not going to call it one and you are not going to call it one and if a man in a market in four years asks either of us what this was, the true answer is that a man of thirty-two and a woman of thirty were in a room on the tenth of May and that is all, and the second part of the true answer is that the second part of the true answer is in the second part of the true answer.**"
 
 "**That is a very good way of putting it.**"
 
@@ -86,7 +86,7 @@ He did not thank her and she did not thank him, and neither of them said one wor
 
 *Second column, not checkable from a mole, entered on the said Monday at about half past nine in the evening in this shed, and no name is against it: that a concealment owed to this yard and owed to nobody else was told on the said evening in a room in this harbor, once and once only, and it was told twice in that room at the price that the person it was told to set it, being that the first time it was told in a shed in about nine seconds in a voice the man said he could not have repeated, and the second time in his own voice out loud where it could be repeated; and that there were two people in that room and there was nobody else in it and nobody was in the passage and nobody was sent.*
 
-*And that the said concealment is in no record, in no office, in no book, and not in any chart notation, and that neither of the two of them wrote one word of it down, and that in about four years the only thing that will be true of the said evening is that a man of thirty-six and a woman of thirty were in a room; and that the reason against the line of writing it down is the reason of the first of March past about a record a man cannot check, and it is not improved on and is not going to be.*
+*And that the said concealment is in no record, in no office, in no book, and not in any chart notation, and that neither of the two of them wrote one word of it down, and that in about four years the only thing that will be true of the said evening is that a man of thirty-two and a woman of thirty were in a room; and that the reason against the line of writing it down is the reason of the first of March past about a record a man cannot check, and it is not improved on and is not going to be.*
 
 *And that the said thing does not restore the standing of a certificate of method in a market, which was spent on the twenty-second day of April past and is not withdrawn and cannot be and is not going to be restored; that the forty marks first after food stand and are not reduced and are not paid and were not paid by a thing said in a room; and that neither of the two of them said that it was a reunion and neither of them is going to.*
 

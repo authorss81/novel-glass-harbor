@@ -6,7 +6,7 @@ Wednesday the fifth of May, in the shed on the mole, and on the water off the fa
 
 **The wall did not come down on the said Wednesday and the cistern was not charged on it, and the said Wednesday was not a wage Tuesday. Six hundred and forty-nine pence came into that yard and nothing went out of it.**
 
-**And the far bench was not occupied on the said Wednesday at any hour, and the holder of that writ did not go over to him at any hour of it, and a man of sixty-one was not asked for anything and asked nothing, and nothing was put on that bench and read as a gift.**
+**And the far bench was not occupied on the said Wednesday at any hour, and the holder of that writ did not go over to him at any hour of it, and a man of sixty-one at a far bench was not asked for anything and asked nothing, and nothing was put on that bench and read as a gift.**
 
 ---
 
