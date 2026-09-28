@@ -26,11 +26,11 @@ The reach below the foul comes out a mile and a half inside the point, and there
 
 He went up to that mole head at about four in the morning on the Thursday because there was nothing else to do at that hour and because that is where he goes.
 
-There was nobody on the flat of the bench stone. There was a maul on the step where a man of about twenty-nine had left it in the dark about four hours before, and a bucket with three inches of rainwater in it, and nothing else, and the stone was wet through in one place from about nine o'clock in the evening before.
+There was nobody on the flat of the bench stone. There was a maul on the step where a man of about twenty-nine had left it in the dark the evening before, and a bucket with three inches of rainwater in it, and nothing else, and the stone was wet through in one place from about nine o'clock on that same evening.
 
 Calder stood there for about two minutes and then went down.
 
-He did not go back up at four in the afternoon, and he did not look for the man, and he did not ask anybody in that harbor where the man was, and nobody in that harbor was told that he had gone up there and found nothing, because there was nothing to tell. The man of about twenty-three was not asked for the Thursday. He was asked for the fourteenth and paid for the fourteenth, and he was asked for the seventeenth and paid for the seventeenth, and the twentieth of August was not asked of him by anybody, and he was at his own bench with his own vice on the second lay and his fire out because there is no coal in this harbor for a private fire, and he has nine feet of garboard to come back to on Friday, and nobody has sent for him.
+He did not go back up at four in the afternoon, and he did not look for the man, and he did not ask anybody in that harbor where the man was, and nobody in that harbor was told that he had gone up there and found nothing, because there was nothing to tell. The man of about twenty-three was not asked for the Thursday. He was paid for the tenth of August past and for the seventeenth of this month, and both of those days were asked for by name on the day before them, and the nineteenth and the twentieth of this month were asked of him by nobody, and he was at his own bench with his own vice on the second lay and his fire out because there is no coal in this harbor for a private fire, and there is a garboard on the second lay open since June that nobody has wanted and that he has nine feet of, and nobody has sent for him.
 
 **AND THE STONE AT THE MOLE HEAD AT FOUR IN THE MORNING ON THE NINETEENTH OF AUGUST HAD NOBODY ON IT, AND NOBODY IN THAT HARBOR WAS GOING TO BE ON IT, AND IT IS NOT AN ABSENCE AND IT IS NOT A FAULT AND IT IS NOT A LESSON, AND IT WENT IN NO COLUMN OF ANY LEDGER IN THAT SHED, AND NOBODY WAS TOLD ANYTHING ABOUT IT AT ALL.**
 
@@ -50,7 +50,7 @@ What it said, in nine lines, under a seal he did not look at a second time, was 
 
 It named no person. It named no harbor. It put no figure on it anywhere, and there was no price on it at the end, and it asked for nothing of anybody standing in that street, and it did not say that the work was stolen, and it did not say that the men in it were paid, and it did not say anything at all about a date.
 
-**AND A NINE-LINE SHEET WITH A SEAL ON THE TOP OF IT WENT UP IN THE FRONT STREET OF THAT HARBOR ON FRIDAY THE FOURTEENTH OF AUGUST ON THE OUTSIDE OF A FIGURE THAT WAS NOT TAKEN DOWN FIRST, AND NOBODY IN THAT HARBOR PUT IT UP AND NOBODY IN THAT HARBOR HAS TAKEN IT DOWN AND NOBODY IN THAT HARBOR HAS ANSWERED IT, AND IT IS TRUE ENOUGH ON THE FACE OF IT THAT NOBODY WHO READS IT CAN GO UP THE STREET AND SAY IT IS A LIE, AND HE READ IT TWICE AT A QUARTER TO FOUR ON THE THURSDAY AND SAID NOTHING AT ALL ABOUT IT OUT LOUD TO THE STREET AND TO NOBODY ELSE.**
+**AND A NINE-LINE SHEET WITH A SEAL ON THE TOP OF IT WENT UP IN THE FRONT STREET OF THAT HARBOR ON THE FOURTEENTH OF AUGUST, WHICH IS A SATURDAY, ON THE OUTSIDE OF A FIGURE THAT WAS NOT TAKEN DOWN FIRST, AND NOBODY IN THAT HARBOR PUT IT UP AND NOBODY IN THAT HARBOR HAS TAKEN IT DOWN AND NOBODY IN THAT HARBOR HAS ANSWERED IT, AND IT IS TRUE ENOUGH ON THE FACE OF IT THAT NOBODY WHO READS IT CAN GO UP THE STREET AND SAY IT IS A LIE, AND HE READ IT TWICE AT A QUARTER TO FOUR ON THE THURSDAY AND SAID NOTHING AT ALL ABOUT IT OUT LOUD TO THE STREET AND TO NOBODY ELSE.**
 
 He put his hat back on and went to the quay.
 

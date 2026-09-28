@@ -22,7 +22,7 @@ He put his hand down flat on the bench stone, not on the sheet, about a foot fro
 
 "That is what I said and I am not going to improve on it and I have said it once in this shed and I am not going to say it a second time because you are asking me to, which is a thing I have noticed men do." Calder did not move the sheet. "Ask your own question."
 
-"My own question is that sheet," said the master of about thirty. "That is four things I can hold in my head. That is a piece of paper, and a piece of paper is a different animal, and I have a boat of thirty tons and about nine men in her and every one of their names is on it, and there is my name at the foot of it in my own hand, and on Friday I am going to sail in company with six other boats out of this harbor on a flood because of a piece of paper. And I have worked for men all my life on pieces of paper and I know what a piece of paper is, and what a piece of paper is, is a way of asking a man a question in three months in a town he has not been to."
+"My own question is that sheet," said the master of about thirty. "That is four things I can hold in my head. That is a piece of paper, and a piece of paper is a different animal, and I have a boat of thirty tons and about nine men in her and every one of their names is on it, and on Friday morning I am going to put my own hand at the foot of it, and on Saturday I am going to sail in company with six other boats out of this harbor on a flood because of a piece of paper. And I have worked for men all my life on pieces of paper and I know what a piece of paper is, and what a piece of paper is, is a way of asking a man a question in three months in a town he has not been to."
 
 He put his finger on the sheet, on a name, and did not move it.
 

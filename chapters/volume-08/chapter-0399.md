@@ -108,7 +108,7 @@ The clerk of about sixty put his thumb down on the edge of the board on that wal
 
 "I have not got a book for that," he said. "I want to say that straight, because you have asked it in a room and there is a man in it, and I have been in this room twenty-two years and I have never once been asked a question I could answer and I am not going to start on a Sunday. And I am not going to say yes to it and I am not going to say no to it, and I am not going to tell you what the Crown is going to do, because I have not got a book for that either and I have not got a book for what that office or any other office intends and I have never pretended to anybody that I had."
 
-**AND THE QUESTION WAS ASKED ONCE, IN A ROOM WITH A CLERK IN IT, BY A MAN WITH NO OFFICE, AND IT NAMED NO PERSON, AND THE CLERK OF ABOUT SIXTY ANSWERED IT BY SAYING THAT HE HAD NO BOOK FOR IT, AND NOBODY IN THAT HARBOR HAS ANSWERED IT SINCE AND IT IS NOT ANSWERED NOWHERE ELSE EITHER.**
+**AND THE QUESTION WAS ASKED ONCE, IN A ROOM WITH A CLERK IN IT, BY A MAN WITH NO OFFICE, AND IT NAMED NO PERSON, AND THE CLERK OF ABOUT SIXTY ANSWERED IT BY SAYING THAT HE HAD NO BOOK FOR IT, AND NOBODY IN THAT HARBOR HAS ANSWERED IT SINCE AND NOBODY ANYWHERE ELSE HAS ANSWERED IT EITHER AND THERE IS NO ANSWER TO IT ON ANY PAGE OF THIS MONTH.**
 
 ---
 
@@ -124,7 +124,7 @@ He said nothing.
 
 "That is standing," Calder said, "and I am not going to put it in a column and I am not going to put it in a return and I am not going to say it out loud in front of anybody else."
 
-"You are not going to put it anywhere, and I am going to be the one holding it, and that is the whole of what there is," she said. "And it is not a rescue and it is not a reward for a mole and it is not the apology. I have not got the apology yet and I am not asking you for it and if you try to give me one on this mole I will go down that slip and you will not see me for a fortnight."
+"You are not going to put it anywhere, and I am going to be the one holding it, and that is the whole of what there is," she said. "And it is not a rescue and it is not a reward for a mole and it is not the apology either. You said that on the water in July and I did not forgive you for it then and I have not forgiven you for it since and I am not going to forgive you for it tonight, and you are not going to give me a second one on this mole, and if you try it I will go down that slip and you will not see me for a fortnight."
 
 "Then I will not."
 
