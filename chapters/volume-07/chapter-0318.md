@@ -4,7 +4,9 @@
 
 Tuesday the first of June, in the fish market in the morning, and in the shed on the mole in the evening.
 
-**The said Tuesday was a wage Tuesday, and a wage of four marks, being six hundred and forty pence, was not paid on it, and no envelope was made, and the column stands at twenty-six lines and one hundred and four marks and did not move, and the count of envelopes on that bench in that chest stands at twenty and did not move, and thirty-two weeks have now fallen due with no envelope standing against any of them, the thirty-second of them being this day. The wall did not come down on the said Tuesday and the cistern was not charged on it, the cistern standing on a rota of a Monday and a Thursday. Nothing came into this yard on the said day and nothing went out of it. The far bench was not occupied at any hour of it, and a man of sixty-one at that bench was not asked for anything and asked nothing, and nothing was put on it and read as a gift.**
+**The said Tuesday was a wage Tuesday, and a wage of four marks, being six hundred and forty pence, was not paid on it, and no envelope was made, and the column stands at twenty-six lines and one hundred and four marks and did not move, and the count of envelopes on that bench in that chest stands at twenty and did not move, and thirty-two weeks have now fallen due with no envelope standing against any of them, the thirty-second of them being this day. The wall did not come down on the said Tuesday and the cistern was not charged on it, the cistern standing on a rota of a Monday and a Thursday. Nothing came into this yard on the said day and nothing went out of it.**
+
+**The far bench was not occupied at any hour of it, and a man of sixty-one at that bench was not asked for anything and asked nothing, and nothing was put on it and read as a gift.**
 
 ---
 

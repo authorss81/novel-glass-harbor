@@ -4,7 +4,9 @@
 
 Wednesday the twenty-sixth of May, in the fish market in the morning, and in the shed on the mole in the evening.
 
-**The said Wednesday was not a wage Tuesday. The wall behind the reeve's bench did not come down on it and the cistern was not charged on it, the cistern standing on a rota of a Monday and a Thursday. Nothing came into this yard on the said day and nothing went out of it. And the far bench was not occupied on the said Wednesday at any hour of it, and the holder of that writ did not go over to the man on it at any hour of it, and a man of sixty-one at a far bench was not asked for anything and asked nothing, and nothing was put on that bench and read as a gift.**
+**The said Wednesday was not a wage Tuesday. The wall behind the reeve's bench did not come down on it and the cistern was not charged on it, the cistern standing on a rota of a Monday and a Thursday. Nothing came into this yard on the said day and nothing went out of it.**
+
+**And the far bench was not occupied on the said Wednesday at any hour of it, and the holder of that writ did not go over to the man on it at any hour of it, and a man of sixty-one at a far bench was not asked for anything and asked nothing, and nothing was put on that bench and read as a gift.**
 
 ---
 
