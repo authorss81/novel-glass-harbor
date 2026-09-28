@@ -122,4 +122,4 @@ And then he said the other thing, and he said it to the bench and not to her, an
 
 ---
 
-**Nothing came into this yard on the said Monday and nothing went out of it, and nineteen marks, four shillings and ninepence is in the bag, which is three thousand and ninety-seven pence. The whole of the money that has come into that yard since the sixth of December past is one thousand seven hundred and sixty pence, and the whole of what went out of it since the sixth of December past is sixty-five marks, one shilling and eightpence in twenty-one transactions at seven counters.**
+**Nothing came into that yard on the said Monday and nothing went out of it, and the figure in the bag is the figure it has been since Wednesday night. The wall came down bare for the fifty-first time and the cistern was charged for the forty-first time and this party walked none of either, and a sheet that has been lying on a shelf in a room off that fish market for nine years is still lying on it, and the whole of what the said Monday cost this yard was a walk down a hill and a walk back up it and neither of them carries a figure.**

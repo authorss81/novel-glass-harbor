@@ -38,7 +38,7 @@ And when the pot was landed, the lead weight came down across the belly of a her
 
 There is two hundred and eight fathoms of that net up out of four hundred and eleven and the belly of it is still on that floor, and it lies across about thirty feet of the made stone, and it had been lying there since the ninth of April with a chain that is now on a nail in a shed wall off it.
 
-**The lead came down on it and about six fathoms of the belly of that net is now flat on a course of cut stone under a weight, and it is not cut and it is not mended and it will not come up whole, and nobody in that boat cut it, and nobody in that boat could have helped it, and the ground is that man's by first refusal and this yard was on it without him and did not ask him and named the price before it agreed and did all of it right and it has still cost him six fathoms of gear.**
+**The lead came down on it and about six fathoms of the belly of that net, all of which was lying loose on that stone on the Wednesday morning and not flat anywhere on it, is now flat on a course of cut stone under a weight, and it is not cut and it is not mended and it will not come up whole, and nobody in that boat cut it, and nobody in that boat could have helped it, and the ground is that man's by first refusal and this yard was on it without him and did not ask him and named the price before it agreed and did all of it right and it has still cost him six fathoms of gear.**
 
 "That is on me," said Fisk.
 

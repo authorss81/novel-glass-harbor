@@ -136,8 +136,8 @@ And then the ninth, and the two of them had it in front of them on the bench und
 
 *And that this yard has bought at a penny a copy of a copy and can check the paper, the fold, the hand, the two sizes of mark and the shape of the ninth, and can check nothing else whatever, and that the reason against the line of the buying is that a record a man can check is worth what the man who checks it is worth, and that this yard is a poor man with a compass.*
 
-*And that the concealment is owed to this yard and was not told on the said day, and that a person of no office was in that shed at six in the morning and was not in it at ten at night, and was not told and did not ask, and that this is the sixth day of ten on which that woman has been in that shed or on that mole and has not been asked for anything.*
+*And that the concealment is owed to this yard and was not told on the said day, and that a person of no office was in that shed at six in the morning and was not in it at ten at night, and was not told and did not ask, and that this is the fifth day of ten on which that woman has been in that shed or on that mole and has not been asked for anything.*
 
 ---
 
-**Nothing came into this yard on the said Thursday and nothing went out of it, and five marks, one shilling and fourpence is in the bag, which is eight hundred and sixteen pence. The whole of the money that has come into that yard since the sixth of December past is one thousand seven hundred and sixty pence, and the whole of what went out of it since the sixth of December past is seventy-nine marks, five shillings and one penny in twenty-three transactions at eight counters.**
+**Nothing came into that yard on the said Thursday and nothing went out of it. The cistern was charged for the forty-second time and this party walked none of it. A lamp was lit in that shed at about ten and turned round and went out again and about three quarters of an hour passed with two people in the room, and a woman of no office was in that shed at six that morning and not at nine or at ten, and there is no figure for the hour either and there is not going to be one.**

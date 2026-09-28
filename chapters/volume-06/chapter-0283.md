@@ -42,7 +42,7 @@ Garrow Fisk had come back up that coast road on the Thursday before last and had
 
 "And a second man off that book," said Fisk.
 
-"**And a second man off that book, at two marks and eightpence a day, being three hundred and twenty-eight, and that is the dearer and I want it written down that it is dearer and why before anybody agrees to a single thing.**"
+"**And a second man off that book, at two marks and eightpence a day, being three hundred and twenty-eight, and that is the same four figures the eighth, ninth and tenth of April came to, to the penny and not a penny under it, and I want it written down that it is the same and why before anybody agrees to a single thing.**"
 
 ---
 
@@ -78,7 +78,7 @@ He said the why standing up, and it took him a while and he did not have it read
 
 *And that the far bench was occupied on the said day from about ten until about four and was not approached, and a man of sixty-one was not asked for anything and asked nothing, and nothing was put on that bench and read as a gift.*
 
-*Second column, not checkable from a mole, entered on the said Tuesday at about half past nine in the evening in this shed, and no name is against it: that the reason the said descent is dearer than the descent of the eighth, ninth and tenth of April past is the second man off that book, and that the said holder of that writ said out loud that he could not hold a slate and read a figure at the same time, and that the reason against the line of the holding of it himself has been against that line since the twelfth day of April past and has no name in it and nobody is going to put one in it, and that the said day of the twentieth of April past is a day lost to the same thing and carries no figure because there is no figure for a day.*
+*Second column, not checkable from a mole, entered on the said Tuesday at about half past nine in the evening in this shed, and no name is against it: that the said descent is at the same figure as the descent of the eighth, ninth and tenth of April past, being the same four set against four out of the same book and the same man sent by it on both days, and that the said holder of that writ said out loud that he was not going to improve on it and that the figure the set is bought at is not the thing that went wrong in April, and that the reason a second man is off that book at all is not that the figure is higher and is that he cannot hold a slate and read a figure at the same time, and that the said holder of that writ said that out loud, and that the reason against the line of the holding of it himself has been against that line since the twelfth day of April past and has no name in it and nobody is going to put one in it, and that the said day of the twentieth of April past is a day lost to the same thing and carries no figure because there is no figure for a day.*
 
 *And that the concealment is owed to this yard and was not told on the said day, and that a woman of no office was not in that shed on the said day and was not sent for and was not asked for anything, and that her forty marks first after food stand and were not mentioned once.*
 

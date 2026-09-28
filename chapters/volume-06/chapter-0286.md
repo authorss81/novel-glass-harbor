@@ -48,9 +48,9 @@ Mara Venn came in at about eleven and had been in the shed at six that morning a
 
 "Say it in one sentence," said Calder Marr, "**because I have not got the day.**"
 
-"**The first column is what a man can go and look at. Not what is true, not what matters, what a man can go and look at. That is the whole rule and it is the best rule either of you has ever had, and you have both decided this morning that it is too small a rule for a big thing. It is not. It is exactly the size of the truth, and the big thing is on a shelf in a room off a fish market and there is no man alive who can go and look at it. So it goes in the second column with a reason against the line, and there are eighty lines in that column now and a reason against every one, and that is not a failure of the column, that is what the column is.**"
+"**The first column is what a man can go and look at. Not what is true, not what matters, what a man can go and look at. That is the whole rule and it is the best rule either of you has ever had, and you have both decided this morning that it is too small a rule for a big thing. It is not. It is exactly the size of the truth, and the big thing is on a shelf in a room off a fish market and there is no man alive who can go and look at it. So it goes in the second column with a reason against the line, and there are seventy lines in that column now and a reason against every one, and that is not a failure of the column, that is what the column is.**"
 
-"And the first column stands at twenty-two entries," said Nessa Pike, "**and every one of them is a day somebody did something, and there is not one of them that a man could not go and check with his own eyes, and that is not an accident and it is not going to become one on a Friday.**"
+"And the first column stands at nineteen entries," said Nessa Pike, "**and every one of them is a day somebody did something, and there is not one of them that a man could not go and check with his own eyes, and that is not an accident and it is not going to become one on a Friday.**"
 
 ---
 
@@ -64,7 +64,7 @@ And then Calder Marr said the thing that made the day, and he said it standing a
 
 "Yes."
 
-"**And it does not make anybody safe. It is Friday. I have a bag with five marks in it and a wage column with a hundred and four marks on it and twenty-seven weeks of no envelope and a form in a post bag two days down that coast. Knowing that an office has been right to be careful for three hundred years does not put one penny in that bag and does not put a handle on the inside of one drawer in this shed. If anything it is worse, because now I know that the drawer matters.**"
+"**And it does not make anybody safe. It is Friday. I have a bag with five marks in it and a wage column with a hundred and four marks on it and twenty-seven weeks of no envelope and a form on a step two days down that coast. Knowing that an office has been right to be careful for three hundred years does not put one penny in that bag and does not put a handle on the inside of one drawer in this shed. If anything it is worse, because now I know that the drawer matters.**"
 
 Nessa Pike wrote for about a minute and then she put the pen down, which she does not do in the middle of a morning either.
 
@@ -100,7 +100,7 @@ And then the last of it, and it was the only thing said that day that neither of
 
 ---
 
-*First column, entered on Friday the thirtieth day of April next at about half past nine in the evening in this shed: that the holder of that writ said out loud in that shed on the said afternoon that the sheet says a fleet was ordered down by more than one community and that the communities did not all agree, and that the said holder said in his own words that the thing the offices of this country say they are guarding against is not a story and happened to real people in real water, and that the said holder said in his own words that it does not make anybody safe and that he has five marks in a bag and twenty-seven weeks of no envelope and a form in a post bag.*
+*First column, entered on Friday the thirtieth day of April next at about half past nine in the evening in this shed: that the holder of that writ said out loud in that shed on the said afternoon that the sheet says a fleet was ordered down by more than one community and that the communities did not all agree, and that the said holder said in his own words that the thing the offices of this country say they are guarding against is not a story and happened to real people in real water, and that the said holder said in his own words that it does not make anybody safe and that he has five marks in a bag and twenty-seven weeks of no envelope and a form on a step two days down that coast.*
 
 *And that the ship's hand said out loud in that shed on the said afternoon that a party that says false about a record that is incomplete has stopped being the party that says what it is not, and that the said record is incomplete, being nine lines with no reason in them and two marks that are not the same mark and a ninth that the sheet says is not to be asked about and a month and a year gone off at a fold; and that the said figure of three hundred years was not withdrawn and not softened and stands where it has stood.*
 
@@ -116,4 +116,4 @@ And then the last of it, and it was the only thing said that day that neither of
 
 ---
 
-**Nothing came into this yard on the said Friday and nothing went out of it, and five marks, one shilling and fourpence is in the bag, which is eight hundred and sixteen pence. The whole of the money that has come into that yard since the sixth of December past is one thousand seven hundred and sixty pence, and the whole of what went out of it since the sixth of December past is seventy-nine marks, five shillings and one penny in twenty-three transactions at eight counters.**
+**Nothing came into that yard on the said Friday and nothing went out of it. The far bench was occupied from about ten until about four and nobody went over to it, and about an hour of that morning and most of that afternoon went into an argument at that bench about a sheet and about what this yard is, and the whole of that sheet is in the second column of that leaf this evening with a reason against every line of it and no part of it is on any wall in that harbor, and there is no figure for the argument and there is not going to be one.**

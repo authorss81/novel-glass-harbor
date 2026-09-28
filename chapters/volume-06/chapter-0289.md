@@ -82,4 +82,4 @@ And in the fourth column of the leaf ruled on the twenty-seventh of March past, 
 
 ---
 
-**Nothing came into this yard on the said Monday and nothing went out of it, and five marks, one shilling and fourpence is in the bag, which is eight hundred and sixteen pence. The whole of the money that has come into that yard since the sixth of December past is one thousand seven hundred and sixty pence, and the whole of what went out of it since the sixth of December past is seventy-nine marks, five shillings and one penny in twenty-three transactions at eight counters.**
+**Nothing came in on the said Monday and nothing went out, and a question went out of that shed up those steps into about nine pairs of ears, and not one of the nine is going to be asked what they made of it and none of them will remember it, and that is the whole of what the said Monday did and it is the ninth day of ten.**

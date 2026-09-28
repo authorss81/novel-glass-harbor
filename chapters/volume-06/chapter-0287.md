@@ -1,6 +1,6 @@
 # Chapter 287
 
-*Saturday the First of May, Six Fathoms of a Herringman's Net Told on the Mole Steps, and Five Doors and a Sixth One That Is a Drawer*
+*Saturday the First of May, Six Fathoms of a Herringman's Net Told on the Mole Steps, and Six Doors and a Seventh One That Is a Drawer*
 
 Saturday the first of May, the mole steps, and the shed on that mole.
 
@@ -68,9 +68,9 @@ Six doors and one box on a corner, and the box was on the eighteenth of April pa
 
 "So it is the drawer," said Calder Marr.
 
-"**It is the drawer,**" said Nessa Pike, "**in this shed, in this harbor, in a yard that has been standing behind a house since the sixth of March past and had it the wrong way round for forty-nine days. And we said all of that out loud on the Saturday before last and meant it, and on the Tuesday we went down the hill and put a penny on a counter, and here we are.**"
+"**It is the drawer,**" said Nessa Pike, "**in this shed, in this harbor, in a yard that has been standing behind a house since the sixth of March past and had it the wrong way round for fifty-six days. And we said all of that out loud on the Saturday before last and meant it, and on the Tuesday we went down the hill and put a penny on a counter, and here we are.**"
 
-"**Then the price of a penny is a drawer,**" he said, "**and the price of the drawer is that a form in a post bag is going to arrive on a step somewhere in this country, and a woman of fifty-eight in this harbor has a paper with a seal on it in a drawer under her bed, and a man of thirty two days down this coast has one on his table, and this yard has now got three of them, and there is no man in this country who could tell me which of the three is a keeper.**"
+"**Then the price of a penny is a drawer,**" he said, "**and the price of the drawer is that a woman of fifty-eight in this harbor has a paper with a seal on it in a drawer under her bed, and a man of thirty two days down this coast has one on his table that went into the ordinary post on the eighteenth of April past and has been on that step since the twentieth, and this yard has now got three of them, and there is no man in this country who could tell me which of the three is a keeper.**"
 
 "**None of them,**" said Nessa Pike. "**Write that. That is the sentence. None of them is a keeper and all three of them are, and that is not a paradox and it is not a defect, and it is the first thing this yard has ever written down that is true about a person instead of true about a piece of paper.**"
 
@@ -92,4 +92,4 @@ Six doors and one box on a corner, and the box was on the eighteenth of April pa
 
 ---
 
-**Nothing came into this yard on the said Saturday and nothing went out of it, and five marks, one shilling and fourpence is in the bag, which is eight hundred and sixteen pence. The whole of the money that has come into that yard since the sixth of December past is one thousand seven hundred and sixty pence, and the whole of what went out of it since the sixth of December past is seventy-nine marks, five shillings and one penny in twenty-three transactions at eight counters.**
+**Nothing came into this yard on the said Saturday and nothing went out of it, and no money of any kind went to a man of fifty-one and none is going to. Six fathoms of another man's gear is flat on a course of cut stone at forty fathoms under a lead weight, and about nine people were standing on that mole at half past ten in the morning and not one of them is going to be asked what they made of it, and a copy of a copy of a municipal sheet of a drowned city went into a drawer in that shed at about eleven o'clock and is in it, and neither of those carries a figure and the one of them is never going to get one.**
