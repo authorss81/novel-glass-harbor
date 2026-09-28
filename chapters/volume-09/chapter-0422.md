@@ -1,0 +1,89 @@
+# Chapter 422
+
+*Tuesday the Fourteenth Day of September, the Forty-Seventh Wage Tuesday and the Column Not Moved on It and Forty-Six Weeks Standing Fallen Due at the Open of These Ten Days and Forty-Seven Standing at the Close of Them, a Boy of About Seventeen Called Dill Cardew Carrying a Message Ashore on the Second Lay at Ten in the Morning and a Man of About Forty-Four Off the Water With Two Fingers of His Left Hand Stiff Taking It Out of His Hand in a Street and Not Giving It Back, and Twenty-Four Sheets Going Through a Copyist's Counter in a Room Off That Market at a Penny a Sheet With Nobody Asking the Woman of About Fifty-Nine What She Was Copying*
+
+Tuesday the fourteenth day of September, in that shed, in that market, in the slip at the second lay, and on that mole head.
+
+**The said Tuesday was not a wipe and was not a rota day, and the wall behind the reeve's bench came down and went up whole at the angle it has been at since the twelfth and nobody put it back. It was the forty-seventh wage Tuesday and the column did not move on it. The column stands at twenty-six lines and one hundred and four marks with twenty envelopes in a chest in a front room and has not moved since the fourth of April past, and forty-six weeks stood fallen due with no envelope against any of them at the open of these ten days and forty-seven stand at the close of them, and the forty-eighth falls on Tuesday the twenty-first of September next. Nothing came into that yard on the said day and nothing went out of it, and there are five hundred and seventy-six pence in the bag, being three marks eight shillings, and the figure that bag is short of the wage of four marks is sixty-four pence, being five shillings and fourpence, and it is not going to be paid and nobody is to write one word under it saying anybody is going to.**
+
+**And the far bench was occupied on the said Tuesday from about ten in the morning until about four in the afternoon and was not approached on it, and the holder of that writ did not go over to him, and nothing was put on that bench and read as a gift, and neither brother has said why. Mara Venn was in that harbor and going nowhere, of no office, not on the crew, not restored, not forgiven, forty marks first after food, neither reduced nor paid, and she was not in that shed on the said day and was in the room off the fish market at about one in the afternoon. Tobias Wren was on the crown of that mole from ten until four, being sixty-one, with eleven pieces of a boat behind him and a boat's hook in his right hand, and on the said day he turned the fourth piece over once and stood with his back to the wind for about half an hour and then turned it over a second time and put it back where it had been. The notice of the seventeenth of May past is on its wall in a different street for one hundred and twenty days and has not been touched. The bellwright of that harbor has not been asked for one hundred and twenty-two days, the chest is shut, and the eight marks and a day of a boat have not been argued, and no digit of anything he ever said is on a page. The three nots standing against the eighth of June past are an eleventh week in which nobody in that crew has said one word about them, and the hand of a boy of twenty-two is still at the head of the third column with a name beside it that has not been said out loud since the thirteenth of May past, and that name is not on any page of this harbor. The two objects of nobody's on that crown are four hundred and sixty days old and neither has moved. The bench under that pump is bare for the two hundred and twenty-sixth night. Two lights at about a mile off that point have not moved in forty-four days. A man of about fifty-one has said nothing to anybody about a page of six names for sixty-two days. A nine-line sheet with a seal on it has been in that front street for thirty-one days and has been answered by nobody. The paper at the top left of that door in Fish Street is fourteen days old and has been answered by nobody, and the fourth line of it ends on the twentieth day of September next, which is six days off.**
+
+---
+
+The chest is in a front room off that shed and it has been on a bench in there since the fourth of April past, and twenty-six lines are in a hand that is not the holder's and there are one hundred and four marks against them.
+
+There are twenty envelopes on the shelf above it and they are all empty and they are all folded the same way, and they were folded that way by a woman of about fifty-eight at the end of that market about eleven weeks ago and they have been on that shelf ever since.
+
+Nessa Pike opened it at about ten in the morning on the Tuesday, read the top line, and shut it, and wrote the number of the week against the reason, and the number is forty-seven.
+
+"A week is a week that came and went," she said. "That is not a complaint. That is what I have got in front of me and I am not going to put anything else on the page."
+
+The holder of that writ came in at about half past ten and stood at the front of that bench and did not open it.
+
+"Twenty-six," he said.
+
+"Twenty-six lines and one hundred and four marks, and the same twenty envelopes, and the same shelf."
+
+"That is a lot of writing by a lot of people for no money at all."
+
+"That is what it is," said Nessa Pike. "And I want to say the other thing while the two of us are standing in this room, because it will not get said otherwise. There are three nots standing against the eighth of June past in that column and nobody in that crew has asked him one word about them in an eleventh week, and that has cost him something and I do not know what and he will not tell me and I am not going to ask him. And I am not going to put a figure on it, and I am not going to put his name on it, and I would like it written down once that both of those are decisions and not oversights."
+
+Nobody in that harbor has an envelope for the forty-seventh and there is not going to be one for the forty-eighth either, and there is no figure in this yard for the two of them together and there is not going to be one.
+
+---
+
+At about ten in the morning Dill Cardew came off a cart at the top of the slip at the second lay with a folded paper in his right hand and went down it at a walk, because a boy who runs a slip with a paper in his hand is a boy who has been told to run.
+
+He is of about seventeen. He carries for a chandler's stall at the end of the fish market, for a man who pays him a penny and fourpence a day when there is a day, and he carries for anybody who will say the word out loud at his own counter, and that is a trade and it is not in anybody's book.
+
+The paper was a message from the second lay to the head of the third lay and it was about half past ten when he came out of the bottom of that slip into the street.
+
+A man of about forty-four was standing against a wall with his hands in his pockets. He has two fingers of his left hand stiff and has not been to a bonesetter on his own account and there is nobody in this harbor going to make him. He came off the water in March and he has not been back on it since and he lives in two rooms.
+
+He put his right hand out and took the paper out of the boy's hand and did not give it back.
+
+"Twenty minutes past ten," said Dill Cardew. "I have got to be at the head of the third lay at half past ten."
+
+The man of about forty-four opened the paper with one hand and read it standing in the street, and it took him about as long as it takes to read four lines.
+
+"That is a thing a man does not carry in a street," he said. "That is a thing a man asks a boy to do and does not think about after."
+
+"You have got my paper."
+
+"I have got a piece of paper with four lines on it and a man's hand at the foot of it and no address on it," said the man of about forty-four, "and I am going to put it in my coat and burn it tonight, and you will not have it again and there is nobody in this harbor who is going to write you out another one, and if you go back to that counter and say a boy took it out of your hand you will be laughed at, and if you say it went into the water you will be asked who else was in the street."
+
+He put it into the breast of his coat and buttoned the coat and went up the slip.
+
+Dill Cardew stood on the step outside a chandler's shop at the head of the third lay for about twenty-five minutes.
+
+A woman of about forty came out of that shop at about ten past eleven with her hand on the door and looked at the boy standing on the step and asked him if he was all right, and he said he was waiting for somebody, and she said there was nobody coming down that slip on a Tuesday morning for him that she knew of, and went back in and shut the door.
+
+That is the whole of what he lost and it is worth saying exactly, because the paper is not what he lost. What he lost is that he was going to be somewhere else at half past ten and be there on the minute, and the only reason he was going was in his hand, and now there is no reason in his hand and there is no way to say what he was doing without saying that he was doing something. A boy who loses a message loses the hour he was going to be somewhere else in. He cannot get it back with a second paper, because a second paper would have a reason in it and he has not got the first reason any more.
+
+The man he was going to was told at about eleven that the boy had been held up in the street and had lost it. He said that he was not going to send it again, because a boy cannot carry a second one in a street either and he was not going to be the man who sent a boy down that slip twice.
+
+He then asked the boy what the man in the street looked like, and the boy told him, and the man nodded and put nothing down and has not done anything with it since, and it was the only thing anybody said in that harbor on that Tuesday about that street.
+
+Dill Cardew went back up to the second lay at about half past twelve and put his hand in his pocket where the paper had been and left it there for the rest of the afternoon, and at about four o'clock a man asked him at the stall whether he had done the run down to the third lay and he said he had gone down and come back, which was true, and that was the end of that day's work for him and it is still the end of it.
+
+Nobody in that harbor charged Dill Cardew with anything and nobody gave him anything and nobody asked him one word about the second lay or about the quarter of an hour.
+
+---
+
+In a room off that fish market there is a counter and behind the counter a woman of about fifty-nine who has been copying for twenty-two years and has never once asked what she was copying.
+
+On the said Tuesday about twenty-four sheets went through that counter at a penny a sheet, being twenty-four pence, being two shillings, and that money came out of the hand of a woman with a stall at the end of that market and not out of that yard's bag and is not a figure of anything.
+
+The sheets were to be had at a penny each and not less, and the woman at the counter did not ask what was on them, was not asked, and did not stop, and has not stopped for twenty-two years and is not going to be asked to stop by anybody in this harbor.
+
+---
+
+**Nothing came into that yard on the said Tuesday and nothing went out of it, and the bag is five hundred and seventy-six pence, being three marks eight shillings, and is short of the wage of four marks by sixty-four pence, being five shillings and fourpence. The forty-seventh wage Tuesday came and the column did not move on it, and forty-six weeks stood fallen due at the open of these ten days and forty-seven stand at the close of them, and the forty-eighth falls on the twenty-first of September next and is not going to be paid either. A boy of about seventeen called Dill Cardew had the paper taken out of his hand in a street at about twenty minutes past ten by a man of about forty-four off the water with two fingers of his left hand stiff, who read it standing up, said that it was a thing a man does not carry in a street, put it inside his coat, and went up the slip; the boy lost the paper and lost the hour he was going to be somewhere else in, and he stood on a step at the head of the third lay for about twenty-five minutes with no reason in his hand to say what he was doing, and nobody charged him and nobody gave him another paper and nobody asked him one question. The man he was going to was told at about eleven and did not send it a second time. Twenty-four sheets went through a copyist's counter in a room off that market at a penny a sheet, being twenty-four pence, being two shillings, out of the hand of a woman with a stall and not out of that yard's bag, and the woman of about fifty-nine did not ask what she was copying and was not asked and did not stop. The paper at the top left of that door in Fish Street is fourteen days old and its fourth line ends on the twentieth of September next and has been answered by nobody. The far bench was occupied from ten until four and was not approached, and neither brother went near the other at any hour of the said day.**
+
+---
+
+---
+
+*First column, entered on Tuesday the fourteenth day of September next at about half past nine in the evening in that shed: that the said Tuesday was the forty-seventh wage Tuesday and that the column did not move on it; and that the column stands at twenty-six lines and one hundred and four marks with twenty envelopes in a chest in a front room and has not moved since the fourth of April past; and that forty-six weeks stood fallen due with no envelope against any of them at the open of these ten days and that forty-seven stand at the close of them, and that the forty-eighth falls on Tuesday the twenty-first of September next; and that nothing came into that yard on the said day and nothing went out of it, and that there are five hundred and seventy-six pence in the bag, being three marks eight shillings, and that the figure the bag is short of the wage of four marks, being six hundred and forty pence, is sixty-four pence, being five shillings and fourpence; and that a boy of about seventeen called Dill Cardew, who carries for a chandler's stall at the end of that fish market at a penny and fourpence a day when there is a day, had a folded paper of four lines taken out of his hand in a street at the bottom of the slip at the second lay at about twenty minutes past ten by a man of about forty-four off the water with two fingers of his left hand stiff who has not been to a bonesetter on his own account; and that the said man read it standing up in about the time it takes to read four lines and said out loud that it was a thing a man does not carry in a street and that he was going to put it in his coat and burn it that night and that nobody in that harbor was going to write the boy another one; and that the boy stood on a step at the head of the third lay for about twenty-five minutes and that what he lost was the paper and the hour he was going to be somewhere else in, and that a boy who loses a message cannot say where he has been without saying what he was doing, and that a second paper would not put the hour back because a second paper would have a reason in it and the first reason was in his hand; and that the man the boy was going to was told at about eleven and did not send it again, saying that a boy cannot carry a second one in a street either; and that nobody charged the boy with anything and nobody gave him anything and nobody asked him one word about the second lay; and that twenty-four sheets went through a copyist's counter in a room off that fish market at a penny a sheet, being twenty-four pence, being two shillings, out of the hand of a woman with a stall at the end of that market and not out of that yard's bag; and that the woman of about fifty-nine behind that counter did not ask what she was copying and was not asked and did not stop; and that the paper at the top left of that door in Fish Street is fourteen days old and its fourth line ends on the twentieth of September next, being six days off, and has been answered by nobody.*
+
+*Second column, not checkable from a mole, entered on the said Tuesday at about half past nine in the evening in that shed, and no name is against it: that the reason no second paper was given to a boy of about seventeen on the said day is in his own mouth and is that a second paper would have carried the same four lines down the same street and the first one has already been carried down it once, and that a boy cannot be asked to do a thing twice on the same road and expect to be a person people leave things with; and that the reason no figure is set against the twenty-five minutes the boy stood on a step is that a figure for that is not a thing anybody in this harbor has, and that inventing one would be a price put on a boy's quarter of an hour by a man with a ledger, and that the man who put the third paper in that coat is not on any page of this yard and no name is against him; and that the reason the sheets went through that counter at a penny without anybody asking is that a copyist who stops copying is a copyist who has admitted she copied something, and that a trade can be put in a schedule and a confession cannot, and that the woman at that counter has not been asked in twenty-two years and is not going to be asked by anybody in this harbor; and that the reason the forty-seventh wage Tuesday was written down with the figure of the week against it is that a week is a week that came and went and that is not a complaint and that the figure of the week is the only figure on the page; and that the standing list entered in full on the fourteenth of August past is not entered in full on the said Tuesday and stands, and no part of it was paid, reduced, advanced or improved on that day.*
