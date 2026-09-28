@@ -14,7 +14,7 @@ Tuesday the thirteenth of April, in the shed on the mole, and at the head of tha
 
 Elias Voke came up at about ten and sat on the ring of the compressor's flange, which he was not supposed to do and which everyone let him do, and he had a piece of paper in his hand and did not offer it.
 
-"**Two hundred and eight fathoms,**" he said. "That is what came up. It was four hundred and eleven and I have had the figure off the head rope's markings and off the shot line's coil and I have had it two ways and it is two hundred and eight. And the eleven floats and the head rope entire, and the belly is down there, and the belly was the money. **So I have lost about a half of a season's gear and I have got back about two fifths of it, and the ground is shut, and the herring come off that ground at the end of next month.**"
+"**Two hundred and eight fathoms,**" he said. "That is what came up. It was four hundred and eleven and I have had the figure off the head rope's markings and off the shot line's coil and I have had it two ways and it is two hundred and eight. And the eleven floats and the head rope entire, and the belly is down there, and the belly was the money. **So I have lost about a half of a season's gear and I have got back about a half of it, and the ground is shut, and the herring come off that ground at the end of next month.**"
 
 "You knew that on the Thursday," said Calder Marr.
 
@@ -30,7 +30,7 @@ Elias Voke came up at about ten and sat on the ring of the compressor's flange, 
 
 ---
 
-And then the argument, which was in that shed from about eleven until half past two, and which is the argument this volume is for, and which nobody in that harbor heard except the two of them and the man who was not going to be thanked.
+And then the argument, which was in that shed from about eleven until half past two, and which is the argument the ten days were for, and which nobody in that harbor heard except the two of them and the man who was not going to be thanked.
 
 It was about the depth, and it was not about the fleet.
 
@@ -64,7 +64,7 @@ Nobody said anything for about a minute. The compressor was not running and the 
 
 "There is no Crown house book on this coast that sends a set four hundred miles west, and there is no yard that rents one, and there are four people on that coast who go into deep water without a book, and they are four days down it, and **we are not going to ask them, and the reason is in the second column of the second day of April and it is about a price and it has not been improved on and it is not going to be.**"
 
-"**Then the volume's question is answerable,**" said Nessa Pike, "**and this party is the wrong party for it, and those are the two halves of one thing and they are the first true thing anybody has said in this shed since the fourth of March.** Write it down in that order and not the other way round, because the other way round it sounds like a man who has been beaten and it is not, and a man who has been beaten does not go and pay a Crown house rate for three days to find out that he is the wrong man."
+"**Then the question is answerable,**" said Nessa Pike, "**and this party is the wrong party for it, and those are the two halves of one thing and they are the first true thing anybody has said in this shed since the fourth of March.** Write it down in that order and not the other way round, because the other way round it sounds like a man who has been beaten and it is not, and a man who has been beaten does not go and pay a Crown house rate for three days to find out that he is the wrong man."
 
 "Write it in the second column," said Calder Marr. "Not the first. A man on a mole cannot check any of it."
 
@@ -72,7 +72,7 @@ Nobody said anything for about a minute. The compressor was not running and the 
 
 ---
 
-And in the fourth column, that afternoon, in the ship's left hand, the third line:
+And in the fourth column, that afternoon, in the ship's left hand, and it is the fifth line in that column:
 
 *What it is not: — that this yard is not the party that can answer the question, and that the reason is not the law and is not a man, and that the reason is that there is one set on this coast that will take a pot to four hundred and twenty feet and it stands on a Crown house book, and that a man with no instrument is not a party to a Crown house book, and that neither of those two sentences is an answer and that the answer is four hundred miles west and is not in this harbor.*
 
@@ -98,4 +98,4 @@ And in the fourth column, that afternoon, in the ship's left hand, the third lin
 
 ---
 
-**Nothing came into this yard on the said Tuesday and nothing went out of it, and twenty-four marks, seven shillings and sevenpence is in the bag, which is three thousand nine hundred and thirty-one pence. The whole of the money that has come into that yard since the sixth of December past is one thousand seven hundred and seventy-six pence, being the eleven marks of the said man of the second lay on the sixth of April, and there is nothing else. The whole of what went out of that yard since the sixth of December past is sixty marks and tenpence in seventeen transactions at six counters. The wage column stands at twenty-six lines and one hundred and four marks and twenty-five weeks have fallen due with no envelope standing against them, and the next wage Tuesday is the twentieth, and the column will not move on that either.**
+**Nothing came into this yard on the said Tuesday and nothing went out of it, and twenty-four marks, seven shillings and sevenpence is in the bag, which is three thousand nine hundred and thirty-one pence. The whole of the money that has come into that yard since the sixth of December past is one thousand seven hundred and sixty pence, being the eleven marks of the said man of the second lay on the sixth of April, and there is nothing else. The whole of what went out of that yard since the sixth of December past is fifty-nine marks, twelve shillings and twopence in seventeen transactions at six counters. The wage column stands at twenty-six lines and one hundred and four marks and twenty-five weeks have fallen due with no envelope standing against them, and the next wage Tuesday is the twentieth, and the column will not move on that either.**

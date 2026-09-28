@@ -16,7 +16,7 @@ That is the whole of it, and it is worth saying plainly, because a Crown house s
 
 "**He is two marks and eightpence a day**," said Fisk, "because the book has all of us at the same figure and that is what a Crown hull pays a man, and he is on the set this morning, and the set does not get cheaper because the man is a stranger, and I am not going to stand in a shed and pretend it does."
 
-So the day was fourteen marks, three shillings and fourpence: nine marks for the set, two marks and eightpence for Fisk, a shilling and fourpence for the hand on the hose, and two marks and eightpence for the man the book sent.
+So the day was fourteen marks, three shillings and fourpence: nine marks for the set, two marks and eightpence for Fisk, a mark and two shillings for the hand on the hose, and two marks and eightpence for the man the book sent.
 
 And Hesk Ottrim said one thing on the boat which is the reason this party will remember him.
 
@@ -24,7 +24,21 @@ And Hesk Ottrim said one thing on the boat which is the reason this party will r
 
 ---
 
-They went down at half past eight and Calder Marr took the saw and the spanner and the two men off the Crown house book's boat, and the pot was charged to **eighty-four feet** and the bight was cut on the surface at about ten, and the net came up slow.
+And the first thing on that Saturday morning, before the boat went out, was the book, which had come up the coast road on the Friday night in the same coach that brought the man of thirty-one up, and it had gone down on the Thursday night with the news of the shoulder in it, and the road is a night's road each way.
+
+Fisk read the entry out in that shed with the door open and about four people in the street, before the market was up, because he had said on the Friday that he would read it out when the book came up the road and not one minute before.
+
+"**Amos Searle, twenty-eight, of this house, is carried as unfit for five weeks from the ninth day of April,**" he said, "and then as fit for light work only, and then as fit, on the fifth day of June, **and the word light is the house's word and not mine and I have been in this trade nineteen years and I have never once been able to make a man light.** And that is the whole of what is in that book about him and it is four lines and there is no money in it and the money is the other book, and the other book says the same thing in one line with a figure at the end of it, and I am not going to read you that figure out in a street because it is his and not mine."
+
+"How long is five weeks," said a man at the door.
+
+"**Thirty-five days,**" said Fisk. "And he is twenty-eight and he is a holder and a holder's trade is a man's back and a man's arms and a man's hands, and there is no light work in it, and somebody else will be carrying what he cannot carry, and that man will be carrying it on the same book and at the same figure, and there is nothing in the world I can do about that and I have not stopped thinking about it since Friday morning."
+
+Nessa Pike wrote the four lines into the second column in his words and did not put the figure in anywhere, and he looked at what she had written and said it was right and went out.
+
+---
+
+They went down at half past eight and Calder Marr took the saw and the spanner and the two men off the Crown house book's boat, and the pot was charged to **eighty-four** and the bight was cut on the surface at about ten, and the net came up slow.
 
 He had it in his head from the day before and he went under it and not beside it, and he worked from the far end, and the hack saw with the ship's broken handle went through the warp at about eleven and came up with two hundred and eight fathoms of it and eleven cork floats and the head rope, and the rest of the net lay where it was lying and came up over the months.
 
@@ -40,7 +54,7 @@ They came in on the top of the flood at about half past one and the compressor w
 
 And then Fisk named his travel.
 
-"**One mark and fourpence a day,**" he said, "which is the road money I get off my own house and not off this shed, and it is six days, being the fifth, the sixth, the seventh, the eighth, the ninth and the tenth of April, and that is six marks and two shillings, and you will pay it on the front step tonight and not on Saturday, because I am not a man who is paid a week behind and says nothing about it."
+"**One mark and fourpence a day,**" he said, "which is the road money I get off my own house and not off this shed, and it is six days, being the fifth, the sixth, the seventh, the eighth, the ninth and the tenth of April, and that is six marks and two shillings, and you will pay it on the front step tonight, being this Saturday, and not on Monday, because I am not a man who is paid a week behind and says nothing about it."
 
 "You said on Friday last that your travel was your own rate and that you would tell me when you knew how many days it was," said Nessa Pike.
 
@@ -80,17 +94,19 @@ That is a thing about chains and not about anything else, and a man of this yard
 
 *And that a man of thirty-one named Hesk Ottrim came up that coast on the Friday night in a coach that took fourteen hours, being the second man on a Crown house book and not the man the set was engaged with, and that the said man said out loud in a boat that he asked for the job and that he was sent for and asked for, and that his figure is two marks and eightpence a day and is the figure the book has all of them at.*
 
-*And that fourteen marks, three shillings and fourpence went out of that yard's own book on the said Saturday, being nine marks for the set, two marks and eightpence for the man of about thirty-four, a shilling and fourpence for the man of twenty-six, and two marks and eightpence for the said man of thirty-one.*
+*And that fourteen marks, three shillings and fourpence went out of that yard's own book on the said Saturday, being nine marks for the set, two marks and eightpence for the man of about thirty-four, a mark and two shillings for the man of twenty-six, and two marks and eightpence for the said man of thirty-one.*
 
-*And that the pot was charged on the said Saturday to eighty-four feet and that the bight was cut on the surface at about ten in the morning, and that the net was worked from the far end and came up slow, and that about two hundred fathoms of warp of four hundred came up with eleven of eleven cork floats and the head rope entire, and that the belly of the said net is still on the floor of the said cut at forty fathoms with a chain round it.*
+*And that the pot was charged on the said Saturday to eighty-four pounds and that the bight was cut on the surface at about ten in the morning, and that the net was worked from the far end and came up slow, and that about two hundred fathoms of warp of four hundred came up with eleven of eleven cork floats and the head rope entire, and that the belly of the said net is still on the floor of the said cut at forty fathoms with a chain round it.*
 
 *And that a man of fifty-one of the second lay counted the eleven floats on a thwart in eleven heaps and said that he had lost the middle of the net and that the middle was the money, and that he did not say thank you on that boat and did not say that it was well done either.*
 
 *And that six marks and two shillings went out of that yard's own book on the front step of that shed on the said Saturday evening, being one mark and fourpence a day for six days, being the fifth, sixth, seventh, eighth, ninth and tenth days of that month, and that the said man counted it out in front of about eleven people and said that the fortnight he had been on that coast before the Friday before last was his own and was not going on that book.*
 
-And that five marks, seven shillings and eightpence went out of that yard's own book on the said Saturday evening, entered as three separate figures, being a mile and a half by water to a place with a hospital in it with a man in her at one mark and eightpence, the man's fee at Ashtide at four marks, and a week's keep of a bed at a shilling and fourpence the day at seven shillings, and that the man of about thirty-four went in that boat as far as Ashtide on his own account and said so out loud, and that there is no figure for that going and there is not going to be one, and that he said that he would be back on the Thursday of the next week and be four days short and that he had told nobody that until the said morning.
+And that five marks, seven shillings and eightpence went out of that yard's own book on the said Saturday evening, entered as three separate figures, being a mile and a half by water to a place with a hospital in it with a man in her at one mark and eightpence, the man's fee at Ashtide at four marks, and a week's keep of a bed at a shilling the day at seven shillings, and that the man of about thirty-four went in that boat as far as Ashtide on his own account and said so out loud, and that there is no figure for that going and there is not going to be one, and that he said that he would be back on the Thursday of the next week and be four days short and that he had told nobody that until the said morning.
 
 *And that a bar of square iron two feet long and a chain of nine feet came up on the said Friday and are in that shed, and that the chain's links are not all the same and that every fourth link is longer than the others by about two inches, and that there is a short piece of unseized seizing wire on the long links, and that the man of about thirty-four said that a long link is made every fourth one in his own trade so that a chain may be bent round a thing without a smith, and that the seizing on those links has never been cut, and that a seizing is put on after a chain is made and is not cut.*
+
+*And that the man of about thirty-four read out of that book in that shed on the said Saturday morning at about seven, with the door open and about four people in the street and the market not up, and that the said book had gone back to Ternwatch in the coach on the Thursday night and came up the road in the same coach on the Friday night behind the coach that brought the man of thirty-one, and that the entry carried in it is that the man of twenty-eight is unfit for five weeks from the ninth of April and as fit for light work after and as fit on the fifth of June, and that he said that the word light is his house's word and not his and that he has been in that trade nineteen years and has never been able to make a man light, and that he said that a holder's trade is a man's back and a man's arms and a man's hands and that there is no light work in it and that somebody else will be carrying what he cannot carry on the same book and at the same figure, and that the figure is that man's and not his and was not read out in a street, and that the ship's hand entered the four lines in the second column in his words and entered the figure in no column.*
 
 *Second column, not checkable from a mole, entered on the said Saturday at about half past nine in the evening in this shed, and no name is against it: that the second man on that Crown house book was not this yard's to send for and this yard did not send for him and did not ask for him and did not know he was coming until the Friday night, and that the cost of the said day is a figure on that book and not a figure in this one, and that the difference between the two is a man in a coach for fourteen hours, and that the reason against the line of that is that a Crown house book is a Crown house book and has been said so out loud three times in six days.*
 
@@ -100,4 +116,4 @@ And that five marks, seven shillings and eightpence went out of that yard's own 
 
 ---
 
-**Fourteen marks, three shillings and fourpence, and six marks and two shillings, and five marks, seven shillings and eightpence, went out of this yard on the said Saturday, being twenty-five marks and thirteen shillings, and nothing came into it, and twenty-four marks, seven shillings and sevenpence is in the bag, which is three thousand nine hundred and thirty-one pence. The whole of what came into that yard since the sixth of December past is one thousand seven hundred and seventy-six pence, and there is nothing else. The whole of what went out of that yard since the sixth of December past is sixty marks and tenpence in seventeen transactions at six counters, of which four are the boat of the man of the second lay at one mark and eightpence a day with line at a penny a fathom, two are two marks and eightpence to a man of about thirty-four of a pressure house at Ternwatch, and three are the set at twelve marks, two shillings and eightpence, twelve marks, two shillings and eightpence, and fourteen marks, three shillings and fourpence.**
+**Fourteen marks, three shillings and fourpence, and six marks and two shillings, and five marks, seven shillings and eightpence, went out of this yard on the said Saturday, being twenty-five marks and thirteen shillings, and nothing came into it, and twenty-four marks, seven shillings and sevenpence is in the bag, which is three thousand nine hundred and thirty-one pence. The whole of what came into that yard since the sixth of December past is one thousand seven hundred and sixty pence, and there is nothing else. The whole of what went out of that yard since the sixth of December past is fifty-nine marks, twelve shillings and twopence in seventeen transactions at six counters, of which four are the boat of the man of the second lay at one mark and eightpence a day with line at a penny a fathom, two are two marks and eightpence to a man of about thirty-four of a pressure house at Ternwatch, and three are the set at twelve marks, two shillings and eightpence, twelve marks, two shillings and eightpence, and fourteen marks, three shillings and fourpence.**
