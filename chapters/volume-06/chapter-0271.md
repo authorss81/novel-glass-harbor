@@ -46,7 +46,7 @@ It went to the box on the corner of that mole at about half past two in the afte
 
 He came back up the mole at about three and put the receipt stub on the bench, which is what he does with every stub, and Nessa Pike turned it over and wrote the date on the back of it and filed it with the third of April's, which is the only filing in that shed that is anybody else's business.
 
-"**Twenty-two days,**" she said.
+"**Thirteen days,**" she said.
 
 "Since the second."
 
@@ -88,7 +88,7 @@ And in the fourth column of the leaf ruled on the twenty-seventh of March past, 
 
 *And that the fourth line of the said letter is a man and not a yard, and that the difference between a man and a yard is a thing the woman of no office raised in her letter of the second of April and said she had thought about for three days and had not got round to, and that it is still not got round to, and that nobody in that shed has improved on it, and that the said fourth line is entered in the first column in his words and the difference is not.*
 
-*And that eleven days passed between that woman's letter and this one, and that no figure is entered against the eleven, and that the reason against that line is that eleven days is a fact about two letters and not about a man, and that a yard is a poor judge of how long a silence is.*
+*And that thirteen days passed between that woman's letter and this one, and that eleven of them are days the letter has stood in this yard's own book, and that no figure is entered against either count, and that the reason against that line is that a count of days is a fact about two letters and not about a man, and that a yard is a poor judge of how long a silence is.*
 
 ---
 

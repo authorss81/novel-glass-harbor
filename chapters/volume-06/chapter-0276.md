@@ -4,7 +4,7 @@
 
 Tuesday the twentieth of April, in the shed on the mole, and along the front street of that harbor.
 
-**The said Tuesday was a wage Tuesday and the wage was not paid, and the twenty-sixth week fell due with no envelope standing against it, and the column stands at twenty-six lines and one hundred and four marks where it has stood since the fifth of March past and did not move a line, and the twenty envelopes are on that bench, and that is the twenty-sixth week of a list and there are twenty-six of them now.**
+**The said Tuesday was a wage Tuesday and the wage was not paid, and the twenty-sixth week fell due with no envelope standing against it, and the column stands at twenty-six lines and one hundred and four marks where it has stood since the fifth of March past and did not move a line, and the twenty envelopes are on that bench and there is no envelope standing against any of the twenty-six weeks.**
 
 **And the wall did not come down on the said Tuesday and the cistern was not charged on it, and no figure is entered against a day this party did not see, and nothing came into that yard on the said Tuesday and nothing went out of it.**
 
@@ -36,7 +36,7 @@ The man looked at about a foot of it and put it down.
 
 ---
 
-**The second was a boat's owner of about fifty-five who keeps one boat and has been a berth short since the middle of July past and has not said so to this yard and did not say so now.**
+**The second was a boat's owner of about fifty-five who keeps one boat and has been a hand short since the middle of July past and has not said so to this yard and did not say so now.**
 
 He came out onto the step and did not ask what it was, which is a thing a man of about fifty-five does.
 
@@ -104,4 +104,4 @@ Nessa Pike entered that in the first column because a man said it in the street 
 
 ---
 
-**Nothing came into this yard on the said Tuesday and nothing went out of it, and twenty-one marks, seven shillings and fivepence is in the bag, which is three thousand four hundred and forty-nine pence, and that is the same figure it was on Sunday night and it will be the same figure on Wednesday night. The whole of the money that has come into that yard since the sixth of December past is one thousand seven hundred and sixty pence, and there is nothing else. The whole of what went out of that yard since the sixth of December past is sixty-two marks, twelve shillings and fourpence in twenty transactions at seven counters. The wage column stands at twenty-six lines and one hundred and four marks and twenty-six weeks have fallen due with no envelope standing against them, and the next wage Tuesday is the twenty-seventh of April next, and the column will not move on that either.**
+**The said Tuesday was a day that cost that yard nothing and brought it nothing, and the figure in the bag on the said Tuesday night is twenty-one marks, seven shillings and fivepence, which is three thousand four hundred and forty-nine pence, and that is the same figure it was on Sunday night and it will be the same figure on Wednesday night. The whole of the money that has come into that yard since the sixth of December past is one thousand seven hundred and sixty pence, and there is nothing else. The whole of what went out of that yard since the sixth of December past is sixty-two marks, twelve shillings and fourpence in twenty transactions at seven counters. The wage column stands at twenty-six lines and one hundred and four marks and twenty-six weeks have fallen due with no envelope standing against them, and the next wage Tuesday is the twenty-seventh of April next, and the column will not move on that either.**

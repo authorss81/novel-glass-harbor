@@ -28,9 +28,9 @@ It is a foot and three-quarters of green on the weather side, going up to about 
 
 Four hundred and eighty pence went out of that yard's own book at about half past four and it is not entered against any day in a column and the reason is the reason that has been against that line since the sixteenth of March past.
 
-It is a day of work at the face of the second seam at four hundred and eighty pence on the hirers' own account, and there is nobody in the water, and there is no paper in that drawer to book it against, and the party is one and a half, and the half is a woman with four stitches in her right hand who writes with the other one.
+It is a day of work at the face of the second seam at four hundred and eighty pence, being the figure this yard has always charged a hirer for a day on that face, and the said day was on this yard's own account and has been charged to itself, and there is nobody in the water, and there is no paper in that drawer to book it against, and the party is one and a half, and the half is a woman with four stitches in her right hand who writes with the other one.
 
-**A day of work was done in that yard on the said Saturday and nobody was hired for it and nobody paid for it and it went out at the face of the second seam at the rate the yard has always charged for it, which is what a day on that face is worth on a hirer's own account, and there is no figure against the half.**
+**A day of work was done in that yard on the said Saturday and nobody was hired for it and nobody is named against it, and the four hundred and eighty pence went out of that yard's own book on the day the work was done and not on a day it was agreed, and this yard has charged itself for that day at the hirer rate and there is no hirer, and that is the whole of what that figure is and it is not a figure against any day.** And there is no figure against the half.
 
 ---
 
@@ -53,7 +53,11 @@ Nobody said anything for about a minute. The compressor was not running and the 
 
 "They are four lines about a page," said Calder Marr.
 
-"They are four lines about a **record**," she said. "**Every one of them. Read them again and count the words. A record is a thing somebody keeps on purpose and a person may be asked who has read it, and that is the whole trade, and that is why the second line is written the way it is written — a no can be asked about, so a no is not written, so nobody has to say one. That is a record and nobody but a records man in three hundred years thinks that way.** And a house is not a record. A house is a thing a person lives in. A person may be asked about a house and there is nothing in the asking. **A house is the only kind of thing in this country you cannot refuse anybody anything about, and the whole of that form at the head of it says a person who keeps unsettled material in a house, and it does not say a record, and it does not say a drawer, and it does not say a page.**"
+"They are four lines about a **record**," she said. "**Every one of them. Read them again and count the words. A record is a thing somebody keeps on purpose and a person may be asked who has read it, and that is the whole trade, and that is why the second line is written the way it is written — a no can be asked about, so a no is not written, so nobody has to say one.** That is a record, and nobody but a records man in three hundred years thinks that way."
+
+"And a house is not a record," said Calder Marr. "A house is a thing a person lives in. A person may be asked about a house and there is nothing in the asking."
+
+"**A house is the only kind of thing in this country you cannot refuse anybody anything about, and the whole of that form at the head of it says a person who keeps unsettled material in a house, and it does not say a record, and it does not say a drawer, and it does not say a page.**"
 
 "And the thing it is asking after is in a drawer in this case and in a house in that case," said Nessa Pike, "and the yard has been reading those four lines since the sixth of March past as a set of refusals."
 
@@ -63,7 +67,9 @@ Nobody said anything for about a minute. The compressor was not running and the 
 
 And Calder Marr said the thing out loud then, and it is the whole of that Saturday and it is entered in the first column in his words.
 
-"**Then we did it.** We did it on the third of April past, and we did it in a good cause, and we did it to a man who cannot read. A letter is a channel and a channel is a door and we said that out loud and we were pleased with ourselves. And a page in a drawer in a house is custody that an office can reach, and the only reason it is not custody the office can reach this afternoon is that a form in this country has never been in a post office. **Those four lines were right, and they were right about a record, and we have been leaning on them as if they were about a house for six weeks, and a house is the one thing in this coast that a form can be posted to.**"
+"**Then we did it.** We did it on the third of April past, and we did it in a good cause, and we did it to a man who cannot read. A letter is a channel and a channel is a door and we said that out loud and we were pleased with ourselves. And a page in a drawer in a house is custody that an office can reach, and the only reason it is not custody the office can reach this afternoon is that a form in this country has never been in a post office."
+
+"**Those four lines were right, and they were right about a record, and we have been leaning on them as if they were about a house for six weeks, and a house is the one thing on this coast that a form can be posted to.**"
 
 Nobody improved on it.
 

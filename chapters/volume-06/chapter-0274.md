@@ -4,7 +4,7 @@
 
 Sunday the eighteenth of April, in the shed on the mole, and at the post on the corner.
 
-**The wall did not come down on the said Sunday and the cistern was not charged on it, and the said Sunday was not a wage Tuesday, and nothing came into that yard on it but one penny, and no day of work was done in it and no day of work could be booked in it and both of those are the same fact.**
+**The wall did not come down on the said Sunday and the cistern was not charged on it, and the said Sunday was not a wage Tuesday, and nothing came into that yard on it and one penny went out of it at about half past four in the afternoon, and no day of work was done in it and no day of work could be booked in it and both of those are the same fact.**
 
 **And the far bench was not occupied on the said Sunday at any hour, and the holder of that writ did not go over to him at any hour of it, and a man of sixty-one was not asked for anything and asked nothing.**
 
