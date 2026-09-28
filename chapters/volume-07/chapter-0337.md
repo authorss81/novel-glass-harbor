@@ -56,7 +56,7 @@ It is a launch book and it belongs to the six of that boat of about nineteen ton
 
 The man of about forty-four had it, and he did not read the whole of it. He read one line.
 
-"**The eighteenth day of June. Out at half past five by the flood, in at half past ten. Six foot three at the bar and five foot nine off the foul at four o'clock, and the water was on the mark all the way.**"
+"**The eighteenth day of June. Figures off the second seam, given to us on the quay at half past two. Nine foot on the bar and eight and a half off the foul at four o'clock this afternoon.**"
 
 And then he put his finger on the line under it, which was the six names, and he said:
 
@@ -120,7 +120,7 @@ She looked at him for a moment longer than she usually does.
 
 *And that the holder of that writ said out loud in that shed on the said evening that the use of the mark on the face of the second seam is closed, that the four figures are four figures and no more, that no page of that man's book is or is going to be copied, and that if any person of that yard ever wants a fifth figure out of that book the answer is no at any hour of any day and is not going to be softened on a day a boat is in trouble; and that he said that he had made three rules in a month and that he would rather have three than none and was not going to pretend to a woman of no office that it did not cost him anything to make the third one; and that she answered, unasked, that she did not think he made it in order to be able to come in and say it, and that he agreed, and that she said it was a good rule and that she was not going to be kind about it.*
 
-*And in the fourth column of the leaf ruled on the twenty-seventh day of March past, that night, in the ship's left hand, the sixty-third line:*
+*And in the fourth column of the leaf ruled on the twenty-seventh day of March past, that night, in the ship's left hand, the sixty-second line:*
 
 *What it is not: — that a bill of sixteen pence paid out of a man's own hand is not a debt to this yard and is not an entry in this yard's book and is not a thing this yard can pay or be thanked for; that a name written by a man on a line in a book of his own is not a record this yard made and is not a record this yard can check, and four people carrying a name in their heads is not a custody; and that a third rule made in a month is not a better yard and is not a different kind of yard and is not going to be described as one by anybody in this harbor.*
 ---

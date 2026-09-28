@@ -36,7 +36,7 @@ He put his hat back on and stood at the bench with a hand flat on it, the way a 
 
 "**Then do not be kind to me,**" said the man of about fifty. "**I did not come up here for kindness. I came up here to say it out loud where three people and nine more can hear it, because I have found out in the last month what happens to a thing that is only said in a kitchen.**"
 
-He said it on the crown above the shed, in about nine people's hearing, and nobody improved on it, and the man of about fifty went down the steps and across the quay and up the front street, and he went out past the line at about half past six in the morning on the Wednesday with two men in her and a cargo of salt out of a yard up that coast, and this yard did not see her go and was not asked to and did not go down to the slip to see her go.
+He said it on the crown above the shed, in about nine people's hearing, and nobody improved on it, and the man of about fifty went down the steps and across the quay and up the front street, and in the morning he was going out past that line with two men in her and a cargo of salt out of a yard up that coast, on a paper on a table, and this yard was not going to be asked about her and was not going to go down to the slip to see her go.
 
 ---
 

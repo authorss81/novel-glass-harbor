@@ -1,6 +1,6 @@
 # Chapter 332
 
-*Wednesday the Sixteenth of June, a Boat of About Seventy Tons Past the Line at Half Past Six in the Morning Under a Paper on a Table, Not Back by Dark, and the Mark of the Second Seam Looked At from the Crown for the First Time in Twenty Days*
+*Wednesday the Sixteenth of June, a Boat of About Seventy Tons Past the Line at Ten Past to Seven in the Morning Under a Paper on a Table, Not Back by Dark, and the Mark of the Second Seam Looked At from the Crown for the First Time in Twenty Days*
 
 Wednesday the sixteenth of June, on the crown of that mole at half past six in the morning, and in the shed on the mole in the evening.
 
@@ -36,7 +36,7 @@ The boy came up the steps of that mole at about eleven in the morning with nothi
 
 He was about seventeen and he is one of five or six boys in that harbor who will carry a word up a hill for a penny and have carried for three years, and he was sent by a woman who has the two men's berths off that quay and wanted a man on those steps to know that a boat was not in, and she did not want to come up herself and she did not say why and nobody asked her why because nobody in that harbor asks anybody anything.
 
-"**There is a boat of about seventy tons of this harbor that went out at half past six this morning,**" the boy said, standing on the bottom step with the street behind him, "**and she is not in, and her master is in her and the two men are in her, and I am to say that to a man on these steps and I have said it to nine people and there were nine of you standing.**"
+"**There is a boat of about seventy tons of this harbor that went out at ten past to seven this morning,**" the boy said, standing on the bottom step with the street behind him, "**and she is not in, and her master is in her and the two men are in her, and I am to say that to a man on these steps and I have said it to nine people and there were nine of you standing.**"
 
 "**Who sent you.**"
 
@@ -88,7 +88,7 @@ In the shed that night the three of them had a thing they had not had in a fortn
 
 Nessa Pike wrote all of it down in the second column, and the last four lines of what she wrote were a reason and no name, and then she put the pencil down because the hand had gone from aching to something else.
 
-"**Twenty-four lines in the second column since Friday,**" she said. "**Four on Friday, four on Saturday, four on Sunday, four on Monday, four on Tuesday, and four this evening, being two hundred and sixteen in all, and there were two hundred and five in it at the read-back on Monday afternoon, and the figure of that ledger is its own figure and is not a count of anybody's paragraphs.**"
+"**Twenty-three lines in the second column since Friday,**" she said. "**Four on Friday, four on Saturday, four on Sunday, three on Monday, four on Tuesday, and four this evening, being two hundred and sixteen in all, and there were two hundred and five in it at the read-back on Monday afternoon, and the figure of that ledger is its own figure and is not a count of anybody's paragraphs.**"
 
 "**Say what the first column's figure is and say how you count it, because one day a stranger with a pencil is going to count them,**" said Calder Marr.
 
@@ -108,7 +108,7 @@ The woman of no office had the cuff and the needle and the dish of nine buttons 
 
 *And that the holder of that writ said out loud in that shed on the said evening that he was not going to take the notice off that market wall, and gave the reason of the fourteenth day of May past again and not a shorter way of putting it, and said that a sentence said in a shed is a sentence said in a shed; and that he said that on the day before he goes into the water he was not going to ask a man of about thirty-four one word about a book, and that saying so a day beforehand is a night to think about whether he meant it and is not the same as keeping the rule and may be a way of getting round it with a good reason, and that he did not know which it was.*
 
-*And in the fourth column of the leaf ruled on the twenty-seventh day of March past, that night, in the ship's left hand, the fifty-eighth line:*
+*And in the fourth column of the leaf ruled on the twenty-seventh day of March past, that night, in the ship's left hand, the fifty-seventh line:*
 
 *What it is not: — that a boat leaving a harbor under a paper on a table with an empty box against its fourth line is not a boat that has done a wrong thing and is not a boat that has done a right thing and has not been asked; that nine people watching is not nine people knowing; and that a mark's fouling read from a crown at low water is not a bottom and not a depth and not a place, and is not a use anybody has ever put it to, and nobody in that harbor has said what it means.*
 ---

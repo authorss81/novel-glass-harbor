@@ -10,17 +10,17 @@ Wednesday the twenty-third of June, in the fish market in the morning, and in th
 
 ---
 
-There were about forty people in that fish market at about eleven on the twenty-third of June, which is what a market holds on a fair Wednesday, and the man of about thirty-six of the third lay had said on the quay on the Sunday morning that anybody who wanted to hear the book of that boat of about nineteen tons could come and hear it off the owner's own table, and the word went round the front street the way words go, and about forty people came.
+There were about forty people in that fish market at about eleven on the twenty-third of June, which is what a market holds on a fair Wednesday, and a man of about thirty-eight had said at the end stall at about half past ten that morning that anybody who wanted to hear the book of that boat of about nineteen tons could come and hear it off the owner's own table, and the end stall gave him the table, and the word went round the front street the way words go, and about forty people came.
 
-The table was the end stall's table, and the end stall is the woman of about fifty-eight's, and she gave the table because a man of about thirty-eight asked her for it, and she said yes, and nobody thanked her, and she is not owed anything by anybody in that market.
+The table was the end stall's table, and the end stall is the woman of about fifty-eight's, and she gave it and she said yes, and nobody thanked her, and she is not owed anything by anybody in that market.
 
 The launch book was laid open on it by the man of about forty-four of the six, and nobody touched it, and the ship's hand did not touch it, and the holder of that writ did not touch it, and it was read out loud by the man of about fifty-four of the six, whose eyes are not what they were, and he read it slowly and he read the two lines and the six names and he read nothing else.
 
-"**The eighteenth day of June. Out at half past five by the flood, in at half past ten. Six foot three at the bar and five foot nine off the foul at four o'clock, and the water was on the mark all the way. Halloran, Teel, Sowerby, the two Cranes, and Meikle.**"
+"**The eighteenth day of June. Figures off the second seam, given to us on the quay at half past two. Nine foot on the bar and eight and a half off the foul at four o'clock this afternoon. Halloran, Teel, Sowerby, the two Cranes, and Meikle.**"
 
 And the second line, which is the seventh line, and which is under the nineteenth of June.
 
-"**The nineteenth day of June. Out at half past five by the ebb. On the foul off the south end at twenty to six. Eleven foot. We were all off her.**"
+"**The nineteenth day of June. Out at half past five by the flood. On the foul off the south end at twenty to six. Eleven foot. We were all off her.**"
 
 About forty people heard that in a market in the open, and a man of about thirty-four of that harbor's own second lay was in that market about ten feet from that table and said nothing and was not asked, and a man of about fifty-five with a line about the moulds of a boat on that hard was in that market about fifteen feet from that table and said nothing and was not asked, and a man of about thirty-one of the third lay with a chart in a bag was in that market with his bag shut on his shoulder and said nothing and was not asked, and a man of about twenty-six with a hod of lime was in that market and had nothing to say and said it.
 
