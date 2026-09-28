@@ -24,7 +24,7 @@ That was the whole of what she did and she never once looked at the doorway.
 
 He stood there long enough to be sure and not long enough to be a man with an errand, and then he went back down the passage and up the two steps and out into the market.
 
-**A FAIR COPY IN A ROOM OFF A MARKET IS MADE FROM SOMETHING SOMEBODY SENT IN, AND THE SHEET HAS A RULED HEAD AND A MARGIN AND A CLEAN HAND, AND NOBODY IN THAT HARBOR SENT ANYTHING INTO THAT ROOM, AND NOBODY IN THAT HARBOR KEEPS A SEALED CASE WITH A WORD AT THE TOP OF IT IN A MARKET ROOM, AND A HARBOR IN WHICH A THING HAS BEEN COPIED FAIRLY TWENTY-TWO TIMES A WEEK FOR ELEVEN WEEKS HAS HAD SOMETHING SENT IN ELEVEN TIMES A WEEK, AND NOT ONE PERSON IN THAT HARBOR SENT ANYTHING.**
+**A FAIR COPY IN A ROOM OFF A MARKET IS MADE FROM SOMETHING SOMEBODY SENT IN, AND THE SHEET HAS A RULED HEAD AND A MARGIN AND A CLEAN HAND, AND THE SHEET ON THAT DESK WAS THE FOURTH OF A RUN OF THEM, AND A RUN LIKE THAT MEANS SOMETHING WENT INTO THAT ROOM AND WENT IN AGAIN, AND NOBODY IN THAT HARBOR SENT ANYTHING INTO THAT ROOM, AND NOBODY IN THAT HARBOR KEEPS A SEALED CASE WITH A WORD AT THE TOP OF IT IN A MARKET ROOM, AND NOT ONE PERSON IN THAT HARBOR SENT ANYTHING.**
 
 At about four that afternoon he said the whole of it in that shed in about four sentences, to the ship's hand, and the woman of no office was on the bench and he said it to the room.
 
@@ -36,7 +36,7 @@ At about four that afternoon he said the whole of it in that shed in about four 
 
 "She moved it."
 
-"She moved it half an inch and she did not look up, and that is a woman saying something to a man in a doorway in the only way she can say it without being a person in a matter, and I am not going to use it." He took his hand off the bench. "And I want to be exact about this, because I have been on the water two days and I know what a want looks like. That is a want. It is the same want as the man of about fifty's two boats and the same want as the man of about thirty-one's five, and it goes in the second column with the reason against the line that the holder saw it and did not act on it, and it does not go in the first column, because a man on a mole cannot see a sheet in a room off a market, and if a thing cannot be checked from a mole it is not in the first column, and that rule was made in this shed and not by me and I am not going to break it in the week that I most want to."
+"She moved it half an inch and she did not look up, and that is a woman saying something to a man in a doorway in the only way she can say it without being a person in a matter, and I am not going to use it." He took his hand off the bench. "And I want to be exact about this, because I was on the water on Tuesday and I know what a want looks like. That is a want. It is the same want as the man of about fifty's two boats and the same want as the man of about thirty-one and his chart in a bag, and it goes in the second column with the reason against the line that the holder saw it and did not act on it, and it does not go in the first column, because a man on a mole cannot see a sheet in a room off a market, and if a thing cannot be checked from a mole it is not in the first column, and that rule was made in this shed and not by me and I am not going to break it in the week that I most want to."
 
 The ship's hand wrote it in the second column and asked him one question, which is the only question she asks him in a week.
 
