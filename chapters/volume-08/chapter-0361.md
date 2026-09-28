@@ -54,7 +54,7 @@ At about twelve a man of about thirty-two tried the fire party's hose at the sta
 
 At about four in the afternoon the three of them sat in that shed and said what the day was, because that is the hour that shed does things, and the woman of no office said one sentence about the paper and it was not about going.
 
-"A civilian convoy under municipal papers is not a thing this room has looked at," she said. "The notice on the wall in a different street has been there fifty-eight days yesterday and nobody in this harbor has compared it with anything. I am not comparing it now. I am saying the paper on a table in the office on the west basin is a municipal document and is not an instrument of anybody's, and a boat that goes out under it is not a vessel returning from beyond the line."
+"A civilian convoy under municipal papers is not a thing this room has looked at," she said. "The notice on the wall in a different street has been up since before any of us came to this bench and nobody in this harbor has compared it with anything. I am not comparing it now. I am saying the paper on a table in the office on the west basin is a municipal document and is not an instrument of anybody's, and a boat that goes out under it is not a vessel returning from beyond the line."
 
 Calder wrote that down in the second column with a reason against the line and no name against it, because it was said in that shed and not in the room in Veyr and because a thing said in a shed is not a thing said in a room.
 

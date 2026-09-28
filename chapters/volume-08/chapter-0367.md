@@ -30,7 +30,7 @@ She looked at him for a long time, with the water moving under them, and she did
 
 He nodded, because a procedure asked for instead of forgiveness is not a thing to argue with, and because a day and a leaf are things he has got, though a day is not a thing that yard can spare.
 
-**The procedure costs him a day and a leaf and the asking, and it is entered on the face of this day and is not a resolution of anything else in the book, and she did not forgive him and did not thank him and nobody improved on it afterwards.**
+**The procedure costs him a day and a leaf and the asking, and it is entered on the face of this day and settles nothing else between them, and she did not forgive him and did not thank him and nobody improved on it afterwards.**
 
 They said nothing more about it all the way down that coast, because once said is once, and a thing said once on a boat is not said again in a shed.
 
@@ -40,11 +40,11 @@ At about four in that shed the ship's hand entered the day and the procedure in 
 
 A man of about forty-four of the six came past at about five with his hand still bound, being the ninth day off the water of his nine, and tomorrow he may go back to it, and today he may not, and he asked for nothing.
 
-The tender of about ninety tons lay at the outer water with two lines out, and the young man of about twenty-three was in her own wheelhouse with a telescope, and a lever of nineteen made fast a line on the quay and did not cut it, and no officer came ashore and no paper came ashore and nobody hailed anybody.
+Outside the line the tender of about ninety tons lay with two lines out, and no officer came ashore and no paper came ashore and nobody hailed anybody. The young man of about twenty-three was in her own wheelhouse with the telescope and had not been on her roof that day, and the lamp at her masthead was still burning, and nobody in that harbor counted the days she had lain there. On the quay inside the line a lever of nineteen sat with a line of his own made fast and did not cut it.
 
 The two objects of nobody's are four hundred and five days old on the said day, and the bench under that pump is bare for the hundred and seventy-first night.
 
-The mark on the face of the second seam is fouled about a foot and seven inches on the weather side and nothing on the other, where it was on the nineteenth day of May past, and it was not looked at on the said day.
+The second seam was not looked at on the said day. It is fouled about a foot and seven inches on the weather side and not fouled at all on the other, and that has been the case since the nineteenth day of May past and has not changed by a finger's width.
 
 ---
 
@@ -52,7 +52,7 @@ The mark on the face of the second seam is fouled about a foot and seven inches 
 
 *First column, entered on Wednesday the twenty-first day of July next at about half past nine in the evening in this shed by the ship's hand in her own left hand: that the said Wednesday was not a rota day and not a wage Tuesday and not a wipe; and that on an ordinary boat down that coast at about eleven in the morning the holder said in his own voice in front of a woman of no office, once, and not in a market and not in a room and not to forty people, that he is sorry he did not ask her, that on the eleventh he said he would hand five leaves over and she told him a hand is not a thing, that she told him he had not asked one question in four days and had been waiting since the first of May, that he said he had not asked because he thought there was nothing she could be asked that was any use and she said that was the answer to a question she had not asked, and that he owed her an apology before anything else; and that he did not say he was protecting her and did not hold any hiding as an excuse; and that she did not forgive him and did not thank him and asked instead for a procedure, being that before any paper using her hand is shown in any room he puts what the room wants in writing on a leaf a day before and she answers in writing or not and there is no asking out loud, costing him a day and a leaf and the asking, and it is not a resolution of anything else; and that nothing came into that yard on the said day and nothing went out of it, and that there are two hundred and four pence in the bag, being one mark and three shillings and eightpence, and that the figure short of the wage of four marks is four hundred and thirty-six pence, being two marks and nine shillings and eightpence, and it is not going to be paid; and that nothing has been in a tin in that shed since the twenty-eighth day of April past; and that the wage column stands at twenty-six lines and one hundred and four marks with twenty envelopes on a bench in a chest and thirty-nine weeks fallen due with no envelope against any of them.*
 
-*Second column, not checkable from a mole, entered on the said Wednesday at about half past nine in the evening in this shed, and no name is against it: that a man of about forty-four is on the ninth day off the water of his nine; and that the tender is still at the outer water with two lines out and no hail; and that about eleven people of that harbor cannot read the notice, being a count of people, and that nobody in that yard is to tell any of them anything; and that nine communities hold the records one in each, and six centuries of that practice, and three hundred years of the office that answers it, and the office's three hundred years was not handed to the communities.*
+*Second column, not checkable from a mole, entered on the said Wednesday at about half past nine in the evening in this shed, and no name is against it: that a man of about forty-four is on the ninth day off the water of his nine; and that the tender is still at the outer water with two lines out and no hail; and that the two leaves went back into his coat in that city and came down the coast in it and were not taken out on the water; and that the standing clause entered on the fifteenth is not entered here again and stands, being the count of people who cannot read the notice and the records one in each of nine communities and the office that answers them.*
 
 *And in the fourth column of the leaf ruled on the twenty-seventh day of March past, that night, in the ship's left hand, the ninety-second line:*
 
