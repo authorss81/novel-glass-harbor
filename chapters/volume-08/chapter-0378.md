@@ -42,7 +42,7 @@ The man of about forty-four of the six came past that shed at about four in the 
 
 Calder did not move.
 
-"I am not asking you for a day and I know there is not one. I am asking you to write a name on a piece of paper and put it in a drawer, so that when there is a boat and a day and a wage of four marks or a hundred and sixty-eight pence, whichever it is, I am the one you ask first and not the one you ask last." He turned his hand over and looked at it. "I will take a week's wage for a week. I am not asking for the day on the twelfth of July, and I never asked for that, and I paid the five shillings and sixpence out of my own hand and nobody in that shed has offered me a penny of it and I did not expect one."
+"I am not asking you for a day and I know there is not one. I am asking you to write a name on a piece of paper and put it in a drawer, so that when there is a boat and a day and a wage of four marks or a hundred and sixty-eight pence, whichever it is, I am the one you ask first and not the one you ask last." He turned his hand over and looked at it. "I will take a week's wage for a week. I am not asking for the day on the twelfth of July, and I never asked for that, and I paid the sixty-six pence, being five shillings and sixpence, out of my own hand and nobody in that shed has offered me a penny of it and I did not expect one."
 
 "There is no list in this shed," Calder said.
 
