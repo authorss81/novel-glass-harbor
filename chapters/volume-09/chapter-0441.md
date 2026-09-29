@@ -68,7 +68,7 @@ She had been sitting on the upturned crate at the head of that bench since about
 
 "No. And I am not going to ask to be taken off it either, because a person who asks to be taken off a piece of paper is a person who has been on it."
 
-That was the whole of what was said about it in that shed, and neither of them said one word about it again on any of the ten days that followed, and there was no speech and there was nothing put on a slate about it and it is in the second column of that leaf in the yard's own mouth with the reason against the line.
+That was the whole of what was said about it in that shed, and he put the slate down on the bench stone and did not write her name on it, and she went up the slip at about ten past two in the afternoon and got her day's work, and it is in the second column of that leaf in the yard's own mouth with the reason against the line.
 
 ---
 

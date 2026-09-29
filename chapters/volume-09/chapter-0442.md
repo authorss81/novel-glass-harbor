@@ -14,7 +14,7 @@ The wall came down bare at about eight in the morning and went up at the angle i
 
 The cistern was charged at about eight and a half of it went over the stone lip and the man who charged it wrote the date on the board in chalk and then looked at the top of that board for about as long as it takes to write a date, and the top name on that board has been off it since before the middle of the month, and it was off it at eight in the morning and it was off it at half past nine when he went back and put his boot on the stone and the water went over his boot.
 
-Nobody said anything about that and nobody has said anything about that at any hour of any day, and the number of people who have walked on that cistern since it was put at the back of that market is a number that office does not keep and that this yard does not keep either.
+Nobody said anything about that on the said day, and the man who charged it wrote the date on that board and walked off, and about eleven people crossed that market between eight and half past eight and every one of them stepped over the top of it, and the number of people who have walked on that cistern since it was put at the back of that market is a number that office does not keep and that this yard does not keep either.
 
 ---
 
@@ -38,11 +38,11 @@ Jos Lund, of about forty-four, master of that boat of about nineteen tons, stood
 
 At about half past eight in the morning two of that yard's hands laid a baulk of oak down across the same run of hard water that the baulk of the twenty-eighth day of September had been laid across, and this time a man of about fifty stood in six inches of water at the end of it holding the top of it with both hands and did not let go of it until the tide had it and did not let go of it after that either.
 
-Ham Birt, of about fifty, master of a boat of about twenty-two tons of the second lay, was the man whose boat opened about nine foot of garboard and put a hole in her lee rail about the size of two hands by striking the other baulk on the twenty-eighth, and he had said out loud in that shed on the Friday before last that the baulk was that yard's and that the baulk was that yard's to mark and that nobody marked it, and that he was going to hold that baulk next time, and the undertaking was written down with the hour against it, and the yard did not thank him for saying it and did not thank him for doing it.
+Ham Birt, of about fifty, master of a boat of about twenty-two tons of the second lay, was the man whose boat opened about nine foot of garboard and put a hole in her lee rail about the size of two hands by striking the other baulk on the twenty-eighth, and he had said out loud in that shed on Friday the first day of October past that the baulk was that yard's and that the baulk was that yard's to mark and that nobody marked it, and that he was going to hold that baulk next time, and the undertaking was written down with the hour against it, and the yard did not thank him for saying it and did not thank him for doing it.
 
 He stood in six inches of water for about an hour and ten minutes holding a baulk of oak that is not his boat's baulk and is not his yard's baulk and that had nothing to do with his own hull, and about thirty men from seven boats went past him and about twenty of them said his name and about ten of them did not.
 
-Nobody thanked him at six o'clock or at seven or at eight, and he did not ask, and at about ten past eight he took his hands off it and went home, and the baulk stayed where it was and was still there at dark and was still there on the Tuesday and was still there on the twelfth day of October.
+Nobody thanked him at six o'clock or at seven or at eight, and he did not ask, and at about ten past eight he took his hands off it and went home, and the baulk stayed where it was and was still there at dark and was still there at six o'clock in the morning and nobody moved it.
 
 ---
 
