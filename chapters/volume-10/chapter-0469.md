@@ -36,7 +36,7 @@ A man of about fifty-one out of a coast town four days down said one thing out l
 
 ---
 
-A worked blank of glass about the size of a sheet came up off that floor at about ten past five in the afternoon, in a hand cradle, in that bell, and a man of about thirty-one who crews nothing and sells nothing and is out of a coast town four days down held it flat with both hands for about two minutes on the after deck of that boat in about nine fathoms of water and put it down on a crate lid and took her hands off it.
+A worked blank of glass about the size of a sheet came up off that floor at about ten past five in the afternoon, in a hand cradle, in that bell, and a woman of about thirty-one who crews nothing and sells nothing and is out of a coast town four days down held it flat with both hands for about two minutes on the after deck of that boat in about nine fathoms of water and put it down on a crate lid and took her hands off it.
 
 Mara Venn looked at it for about a minute and a half and did not say anything about it for the first forty seconds, and then she said the only thing she said about it that day, and it was said to the boat and not to a person.
 

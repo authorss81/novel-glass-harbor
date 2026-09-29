@@ -12,7 +12,7 @@ Monday the first day of November, in about twenty-two fathoms, on the floor of a
 
 The slates were written before anybody went down and were read out on that deck in front of every man in that boat, and the tender on the surface was named and the tender was on the deck and not in the bell, and the air was on an independent line and the limit was a figure and the reason was on a slate with an hour against it and the tender's hand was on the chain weight and the tender could pull without asking.
 
-Amos Trewin, of about twenty-nine, went first, at about ten past ten in the morning, and his reason was written in his own words and it was that he had been on that floor on the Thursday and the Saturday of the first week in nine fathoms and had not been on this floor at all, and that a thing a man has heard once in one place is not a thing he has heard twice, and that the chamber was here now and it was not here then.
+Amos Trewin, of about twenty-nine, went first, at about ten past ten in the morning, and his reason was written in his own words and it was that he had been in that mouth on the Thursday the twenty-first and had stood on a step in it and had not once been down on the floor of it, and that the two days he had been in the water in nine fathoms were the Wednesday before that and the Friday after it, and that a thing a man has heard once in one place is not a thing he has heard twice, and that the chamber was here now and it was not here then.
 
 He was in the water about thirty-five minutes and on the bottom about thirty-one of them, and at about half past ten, in the middle of that, he used the line.
 

@@ -38,7 +38,7 @@ At about half past three in the afternoon on the said day, a man of about twenty
 
 "Has he been told what you are going to do with that."
 
-"He has been told nothing and there is nothing," said the man who keeps the leaf. "It is on that sheet at the same size as my four hundred and eighty pence and nobody is going to take it off it and nobody is going to do anything with it. If I have ever said one word about that hand to any man in a coat I will put it in the second column myself and you can read it there."
+"He has been told nothing and there is nothing," said the man who keeps the leaf. "It is on that sheet at the same size as the one hundred and sixty pence of mine that went on the sixteenth and nobody is going to take it off it and nobody is going to do anything with it. If I have ever said one word about that hand to any man in a coat I will put it in the second column myself and you can read it there."
 
 "He is right," said Ivo Skell, from the doorway, and that was all he said.
 
