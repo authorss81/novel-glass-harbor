@@ -1,0 +1,83 @@
+# Chapter 502
+
+*Saturday the Fourth Day of December, Not a Rota Day and Not a Wage Tuesday and Not a Wipe, a Supply Boat of About Two Hundred Tons Coming Inside a Line of Nine Boats Off the Mole Head at About Twenty to Ten in the Morning and the Last of That Kind to Come Inside It, Two Boats of That Supply Not Having Come In at All, a Victual Bought a Second Time at a Figure That Had Gone Up by a Fifth Going Onto the Fitting-Out Sheet as Its Own Line at About Ten Past Ten in the Morning at Three Hundred and Twenty Pence, Being Two Marks, and Coal for the Pump for Ten Days off That Same Supply Boat at Two Thousand Six Hundred and Eighty-Eight Pence, Being Sixteen Marks, Ten Shillings and Eightpence, the Man Who Keeps the Leaf Refusing Out Loud to Carry an Increase Inside Another Line, a Close-Sea Officer of About Forty-Four Reading Out in a Room over a Fish Market at About Two o'Clock in the Afternoon a List of What May Not Come In and Answering Two Questions in the Words That List Uses and Not in Any Other Words, Nobody Thanked and No Figure Set Against Him, One Hundred and Sixty-Eight Pence In and One Hundred and Sixty-Eight Out, the Shortfall Said Out Loud at Twenty-Seven Thousand One Hundred and Ninety Pence, Being One Hundred and Sixty-Nine Marks, Twelve Shillings and Sixpence, the Bag at Twenty-Eight Pence*
+
+Saturday the fourth day of December, in that harbor, in about four hundred yards of water and along a stone quay, and in about two sea miles of open water off the head of that mole.
+
+**The said Saturday was not a rota day and was not a wage Tuesday and was not a wipe, and no charge was placed on that cistern on it. The same victual that went onto that sheet on the Friday at one thousand six hundred pence, being ten marks, was bought a second time on this day at a figure that had gone up by a fifth, being three hundred and twenty pence, being two marks, and it went on as a line of its own with the fourth of December against it, and coal for the pump for ten days off that same supply boat went on at two thousand six hundred and eighty-eight pence, being sixteen marks, ten shillings and eightpence, and nothing went into that sheet in any hand in any line on that day and nobody was asked for anything. One hundred and sixty-eight pence came into that yard at about ten in the morning and one hundred and sixty-eight pence went out of it at about four in the afternoon, and there are twenty-eight pence in the bag at the close of the said day, being two shillings and fourpence, and the figure that bag is short of the wage of four marks is six hundred and twelve pence, being three marks eleven shillings. That sheet stands at thirty-seven thousand eight hundred and thirty pence out, being two hundred and thirty-six marks, five shillings and tenpence, and ten thousand six hundred and forty pence in, being sixty-six marks, six shillings and eightpence, and it is twenty-seven thousand one hundred and ninety pence short, being one hundred and sixty-nine marks, twelve shillings and sixpence, and that figure is against that yard's own book and was said out loud in that yard's own mouth and was not answered by anybody. Nothing has been in a tin in that shed since the twenty-ninth day of April past, and no penny of the whole of that trip came out of that bag, out of the owner of any boat, out of the man with two papers, or out of the Crown.**
+
+**The nine that a stranger in that harbor could have read off any wall are the nine below, and not one of them was found by looking: the notice of the seventeenth of May past, two hundred days; the bellwright of that harbor, not asked for two hundred and two; the two objects of nobody's on that crown, five hundred and forty days; the bench under that pump, bare for the three hundred and sixth night; the two lights at about a mile off that point, one hundred and twenty-four days; the six-line sheet at the back of that end stall, its seventy-ninth day; the paper of four lines in Fish Street, its ninety-fourth; the nine-line sheet with a seal on it in that front street, its hundred and eleventh; and a man of about fifty-one who has said nothing to anybody about a page of six names for a hundred and forty-two days. There has been no barley in that market since the middle of September and there is none in it. Nineteen winters are disputed in that harbor and none of the nineteen has been paid. A man of about twenty-nine who came home on that boat got the use of the left side of his head back on that Saturday, and nobody in that harbor has set a figure against it and nobody has made it into a thing he is better at, and he has said nothing about it and has not been asked.**
+
+---
+
+**The supply boat came in at about twenty to ten in the morning and she came in slowly, and nobody in that harbor had seen her on the water the night before because she had not been on it.**
+
+She was about two hundred tons and she had a red lead going down her port side and a man on her after deck with a line he did not coil. She came up past the end of the line of nine boats at about half past nine and did not signal and did not hail and did not reduce, and the two boats that should have been with her were not with her and have not been seen since the first of December.
+
+**Iven Sallow, of about forty-four, a close-sea officer, stood in a dinghy off that mole head with two men and a warrant in an oilskin case, and he waved her in with his own arm and put his own hand flat on the gunwale of his dinghy afterward, and that is the whole of what he did about it and he did not explain himself to anybody.**
+
+"She is the last one of that kind that comes in here," he said, to the man in the dinghy and not to the quay. "Write that down in your own book and not in mine. I have three of them coming and I have not got the water to bring them, and that is not a thing I can say on a mole head so I am saying it in a dinghy to a man who is not writing it down."
+
+Nobody wrote it down. The man in the dinghy looked at the water and did not say anything and put his own weight on the oars.
+
+---
+
+**And at about ten past ten in the morning the man who keeps the leaf put two lines onto that sheet and said the whole of both of them before he wrote a figure against either, and refused one thing out loud that nobody had asked him to refuse.**
+
+"The same victual. Bread and salt beef for nine men for ten days, at the figure that supply is asking, being three hundred and twenty pence, being two marks. That is the same article that went on here yesterday at one thousand six hundred and the same nine men and the same ten days and it has gone up by a fifth, and it is going on here as a separate line with the fourth against it and not inside yesterday's line."
+
+"That is two lines for one thing."
+
+"It is one line for one figure, and a figure a stranger can take off a page is worth more than a figure that is correct and buried in another one, and in a month somebody is going to ask that yard what it paid for bread and salt beef in the first ten days of December and I am not going to be the man who cannot point at it."
+
+"And the coal."
+
+"Coal for the pump for ten days off her, being two thousand six hundred and eighty-eight pence, being sixteen marks, ten shillings and eightpence, and the fourth against that also, and I have not moved the price of coal in this yard in two years and I am not moving it now, and the reason it is what it is is on the quay and not in this shed and I am not going to bring it in here."
+
+Nobody argued with him about any part of either line. Two men who had come in off the slip went back out to the coal lighter without saying anything about it at all.
+
+---
+
+**At about two o'clock in the afternoon the room over that fish market was let out and about twenty people went up in the half hour after two and about eleven of them could not read, and a man of about forty-four read out a list, and he read it out in the words the list uses.**
+
+He had a wet coat on over a dry one and a cut across the back of his left hand that had not been dressed, and he read standing up, with the sheet in his left hand and no table under it, and he was not a herald and he had not written a word of what he said.
+
+"This is the list of what may not come in. It is dated at the head and it carries a seal on it and there is no figure on it. It sets down salt, coal, victual, timber, oil, glass and the seven other things set down on it. It does not name any person. At the foot of it, in the margin, are the four names of the officers employed in it, and I am one of the four, and that margin is a list of men and not a list of anybody's goods."
+
+**A woman of about forty-three who keeps a store on the second lay stood up at the back of that room and asked him one question, and he answered it in the words the list uses and in no other words at all.**
+
+"Is my name on it."
+
+"No. The list names no persons and it says no such thing anywhere on it, and there is a woman from the second lay's store on it in no hand and I have not added her."
+
+"And the man of about thirty-three who hires hands at that market stood up and asked him a second one."
+
+"How do we know what any of it means by coming in."
+
+"You do not. The list says what may not come in. It does not say by what road and it does not say by what mouth, and what comes in is whatever a man brings inside that line, and that line is a line of boats and not a wall."
+
+"And then a man of about thirty-one of the second lay asked him a third question, and this one went to the thing he had actually come up those stairs for, and the officer answered it out of the list and not out of himself."
+
+"That boat that came in this morning. Will she come in again."
+
+"There is no provision in it against a vessel already inside. She was inside at the hour of the reading of it and the list does not reach back."
+
+Nobody said anything to him after that. Nobody thanked him, nobody asked him a second question, and nobody in that harbor printed a figure against him on any paper anywhere, and the two hundred tons of that boat and the nine hulls outside the mole and the cut on the back of his hand are not in any ledger in this yard.
+
+---
+
+**And at about half past five in the afternoon the man who keeps the leaf said the shortfall out loud at the bench stone with the door open on the slip, and nobody was asked for the rest of it.**
+
+"Twenty-seven thousand one hundred and ninety pence short, being one hundred and sixty-nine marks, twelve shillings and sixpence. That is against this yard's own book and it moved by three thousand and eight pence this morning, being three thousand and twenty pence of an increase on victual that I did not make and two thousand six hundred and eighty-eight pence of coal, and nobody in this harbor has been asked for a penny of it."
+
+---
+
+**A SUPPLY BOAT OF ABOUT TWO HUNDRED TONS CAME INSIDE A LINE OF NINE BOATS OFF THAT MOLE HEAD ON THAT SATURDAY MORNING AND IT IS THE LAST OF THAT KIND THAT CAME INSIDE IT, AND THE TWO THAT SHOULD HAVE BEEN WITH HER HAVE NOT BEEN SEEN SINCE THE FIRST OF DECEMBER. THE SAME VICTUAL WENT ONTO THAT SHEET TWICE IN TWO DAYS, ONCE AT TEN MARKS AND ONCE AT TWO, AND THE MAN WHO KEEPS THE LEAF WROTE THE INCREASE ON A LINE OF ITS OWN BECAUSE A FIGURE A STRANGER CAN TAKE OFF A PAGE IS WORTH MORE THAN A FIGURE THAT IS BURIED IN ANOTHER ONE. THE FIGURE OF FOUR HUNDRED AND FIFTY PENCE IS STILL ON A BOARD AT AN END STALL WITH FEBRUARY'S FIGURE VISIBLE ABOVE IT AND BOTH DATES ON IT, AND IT DID NOT COME DOWN AND CANNOT BE TAKEN OFF AGAIN. A LIST WITH A SEAL ON IT AND NO FIGURE ON IT WENT ONTO A BOARD AT THE HEAD OF THAT MOLE AND WAS READ OUT TWICE IN A ROOM FOUR HUNDRED YARDS FROM THAT SHED BY A MAN WITH A CUT ON HIS HAND WHO ANSWERED THREE QUESTIONS IN THE WORDS THAT LIST USES, AND HE WAS NOT THANKED AND NO FIGURE WAS SET AGAINST HIM. TWENTY-EIGHT PENCE IS IN A BAG AT THE HEAD OF THAT THIRD LAY UNDER A FIGURE OF SIX HUNDRED AND FORTY.**
+
+---
+
+---
+
+*First column, entered on Saturday the fourth day of December at about half past nine in the evening in that shed: that the said day was not a rota day and was not a wage Tuesday and was not a wipe, and that no charge was placed on that cistern on it; and that a supply boat of about two hundred tons came inside a line of nine boats off the head of that mole at about twenty to ten in the morning and that the two boats that should have been with her have not been seen since the first of December, and that a man of about forty-four waved her in from a dinghy with his own arm and said in that dinghy to a man who was not writing it down that she was the last of that kind that comes in there, and that nobody wrote it down; and that the same victual was bought a second time at a figure that had gone up by a fifth, being three hundred and twenty pence, being two marks, and went onto the sheet that carries the money as a line of its own with the fourth of December against it, and that coal for the pump for ten days off that same supply boat went on at two thousand six hundred and eighty-eight pence, being sixteen marks, ten shillings and eightpence, and that the man who keeps the leaf refused out loud to carry the increase inside another line and gave his reason for it, and that nothing went onto that sheet in any hand in any line on that day and nobody was asked for anything; and that one hundred and sixty-eight pence came into that yard and one hundred and sixty-eight pence went out of it, and that twenty-eight plus one hundred and sixty-eight less one hundred and sixty-eight is twenty-eight pence at the close of the said day, being two shillings and fourpence, being short of the wage of four marks by six hundred and twelve pence, being three marks eleven shillings; and that that sheet stood at thirty-seven thousand eight hundred and thirty pence out and ten thousand six hundred and forty pence in and is twenty-seven thousand one hundred and ninety pence short, being one hundred and sixty-nine marks, twelve shillings and sixpence, and that the running out on it moved by three thousand and eight pence on that day; and that a close-sea officer of about forty-four read out in a room over that fish market at about two o'clock in the afternoon a list of what may not come in and answered three questions in the words that list uses and in no other words, and that nobody thanked him and nobody asked him a second question and no figure was set against him anywhere; and that a man of about twenty-nine got the use of the left side of his head back on that Saturday and that no figure was set against it and it was not made into a thing he is better at.*
+
+*Second column, not checkable from a mole, entered on the said Saturday at about half past nine in the evening in that shed, and no name is against it: that the reason the officer was let stand in that room and read the whole of that list out is the yard's own mouth, and is that a man who is employed in a list is the only man in that harbor who can say out loud what is on it in the exact words it is written in, and that about eleven people in that room cannot read it and would otherwise be told it by four different people over four days; and that the reason he was not asked one question about what the line outside that mole is for is the room's own, and is that the whole of what a list of what may not come in has to carry is what may not come in, and that a man who answers a second question about the intention behind a list takes the work out of the writing and puts a man's opinion in its place; and that the reason the man of about fifty with a boat of about twenty-two tons was not on that floor at two o'clock is the yard's own mouth, and is that he had gone to his own boat at eleven and the room over a fish market is not a room a boat's owner is sent for, and that the eleven who go up those stairs on a Saturday are the eleven who have nowhere else to be; and that the reason the hearing came back on that Saturday is the yard's own mouth, and is that a thing that is gone and comes back is not a thing anybody in a harbor can be given credit for, and that the man it came back to did not mention it, and that a yard which wrote it down would be writing down a thing that had been in nobody's hands; and that the reason two lines went onto that sheet for one article is on the third of December's own page, being that the first of them was the figure this yard had always paid and the second of them is the figure a supply outside a line of boats is asking, and that the difference between those two numbers is the whole of what a line of boats does to a harbor and is worth a line of its own.*
