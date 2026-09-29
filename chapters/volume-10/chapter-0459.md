@@ -40,7 +40,7 @@ And on a flat stone at the end of that line, about nine inches from the eleventh
 
 The man who kept the leaf did not pick it up for about a minute and then he did not pick it up at all, and he said one sentence out loud on the deck of a boat of about nineteen tons in about twenty-two fathoms of water, and the sentence was this:
 
-"That is a cut. That is a bellwright's cut, that is a line with notches in it, and somebody has left a place out of it on purpose, and I have had that sentence said in a room on a hill about four hundred yards from that chair I am sitting in and I did not understand a word of it until this minute."
+"That is a cut. That is a bellwright's cut, that is a line with notches in it, and somebody has left a place out of it on purpose, and I have had that sentence said in a room on a hill two days' sail from that chair I am sitting in and I did not understand a word of it until this minute."
 
 Nobody in that boat told him that the piece of lead on that hill had been cut by a woman of about thirty-four off the western reef line who was paid one hundred and sixty-eight pence in coin on the flat of a bench stone for a day's work on the twelfth of October past, and that she said out loud once that that figure is a caulker's figure and not hers.
 
@@ -58,7 +58,7 @@ Nobody thanked him. Nobody gave him anything. Nobody in that party said one word
 
 ---
 
-**A PAPER IN AN INSIDE POCKET WAS PUT AGAINST A THING AT ABOUT TWENTY-TWO FATHOMS AND SOMETHING ANSWERED IT, AND WHAT ANSWERED WAS ANSWERING A DESCRIPTION, AND A RECORD OF A MAN HOLDING A PAPER IS NOT A RECORD OF THE THING, AND THAT IS IN THE SECOND COLUMN OF A LEAF AT ABOUT SIX IN THE ELEVENING ON THE SAID DAY AND IS IN NO OTHER PLACE. ELEVEN SQUARE-ENDED MARKS IN A LINE ON A LEDGE TO THE LEFT OF THAT MOUTH ARE ABOUT THREE WEEKS OLD AND NO TWO OF THEM ARE THE SAME LENGTH, AND BESIDE THEM ON A FLAT STONE IS A PIECE OF WORKED LEAD CUT IN THE SAME CUT AS A PIECE OF WORKED LEAD ON A HILL FOUR DAYS AND FOUR HUNDRED YARDS FROM THAT BOAT, WITH THE SAME NINE NOTCHES AND THE SAME THREE DEEPER AND THE SAME THUMB-SIZED PLACE LEFT OUT ON PURPOSE AND NO FIGURE AND NO NUMBER OF ANY KIND ON IT, AND A MAN OF ABOUT THIRTY-SIX PUT IT INSIDE HIS COAT AND WAS NOT STOPPED AND WAS NOT THANKED AND WAS ASKED ONE QUESTION ABOUT HIMSELF AND NONE ABOUT THE LEAD, AND NOBODY IN THAT HARBOR HAS BEEN TOLD ANY OF IT YET.**
+**A PAPER IN AN INSIDE POCKET WAS PUT AGAINST A THING AT ABOUT TWENTY-TWO FATHOMS AND SOMETHING ANSWERED IT, AND WHAT ANSWERED WAS ANSWERING A DESCRIPTION, AND A RECORD OF A MAN HOLDING A PAPER IS NOT A RECORD OF THE THING, AND THAT IS IN THE SECOND COLUMN OF A LEAF AT ABOUT SIX IN THE ELEVENING ON THE SAID DAY AND IS IN NO OTHER PLACE. ELEVEN SQUARE-ENDED MARKS IN A LINE ON A LEDGE TO THE LEFT OF THAT MOUTH ARE ABOUT THREE WEEKS OLD AND NO TWO OF THEM ARE THE SAME LENGTH, AND BESIDE THEM ON A FLAT STONE IS A PIECE OF WORKED LEAD CUT IN THE SAME CUT AS A PIECE OF WORKED LEAD CUT ON THE FIFTH OF OCTOBER PAST, BEING SIXTEEN DAYS BEFORE THAT DAY, ON A HILL TWO DAYS' SAIL FROM THAT BOAT, WITH THE SAME NINE NOTCHES AND THE SAME THREE DEEPER AND THE SAME THUMB-SIZED PLACE LEFT OUT ON PURPOSE AND NO FIGURE AND NO NUMBER OF ANY KIND ON IT, AND A MAN OF ABOUT THIRTY-SIX PUT IT INSIDE HIS COAT AND WAS NOT STOPPED AND WAS NOT THANKED AND WAS ASKED ONE QUESTION ABOUT HIMSELF AND NONE ABOUT THE LEAD, AND NOBODY IN THAT HARBOR HAS BEEN TOLD ANY OF IT YET.**
 
 ---
 
