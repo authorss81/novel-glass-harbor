@@ -22,7 +22,7 @@ About eleven of the people in that room could not read. There is a count of abou
 
 The foot of that sheet is the foot of a paper of that office, and a paper of that office has a seal line at the foot of it, and the first paper on the door of the custody room at the back of that corridor has carried the same seal line at its foot since the twenty-second day of August, and that seal line had been printed twice in a yard's own hand in the whole of that harbor and had gone into one working man's eye twice in a corridor, and nobody in that harbor had read it out loud until the seventh day of October, and the man whose hand is at the foot of the first paper had not read it out loud either.
 
-Hobb Lee came to the foot of the sheet at about a quarter past three and read it out loud, and it is eleven words long, and the office at the end of it went into that room in a working man's mouth for the first time since the twenty-second day of August, and no minister was in that room and no minister appeared in it and nobody in that room was asked anything by anybody about it.
+Hobb Lee came to the foot of the sheet at about a quarter past three and read it out loud, and it is thirteen words long, and the office at the end of it went into that room in a working man's mouth for the first time since the twenty-second day of August, and no minister was in that room and no minister appeared in it and nobody in that room was asked anything by anybody about it.
 
 *Recovered accounts, circuit of this town. Magister Ilya Serr, Registrar of Recovered Accounts.*
 
