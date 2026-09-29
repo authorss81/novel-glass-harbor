@@ -44,7 +44,7 @@ Nobody said anything for about two seconds and then five people in that shed ans
 
 **The man who keeps the leaf answered third and what he said was about the sheet and it was the shortest thing said in that shed that day.**
 
-"It fails on paper first and it fails on paper worse than anywhere else. The line does not go up. There is no line in this world for the cost of a thing that went wrong. The four men paid a day apiece are paid a day apiece on the fourth of this week with the water as flat as it is now and they will be paid on the eleventh with the water however it is. The air goes on the sheet before it goes in the water and not after. And there is nothing standing in this harbor that this yard would take money out of to make a rescue come out cheaper, and if there were, I would be the one who had to say so out loud, and I have said it out loud this month once and I am not going to have to say it again."
+"It fails on paper first and it fails on paper worse than anywhere else. The line does not go up. There is no line in this world for the cost of a thing that went wrong. The four men paid a day apiece are paid a day apiece on the twentieth with the water as flat as it is now and they will be paid on the twenty-seventh with the water however it is. The air goes on the sheet before it goes in the water and not after. And there is nothing standing in this harbor that this yard would take money out of to make a rescue come out cheaper, and if there were, I would be the one who had to say so out loud, and I have said it out loud this month once and I am not going to have to say it again."
 
 ---
 
@@ -72,7 +72,7 @@ A man at the end of that group said that was the first time anybody in that yard
 
 ---
 
-**A PUMP HAND OF ABOUT FORTY-FOUR SAT IN A SHED AT THE HEAD OF THAT THIRD LAY AND ASKED ONE QUESTION OUT LOUD AND WAS ANSWED BY FIVE PEOPLE IN TURN AND WAS NOT THANKED AND IS NOT ON ANY LINE OF ANY SHEET IN THAT HARBOR AND HAS NOT BEEN SENT FOR SINCE. A PANE OF GLASS ABOUT THE SIZE OF TWO HANDS LAID FLAT IS GOING INTO A CASE THAT HAS BEEN IN FOUR FATHOMS FOUR TIMES THIS MONTH AND IS SCRATCHED IN THE MIDDLE WHERE A GLOVE GOES OVER IT EVERY TIME. THERE IS NO LINE ON THAT SHEET FOR THE COST OF A THING THAT WENT WRONG. FOUR MEN ARE PAID A DAY APIECE ON THE EIGHTEENTH AND ON THE TWENTY-FIFTH WITH THE WATER HOWEVER IT IS. THERE HAS BEEN NO BARREL OF LAMP OIL IN THAT MARKET SINCE THE TWENTY-NINTH DAY OF AUGUST AND THE FIGURE OF FOUR HUNDRED AND FIFTY PENCE IS STILL ON THE BOARD. THE SHEET THAT CARRIES THE MONEY IS THIRTY-FIVE THOUSAND AND TEN PENCE SHORT AGAINST THAT YARD'S OWN BOOK.**
+**A PUMP HAND OF ABOUT FORTY-FOUR SAT IN A SHED AT THE HEAD OF THAT THIRD LAY AND ASKED ONE QUESTION OUT LOUD AND WAS ANSWED BY FIVE PEOPLE IN TURN AND WAS NOT THANKED AND IS NOT ON ANY LINE OF ANY SHEET IN THAT HARBOR AND HAS NOT BEEN SENT FOR SINCE. A PANE OF GLASS ABOUT THE SIZE OF TWO HANDS LAID FLAT IS GOING INTO A CASE THAT HAS BEEN IN FOUR FATHOMS FOUR TIMES THIS MONTH AND IS SCRATCHED IN THE MIDDLE WHERE A GLOVE GOES OVER IT EVERY TIME. THERE IS NO LINE ON THAT SHEET FOR THE COST OF A THING THAT WENT WRONG. FOUR MEN ARE PAID A DAY APIECE ON THE TWENTIETH AND ON THE TWENTY-SEVENTH WITH THE WATER HOWEVER IT IS. THERE HAS BEEN NO BARREL OF LAMP OIL IN THAT MARKET SINCE THE TWENTY-NINTH DAY OF AUGUST AND THE FIGURE OF FOUR HUNDRED AND FIFTY PENCE IS STILL ON THE BOARD. THE SHEET THAT CARRIES THE MONEY IS THIRTY-FIVE THOUSAND AND TEN PENCE SHORT AGAINST THAT YARD'S OWN BOOK.**
 
 ---
 

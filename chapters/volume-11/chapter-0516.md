@@ -16,7 +16,7 @@ Saturday the eighteenth day of December, in that harbor, in about four hundred y
 
 Somebody at the end of that group said that a sheet with two days on a line was a sheet a stranger would have to think about, and the man who keeps the leaf said that a stranger with a pencil could take the sixteenth off it and the eighteenth off it and the figure off it in about four seconds and that thinking about it was the stranger's work and not his.
 
-The two men had their day at the third lay at half past three on the Saturday and they were not thanked for it and they are not on that sheet and their names are in the book the days are paid out of and not anywhere else.
+The two men took their day at the third lay at half past three on the Thursday and again on the Friday, and they were not thanked for it and they are not on that sheet and their names are in the book the days are paid out of and not anywhere else.
 
 ---
 
