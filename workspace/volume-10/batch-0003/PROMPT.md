@@ -22,11 +22,11 @@
 |---|---|---|
 | 471 | Tuesday the second | the fifty-fourth wage Tuesday. **The column does not move and fifty-four weeks stand fallen due** |
 | 472 | Wednesday the third | not a rota day |
-| 473 | Thursday the fourth | a rota day — the cistern is charged for the ninety-fifth time and walked on by none of it |
+| 473 | Thursday the fourth | a rota day — the cistern is charged for the ninety-sixth time and walked on by none of it |
 | 474 | Friday the fifth | not a rota day. **THE MIDPOINT IS PAID IN THIS CHAPTER AND IN NO OTHER** |
 | 475 | Saturday the sixth | not a rota day |
 | 476 | Sunday the seventh | a wipe — the seventy-ninth time the wall comes down bare. Not a rota day |
-| 477 | Monday the eighth | a rota day — the ninety-sixth charge |
+| 477 | Monday the eighth | a rota day — the ninety-seventh charge |
 | 478 | Tuesday the ninth | the fifty-fifth wage Tuesday. The column does not move and fifty-five weeks stand fallen due |
 | 479 | Wednesday the tenth | not a rota day. **A LINE IS CUT THAT CANNOT BE PUT BACK** |
 | 480 | Thursday the eleventh | a rota day — the ninety-seventh charge. The movement closes |
@@ -100,7 +100,7 @@ The party is at the trench floor. **A slate is written before anybody goes down.
 
 **A part comes out of a rack and up on that deck and is described by three people in three mouths and the three do not agree, and all three accounts go into the second column in the order they were said and none is settled.** The supply boat is the one that spoke them on the twenty-third of October and the coal is at the same figure and the man in that boat says the same thing out loud twice to two different people.
 
-#### 473 — Thursday the fourth. A ROTA DAY, THE NINETY-FIFTH CHARGE ON THAT CISTERN, A FRAME, AND A MAKER'S MARK AND A MAKER'S DATE ON IT, AND THE DATE IS A DATE AND NOT A CURSE.
+#### 473 — Thursday the fourth. A ROTA DAY, THE NINETY-SIXTH CHARGE ON THAT CISTERN, A FRAME, AND A MAKER'S MARK AND A MAKER'S DATE ON IT, AND THE DATE IS A DATE AND NOT A CURSE.
 
 **Beneath the fittings there is a frame and the frame is not six hundred years old and the fittings on it are not six hundred years old either, and both of those facts are in the same scene.** A mark on the frame is a mark of a builder and not a claim seal and not a custody mark and not an office's mark, and a date is cut into it, and **a man of about thirty-four of the second lay says out loud that a scar does not have square ends and that he has been in holds for nineteen years and has never once been wrong about how long a cut has been under, and this time he gives two figures and not one, being a very old cut and a cut of about three weeks, and nobody argues with him about either.** The cistern is charged and walked on by none of it. **The word *chorus* may enter a mouth in this chapter, once, in a working man's own words, as the name of what that tool was built to do, and it may enter nowhere else and it may name no stage, no rank, no membership and no power, and no person in that boat is a member of anything because of it.**
 
@@ -128,7 +128,7 @@ The party is at the trench floor. **A slate is written before anybody goes down.
 
 **One fitting is cut to get at the frame and the cut is irreversible and it is a decision and it is a cost and nobody is thanked for it and it is in the second column with the hour against it and it is in the yard's own mouth.** A stove pipe and a bracket go onto the sheet at three hundred and ninety-two pence. **A man who does not come up on that line is not a casualty, is not named as one, has no figure set against him, and is not thanked, and the next chapter says what he did instead and it is work.**
 
-#### 480 — Thursday the eleventh. A ROTA DAY, THE NINETY-SEVENTH CHARGE, THREE STATEMENTS IN THREE VOICES ABOUT WHAT IS ON THAT FLOOR, A LEAF READ BACK AT ABOUT TEN PAST FIVE WITH BOTH DEFINITIONS, A SHEET SEVEN THOUSAND AND FOURTEEN PENCE SHORT, AND A MACHINE THAT IS STILL DOWN THERE WITH A CROWN MAN'S MARKS SET AROUND IT.
+#### 480 — Thursday the eleventh. A ROTA DAY, THE NINETY-EIGHTH CHARGE, THREE STATEMENTS IN THREE VOICES ABOUT WHAT IS ON THAT FLOOR, A LEAF READ BACK AT ABOUT TEN PAST FIVE WITH BOTH DEFINITIONS, A SHEET SEVEN THOUSAND AND FOURTEEN PENCE SHORT, AND A MACHINE THAT IS STILL DOWN THERE WITH A CROWN MAN'S MARKS SET AROUND IT.
 
 **The close of the movement. The reversal is not softened and is not repeated and is not explained twice, and the three statements are in three voices and are said once each.** The leaf is read back with both definitions. **The shortfall is stated in the yard's own mouth and is against that yard's own book and no figure has been asked of anybody to make it otherwise, and the four columns are at two hundred and thirteen, nine hundred and thirty-nine, none and one hundred and twenty-five at the close, and two hundred and twelve, nine hundred and thirty-seven, none and one hundred and twenty-five at the hour.** The chamber with a stove in it is standing on a trench floor in about twenty-two fathoms with a Crown man's marks set around it, and nobody in that harbor has been given the machine and nobody in that harbor has been stopped from knowing about it, and **the word that would name the seal is in no mouth and the new question of this volume is not asked.**
 
