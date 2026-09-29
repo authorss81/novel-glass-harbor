@@ -1,3 +1,123 @@
+## Volume 11, Batch 0002 (Chapters 511–520) as written, 29 September 2026 — BINDING ON MOVEMENT 3, ON CHAPTER 530 AND ON EVERY LATER CHAPTER OF THIS VOLUME
+
+**MOVEMENT 2 IS PAID. THE PROOF IS PAID IN CHAPTER 519 AND IT IS A MAN NOT DOING A THING. THE STAGE IS NOT ENTERED, NOT NAMED AND NOT PRE-FIGURED. NOTHING WENT INTO THE FITTING-OUT SHEET IN ANY HAND ON ANY OF THE TEN DAYS AND NOBODY WAS ASKED FOR ANYTHING ON ANY OF THEM. NOTHING ON THE POVERTY LIST IMPROVED AND NOBODY WAS THANKED FOR ANYTHING.**
+
+### The calendar
+
+| Ch | Day | What the day is |
+|---|---|---|
+| 511 | Monday the thirteenth | a rota day — the hundred and seventh charge. **The hard at Ashtide is answered on a working person's own terms** |
+| 512 | Tuesday the fourteenth | **The sixtieth wage Tuesday.** Not a rota day. Not a wipe. **A supply boat of about two hundred tons in at a figure higher again** |
+| 513 | Wednesday the fifteenth | not a rota day. Not a wage Tuesday. Not a wipe. **A working man asks what the figure is for and is answered out of the figure** |
+| 514 | Thursday the sixteenth | a rota day — the hundred and eighth charge. **He asks her out loud and she says yes in one word** |
+| 515 | Friday the seventeenth | not a rota day. Not a wage Tuesday. Not a wipe. **The pump hand asks what happens when the plan fails** |
+| 516 | Saturday the eighteenth | not a rota day. **The two days go into the total. A boat of the reed channels is not stopped** |
+| 517 | Sunday the nineteenth | a wipe — the eighty-fifth time. **The condition at that port is read out in that room** |
+| 518 | Monday the twentieth | a rota day — the hundred and ninth charge. **A working person of a fisher commonwealth says no to a signature in four sentences** |
+| 519 | Tuesday the twenty-first | **The sixty-first wage Tuesday. THE PROOF.** Not a rota day. Not a wipe |
+| 520 | Wednesday the twenty-second | not a rota day. Not a wage Tuesday. Not a wipe. **A page with four names and one line that is not a name** |
+
+**THE COUNT OF A FOUR-DIGIT YEAR ACROSS THE TEN IS ZERO AND NOBODY IN ANY OF THEM SAYS WHAT YEAR IT IS AND NOBODY MAKES A REMARK ABOUT A TURNING MONTH, A NEW YEAR, A RESOLUTION OR A REVIEW. THE PARTY IS IN MORROW QUAY ON ALL TEN DAYS, THE TRENCH IS TWO DAYS' SAIL AWAY, NOTHING GOES BELOW ABOUT FOUR FATHOMS ON ANY DAY OF IT, THE CHAMBER WITH THE STOVE IN IT IS ON NO PAGE OF ANY OF THEM, AND A FIGURE OF SEA MILES IS NEVER SET AGAINST A FIGURE OF FATHOMS ON ANY PAGE.**
+
+### The money, re-derived by adding and not by looking
+
+Seven out-lines and nothing in on any line: bread and salt beef for nine men for ten days, **1,920**, the thirteenth, being twelve marks, at the figure the increase of the fourth of December set; a day apiece in advance to the same four men, **672**, the thirteenth, being four marks, two shillings and eightpence; coal for the pump for eight days off that supply boat, **2,080**, the fourteenth, being thirteen marks; line, glass, tin and gaskets for a pressure case, **960**, the seventeenth, being six marks; a second pair of hands for two days, **336**, the sixteenth, being two marks, one shilling and fourpence, **written into the total on the eighteenth**; a day apiece to the same four men, **672**, the twentieth, being four marks, two shillings and eightpence; three days of air for the crossing, **880**, the twenty-first, being five marks, six shillings and eightpence. **THAT IS 7,520 PENCE, BEING FORTY-SEVEN MARKS EXACTLY.**
+
+| Ch | Written into the total that day | Running out | In marks | Shortfall | In marks |
+|---|---|---|---|---|---|
+| 511 | 1,920 + 672 = 2,592 | **42,610** | 266m 4s 2d | **31,970** | 199m 10s 10d |
+| 512 | 2,080 | **44,690** | 279m 4s 2d | **34,050** | 212m 10s 10d |
+| 513 | — | 44,690 | 279m 4s 2d | 34,050 | 212m 10s 10d |
+| 514 | — (the 336 written, not in the total) | 44,690 | 279m 4s 2d | 34,050 | 212m 10s 10d |
+| 515 | 960 | **45,650** | 285m 4s 2d | **35,010** | 218m 10s 10d |
+| 516 | 336 | **45,986** | 287m 5s 6d | **35,346** | 220m 12s 2d |
+| 517 | — | 45,986 | 287m 5s 6d | 35,346 | 220m 12s 2d |
+| 518 | 672 | **46,658** | 291m 8s 2d | **36,018** | 225m 1s 2d |
+| 519 | 880 | **47,538** | 297m 1s 2d | **36,898** | 230m 8s 2d |
+| 520 | — | 47,538 | 297m 1s 2d | 36,898 | 230m 8s 2d |
+
+**40,018 + 7,520 = 47,538 OUT, BEING TWO HUNDRED AND NINETY-SEVEN MARKS, ONE SHILLING AND TWOPENCE, AGAINST 10,640 IN, BEING SIXTY-SIX MARKS, SIX SHILLINGS AND EIGHTPENCE, AND 47,538 − 10,640 = 36,898 SHORT, BEING TWO HUNDRED AND THIRTY MARKS, EIGHT SHILLINGS AND TWOPENCE. EVERY ONE OF THOSE THIRTY GLOSSES EVALUATES ON ONE MARK TO ONE HUNDRED AND SIXTY PENCE AND A STRANGER WITH A LEAF AND A PENCIL CAN TAKE ALL THREE OFF THE SHEET IN ABOUT A MINUTE AND FIND THAT THEY AGREE. THE SHEET CARRIES NO COUNT OF PERSONS. THE THREE WHO SAID NO IN THE FIRST MOVEMENT STAND ON IT AT THE SAME SIZE AS THE CONTRIBUTIONS AND NONE OF THE THREE, NONE OF THE FOUR CREWS THAT DID NOT WRITE A NAME AND NONE OF THE SEVEN THAT DID IS ASKED AGAIN IN THIS MOVEMENT.**
+
+**THE PRICE THAT IS NOT A COST: two thousand two hundred and forty pence for nine men for ten days, being fourteen marks, written in chalk on the slate at an end stall at about a quarter past eleven in the morning of the fourteenth, being six hundred and forty more than the third of December and three hundred and twenty more than the thirteenth. IT IS ON NO SHEET IN THAT YARD AND IT STOOD ON THAT STEP ON THE TWENTIETH AND ON THE TWENTY-SECOND AND NOBODY TOOK IT DOWN AND IT DID NOT GO ON THAT BOOK.**
+
+**THE BAG IS TWENTY-EIGHT PENCE, BEING TWO SHILLINGS AND FOURPENCE, ON ALL TEN DAYS, SHORT OF THE WAGE OF FOUR MARKS BY SIX HUNDRED AND TWELVE PENCE, BEING THREE MARKS ELEVEN SHILLINGS, AND IT IS NEVER ZERO. ONE HUNDRED AND SIXTY-EIGHT PENCE CAME INTO THAT YARD AT ABOUT TEN IN THE MORNING AND ONE HUNDRED AND SIXTY-EIGHT WENT OUT OF IT AT ABOUT FOUR IN THE AFTERNOON ON EVERY ONE OF THE TEN DAYS INCLUDING THE SUNDAY, AND THE WHOLE OF THE TEN IS ONE THOUSAND SIX HUNDRED AND EIGHTY PENCE EACH WAY, BEING TEN MARKS, SIX SHILLINGS AND EIGHTPENCE.**
+
+### The leaf, re-derived
+
+| Ch | 1st at hour | 1st at close | 2nd at hour | 2nd at close | 3rd | 4th |
+|---|---|---|---|---|---|---|
+| 511 | 243 | 244 | 1092 | 1094 | none | 125 |
+| 512 | 244 | 245 | 1097 | 1099 | none | 125 |
+| 513 | 245 | 246 | 1102 | 1104 | none | 125 |
+| 514 | 246 | 247 | 1107 | 1109 | none | 125 |
+| 515 | 247 | 248 | 1112 | 1114 | none | 125 |
+| 516 | 248 | 249 | 1117 | 1119 | none | 125 |
+| 517 | 249 | 250 | 1122 | 1124 | none | 125 |
+| 518 | 250 | 251 | 1127 | 1129 | none | 125 |
+| 519 | 251 | 252 | 1132 | 1134 | none | 125 |
+| 520 | 252 | 253 | 1137 | 1139 | none | 125 |
+
+**243 + 10 = 253 AND 1,089 + 50 = 1,139, WHICH IS THE PAIR `outline/volume-11.md` L37 FIXES FOR THE CLOSE OF CHAPTER 550. THERE IS NO READ-BACK IN THESE TEN CHAPTERS AND NONE IS DUE BEFORE CHAPTER 550. THE THIRD COLUMN IS EMPTY AND UNAPPOINTED WITH A BOY'S HAND AT THE HEAD OF IT AND HIS SURNAME IS ON NO PAGE OF THE TEN AND HE IS NOT ON THE WATER. THE FOURTH STANDS AT ONE HUNDRED AND TWENTY-FIVE, TOOK NO LINE, HAS NO HUNDRED AND TWENTY-SIXTH LINE IN IT, IS NOT CLOSED AND IS NOT STRUCK, AND THE COUNT OF THE TWENTY-EIGHTH DAY OF AUGUST ACROSS THE TEN IS ZERO.**
+
+### The nine day-counters, and a ruling
+
+**THE RULING. THE PROMPT'S OWN LIST FOR THIS BATCH RUNS 219 TO 228. ITS OWN RULE SAYS EVERY ONE OF THOSE NINE IS ITS OWN FIGURE AT THE CLOSE OF CHAPTER 510 PLUS ITS OWN DAY. CHAPTER 510 AS IT STANDS ON DISK PRINTS 208, 210, 548, 314, 132, 87, 102, 119 AND 150. THE PROMPT'S LIST IS THEREFORE TEN HIGH ON ALL NINE AT BOTH ENDS. THE RULE AND THE ARITHMETIC ARE RIGHT AND THE PROMPT'S NUMERICAL LIST IS A SLIP, AND CHAPTER 510 IS NOT EDITED BY A WRITER PHASE, SO THE PAGES FOLLOW THE RULE AND CARRY 209 TO 218.**
+
+| | base at 510 | day 1 | day 2 | day 3 | day 4 | day 5 | day 6 | day 7 | day 8 | day 9 | day 10 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| the notice of the seventeenth of May past | 208 | 209 | 210 | 211 | 212 | 213 | 214 | 215 | 216 | 217 | 218 |
+| the bellwright, not asked for | 210 | 211 | 212 | 213 | 214 | 215 | 216 | 217 | 218 | 219 | 220 |
+| the two objects of nobody's | 548 | 549 | 550 | 551 | 552 | 553 | 554 | 555 | 556 | 557 | 558 |
+| the bench under that pump, bare for the | 314 | 315 | 316 | 317 | 318 | 319 | 320 | 321 | 322 | 323 | 324 |
+| the two lights about a mile off that point | 132 | 133 | 134 | 135 | 136 | 137 | 138 | 139 | 140 | 141 | 142 |
+| the six-line sheet at that end stall | 87 | 88 | 89 | 90 | 91 | 92 | 93 | 94 | 95 | 96 | 97 |
+| the paper of four lines in Fish Street | 102 | 103 | 104 | 105 | 106 | 107 | 108 | 109 | 110 | 111 | 112 |
+| the nine-line sheet with a seal on it | 119 | 120 | 121 | 122 | 123 | 124 | 125 | 126 | 127 | 128 | 129 |
+| six names and no word about them | 150 | 151 | 152 | 153 | 154 | 155 | 156 | 157 | 158 | 159 | 160 |
+
+**NINETY COUNTERS ON TEN PAGES WERE RE-EXTRACTED FROM THE TEN STANDING PARAGRAPHS AND COMPARED WITH THEIR OWN BASE PLUS THEIR OWN DAY, AND NINETY OF NINETY AGREE. NONE OF THEM WAS FOUND BY LOOKING. THE NINTH OF THE NINE IS A FIGURE ABOUT A MAN WHO IS ON A COAST FOUR DAYS DOWN AND NOT IN THAT HARBOR, AND HE IS NOT A CHARACTER IN ANY OF THESE TEN CHAPTERS AND HAS NOT BEEN SENT FOR.**
+
+### The clocks, run against themselves
+
+**ONE DESCENT BY THIS PARTY IN THIS MOVEMENT AND IT IS ON THE TWENTY-FIRST, ON THE EIGHT HUNDRED AND EIGHTY PENCE LINE OF THREE DAYS OF AIR HIRED OFF A BOAT ALONGSIDE THE WEST QUAY THAT CARRIES HER OWN BOTTLES.** A slate written before anybody was off the boat, on the diver and not by him, with the reason in his own words and the hour and a figure of thirty minutes. Ivo Sark, of about twenty-four, named tender on the surface in a dinghy about nine feet off that slip, his own hand on the chain weight, a cutoff he could pull without asking anybody's leave, not in the water at any hour. The woman of about twenty-seven of that yard on the compressor. Two lines in that water and only one of them the route's: the forty fathoms off the float and a separate thirty feet on its own weight. **Down at about ten past three on the last of the ebb, on the bottom at about a quarter past three, the word at about thirty-eight minutes past three, the cutoff pulled without anybody asking, helmet off at about forty minutes past three, BEING FIVE MINUTES DOWN AND TWENTY-THREE ON THE BOTTOM AND TWO UP, WHICH IS THIRTY OF HIS THIRTY. NOBODY WENT IN TWICE, NO TWO MEN WERE IN IT AT ONCE, NOBODY WENT IN AT THE TOP OF A FLOOD, AN ASCENT HE ASKED FOR WAS NOT ARGUED WITH, HE WAS NOT HURT AND NOBODY HAS NAMED HIM A CASUALTY AND NO FIGURE IS SET AGAINST HIM. THE FORTY MINUTES OF WATER WERE HELD FROM ABOUT FOUR O'CLOCK UNTIL ABOUT TEN TO FOUR AND THE FOUR BOATS WENT BETWEEN ABOUT FOUR O'CLOCK AND ABOUT HALF PAST FOUR.**
+
+### The eleven defects found in this phase's own writing pass, all repaired
+
+1. **Chapter 512 said the market figure was eight hundred and forty pence above the third of December.** 2,240 − 1,600 = 640. It is now six hundred and forty in the body, in the subtitle and in the first column.
+2. **Chapter 511 glossed the day's two lines as sixteen marks, four shillings and eightpence.** 2,592 − 2,560 = 32 pence. It is now sixteen marks, two shillings and eightpence.
+3. **Chapter 514 put the two days of that pair of hands on the fifteenth and the sixteenth.** They are the sixteenth and the seventeenth, and the line carries the sixteenth and the total moved on the eighteenth.
+4. **Chapter 513 carried a typographical corruption in the closing block.** Repaired.
+5. **Chapter 516 set a figure of fathoms beside a figure of sea miles in one sentence.** The fathoms are out and the bar is described in feet and miles.
+6. **Chapter 516 named a depth of about twenty-two fathoms in a standing item.** The trench is not in this batch. The figure is out.
+7. **Chapter 518 put that port eleven miles up the coast in one place and a mile and a half in three.** All four are eleven miles.
+8. **Chapter 515 drew a man of about thirty-eight into a sentence about being in a shed and being asked nothing twice.** Tightened so that he is in the shed once, says nothing, is asked nothing, and carries no figure.
+9. **Chapter 519 had the forty minutes of water running from about four o'clock to about ten to five, which is fifty minutes.** It is four o'clock to ten to four.
+10. **Chapter 519 had a man at the far end of a line while he was on the bottom three quarters of a mile of water away from it.** The third sentence is now in the future, the two lines in that water are separated, and the bell is struck from the dinghy at the float rather than from nine feet off the slip.
+11. **The ten second columns carried the required fact in nine verbatim copies and one omission.** All ten are now in different words, Chapter 519 carries it, and the ten closing clauses are ten different sets of words.
+
+### The sweeps, run and recorded rather than asserted
+
+**QUOTE PARITY IS EVEN ON ALL TEN FILES AT 24, 10, 8, 20, 26, 8, 8, 20, 12 AND 4 WITH ZERO UNPAIRED MARKS. THE COUNT OF A FOUR-DIGIT YEAR IS ZERO ON ALL TEN. THE SECOND PERSON IS AT ZERO IN THE NARRATION AND AT ZERO IN THE APPARATUS ON ALL TEN, AND THE SEVEN SENTENCES OF CHAPTER 519 AND THE SIX OF CHAPTER 517 WERE REWRITTEN OUT OF THE SECOND PERSON AND THE SIX OF CHAPTER 517 OUT OF *YOURS* FOR THAT REASON. THE COUNT OF *CHORUS*, *SINGULAR*, *PLATE*, *FLEET*, *ASSEMBLY*, *GANNET*, *MANIFEST*, *COMPARTMENT*, *FIFTH SEAM*, *ORISON*, *NETWORK*, *COMMITTEE*, *KEELWRIGHT*, *THE SEA BELOW* AND EVERY BOOK-STRUCTURE FORM IS ZERO ON ALL TEN; THE ONLY *API* HITS ARE THE SUBSTRING IN *A PIECE*, *A PICTURE* AND *A DAY APIECE*. THE TWELVE-WORD DUPLICATE SWEEP ACROSS ALL FORTY-FIVE PAIRS OF THE TEN SECOND COLUMNS AND ACROSS ALL ONE HUNDRED PAIRS BETWEEN THE TEN AND CHAPTERS 501 TO 520 RETURNS ONLY THREE KINDS OF RUN: THE HOUSE'S OWN APPARATUS ENTRY FORMULA, THE HOUSE'S OWN ATTRIBUTION FORMULA, AND THE REQUIRED FACT THAT NOTHING STANDING IN THAT HARBOR WAS PAID, ADVANCED, REDUCED, IMPROVED, STRUCK OR CLOSED. NO PASSAGE OF PROSE IS DUPLICATED AND NO REASON IS RESTATED. A FOURTEEN-WORD SWEEP OF THE SCENE PROSE WITH THE APPARATUS STRIPPED RETURNS THE DATELINE FORMULA AND THE MONEY GLOSSES, BOTH OF WHICH ARE THE HOUSE'S OWN AND BOTH OF WHICH ARE PRESENT IN CHAPTERS 501 TO 510 IN THE SAME WORDS. THE ONE PLACE WHERE PROSE REPEATS ACROSS TWO CHAPTERS IS THE CONDITION ATTACHED AT THAT PORT ON THE THIRTEENTH AND THE READING OF THAT SAME CONDITION ON THE NINETEENTH, WHICH IS THE SAME DOCUMENT READ OUT TWICE AND IS WHAT BOTH CARDS ASK FOR. EVERY COUNTED WORD-LENGTH, LINE-COUNT, NAME-COUNT, DAY-COUNT AND SHEET-COUNT ON A PRINTED DOCUMENT PASSES: THE SEVEN SENTENCES OF CHAPTER 519, THE SIX OF CHAPTER 517, THE ELEVEN OF CHAPTER 508 AND THE ELEVEN FIGURES OF CHAPTER 513 ALL COUNT AS STATED.**
+
+### What the movement leaves, and what a later phase may not do with it
+
+1. **MAY NOT ENTER THE CHORUS DIVER STAGE, NAME IT IN ANY MOUTH, PRE-FIGURE IT, REHEARSE IT OR DESCRIBE A THING THAT WOULD BECOME IT BEFORE CHAPTER 528, AND MAY NOT TAKE IT MORE THAN ONCE OR IMPROVE IT AFTERWARDS.** The proof that makes it possible is paid in Chapter 519 and it is a man not doing a thing.
+2. **MAY NOT HAVE THE MAN WHO KEEPS THE LEAF, OR ANYBODY ELSE, GO BACK INTO THAT WATER AND DO IT AGAIN WITH A DIFFERENT MAN IN THE PLACE OF THE ONE WHO SAID NO.** He says out loud on the twenty-first that it is not going to be done again, and no chapter of this volume may do it.
+3. **MAY NOT ASK THE MAN OF ABOUT THIRTY-EIGHT WHY HE SAID NO, AT ANY POINT IN THIS VOLUME, IN ANY ROOM, IN ANY WORDS.** His three sentences are in the book on that bench stone as what he said and not as why he said it, and he keeps what he is keeping.
+4. **MAY NOT ASK ANY OF THE FOUR CREWS THAT DID NOT WRITE A NAME ON THE TENTH WHY, AND MAY NOT ASK THE MAN OF ABOUT THIRTY-TWO AT THAT PORT WHO SAID NO ON THE TWENTIETH A SECOND TIME.** He is not asked again on any day of this movement and not at any point in this volume.
+5. **MAY NOT SAY THAT A CLOSE-SEA LINE CANNOT BE RUN AGAINST A CHANNEL, AND MAY NOT PUT THIS PARTY ABOARD THE BOAT OF THE REED CHANNELS.** The only water on any page of this batch that a line does not close is the bar at the back of that mole, and about a dozen people watched a woman of about fifty come over it on the top of the flood and none of them said anything, and nobody in that harbor has a figure of how many boats came through in ten days and nobody asked for one.
+6. **MAY NOT SETTLE THE HARD AT THAT PORT, MOVE THE THREE MARKS OFF THE NINTH OF NOVEMBER, OR SETTLE THAT ENTRY.** The hard is answered on a working person's own terms with a condition attached and the condition is a condition and not an offer, and nobody in that room can accept it.
+7. **MAY NOT PUT THE FITTING-OUT SHEET ON ANY WALL IN THE ROOM OVER THAT MARKET, AND MAY NOT PUT IT AND THE FOUR HEADS IN ONE CLAUSE, ONE COLUMN, ONE ROOM OR ONE MOUTH WITHOUT BOTH BEING NAMED OUT LOUD.** It was named separately on the tenth, on the fifteenth, on the twenty-second and in the second columns, and the two sheets are never in one mouth.
+8. **MAY NOT KEEP, NAME OR COUNT A LIST OF ANYBODY WHO PUT NOTHING IN.** The refusal on the twentieth is not on that sheet and there is no line of that kind on it and the man who keeps the leaf said so out loud in about eleven words and did not say it again that month.
+9. **MAY NOT READ THE PROOF OUT AGAIN, AND MAY NOT GET AN ANSWER OUT OF IT.** The three accounts of the seventeenth of October past, the cache, the brown page and the one thing a man of about thirty-four asked are exactly where Chapters 501 to 510 left them.
+10. **MAY NOT RE-ASK THE QUESTION A WOMAN OF ABOUT FIFTY-EIGHT ASKED AT A MOLE HEAD ON THE SECOND OF DECEMBER, MAY NOT USE IT AS A REASON, MAY NOT ASK THE QUESTION OF CHAPTER 550, AND MAY NOT SAY *SINGULAR* OF A PERSON.** The count of all of them across Chapters 511 to 520 is zero.
+11. **MAY NOT SAY THAT A LINE OF BOATS HAS BEEN TAKEN AWAY OR HAS EASED BEFORE CHAPTER 550.** There were still nine hulls about two sea miles off the head of that mole on the twenty-second and a boat of about two hundred tons came in inside them on the fourteenth.
+12. **MAY NOT SETTLE, REDATE, ADVANCE, REDUCE, STRIKE OR CLOSE ANY STANDING FIGURE IN THAT HARBOR.** The figure of four hundred and fifty pence is still on that board, there is still no flour in that market, the mole-head light is still out, the sixty-first week stands fallen due and the wage column has not moved since the seventh of October.
+
+### Still open, and unchanged
+
+The cache is on the bottom in the racks in about twenty-two fathoms two days' sail away and is on no page of this movement. The crate came up empty with the batten back across its lid and is in a forepeak off that third lay. **The one damp brown page is flat under a weight in a room over that market and is on no page of this movement.** The proof is in a locked case on a long table in that room and **was not read out again on any of the ten days and no chapter of this movement got an answer out of it and no chapter may.** The three accounts of the floor that do not agree are not settled. The question a man of about thirty-four asked is still open. The third column is empty and the boy's hand is not scratched out. **The fourth column stands at one hundred and twenty-five with no hundred and twenty-sixth line in it.** Nobody was thanked for anything on any of these ten days, and the volume is twenty chapters old of fifty and is not closed.
+
 ## Volume 11, Batch 0001 (Chapters 501–510) as written and as repaired on re-dispatch, 29 September 2026 — BINDING ON MOVEMENT 2, ON CHAPTER 520 AND ON EVERY LATER CHAPTER OF THIS VOLUME
 
 **A PRIOR DISPATCH OF THIS PHASE HAD WRITTEN ALL TEN CHAPTERS TO DISK AND WAS CUT OFF BEFORE IT RAN ITS SWEEPS OR WROTE ANY STATE. THIS PASS IS THEREFORE A REPAIR PASS AND NOT A WRITE. NO CHAPTER WAS RESTARTED, NO SCENE WAS CUT, NO CHARACTER WAS REMOVED, NO COST WAS MOVED OFF THE PAGE BY BEING DELETED, NO DATE WAS MOVED, NO FIGURE ON THE FITTING-OUT SHEET WAS ADDED, REMOVED OR ALTERED AND NO PLOT WAS ALTERED. TWELVE DEFECTS WERE FOUND AND ALL TWELVE ARE REPAIRED IN PLACE. THE TEN DAYS, THE MOVEMENT'S EIGHT OUT-LINES, THE FOUR COLUMNS, THE NINETY DAY-COUNTS, THE DESCENT CLOCK, THE BAG AND THE TWENTY-NINE THOUSAND THREE HUNDRED AND SEVENTY-EIGHT PENCE ALL STAND.**
