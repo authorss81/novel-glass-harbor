@@ -70,7 +70,7 @@ In Fish Street the bowl went on the top stone of the step at two o'clock and abo
 
 Hobb Lee stood at the end of the long table and read nine heads out of thirty-one, in the order they were in, and wrote his own name and the hour at which he finished each one under it in his own hand, and the first was at about two minutes past two and the last at about twenty-one minutes past three.
 
-There was no claim in any of the nine and there was no claim on that table and nobody asked him to read one, and about a dozen people in that room had been told about the sheet at the back of the end stall before they came up those stairs and about nine of them had not.
+There was no claim in any of the nine and there was no claim on that table and nobody asked him to read one, and about seven people in that room had been told about the sheet at the back of the end stall before they came up those stairs and about nine of them had not.
 
 The woman of about fifty-eight came up those stairs at about half past three on the said afternoon with her slate in her hand, which she has not done in three Sundays, and stood at the end of the table while a man of about thirty-one read a head about two doors off a house.
 
@@ -78,7 +78,7 @@ The woman of about fifty-eight came up those stairs at about half past three on 
 
 "What would you like me to do about it."
 
-"Nothing," said the woman of about fifty-eight. "I have come up these stairs to say it out loud in front of about twenty people so that it is a thing that was said and not a thing that was in somebody's head, and then I am going back down to my stall, because there is no barrel of lamp oil in this harbor and it is not coming and the price on my board is not going down."
+"Nothing," said the woman of about fifty-eight. "I have come up these stairs to say it out loud in front of about sixteen people so that it is a thing that was said and not a thing that was in somebody's head, and then I am going back down to my stall, because there is no barrel of lamp oil in this harbor and it is not coming and the price on my board is not going down."
 
 Tom Barlas carried the bowl in at six and there was ninepence in it and he has never written one of the people who came up that stair down.
 

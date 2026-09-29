@@ -62,13 +62,13 @@ At about half past nine in the evening Calder Marr was in that shed with the lea
 
 "Are you going to tell anybody in that harbor what is on it."
 
-"No," said Calder Marr. "And if I ever do, it is going to be in a room with about twenty people in it on a Sunday, and the man at the end of that table is going to write my name and the hour under it in his own hand, and not before. That is the arrangement I made on the Friday of this month when I put a pencil down two inches from that book, and I have not found a better one since and I am not going to go looking for one on a Tuesday night."
+"No," said Calder Marr. "And if I ever do, it is going to be in a room with about twenty people in it on a Sunday, and the man at the end of that table is going to write my name and the hour under it in his own hand, and not before. That is the arrangement I made on the Thursday the ninth of this month when I put a pencil down two inches from that book, and I have not found a better one since and I am not going to go looking for one on a Tuesday night."
 
 Nessa Pike did not ask him to read it out and did not ask to see it.
 
 "The column at the left of it is the empty one and you have drawn it anyway."
 
-"I drew it because on the tenth day of September I stood in that room and a man counted thirty-one heads on the back of his own hand and found one of them carrying three lines where the head of that book says four, and wrote it on the inside of the back cover in pencil with his own name and the date on it, and nobody has asked him who left the dash and nobody is going to," said Calder Marr. "I did not send that man. I want that said about that man before I say anything else about my own hand, because in about a month somebody is going to work out that the two things happened in the same ten days and start tying them together, and they are not tied and the only way they stay untied is if I say out loud now that I put a pencil down two inches from my own book and left it there."
+"I drew it because on the twelfth day of September I stood in that room and a man counted thirty-one heads on the back of his own hand and found one of them carrying three lines where the head of that book says four, and wrote it on the inside of the back cover in pencil with his own name and the date on it, and nobody has asked him who left the dash and nobody is going to," said Calder Marr. "I did not send that man. I want that said about that man before I say anything else about my own hand, because in about a month somebody is going to work out that the two things happened in the same ten days and start tying them together, and they are not tied and the only way they stay untied is if I say out loud now that I put a pencil down two inches from my own book and left it there."
 
 "And is that why you have carried the other one for a month."
 
