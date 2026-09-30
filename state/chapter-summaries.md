@@ -1,3 +1,80 @@
+## Volume 12, Batch 0003 (Chapters 571–580), Movement 3, *every bell on that coast answering one signal, and the thing a sealed record does that a permitted one cannot* — as written, 30 September 2026
+
+**TEN CHAPTERS, TEN DAYS FROM FRIDAY THE ELEVENTH DAY OF FEBRUARY TO SUNDAY THE TWENTIETH, 40,522 WORDS MEASURED WITH `wc -w` AFTER THE WRITING, NO DAY MISSING AND NO DAY IN TWO CHAPTERS. THE FULL FIGURE TABLE, THE LOCKS AND THE DISPOSITIONS ARE AT THE HEAD OF `state/continuity.md`. WHAT FOLLOWS IS THE VOICE AND THE FIGURES OF THE BATCH AND NOTHING ELSE.**
+
+### The calendar as written
+
+| Ch | Day | What the day is |
+|---|---|---|
+| 571 | Friday the eleventh day of February | not a rota day. Not a wipe. **The signal that no hand rang is counted a third time in three places, all three figures the same, and a count of vessels answering it goes in a crossing column and is not said in a room** |
+| 572 | Saturday the twelfth day of February | not a rota day. Not a wipe. **A paper of four lines comes ashore offering a Crown instrument for a mark against a copy of a local crew's own crossings, and one man of that crew says it is not for them to decide alone** |
+| 573 | Sunday the thirteenth day of February | a wipe — the ninety-third time. **The wall comes down bare and goes up unrepaired and not whole, and the boat that went out on the fourth comes into that harbor and there is nothing in her basket** |
+| 574 | Monday the fourteenth day of February | a rota day — the hundred and twenty-fifth charge. **The openhand prototype is worked once in this movement, in a shed, on a board, and it settles nothing and prices nothing, and the offer is refused in the open by the one person entitled to refuse it** |
+| 575 | Tuesday the fifteenth day of February | **the sixty-ninth wage Tuesday.** The column is read out and does not move, and a man's season of crossings is put on a page as hours with the multiplication printed, and not one penny of it goes on that sheet |
+| 576 | Wednesday the sixteenth day of February | not a rota day. Not a wipe. **A community that has sealed everything and a community that has permitted everything are set side by side on one page, and the page is left on the bench stone and nobody is asked to agree with it** |
+| 577 | Thursday the seventeenth day of February | a rota day — the hundred and twenty-sixth charge. **Four marks are asked one at a time and out loud what they can hear, three of them answer in their own mouths and one does not, and nobody has a name for it** |
+| 578 | Friday the eighteenth day of February | not a rota day. Not a wipe. **A thing a sealed record does that a permitted one cannot is demonstrated in the open at a working place, with no name in it, by a man who lands fish and is on nobody's crew** |
+| 579 | Saturday the nineteenth day of February | not a rota day. Not a wipe. **A refusal is entered in about nine people in a second room and read out twice, and it costs the man refusing it the only thing he could be caught out in** |
+| 580 | Sunday the twentieth day of February | a wipe — the ninety-fourth time. **The wall comes down bare and goes up unrepaired and not whole, and six things cost and four things were proved and the two lists do not join** |
+
+**THE ANCHOR IS CHAPTER 550'S AND NO FOUR-DIGIT YEAR APPEARS ON ANY OF THE TEN PAGES AND NOBODY REMARKS ON A TURNING MONTH, A YEAR, A NEW YEAR, A RESOLUTION, A REVIEW OR AN ACCOUNTING PERIOD. THE CISTERN AT THE BACK OF THAT MARKET IS CHARGED ON THE FOURTEENTH AND THE SEVENTEENTH OF THIS MONTH, BEING THE HUNDRED AND TWENTY-FIFTH AND THE HUNDRED AND TWENTY-SIXTH CHARGES, IN ELEVEN TRIPS BY HAND EACH, AND WALKED ON BY NONE OF IT, AND ON NO OTHER DAY OF THE TEN. THE WALL BEHIND A REEVE'S BENCH COMES DOWN BARE ON THE THIRTEENTH AND THE TWENTIETH, BEING THE NINETY-THIRD AND NINETY-FOURTH TIMES, AND GOES UP AGAIN AT THE ANGLE IT HAS BEEN AT SINCE THE TWELFTH AND NOT WHOLE. WAGE TUESDAY: THE FIFTEENTH, BEING THE SIXTY-NINTH.**
+
+### The leaf, the sheet and the bag, at the close of each day
+
+| Ch | 1st | 2nd | 3rd | 4th | running out | shortfall | bag |
+|---|---|---|---|---|---|---|---|
+| 571 | 304 | 1,394 | none | 125 | 107,263 | 96,623 | 28p |
+| 572 | 305 | 1,399 | none | 125 | 107,263 | 96,623 | 28p |
+| 573 | 306 | 1,404 | none | 125 | 107,263 | 96,623 | 28p |
+| 574 | 307 | 1,409 | none | 125 | 107,263 | 96,623 | 28p |
+| 575 | 308 | 1,414 | none | 125 | 107,263 | 96,623 | 28p |
+| 576 | 309 | 1,419 | none | 125 | 107,263 | 96,623 | 28p |
+| 577 | 310 | 1,424 | none | 125 | 107,263 | 96,623 | 28p |
+| 578 | 311 | 1,429 | none | 125 | 107,263 | 96,623 | 28p |
+| 579 | 312 | 1,434 | none | 125 | 107,263 | 96,623 | 28p |
+| 580 | 313 | 1,439 | none | 125 | 107,263 | 96,623 | 28p |
+
+**NOT ONE LINE WENT ONTO THE FITTING-OUT SHEET IN ANY HAND ON ANY LINE ON ANY OF THE TEN DAYS, AND THE SHEET IS NINETY-SIX THOUSAND SIX HUNDRED AND TWENTY-THREE PENCE SHORT AGAINST THAT YARD'S OWN BOOK ON EVERY ONE OF THEM. 28 + 1,680 − 1,680 = 28. THE READ-BACK IS NOT DONE AND IS NOT BEFORE CHAPTER 600.**
+
+### The day-counters, and the hearing
+
+| Ch | notice | bellwright | crown | bench | two lights | end stall | four lines | nine-line | six names | hearing |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 571 | 269 | 271 | 609 | 375 | 193 | 148 | 163 | 180 | 211 | 69 |
+| 572 | 270 | 272 | 610 | 376 | 194 | 149 | 164 | 181 | 212 | 70 |
+| 573 | 271 | 273 | 611 | 377 | 195 | 150 | 165 | 182 | 213 | 71 |
+| 574 | 272 | 274 | 612 | 378 | 196 | 151 | 166 | 183 | 214 | 72 |
+| 575 | 273 | 275 | 613 | 379 | 197 | 152 | 167 | 184 | 215 | 73 |
+| 576 | 274 | 276 | 614 | 380 | 198 | 153 | 168 | 185 | 216 | 74 |
+| 577 | 275 | 277 | 615 | 381 | 199 | 154 | 169 | 186 | 217 | 75 |
+| 578 | 276 | 278 | 616 | 382 | 200 | 155 | 170 | 187 | 218 | 76 |
+| 579 | 277 | 279 | 617 | 383 | 201 | 156 | 171 | 188 | 219 | 77 |
+| 580 | 278 | 280 | 618 | 384 | 202 | 157 | 172 | 189 | 220 | 78 |
+
+**NINETY OF NINETY AGREE WITH BASE PLUS DAY, RE-EXTRACTED FROM THE TEN STANDING PARAGRAPHS BY SCRIPT. THEY ARE A ROSTER OF DURATIONS AND NOT OF PERSONS AND NO LIST OF ANYBODY WHO PUT NOTHING IN IS KEPT BY ANYBODY.**
+
+### The figures of the batch, all re-derived by adding
+
+**THE INTERVAL: THREE TIMES NINETY-FOUR SECONDS IS TWO HUNDRED AND EIGHTY-TWO SECONDS, BEING FOUR MINUTES AND FORTY-TWO SECONDS. THE COUNT: TWO NIGHTS AT NINE VESSELS ANSWERING ONE SIGNAL IS EIGHTEEN LINES OF CROSSING, AND THE NINE IS THE SAME NINE THE TWO SEALED SHEETS PUT INSIDE THAT LINE. THE HOURS: SIX MEN AT FOUR DAYS A WEEK FOR TWENTY-SIX WEEKS IS SIX HUNDRED AND TWENTY-FOUR CROSSINGS, AT THREE MINUTES EACH BEING ONE THOUSAND EIGHT HUNDRED AND SEVENTY-TWO MINUTES, BEING THIRTY-ONE HOURS AND TWELVE MINUTES, BEING THREE DAYS AND SEVEN HOURS AND TWELVE MINUTES AT EIGHT HOURS A DAY; THREE TIMES ONE HUNDRED AND SIXTY-EIGHT PENCE IS FIVE HUNDRED AND FOUR PENCE, BEING THREE MARKS AND TWO SHILLINGS, AND THE SEVEN HOURS AND TWELVE MINUTES IS NOT ON THAT SHEET.**
+
+### The ten days of the batch in one line each
+
+1. **571.** Three figures of ninety-four seconds from three places are the same, and under them a count of nine vessels answering one signal off the crossings on two nights, and a column can be found out and an account cannot, and a man who has spent eleven days refusing to be the reason a number in a room cannot be checked has put a number on a slate.
+2. **572.** Four lines of paper offering a number and a seal for a hand, read out twice and read correctly, and one man of six stands up and says it is not theirs to decide alone, and nobody pushes him.
+3. **573.** A wall bare for the ninety-third time and a barrow of ice that is not put under it, and a boat that comes in with an empty basket and a master who says the man looked and could not find them, which is a different sentence.
+4. **574.** A board off a press, three names copied off a page of hours, a rule not improved, nothing in the water and nothing priced, and then a man with the crossings in his own hand says no on four out of six and names what a number and a seal is worth.
+5. **575.** The sixty-ninth Tuesday and the column does not move, and a season of a man's crossings comes out of a shed as three days and seven hours and twelve minutes, and three days of it can be sold.
+6. **576.** Six rows and two columns of the same shape, one side named and one side not, one line at the foot that is not a figure, and a man who cannot read says what a column is for.
+7. **577.** Four marks asked what they can hear on the boards of a market, three answers out of three mouths, and a piece of worked lead in a hole in a stone that does not answer because it is a thing.
+8. **578.** A man who lands fish reads one line off a wall with a piece of chalk and a man's question about his own boat is answered in a room he is not in, and forty feet away a wrong hour in a slate is corrected in the open by two men who were standing there.
+9. **579.** A refusal written out in another man's hand and read out twice, and a man who cannot read asks for the second reading and says nobody is going to be alone with a page as long as there is a man on a step.
+10. **580.** Six things cost and four things proved, both read off a page that is not the leaf, and the man who keeps the leaf says out loud that the two lists do not join and that he has been trying for ten days to make them the same kind of thing.
+
+### The figures and the apparatus, all run off the pages
+
+**40,522 WORDS ACROSS THE TEN, BEING 3,636 / 4,141 / 3,738 / 4,537 / 3,753 / 4,122 / 4,032 / 4,151 / 4,123 / 4,245. QUOTE PARITY EVEN ON ALL TEN AT 2, 6, 4, 8, 4, 8, 10, 8, 8 AND 4 MARKS. PRINTED WORD-LENGTHS, EVERY ONE EQUAL TO ITS PASSAGE: 200; 55, 178 AND 256; 196 AND 253; 37, 268 AND 227; 78 AND 205; 52 AND 225; 77 AND 269; 38, 180, 72 AND 227; 326, 85 AND 278; 56 AND 282. ZERO BYTE-IDENTICAL SCENE PROSE PARAGRAPHS ACROSS ALL FORTY-FIVE PAIRS, AND ONE HUNDRED AND ELEVEN SHARED TWELVE-WORD RUNS, EVERY ONE OF THEM IN A NAMED HOUSE FORM. AND AT ZERO: A FOUR-DIGIT YEAR, THE SECOND PERSON OUTSIDE MOUTHS, THE PROHIBITED WORD LIST INCLUDING *STAGE*, THE FORBIDDEN PANEL CONSTRUCTIONS INCLUDING IN THE NEGATIVE, THE WORDS *THANK YOU* AND *THANKS*, A READ-BACK OF THAT LEAF, THE DATE OF THE FOURTH COLUMN'S REASON AND THE WORDS *A DAY IN THE SUMMER*, A NAMED BODY, A CASUALTY FIGURE, A FOURTH HEAD, A FIFTH HEAD, A ROSTER OF ANYBODY WHO PUT NOTHING IN, A NAME UNDER A SEAL READ OUT IN A ROOM, AND A LINE OF BOATS SAID TO HAVE BEEN TAKEN AWAY OR TO HAVE EASED.**
+
+
 ## Volume 12, Batch 0002 (Chapters 561–570), Movement 2, *the account is accurate, and the argument it beats* — as written, 30 September 2026
 
 **TEN CHAPTERS, TEN DAYS FROM TUESDAY THE FIRST DAY OF FEBRUARY TO THURSDAY THE TENTH, 35,707 WORDS MEASURED WITH `wc -w` AFTER THE REPAIR OF THIRTY SEPTEMBER 2026, NO DAY MISSING AND NO DAY IN TWO CHAPTERS. THE FULL FIGURE TABLE, THE LOCKS AND THE DISPOSITIONS ARE AT THE HEAD OF `state/continuity.md`. WHAT FOLLOWS IS THE VOICE AND THE FIGURES OF THE BATCH AND NOTHING ELSE.**
