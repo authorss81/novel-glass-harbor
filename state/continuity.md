@@ -1,3 +1,79 @@
+## VOLUME 13, BATCH 0003 (Chapters 621 to 630), MOVEMENT 3 — **THE VERIFICATION AND REPAIR PASS OF 30 SEPTEMBER 2026, RUN FROM THE CHECKPOINT ON `workspace/volume-13/batch-0003/.checkpoint`. THIS SECTION IS THE HEAD OF THIS FILE AND IT IS THE STATE OF THE WORLD FOR EVERY PHASE THAT WRITES CHAPTERS 631 TO 640. IT SUPERSEDES THE SECTION BELOW IT ON EVERY COUNT OF WORDS, ON EVERY CHECK, ON EVERY PRINTED WORD-LENGTH AND ON EVERY DUPLICATION COUNT, AND ON NOTHING ELSE. EVERY DAY, EVERY CLOCK, EVERY FIGURE OF MONEY, EVERY LOCK, EVERY BEAT, EVERY THREAD AND THE WHOLE OF THE ALLOCATION OF THE PAGE OF ROUTES STAND UNCHANGED.**
+
+**THE TEN CHAPTERS WERE NOT RESTARTED. EIGHT OF THE TEN WERE TOUCHED. NO CHAPTER WAS CUT, NO SCENE WAS CUT, NO DAY WAS MOVED, NO FIGURE OF MONEY WAS ADDED OR REMOVED, NO LOCK WAS SOFTENED, NO NEW ANTAGONIST WAS NAMED AND NO PLOT WAS ALTERED.**
+
+### The eleven defects, in three classes, and the class that a paragraph-granularity sweep cannot see
+
+**CLASS ONE, A FIGURE WRONG ON THE FACE OF A FILE. EIGHT DEFECTS, ALL IN THE APPARATUS, AND EVERY SCENE WAS RIGHT.**
+
+1. `chapter-0628.md`, subtitle: **three hundred and two / two hundred and thirty-eight / one hundred and seventy-two words**. The three passages of the married pair's argument measure **two hundred and seventy-three, two hundred and forty-three and one hundred and sixty**. **REPAIRED.**
+2. `chapter-0628.md`, closing block: the same three figures in digits. **REPAIRED.**
+3. `chapter-0628.md`, first column: **she spoke first in about two hundred and forty-three words**, being his figure, and **she answered back in about thirty-eight words**, being a man's. **REPAIRED to two hundred and seventy-three and to one hundred and sixty.**
+4. `chapter-0628.md`, closing block: **A MAN OF ABOUT THIRTY-THREE SAID THIRTY-ONE WORDS**, being thirty-eight. **REPAIRED.**
+5. `chapter-0628.md`, second column: **that thirty-one words**, being thirty-eight. **REPAIRED.**
+6. `chapter-0625.md`, closing block: **IN ABOUT 294 WORDS** against a passage of three hundred and thirty-four. **REPAIRED.**
+7. `chapter-0626.md`, closing block: **IN ABOUT 238 WORDS** against a passage of three hundred and fifty-eight. **REPAIRED.**
+8. `chapter-0627.md`, closing block: **IN ABOUT 281 WORDS** against a passage of three hundred. **REPAIRED.**
+
+**CLASS TWO, A WORD DROPPED OUT OF A FIGURE. TWO DEFECTS.**
+
+9. `chapter-0621.md`: **its hundred and ninety-eighth day**, being 198, with the word *one* not on the page. **REPAIRED.**
+10. `chapter-0622.md`: **its hundred and ninety-ninth day**, being 199. **REPAIRED.**
+
+**CLASS THREE, THE DEFECT THE HOUSE HAS NOW PUBLISHED TWICE, WHICH NO PARAGRAPH-GRANULARITY COMPARISON CAN SEE. ELEVEN DEFECTS.**
+
+11. **One sentence of twenty-seven words, byte-identical inside one paragraph, in SEVEN of the ten files.** *One line went in on that first column at about six this evening and five went in on the second, and I did not read that leaf out loud.* A paragraph-granularity comparison between any two files returns **zero** on this and always will. **RE-CUT IN SIX OF THE SEVEN; `chapter-0622.md` KEEPS THE HOUSE FORM.**
+12. **One sentence of twenty-three words, byte-identical, in the closing block of SEVEN of the ten files.** *NOTHING WAS READ OUT OF A GAP AND NOT ONE FIGURE ON THE SHEET OF THE FOURTEEN WENT UP OR DOWN BY ONE.* **RE-CUT IN SIX OF THE SEVEN; `chapter-0622.md` KEEPS THE HOUSE FORM.**
+13. **Six sentences byte-identical across one pair of files each**, being the money recital in 621 and 627, the wall going up in 622 and 629, the money recital in 622 and 624, the rota board's blank head in 623 and 630, the money recital in 623 and 626, and the sheet of the fourteen in 626 and 628. **EACH RE-CUT IN THE LATER OF ITS TWO FILES.**
+14. `chapter-0629.md`: **being two shillings and fourpence** printed twice in one sentence. **REMOVED.**
+15. `chapter-0628.md`: **and and that he answered**, a duplicated conjunction in the second column. **REMOVED.**
+16. `chapter-0630.md`: the rota-board sentence re-cut, and its first draft **named a date. THE NAME AT THE HEAD OF THAT BOARD HAS BEEN OFF IT SINCE THE SPRING, NOT SINCE A DATE IN MARCH, AND THE DATE IS WITHDRAWN AND THE SENTENCE SAYS *SINCE THE SPRING*.**
+17. `chapter-0621.md` subtitle: **Four o'Clock** and **Two O'Clock** in one subtitle, set two ways. **SET TO ONE WAY.**
+
+**THE THREE PASSES THAT FOUND CLASS THREE, AND THE HOUSE IS NOW ON ITS FOURTH.** Sentence granularity **across** files; sentence granularity **within** each file; and a word-run measure at `wc -w` tokenisation. **A COUNT OF IDENTICAL SENTENCES IS A COUNT YOU RUN ON YOURSELF AND IT IS RECORDED BELOW.**
+
+### The checks, re-derived by script after the repairs, and none of them inherited
+
+| Check | Result |
+|---|---|
+| Four-digit year, at the width that caught the Volume 11 and Volume 12 defects | **0** on all ten |
+| Question marks | **0** on all ten |
+| The second person in the narration and in the apparatus, every occurrence inside a mouth, checked by span and not by eye | **0** |
+| The prohibited word list, thirty-four entries, including *stage*, *prototype*, *openhand*, *chorus*, *singular*, *minister*, *chamber*, *plate* and *the sea below* | **0** on all ten |
+| *Orison* and *assembly*, off the list for this volume | 4 and **0** |
+| The forbidden panel constructions, including in the negative | **0** |
+| *Thank you* and *thanks* | **0**; *thanked* at 6/2/2/2/8/7/4/9/5/2, **forty-seven**, every one a statement that nobody was thanked |
+| A read-back of that leaf | **0** |
+| *A day in the summer*, and the date of the fourth column's reason | **0** and **0** |
+| Named body, casualty figure, fourth head, fifth head, roster, boats taken away or eased, *in a room* applied to a Crown account, and the word *hero* | **0** on all ten |
+| The question of Volume 12, of Chapter 600, of the twenty-first of January, of the second of December, and the question Volume 13 asks | **0** |
+| Quote parity and bold parity | even on **ten of ten**, at 6/2/2/2/4/4/4/10/2/2 and 18/14/14/14/26/22/22/26/16/18 |
+| **The four columns** | **10 of 10** against 333 + *d* and 1,539 + 5*d*, re-extracted from the ten first columns: three hundred and fifty-four to three hundred and sixty-three, one thousand six hundred and forty-four to one thousand six hundred and eighty-nine, third column empty with a boy's hand at the head of it, fourth unmoved at one hundred and twenty-five |
+| **The nine day-counters** | **90 of 90** against base plus day, re-extracted from the ten standing paragraphs against all nine labels with the ordinal forms read: 319→328, 321→330, 659→668, 425→434, 243→252, 198→207, 213→222, 230→239, 261→270 |
+| **The hearing** | **10 of 10**, one hundred and nineteen to one hundred and twenty-eight, one day more than the day before it on every one of the ten, no figure set against it, and he is not on the water |
+| **The figure of 120 checks** | **120 of 120** |
+| The three columns of the page of routes | add to nine on **all ten days**, 4/1/4 through 623 and 3/2/4 on 625 and 626, 3/3/3 on 627, 628 and 629, and **2/4/3 at the close of Chapter 630**, and the allocation is the one the batch prompt set |
+| The money | 108,276 out, 10,640 in, 97,636 short, unmoved and evaluating on **all ten**, and 28 + 1,680 − 1,680 = 28 on each day |
+| The clocks | both wipes close, **seventeen and four and seventeen being thirty-eight** on the third of April and **eighteen and five and eighteen being forty-one** on the tenth, and the day of the week is right in **ten of ten subtitles and ten of ten datelines** |
+| **Every printed word-length equals its passage** | **10 of 10**, measured by script against the passage on that file: 37/222/563, 665, 623, 561, 334/672, 358/604, 300/594, 38/160/243/273/566, 581, 767 |
+| **The duplication sweep, scene prose, all forty-five pairs** | **0 byte-identical paragraphs**, and the longest common contiguous word-run **45**, between Chapters 624 and 630 |
+| **The duplication sweep, apparatus, all forty-five pairs** | **0 byte-identical paragraphs**, and the longest common contiguous word-run **53**, between Chapters 622 and 629 |
+| **Sentence granularity across files** | **0** identical sentences of eight words or more in the scene prose, **0** in the standing blocks, **0** in the closing blocks |
+| **Sentence granularity within each file** | **0** repeated sentences of eight words or more, ten of ten |
+| The ten slip openings and the ten slip closings | **ten distinct openings and ten distinct closings**, and no two closings share a six-word prefix |
+
+**THE WORD COUNTS, AND THE OLD ONES ARE WITHDRAWN AS CLAIMS.** **41,344 BY `wc -w` PER FILE, BEING 4,595 / 3,820 / 3,927 / 3,777 / 3,965 / 4,215 / 4,216 / 4,840 / 3,941 / 4,048, AGAINST 4,594 / 3,819 / 3,925 / 3,775 / 3,965 / 4,215 / 4,204 / 4,833 / 3,935 / 4,032, THE PER-FILE DELTAS BEING +1 / +1 / +2 / +2 / 0 / 0 / +12 / +7 / +6 / +16.**
+
+### What is unchanged, and a phase that needs it may take it from the section below this one
+
+**The vessel, the three route changes and their allocation, the count of routes at the close of Chapter 630, the second payment of the relationship disagreement on the ninth of April, the man of about fifty-three's unagreed statement on the seventh, the ten days and every clock on them, the state of every sheet, and every thread set by any section below this one all stand as that section set them.** **IN PARTICULAR: the day table is ten consecutive days from Saturday the second day of April to Monday the eleventh; the cistern is charged on Chapters 623, 626 and 630 and on no other day; the two wipes are Chapters 622 and 629; the only wage Tuesday is Chapter 624; and no chapter states a year.**
+
+### The ledger
+
+**`state/phase-ledger.json` STILL READS `currentPhase: phase-000-bootstrap` WITH THAT PHASE AT `status: running` AND `volume-01-batch-0001` AT `planned`, AGAINST A MANUSCRIPT WRITTEN THROUGH CHAPTER 630. `PHASE_SYSTEM.md` MAKES THAT FILE THE SELECTOR'S ONLY INPUT. A WRITER OR REPAIR PHASE IS FORBIDDEN BY ITS OWN DISPATCH FROM EDITING IT. THIS PHASE DID NOT EDIT IT AND DID NOT REPORT IT AS EVIDENCE OF ANYTHING EXCEPT THAT IT IS STILL WRONG. IT IS THE CONTROLLER'S AND THE CONTROLLER HAS TO.**
+
+---
+
 ## VOLUME 13, BATCH 0003 (Chapters 621 to 630), MOVEMENT 3 — **THE WRITING PASS, TEN CONSECUTIVE DAYS FROM SATURDAY THE SECOND DAY OF APRIL TO MONDAY THE ELEVENTH. THIS SECTION IS THE HEAD OF THIS FILE AND IT IS THE STATE OF THE WORLD FOR EVERY PHASE THAT WRITES CHAPTERS 631 TO 640. IT SUPERSEDES EVERYTHING BELOW IT ON EVERY COUNT OF WORDS, ON EVERY CHECK, AND ON THE ALLOCATION OF THE PAGE OF ROUTES. EVERY NARRATIVE BEAT, EVERY DAY, EVERY CLOCK, EVERY FIGURE OF MONEY, EVERY LOCK AND EVERY THREAD SET BY ANY SECTION BELOW IT STANDS UNCHANGED. NO FIGURE WAS ADDED TO ANY SHEET, NO DAY WAS MOVED, NO LOCK WAS SOFTENED AND NO NEW ANTAGONIST WAS NAMED.**
 
 **WHAT THIS BATCH IS. TEN CHAPTERS OF PROSE AND NOTHING ELSE, ONE DAY TO A CHAPTER, NO DAY MISSING AND NO DAY IN TWO CHAPTERS, NO CHAPTER STATES A YEAR AND THE COUNT OF A FOUR-DIGIT YEAR ACROSS THE TEN IS ZERO. THE FILES STAND AT 41,297 WORDS BY `wc -w` PER FILE, BEING 4,594 / 3,819 / 3,925 / 3,775 / 3,965 / 4,215 / 4,204 / 4,833 / 3,935 / 4,032, AND EVERY ONE OF THE TEN IS ABOVE THE HOUSE GUIDELINE OF THREE THOUSAND TWO HUNDRED.**

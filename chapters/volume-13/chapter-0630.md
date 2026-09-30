@@ -12,7 +12,7 @@ Monday the eleventh day of April, with that cistern at the back of the market ch
 
 That ladder went up at a little after eight in the morning, eleven trips by two men with a bucket, and not one bucket of it was walked on and nothing was taken up it on any other errand. By a quarter past nine the covers were back on that butt, and it stood full to the rim of its second hoop until about four in the afternoon with nothing drawn out of it, and that is a hundred and forty-one times.
 
-The name at the head of that rota board is still off it. Nobody in that market has offered to put it there and nobody has asked either of those two men about it, and that is not going to be changed this month.
+There is a blank line at the head of that rota board this morning where a name would go, and it has been a blank line since the spring. Nobody in that market has offered to put it there and nobody has asked either of those two men about it, and that is not going to be changed this month.
 
 ---
 
