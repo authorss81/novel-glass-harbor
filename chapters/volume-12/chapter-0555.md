@@ -42,7 +42,7 @@ The chalk is not white, it is the yellow they use on the marks, and it took on a
 
 ---
 
-And at about half past five in the afternoon the man who keeps the leaf said the shortfall out loud at that bench stone, and he said the thing that the two pieces of chalk are worth, and he said it in about thirty words, and about nine people heard all of it and nobody agreed with all of it and nobody disagreed with any of it.
+And at about half past five in the afternoon the man who keeps the leaf said the shortfall out loud at that bench stone, and he said the thing that the two pieces of chalk are worth, and he said it in about seventy-one words, and about nine people heard all of it and nobody agreed with all of it and nobody disagreed with any of it.
 
 "Ninety-six thousand and six pence short, being six hundred marks and sixpence. **Four lines of chalk upstairs cost nothing and one line of refusal upstairs cost a man a question he will be asked in three months by somebody who thinks he is owed an answer, and that is the first cost on any public wall in this harbor that anybody has been able to name without a figure on it.**"
 
