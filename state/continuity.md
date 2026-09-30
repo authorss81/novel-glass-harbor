@@ -1,4 +1,88 @@
-## VOLUME 13, BATCH 0003 (Chapters 621 to 630), MOVEMENT 3 — **THE VERIFICATION AND REPAIR PASS OF 30 SEPTEMBER 2026, RUN FROM THE CHECKPOINT ON `workspace/volume-13/batch-0003/.checkpoint`. THIS SECTION IS THE HEAD OF THIS FILE AND IT IS THE STATE OF THE WORLD FOR EVERY PHASE THAT WRITES CHAPTERS 631 TO 640. IT SUPERSEDES THE SECTION BELOW IT ON EVERY COUNT OF WORDS, ON EVERY CHECK, ON EVERY PRINTED WORD-LENGTH AND ON EVERY DUPLICATION COUNT, AND ON NOTHING ELSE. EVERY DAY, EVERY CLOCK, EVERY FIGURE OF MONEY, EVERY LOCK, EVERY BEAT, EVERY THREAD AND THE WHOLE OF THE ALLOCATION OF THE PAGE OF ROUTES STAND UNCHANGED.**
+## VOLUME 13, BATCH 0003 (Chapters 621 to 630), MOVEMENT 3 — **THE SECOND VERIFICATION AND REPAIR PASS OF 30 SEPTEMBER 2026, RUN AGAINST `logs/batch-0003.review.log`. THIS SECTION IS THE HEAD OF THIS FILE AND IT IS THE STATE OF THE WORLD FOR EVERY PHASE THAT WRITES CHAPTERS 631 TO 640. IT SUPERSEDES EVERY SECTION BELOW IT ON EVERY COUNT OF WORDS, ON EVERY CHECK, ON EVERY PRINTED WORD-LENGTH, ON THE PROVENANCE OF EVERY WORD THAT WENT ON THE SHEET OF DAYS, ON WHEN THE COUNT OF THE THREE COLUMNS MAY BE WRITTEN DOWN, AND ON THE DUPLICATION COUNTS, AND ON NOTHING ELSE. EVERY DAY, EVERY CLOCK, EVERY FIGURE OF MONEY, EVERY LOCK, EVERY BEAT, EVERY THREAD AND THE WHOLE OF THE ALLOCATION OF THE PAGE OF ROUTES STAND UNCHANGED.**
+
+**THE TEN CHAPTERS WERE NOT RESTARTED. SEVEN OF THE TEN WERE TOUCHED. NO CHAPTER WAS CUT, NO SCENE WAS CUT, NO DAY WAS MOVED, NO FIGURE OF MONEY WAS ADDED OR REMOVED, NO LOCK WAS SOFTENED, NO NEW ANTAGONIST WAS NAMED AND NO PLOT WAS ALTERED. THE ONE ADDITION IS A MOUTH ON CHAPTER 628, AND IT IS THE MOUTH THE OUTLINE ASKS FOR AND THE TEXT DID NOT HAVE.**
+
+### The nine findings, and what was done to each
+
+**1. `chapter-0624.md:29` CARRIED *SINCE THE DAY BEFORE CHAPTER 601*, THE ONLY REFERENCE TO A CHAPTER NUMBER IN THE BODY PROSE OF THIRTY CHAPTERS.** Now *since before the winter*, which is what that file's own first column already says at `:59`, and it is the same figure of the same sheet that 625 and 627 give for the older words standing above the new ones and that 630 gives for the keeper's own habit. **A GREP FOR A CHAPTER NUMBER IN BODY PROSE IS NOW PART OF THE HOUSE'S CHECKS, BECAUSE NO PUBLISHED CHECK COVERED ONE.**
+
+**2. FIVE PRINTED WORD-LENGTHS WERE WRONG AND THREE MORE WERE MADE STALE BY THIS PASS. ALL EIGHT ARE REPAIRED AND ALL EIGHT ARE RE-MEASURED.**
+
+| File | Where | Was | Now | Against a passage of |
+|---|---|---|---|---|
+| 625 | subtitle | 294 | **334** | 334 |
+| 626 | subtitle | 238 | **358** | 358 |
+| 626 | the sentence after the slip | 238 | **358** | 358 |
+| 625 | first column, the half-past-five slip | 334 | **672** | 672 |
+| 626 | first column, the man of about fifty-three's speech | 604 | **358** | 358 |
+| 628 | lead-in and first column, the slip | 566 | **558** | 558 |
+| 629 | lead-in and first column, the slip | 581 | **577** | 577 |
+| 630 | lead-in and first column, the slip | 767 | **770** | 770 |
+
+**THE TWO IN THE 625 AND 626 LEDGER COLUMNS WERE NOT IN THE REVIEW. THEY ARE THE SAME DEFECT IT NAMED, BEING A LENGTH COPIED FROM ONE PASSAGE ONTO ANOTHER ON THE SAME FILE, AND THEY ARE WHY THE CHECK IS NOW RUN AT EVERY PLACE A FIGURE IS PRINTED: THE SUBTITLE, THE BODY, THE LEAD-IN SENTENCE, THE CLOSING BLOCK AND BOTH LEDGER COLUMNS. A CHECK THAT MEASURES THE PASSAGE AND NOT THE CLAIM IS A CHECK THAT CANNOT FAIL.**
+
+**3. THE TERNWATCH WORD HAD THREE PROVENANCES AND NO MOUTH. IT HAS ONE OF EACH.** The word that goes in against the Ternwatch Passage at about ten on Saturday the ninth was said in 628 to have come down that coast road on Wednesday morning, to have been written on Wednesday afternoon and to have been put on the sheet before the keeper left the shed, and 629 attributed the same Wednesday arrival to Ternwatch while the woman of twenty-six of Lowfen came up that same road on Wednesday night and said her own word on Friday. **A WORD THAT CAME DOWN A COAST ROAD ON WEDNESDAY MORNING AND WENT ON THE SHEET ON WEDNESDAY AFTERNOON IS A SECOND ENTRY FOR TERNWATCH, AND A WEEK IN WHICH TERNWATCH CARRIES TWO ENTRIES IS A WEEK IN WHICH *THREE WORDS IN SEVEN DAYS AGAINST THREE DIFFERENT NAMES* IS FALSE. THE FIX IS NOT A CHANGE OF ALLOCATION. THE WORD IS NOW SAID ON THE MORNING IT IS ENTERED.**
+
+- **THE CARRIER IS A MAN OF ABOUT FORTY-FIVE WHO CREWS OUT OF TERNWATCH, WHO CAME UP THAT COAST ROAD ON FRIDAY NIGHT, WHO PUT A COIL OF LINE DOWN AT THE FLAT OF THAT BENCH STONE AT ABOUT A QUARTER TO TEN AND SAID IT IN ABOUT NINETY-SIX WORDS IN ABOUT NINE PEOPLE, UNASKED, AND WHO WENT BACK UP THE BOARDS AND DID NOT WAIT.**
+- **NOBODY AGREED WITH HIM OUT LOUD, NOBODY ARGUED WITH HIM, NOBODY THANKED HIM, NOBODY TOLD HIM HE WAS WRONG, ABOUT FOUR PEOPLE HEARD THE WHOLE OF IT AND THE REST OF THAT MARKET WAS NOT TOLD.**
+- **THE WORD WENT ON THE SHEET AT ABOUT TEN THAT MORNING WITH SATURDAY THE NINTH OF APRIL AND THE HOUR OF TEN AGAINST IT, UNDER THE WORD HELD, WHICH IS STILL READABLE, AND NOTHING WAS STRUCK.**
+- **THE THREE ROUTES STILL GO RESTRICTED ON THE SIXTH, THE EIGHTH AND THE NINTH, AND THE ALLOCATION IS THE ONE THE BATCH PROMPT SET AND IS NOT RE-DERIVED.**
+- **THE KEEPER'S SECOND-COLUMN REASON IS RE-CUT TO THE NEW HOUR AND KEEPS ITS BEST CLAUSE, BEING THAT A PAGE WHICH IS ADDED TO IN FRONT OF THE NINE IS A PAGE IN ABOUT FOUR HANDS AND NOT ONE.**
+- **THIS IS THE MOUTH `outline/volume-13.md` ASKS FOR AND CHAPTERS 621 TO 630 DID NOT HAVE: THE THREE-WAY STATE IS A STATE THE ROUTE CREWS PUT ON IT AND NOT A STATE THIS PARTY PUTS ON IT.**
+
+**4. THE COUNT OF THE THREE COLUMNS WAS WRITTEN DOWN TWO CHAPTERS EARLY AND WAS IN THE SLIP THAT SAID IT WAS NOT IN THE SLIP.** `outline/volume-13.md` § *The three counts this volume owns*: *the count is taken and written down twice in the fifty chapters, on Chapter 630 and on Chapter 650, and it is not said in a room on either day and is not said in the half-past-five slip on either day.* **Chapter 628 printed two and four and three, and their sum, in four places, and one of the four was inside the half-past-five reading said aloud to nine people. ALL FOUR ARE GONE.** The subtitle, the standing block and the closing block now say that the three columns of that sheet were not counted on that Saturday, and the slip says that it did not count them, is not going to, and that the count is not in the slip and is not going to be in one this month, and that the nine names can be read off the board one at a time and a column added up by anybody with a leaf and a pencil whenever the harbor decides to do it. **THE COUNT IS NOW WRITTEN DOWN ON CHAPTER 630 ALONE. A CHECK THAT GREPS THE THREE FIGURES ON ALL TEN DAYS RETURNS CHAPTER 630 AND NOTHING ELSE.**
+
+### The moderate and the minor findings, and the two files outside the chapters
+
+**5. `chapter-0630.md`'s closing block: THIRD LAND IS THIRD LAY.**
+**6. `chapter-0623.md`'s standing block: THE NINTH DAY OF THIS MONTH IS THE FOURTH, and the nine counters in the same paragraph are all correct for the fourth.**
+**7. `chapter-0630.md`: *THE FOURTH NAME IS STILL HELD* IS *THE FIRST NAME ON THAT SHEET IS STILL HELD*. The nine names are listed twenty-four lines earlier in a fixed order whose fourth is the Ashtide Run, which is restricted. The Morrow Line is the first and is in the held column, and the sentence twenty lines earlier says so in words.**
+**8. `state/volume-index.md` SAID *NO CHAPTER OF VOLUME 13 EXISTS* WITH THIRTY ON DISK, NAMED A BINDING SECTION THAT IS FOUR SECTIONS DOWN THE FILE, SENT A READER TO LINE RANGES THAT HAVE MOVED FOUR TIMES, AND SAID *AGAINST A MANUSCRIPT WRITTEN TO CHAPTER 600*. IT IS REWRITTEN, IT NAMES THE HEAD OF THIS FILE, AND IT IS THE FIRST STATE FILE BOTH QUEUED PROMPTS TELL A WRITER TO READ.**
+**9. `workspace/volume-13/batch-0004/PROMPT.md` PRINTED A CLOCK THAT DID NOT EVALUATE (19 + 6 + 19 IS FORTY-FOUR AND IT SAID FORTY-THREE, WITH SIX THE RIGHT BARE-MINUTE ON THE LADDER 1, 2, 3, 4, 5, 6), SAID *THE THREE WIPES ARE CHAPTER 636*, NESTED A `**` PAIR INSIDE AN OPEN `**` RUN, AND DESCRIBED A PRIOR BATCH'S DUPLICATION AS NINE FILES AND EIGHTY-FIVE WORDS AND FIFTY-FOUR SHARED SENTENCES WHERE THE RECORD IS SEVEN AND SEVEN AND SIX AND TWO. ALL FOUR ARE REPAIRED IN THAT FILE AND THE BARE-MINUTE LADDER IS PRINTED BESIDE THE CLOCK.**
+
+### The checks, re-derived by script after the repairs, and none of them inherited
+
+| Check | Result |
+|---|---|
+| Word counts by `wc -w` per file | **41,916 in all, being 4,595 / 3,820 / 3,927 / 3,775 / 3,961 / 4,215 / 4,216 / 5,419 / 3,937 / 4,051**, every one above the house guideline of three thousand two hundred. Deltas against the section below, being 4,595 / 3,820 / 3,927 / 3,777 / 3,965 / 4,215 / 4,216 / 4,840 / 3,941 / 4,048 as committed: 0 / 0 / 0 / −2 / −4 / 0 / 0 / **+579** / −4 / +3 |
+| Four-digit year, at the width that caught the Volume 11 and Volume 12 defects | **0** on all ten |
+| Question marks | **0** on all ten |
+| The second person in the narration and in the apparatus, every occurrence inside a mouth, checked by span | **0** |
+| **A reference to a chapter of this book in body prose** | **0** on all ten, and this check did not exist before this pass |
+| The prohibited word list, thirty-four entries | **0** on all ten; *orison* 4, *assembly* 0 |
+| The forbidden panel constructions, including in the negative | **0** |
+| *Thank you* and *thanks* | **0**; *thanked* at 6/2/2/2/8/7/4/11/5/2, **forty-nine**, every one a statement that nobody was thanked |
+| A read-back of that leaf | **0** |
+| *A day in the summer*, and the date of the fourth column's reason | **0** and **0** |
+| *In a room*, and the word *hero* | **0** and **0** |
+| The question of Volume 12, of Chapter 600, of the twenty-first of January, of the second of December, and the question Volume 13 asks | **0** |
+| Quote parity and bold parity | even on **ten of ten**, at 6/2/2/2/4/4/4/12/2/2 and 18/14/14/14/26/22/22/28/16/18 |
+| **The four columns** | **10 of 10** against 333 + *d* and 1,539 + 5*d*, re-extracted from the ten first columns: three hundred and fifty-four to three hundred and sixty-three, one thousand six hundred and forty-four to one thousand six hundred and eighty-nine, third column empty, fourth unmoved at one hundred and twenty-five |
+| **The nine day-counters** | **90 of 90** against base plus day, re-extracted from the ten standing paragraphs against all nine labels with the ordinal forms read |
+| **The hearing** | **10 of 10**, one hundred and nineteen to one hundred and twenty-eight, one day more than the day before it on every one of the ten, no figure set against it, and he is not on the water |
+| **The figure of 120 checks** | **120 of 120** |
+| The three columns of the page of routes | **printed on 624, 625, 626, 627 and 630 and on no other day of the ten**, being 4/1/4 through 623, 3/2/4 on 625 and 626, 3/3/3 on 627 and 2/4/3 on 630, adding to nine wherever it is printed, and the allocation is the one the batch prompt set |
+| **The count of the three columns** | **written down on Chapter 630 alone**, with the day and the hour against it, and in no slip and in no room, and on no other day of the ten |
+| The money | 108,276 out, 10,640 in, 97,636 short, unmoved and evaluating on **all ten**, and 28 + 1,680 − 1,680 = 28 on each day |
+| The clocks | both wipes close, **seventeen and four and seventeen being thirty-eight** on the third of April and **eighteen and five and eighteen being forty-one** on the tenth, and the day of the week is right in **ten of ten subtitles and ten of ten datelines** |
+| **Every printed word-length equals its passage** | **measured at every place a figure is printed — subtitle, body, lead-in, closing block, first column, second column — 10 of 10**: 37/222/563, 665, 623, 561, 334/672, 358/604, 300/594, 96/273/243/160/38/558, 577, 770 |
+| **The duplication sweep, scene prose, all forty-five pairs** | **0 byte-identical paragraphs**, and the longest common contiguous word-run **42**, between Chapters 623 and 630 |
+| **The duplication sweep, apparatus, all forty-five pairs** | **0 byte-identical paragraphs**, and the longest common contiguous word-run **53**, between Chapters 622 and 629 |
+| **Sentence granularity across files, at eight words or more** | **0** in the scene prose, **0** in the standing blocks, **0** in the closing blocks, and **0** anywhere in any other scope |
+| **Sentence granularity within each file** | **0** repeated sentences of eight words or more, ten of ten |
+| The ten slip openings and the ten slip closings | **ten distinct openings and ten distinct closings** |
+
+### What is unchanged, and a phase that needs it may take it from the section below this one
+
+**The vessel, the three route changes and their allocation, the count of routes at the close of Chapter 630, the second payment of the relationship disagreement on the ninth of April, the man of about fifty-three's unagreed statement on the seventh, the ten days and every clock on them, the state of every sheet, and every thread set by any section below this one all stand as that section set them.** **IN PARTICULAR: the day table is ten consecutive days from Saturday the second day of April to Monday the eleventh; the cistern is charged on Chapters 623, 626 and 630 and on no other day; the two wipes are Chapters 622 and 629; the only wage Tuesday is Chapter 624; the read-back is still owed on Chapter 650; the Morrow Line is still held and still goes dormant on Chapter 640; and no chapter states a year.**
+
+### The ledger
+
+**`state/phase-ledger.json` STILL READS `currentPhase: phase-000-bootstrap` WITH THAT PHASE AT `status: running` AND `volume-01-batch-0001` AT `planned`, AGAINST A MANUSCRIPT WRITTEN THROUGH CHAPTER 630. `PHASE_SYSTEM.md` MAKES THAT FILE THE SELECTOR'S ONLY INPUT. A WRITER OR REPAIR PHASE IS FORBIDDEN BY ITS OWN DISPATCH FROM EDITING IT. THIS PHASE DID NOT EDIT IT. IT IS THE CONTROLLER'S AND THE CONTROLLER HAS TO.**
+
+---
+
+## VOLUME 13, BATCH 0003 (Chapters 621 to 630), MOVEMENT 3 — **THE VERIFICATION AND REPAIR PASS OF 30 SEPTEMBER 2026. IT NAMES A CHECKPOINT THAT IS ZERO BYTES AND THAT WAS NOT ITS INPUT, AND THE PASS ABOVE THIS ONE CORRECTS THAT WHERE IT STANDS.** **THIS SECTION IS THE HEAD OF THIS FILE AND IT IS THE STATE OF THE WORLD FOR EVERY PHASE THAT WRITES CHAPTERS 631 TO 640. IT SUPERSEDES THE SECTION BELOW IT ON EVERY COUNT OF WORDS, ON EVERY CHECK, ON EVERY PRINTED WORD-LENGTH AND ON EVERY DUPLICATION COUNT, AND ON NOTHING ELSE. EVERY DAY, EVERY CLOCK, EVERY FIGURE OF MONEY, EVERY LOCK, EVERY BEAT, EVERY THREAD AND THE WHOLE OF THE ALLOCATION OF THE PAGE OF ROUTES STAND UNCHANGED.**
 
 **THE TEN CHAPTERS WERE NOT RESTARTED. EIGHT OF THE TEN WERE TOUCHED. NO CHAPTER WAS CUT, NO SCENE WAS CUT, NO DAY WAS MOVED, NO FIGURE OF MONEY WAS ADDED OR REMOVED, NO LOCK WAS SOFTENED, NO NEW ANTAGONIST WAS NAMED AND NO PLOT WAS ALTERED.**
 
@@ -52,10 +136,10 @@
 | **The nine day-counters** | **90 of 90** against base plus day, re-extracted from the ten standing paragraphs against all nine labels with the ordinal forms read: 319→328, 321→330, 659→668, 425→434, 243→252, 198→207, 213→222, 230→239, 261→270 |
 | **The hearing** | **10 of 10**, one hundred and nineteen to one hundred and twenty-eight, one day more than the day before it on every one of the ten, no figure set against it, and he is not on the water |
 | **The figure of 120 checks** | **120 of 120** |
-| The three columns of the page of routes | add to nine on **all ten days**, 4/1/4 through 623 and 3/2/4 on 625 and 626, 3/3/3 on 627, 628 and 629, and **2/4/3 at the close of Chapter 630**, and the allocation is the one the batch prompt set |
+| The three columns of the page of routes | add to nine wherever they are printed, 4/1/4 through 623, 3/2/4 on 625 and 626, 3/3/3 on 627, and **2/4/3 at the close of Chapter 630**. **THE ENTRY THAT PUT 3/3/3 ON 628 AND 629 WAS WRONG, BEING THE STATE OF THOSE TWO DAYS IS 2/4/3, AND THE PASS ABOVE THIS ONE ALSO REMOVES THE COUNT FROM THOSE TWO FILES ENTIRELY, BECAUSE THE COUNT IS WRITTEN DOWN ON CHAPTER 630 ALONE.** The allocation is the one the batch prompt set |
 | The money | 108,276 out, 10,640 in, 97,636 short, unmoved and evaluating on **all ten**, and 28 + 1,680 − 1,680 = 28 on each day |
 | The clocks | both wipes close, **seventeen and four and seventeen being thirty-eight** on the third of April and **eighteen and five and eighteen being forty-one** on the tenth, and the day of the week is right in **ten of ten subtitles and ten of ten datelines** |
-| **Every printed word-length equals its passage** | **10 of 10**, measured by script against the passage on that file: 37/222/563, 665, 623, 561, 334/672, 358/604, 300/594, 38/160/243/273/566, 581, 767 |
+| **Every printed word-length equals its passage** | **10 of 10 as this section published it, AND THE CLAIM WAS FALSE.** The subtitles of 625 and 626 and two ledger entries on the same two files were not measured, and the slip of 628 was given as 566, of 629 as 581 and of 630 as 767 where the passages measure 558, 577 and 770. **REPAIRED AND RE-MEASURED AT EVERY PLACE A FIGURE IS PRINTED BY THE PASS ABOVE THIS ONE** |
 | **The duplication sweep, scene prose, all forty-five pairs** | **0 byte-identical paragraphs**, and the longest common contiguous word-run **45**, between Chapters 624 and 630 |
 | **The duplication sweep, apparatus, all forty-five pairs** | **0 byte-identical paragraphs**, and the longest common contiguous word-run **53**, between Chapters 622 and 629 |
 | **Sentence granularity across files** | **0** identical sentences of eight words or more in the scene prose, **0** in the standing blocks, **0** in the closing blocks |
