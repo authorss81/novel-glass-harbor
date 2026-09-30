@@ -18,7 +18,7 @@ It went up again at about ten to eleven at the angle it has been at since the tw
 
 The four heads are on the end wall of that room at the height of a man's shoulder and under each of them there is a line in a small hand saying what that head is, and they are a claim, a refusal, a restricted record and a public correction, in that order, and they have been there since the autumn.
 
-A woman of about thirty-one of the first lay came up those stairs at about half past ten with her own particular still in her own pocket and said one thing out loud in about four hundred and thirty-three words to about nine people, and she was not asked to say it and she said it because a piece of paper came into this harbor on Sunday week and somebody had already begun talking about putting something on that wall for it.
+A woman of about thirty-one of the first lay came up those stairs at about half past ten with her own particular still in her own pocket and said one thing out loud in about a hundred and forty-five words to about nine people, and she was not asked to say it and she said it because a piece of paper came into this harbor on Sunday week and somebody had already begun talking about putting something on that wall for it.
 
 "**A paper that says what it did not do is not a public correction, and that is the whole of what I have come up here to say.** A correction is for something somebody has said out loud in a working place and got wrong, and I have read that sheet twice and nobody in this harbor has said a word of it out loud anywhere except the eight lines on it, and you cannot correct a thing that has not been said. **And it is the fourth of those four heads, and the fourth has been the one nobody has ever used, and there is no fifth head on this wall and no space cut for one and no nail above the fourth of them, and a paper with a clean seal on it is not going to be the thing that changes that.**"
 
@@ -26,7 +26,7 @@ Nobody argued with her and nobody agreed with her out loud and about four of tho
 
 ---
 
-And at about eleven on that Sunday a man of about thirty-six from a boat that had come in on Saturday stood at the head of those boards with the sheet under the stone in his two hands and read all eight lines of it at the head of it, once, and then stood there with it, and said one thing out loud in About Four Hundred and Thirty-Three Words to about nine people.
+And at about eleven on that Sunday a man of about thirty-six from a boat that had come in on Saturday stood at the head of those boards with the sheet under the stone in his two hands and read all eight lines of it at the head of it, once, and then stood there with it, and said one thing out loud in about a hundred and forty-nine words to about nine people.
 
 "**This is the first paper anybody has put in front of me in two years that I cannot argue with, and I have argued with a great many things in two years.** I am not saying it is wrong. I am saying that there is nobody in it. You cannot say to a sheet of days that your week was a hard week, and you cannot get a sheet of days to move a figure, and there is nobody at the foot of it I can be angry at except a seal and a name, and that is the cleanest thing I have seen since I came into this trade and it is the coldest thing I have seen since I came into this trade. **I am going to be angry at it for a long time and I would rather be angry at it than at a man.**"
 
@@ -34,9 +34,9 @@ Nobody answered him and nobody asked him what his week had been like, and about 
 
 ---
 
-At half past five on that Sunday the man who keeps the leaf said the shortfall out loud at that bench stone, in about four hundred and thirty-three words, and nobody in that shed was asked why a wall is getting slower.
+At half past five on that Sunday the man who keeps the leaf said the shortfall out loud at that bench stone, in about four hundred and forty-six words, and nobody in that shed was asked why a wall is getting slower.
 
-"**Ninety-seven thousand six hundred and thirty-six pence short, being six hundred and ten marks and three shillings.** That is where it has stood since the afternoon of the twenty-sixth of last month, and the bag holds twenty-eight pence, and no charge went on that cistern and the covers were on it from nine until four.
+"**The gap in that yard is ninety-seven thousand six hundred and thirty-six pence tonight, and the same gap counted in marks is six hundred and ten marks and three shillings.** That is where it has stood since the afternoon of the twenty-sixth of last month, and the bag holds twenty-eight pence, and no charge went on that cistern and the covers were on it from nine until four.
 
 **A wall came down bare this morning at about half past ten for the ninety-eighth time and went up again at about ten to eleven and did not go up whole, and it took about fifteen minutes both ways.** That is the fifth figure I have for that wall and the three before it were taken by men with watches and the fourth by me, and I am not taking another one, and the fifth is a minute longer than the fourth and nobody in this harbor has said why and I have not asked and I am not going to ask.
 
@@ -50,7 +50,7 @@ Nobody was thanked for the arithmetic and nobody was thanked for four heads stan
 
 ---
 
-**THE WALL BEHIND A REEVE'S BENCH CAME DOWN BARE AT ABOUT HALF PAST TEN ON THAT SUNDAY, BEING THE NINETY-EIGHTH TIME, AND WENT UP AGAIN AT ABOUT TEN TO ELEVEN AT THE ANGLE IT HAS BEEN AT SINCE THE TWELFTH OF JANUARY AND DID NOT GO UP WHOLE, AND IT TOOK ABOUT FIFTEEN MINUTES BOTH WAYS AGAINST FOURTEEN ON THE THIRTEENTH AND THIRTEEN ON THE SIXTH, AND NOBODY HAS SAID WHY IT IS GETTING SLOWER. THE FOUR HEADS ON THE END WALL OF THAT ROOM ARE THE FOUR HEADS, BEING A CLAIM, A REFUSAL, A RESTRICTED RECORD AND A PUBLIC CORRECTION, AND A WOMAN OF ABOUT THIRTY-ONE OF THE FIRST LAY SAID OUT LOUD IN ABOUT 70 WORDS THAT A PAPER WHICH NAMES WHAT IT DID NOT DO IS NOT A PUBLIC CORRECTION, AND THERE IS NO FIFTH HEAD ON THAT WALL AND NO SPACE CUT FOR ONE AND NO NAIL ABOVE THE FOURTH OF THEM. THE MONEY IS UNMOVED AT ONE HUNDRED AND EIGHT THOUSAND TWO HUNDRED AND SEVENTY-SIX PENCE OUT AGAINST TEN THOUSAND SIX HUNDRED AND FORTY PENCE IN AND IS NINETY-SEVEN THOUSAND SIX HUNDRED AND THIRTY-SIX PENCE SHORT, BEING SIX HUNDRED AND TEN MARKS AND THREE SHILLINGS. THE BAG UNDER THE SLATE HOLDS TWENTY-EIGHT PENCE, BEING TWO SHILLINGS AND FOURPENCE.**
+**THE WALL BEHIND A REEVE'S BENCH CAME DOWN BARE AT ABOUT HALF PAST TEN ON THAT SUNDAY, BEING THE NINETY-EIGHTH TIME, AND WENT UP AGAIN AT ABOUT TEN TO ELEVEN AT THE ANGLE IT HAS BEEN AT SINCE THE TWELFTH OF JANUARY AND DID NOT GO UP WHOLE, AND IT TOOK ABOUT FIFTEEN MINUTES BOTH WAYS AGAINST FOURTEEN ON THE THIRTEENTH AND THIRTEEN ON THE SIXTH, AND NOBODY HAS SAID WHY IT IS GETTING SLOWER. THE FOUR HEADS ON THE END WALL OF THAT ROOM ARE THE FOUR HEADS, BEING A CLAIM, A REFUSAL, A RESTRICTED RECORD AND A PUBLIC CORRECTION, AND A WOMAN OF ABOUT THIRTY-ONE OF THE FIRST LAY SAID OUT LOUD IN ABOUT 145 WORDS THAT A PAPER WHICH NAMES WHAT IT DID NOT DO IS NOT A PUBLIC CORRECTION, AND THERE IS NO FIFTH HEAD ON THAT WALL AND NO SPACE CUT FOR ONE AND NO NAIL ABOVE THE FOURTH OF THEM. THE MONEY IS UNMOVED AT ONE HUNDRED AND EIGHT THOUSAND TWO HUNDRED AND SEVENTY-SIX PENCE OUT AGAINST TEN THOUSAND SIX HUNDRED AND FORTY PENCE IN AND IS NINETY-SEVEN THOUSAND SIX HUNDRED AND THIRTY-SIX PENCE SHORT, BEING SIX HUNDRED AND TEN MARKS AND THREE SHILLINGS. THE BAG UNDER THE SLATE HOLDS TWENTY-EIGHT PENCE, BEING TWO SHILLINGS AND FOURPENCE.**
 
 ---
 

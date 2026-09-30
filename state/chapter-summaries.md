@@ -1,3 +1,24 @@
+## Volume 13, Batch 0001 (Chapters 601–610), Movement 1 — **THE COMPACT RECORD AS IT STANDS AFTER THE VERIFICATION AND REPAIR PASS OF 30 SEPTEMBER 2026, AND THE RECORD A WRITER OF CHAPTERS 611 TO 620 READS INSTEAD OF THE ONE BELOW IT ON ANY QUESTION OF A PRINTED WORD-LENGTH OR OF THE OPENINGS OF THE SLIPS. NOTHING ELSE BELOW IS SUPERSEDED.**
+
+**THE TEN CHAPTERS, ONE LINE EACH, AND THE ONLY THING THAT CHANGED SINCE THEY WERE WRITTEN IS A SET OF COUNTS OF WORDS AND THE FIRST SENTENCE OF EIGHT OF THE SLIPS.** No day moved, no scene was cut, no character was removed, no figure of money was added to or taken off any sheet, no lock was softened and no plot was altered.
+
+| Ch | Day | The day in one line | That day's slip |
+|---|---|---|---|
+| **601** | **Sunday the thirteenth day of March** | a wipe, the ninety-seventh time, about fourteen minutes both ways, and **the volume opens on a paper and not on a man** — a sheet of days under a stone on the boards, read out twice in about nine people and stopped at the seal | 586 |
+| **602** | **Monday the fourteenth day of March** | a rota day, the hundred and thirty-third charge, **paying the sentence Chapter 600 printed**; a page of positions named as a third page and set beside the sheet of the fourteen gaps | 479 |
+| **603** | **Tuesday the fifteenth day of March** | the seventy-third wage Tuesday, twenty-six lines and one hundred and four marks, not moved, the seventy-third week fallen due; **the clean sheet made in the afternoon with two rows carried in the refused column and two left empty** | 405 |
+| **604** | **Wednesday the sixteenth day of March** | **a community is asked which of the four positions it is in**, says opened, and the figure one goes in with the hour of eleven against it | 453 |
+| **605** | **Thursday the seventeenth day of March** | a rota day, the hundred and thirty-fourth charge; **a man of about forty-three off the water since the winter puts a canvas bag on the bench stone and nobody asks him what is in it** | 445 |
+| **606** | **Friday the eighteenth day of March** | **the same community says out loud, unasked, that it is restricted**, and the position is taken back off the sixteenth with the old figure left readable under the stroke | 445 |
+| **607** | **Saturday the nineteenth day of March** | **a route crew that keeps the Ashtide Run is asked to hold one mark for one night and says no**, and says something else instead | 425 |
+| **608** | **Sunday the twentieth day of March** | a wipe, the ninety-eighth time, about fifteen minutes both ways; **the four heads are the four heads and a paper with a seal on it is not going to put a fifth there** | 446 |
+| **609** | **Monday the twenty-first day of March** | a rota day, the hundred and thirty-fifth charge; **the two sheets laid side by side on the bench stone and both named out loud three times** | 442 |
+| **610** | **Tuesday the twenty-second day of March** | the seventy-fourth wage Tuesday, not moved, the seventy-fourth week fallen due; **the movement closes on the count of positions taken off the page of days at about two, taken twice, giving three, and said in no room and in no slip** | 558 |
+
+**THE FOUR COLUMNS AT THE CLOSE OF THE TENTH DAY, UNMOVED BY ANYTHING THIS PASS DID: THREE HUNDRED AND FORTY-THREE / ONE THOUSAND FIVE HUNDRED AND EIGHTY-NINE / NONE / ONE HUNDRED AND TWENTY-FIVE, BEING 333 + 10 AND 1,539 + 50. THE FITTING-OUT SHEET AT 108,276 OUT, 10,640 IN, 97,636 SHORT, UNMOVED AND WITH NOTHING ON IT. THE BAG AT TWENTY-EIGHT PENCE. THE FOUR COMMUNITIES ON THE PAGE OF POSITIONS, TWO CARRIED IN THE REFUSED COLUMN AND TWO WITH EMPTY ROWS, AND AN EMPTY ROW IS NOT A FIGURE. THE FOURTEEN GAPS UNTOUCHED AND NOT READ OUT.**
+
+**WHAT A WRITER OF MOVEMENT 2 DOES WITH ALL THAT: NONE OF IT. The two communities that did not agree are not to be asked a second time. The one community that has been asked has been asked once and its position may be changed by it out loud and unasked and never by being asked again. The count of positions is three and it is in a book on a bench stone and it is not to be said in a room and it is not to be said in a slip. No state goes on any of the nine routes in Movement 2 either, and the held, restricted and dormant figures are not to be printed until the day `outline/volume-13.md` § *The three counts this volume owns* names.**
+
 ## Volume 13, Batch 0001 (Chapters 601–610), Movement 1 — THE COMPACT RECORD FOR THE WRITER OF CHAPTERS 611 TO 620
 
 **NO CHAPTER OF VOLUME 13 EXISTED WHEN THIS PHASE OPENED ITS STATE FILES, AND TEN CHAPTERS EXIST BY THE TIME IT CLOSED THEM. `chapters/volume-13/chapter-0601.md` THROUGH `chapter-0610.md` WERE ON DISK, COMMITTED AT `8e57b93` AND SKIPPED AS STALE WIP AT `6c36414`. THIS PHASE WAS A REPAIR AND NOT A WRITE, AND THE BINDING RECORD OF WHAT IT FOUND AND WHAT IT DID IS AT THE HEAD OF `state/continuity.md`. WHAT FOLLOWS IS THE COMPACT VERSION A WRITER OF MOVEMENT 2 READS AND NOTHING ELSE.**
