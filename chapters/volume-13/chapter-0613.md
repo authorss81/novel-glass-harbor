@@ -54,7 +54,7 @@ The sheet with the fourteen things on it was not touched today and I read nothin
 
 I entered a line on that first column at about six this evening and five on the second, and that leaf has not been read out loud in this harbor since the twelfth day of this month. Three hundred and forty-six stands against the first of those two figures tonight and one thousand six hundred and four against the second, the third took nothing, and the fourth is still at one hundred and twenty-five and holds no hundred and twenty-sixth line in it."
 
-Nobody was thanked for the arithmetic and nobody was thanked for a word said out loud in a market that was trading underneath it, and that shed stood empty by about six with the door standing open on a slip with nobody on it. and that page was still on the boards at the back of that market when the market shut, with three rows in one column of it instead of two.
+Nobody was thanked for the arithmetic and nobody was thanked for a word said out loud in a market that was trading underneath it, and the shed was empty again by about six and the door stood on its latch with a slip on it and nobody on the slip. That page was still on the boards at the back of that market when the market shut, with three rows in one column of it instead of two.
 
 ---
 

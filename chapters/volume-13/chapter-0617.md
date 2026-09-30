@@ -44,7 +44,7 @@ The sheet with the fourteen things on it was not read out of today and no figure
 
 One line went in on that first column at about six this evening and five went in on the second, and I did not read that leaf out loud, and tonight of all I would not have read it out loud. Three hundred and fifty and one thousand six hundred and twenty-four are the first two of those figures, the third is empty, and the fourth stands at one hundred and twenty-five with no hundred and twenty-sixth line in it."
 
-Nobody was thanked for the arithmetic and nobody was thanked for two men sitting down, and that shed stood empty by about six with the door standing open on a slip with nobody on it. and the chest with the twenty envelopes in it was still shut at six, and the column on that lid was still twenty-six lines and one hundred and four marks.
+Nobody was thanked for the arithmetic and nobody was thanked for two men sitting down, and the shed was clear of everybody by about six with its door standing open on a slip with nothing on it. The chest with the twenty envelopes in it was still shut at six, and the column on that lid was still twenty-six lines and one hundred and four marks.
 
 ---
 

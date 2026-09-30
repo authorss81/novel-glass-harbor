@@ -48,7 +48,7 @@ And here is the thing I have not put in this slip and am not going to. There is 
 
 One entry went on to the first of those four columns at about six this evening and five went on to the second, and I did not read that leaf out loud tonight. The first of those two figures is three hundred and forty-five and the second is one thousand five hundred and ninety-nine, the third of that leaf is empty, and the fourth is standing where it has stood at one hundred and twenty-five with no hundred and twenty-sixth line in it."
 
-Nobody was thanked for the arithmetic and nobody was thanked for four place names read out twice by a man who was not asked, and that shed stood empty by about six with the door standing open on a slip with nobody on it. and the cistern behind that market was still up to the rim of the second hoop, and the name was still off that board.
+Nobody was thanked for the arithmetic and nobody was thanked for four place names read out twice by a man who was not asked, and by about six the shed had nobody left in it and the door stood open on a slip with nobody on it. The cistern behind that market was still up to the rim of the second hoop, and the name was still off that board.
 
 ---
 

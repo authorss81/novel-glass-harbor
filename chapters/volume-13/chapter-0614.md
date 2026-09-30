@@ -46,7 +46,7 @@ The sheet with the fourteen things on it stands at the end of that stall where i
 
 At about six this evening that leaf took one entry on the first column and five on the second and it was not read out loud. Those two figures are three hundred and forty-seven and one thousand six hundred and nine, the third of the four is empty, and the fourth is unmoved at one hundred and twenty-five with no hundred and twenty-sixth line in it anywhere."
 
-Nobody was thanked for the arithmetic and nobody was thanked for a finger put on two rows, and that shed stood empty by about six with the door standing open on a slip with nobody on it. and the cistern behind that market was covered and had not been touched, and the page went back up on that nail at about four.
+Nobody was thanked for the arithmetic and nobody was thanked for a finger put on two rows, and by six the shed had emptied and the door stood open on a slip with nothing on it at all. The cistern behind that market was covered and had not been touched, and the page went back up on that nail at about four.
 
 ---
 

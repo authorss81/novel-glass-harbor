@@ -1,6 +1,6 @@
 # Chapter 618
 
-*Wednesday the Thirtieth Day of March, Not a Rota Day and Not a Wage Tuesday and Not a Wipe, at About Four in the Afternoon at the Flat of That Bench Stone in About Nine People of Whom About Four Can Read, a Woman of Thirty of No Office and a Man of About Thirty-Two Arguing Out Loud in Front of All of Them About How Much Danger a Page Is Allowed to Carry and About the Fourth Thing in Two Drafts Written on Monday, in About Three Hundred and Nine Words and About Two Hundred and Twenty-Eight Words and About One Hundred and Seventy-Eight Words and Nobody Arbitrating and Nobody Agreeing Out Loud, Two Lines Going on That Page at About Half Past Five With One Under the Other and Neither Struck and No Signature and No Agreement, Nothing Read Out of a Gap and No Figure Moved by One, the Gap Put Out Loud at About Half Past Five, the Bag at Twenty-Eight Pence, Being Two Shillings and Fourpence, the First Column at Three Hundred and Fifty-One and the Second at One Thousand Six Hundred and Twenty-Nine*
+*Wednesday the Thirtieth Day of March, Not a Rota Day and Not a Wage Tuesday and Not a Wipe, at About Four in the Afternoon at the Flat of That Bench Stone in About Nine People of Whom About Four Can Read, a Woman of Thirty of No Office and a Man of About Thirty-Two Arguing Out Loud in Front of All of Them About How Much Danger a Page Is Allowed to Carry and About the Fourth Thing in Two Drafts Written on Monday, in About Three Hundred and Nine Words and About Two Hundred and Twenty-Eight Words and About One Hundred and Eighty-Six Words and Nobody Arbitrating and Nobody Agreeing Out Loud, Two Lines Going on That Page at About Half Past Five With One Under the Other and Neither Struck and No Signature and No Agreement, Nothing Read Out of a Gap and No Figure Moved by One, the Gap Put Out Loud at About Half Past Five, the Bag at Twenty-Eight Pence, Being Two Shillings and Fourpence, the First Column at Three Hundred and Fifty-One and the Second at One Thousand Six Hundred and Twenty-Nine*
 
 Wednesday the thirtieth day of March, on the boards at the back of that market from about ten in the morning, and in a yard below it with a bench stone in it and about nine people in that yard at about four in the afternoon and about nine of them again at half past five.
 
@@ -30,6 +30,8 @@ She answered back and it was about one hundred and eighty-six words.
 
 Nobody arbitrated. Nobody said that either of them was right and nobody said that either of them was wrong, and about four people in that yard heard all three of those things and the rest of that yard was not told, and about five of the nine could not read what was on the back of that page and were told what was on it by a man who was told by a woman, in that order, in about eleven words.
 
+At about half past five two lines went on the back of that page with one under the other, and nobody read either of them out. About four people in that yard watched them go on and about five of them did not know there was anything at all on the back of that page. They went on under the two drafts from Monday with room left above them, and nothing was struck and nothing was rubbed out and no name went at the foot of either of them and nothing went at the head of either of them either.
+
 ---
 
 And at about half past five on that Wednesday the man who keeps the leaf said the shortfall out loud at that bench stone, in about six hundred and sixty-nine words, and nobody in that shed was asked which of the two people who made that argument was the one whose job it was.
@@ -50,7 +52,7 @@ The sheet with the fourteen things on it was not touched and no figure on it has
 
 One entry went on the first column of that leaf at about six this evening and five went on the second, and the leaf was not read out loud. The first of those two figures is three hundred and fifty-one and the second is one thousand six hundred and twenty-nine, my third is empty, and my fourth stands at one hundred and twenty-five with no hundred and twenty-sixth line in it."
 
-Nobody was thanked for the arithmetic and nobody was thanked for three things said out loud in a market yard, and that shed stood empty by about six with the door standing open on a slip with nobody on it. and on the back of that page, under the two drafts from Monday, there were two more lines with one under the other and neither of them struck, and no signature at the foot of either of them.
+Nobody was thanked for the arithmetic and nobody was thanked for three things said out loud in a market yard, and by about six there was nobody left in that shed and its door stood open on a slip with nothing on it. The two lines stayed on the back of that page until a fifth word went above them on Friday, and there is still no name at the foot of either one.
 
 ---
 

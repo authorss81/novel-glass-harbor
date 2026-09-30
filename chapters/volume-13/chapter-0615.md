@@ -52,7 +52,7 @@ It is going on Friday the first of April, in a working morning, in about nine pe
 
 At about six this evening one line went in on the first column and five on the second and I did not read that leaf out loud. My first of those figures is three hundred and forty-eight and my second is one thousand six hundred and fourteen, my third is empty, and my fourth stands at one hundred and twenty-five and has no hundred and twenty-sixth line in it."
 
-Nobody was thanked for the arithmetic and nobody was thanked for four words being not enough, and that shed stood empty by about six with the door standing open on a slip with nobody on it. and the wall behind that reeve's bench stood at the angle it has been at since the twelfth of January and not whole.
+Nobody was thanked for the arithmetic and nobody was thanked for four words being not enough, and nobody was in that shed after about six and the door stood open on a slip that nobody had signed and nobody stood at. The wall behind that reeve's bench stood at the angle it has been at since the twelfth of January and not whole.
 
 ---
 

@@ -52,7 +52,7 @@ The sheet with the fourteen things on it stands at the end of that stall where i
 
 One line went in on the first of those four columns at about six this evening and five went in on the second, and that leaf was not read out loud. Three hundred and forty-four stands against the first of those two figures and one thousand five hundred and ninety-four against the second, the third is empty, and the fourth stands at one hundred and twenty-five with no hundred and twenty-sixth line in it."
 
-Nobody was thanked for the arithmetic and nobody was thanked for a page nailed to a board, and that shed stood empty by about six with the door standing open on a slip with nobody on it. and that page was still on the boards at the back of that market when the market shut, with the stone and the sheet under the stone a yard and a half away at the head of them and nobody having moved either of them into a drawer.
+Nobody was thanked for the arithmetic and nobody was thanked for a page nailed to a board, and that shed stood empty by about six with the door standing open on a slip with nobody on it. That page was still on the boards at the back of that market when the market shut, with the stone and the sheet under the stone a yard and a half away at the head of them and nobody having moved either of them into a drawer.
 
 ---
 
