@@ -1,3 +1,80 @@
+## Volume 12, Batch 0004 (Chapters 581–590), Movement 4, *the attempt on the Crown Bell, and a failure that is a bill and not a body* — as written, 30 September 2026
+
+**TEN CHAPTERS, TEN DAYS FROM MONDAY THE TWENTY-FIRST DAY OF FEBRUARY TO WEDNESDAY THE SECOND DAY OF MARCH, 48,542 WORDS MEASURED WITH `wc -w` AFTER THE WRITING, NO DAY MISSING AND NO DAY IN TWO CHAPTERS. THE FULL FIGURE TABLE, THE LOCKS AND THE DISPOSITIONS ARE AT THE HEAD OF `state/continuity.md` L1 TO L173. WHAT FOLLOWS IS THE VOICE AND THE FIGURES OF THE BATCH AND NOTHING ELSE.**
+
+### The calendar as written
+
+| Ch | Day | What the day is |
+|---|---|---|
+| 581 | Monday the twenty-first day of February | a rota day — the hundred and twenty-seventh charge. **A night written out on a sheet in six parts with an hour against every part of it, no name at the head of it and no signature at the foot of it, read out twice in about nine people, settling nothing** |
+| 582 | Tuesday the twenty-second day of February | **the seventieth wage Tuesday.** The column is read out and does not move, and the night's victual, coal and air are priced in hours and material with the multiplication printed, and not one penny of it goes on that sheet |
+| 583 | Wednesday the twenty-third day of February | not a rota day. Not a wipe. **A reason on a slate in each man's own words with an hour at the foot of it, and the public copy of the first fragment heard once on a working day in a working place, incomplete, settling nothing** |
+| 584 | Thursday the twenty-fourth day of February | a rota day — the hundred and twenty-eighth charge. **THE ATTEMPT, in about four fathoms, one person at a time, a named tender on the surface, an independent line, a fixed air limit, a cutoff he can pull without asking. IT FAILS BECAUSE BREAKING ONE BRANCH DOES NOT BREAK THE RELAY. NOBODY DIES** |
+| 585 | Friday the twenty-fifth day of February | not a rota day. Not a wipe. **The number of vessels answering the one that was broken counted off the crossings in a crossing column and never in a room, and nobody is hurt and nobody is made a hero** |
+| 586 | Saturday the twenty-sixth day of February | not a rota day. Not a wipe. **THE BILL, a third payment on the sheet that carries the money, with its own figure and its own days, and the person whose yard it is says so out loud before the figure is written** |
+| 587 | Sunday the twenty-seventh day of February | a wipe — the ninety-fifth time. **The wall comes down bare and goes up unrepaired and not whole in about eleven minutes, and a small civil ceremony is gone through in a room that is let out and is not settled in advance by anybody** |
+| 588 | Monday the twenty-eighth day of February | a rota day — the hundred and twenty-ninth charge. **A first form of a thing people can disagree with in public is put on a wall in a large hand and nobody is asked to sign it and nobody is asked to agree with it** |
+| 589 | Tuesday the first day of March | **the seventy-first wage Tuesday.** The column is read out and does not move, and what a failure is in a harbor is said out loud in about nine people by a working person, and it is not a speech |
+| 590 | Wednesday the second day of March | not a rota day. Not a wage Tuesday. Not a wipe. **The movement closes on the third payment standing on the sheet with its own figure and its own days, and on a relay still answering at ninety-four seconds, and neither of those is a speech** |
+
+**THE ANCHOR IS CHAPTER 550'S AND NO FOUR-DIGIT YEAR APPEARS ON ANY OF THE TEN PAGES AND NOBODY REMARKS ON A TURNING MONTH, A YEAR, A NEW YEAR, A RESOLUTION, A REVIEW OR AN ACCOUNTING PERIOD. THE CISTERN AT THE BACK OF THAT MARKET IS CHARGED ON THE TWENTY-FIRST, THE TWENTY-FOURTH AND THE TWENTY-EIGHTH OF THIS MONTH, BEING THE HUNDRED AND TWENTY-SEVENTH AND THE HUNDRED AND TWENTY-EIGHTH AND THE HUNDRED AND TWENTY-NINTH CHARGES, IN ELEVEN TRIPS BY HAND EACH, AND WALKED ON BY NONE OF IT, AND ON NO OTHER DAY OF THE TEN. THE WALL BEHIND A REEVE'S BENCH COMES DOWN BARE ON THE TWENTY-SEVENTH, BEING THE NINETY-FIFTH TIME, AND WENT UP AGAIN AT THE ANGLE IT HAS BEEN AT SINCE THE TWELFTH OF JANUARY AND DID NOT GO UP WHOLE, IN ABOUT ELEVEN MINUTES BOTH WAYS. WAGE TUESDAYS: THE TWENTY-SECOND AND THE FIRST OF MARCH, BEING THE SEVENTIETH AND THE SEVENTY-FIRST.**
+
+### The leaf, the sheet and the bag, at the close of each day
+
+| Ch | 1st | 2nd | 3rd | 4th | written into the total | running out | shortfall | bag |
+|---|---|---|---|---|---|---|---|---|
+| 581 | 314 | 1,444 | none | 125 | — | 107,263 | 96,623 | 28p |
+| 582 | 315 | 1,449 | none | 125 | — | 107,263 | 96,623 | 28p |
+| 583 | 316 | 1,454 | none | 125 | — | 107,263 | 96,623 | 28p |
+| 584 | 317 | 1,459 | none | 125 | — | 107,263 | 96,623 | 28p |
+| 585 | 318 | 1,464 | none | 125 | — | 107,263 | 96,623 | 28p |
+| 586 | 319 | 1,469 | none | 125 | **1,013** | **108,276** | **97,636** | 28p |
+| 587 | 320 | 1,474 | none | 125 | — | 108,276 | 97,636 | 28p |
+| 588 | 321 | 1,479 | none | 125 | — | 108,276 | 97,636 | 28p |
+| 589 | 322 | 1,484 | none | 125 | — | 108,276 | 97,636 | 28p |
+| 590 | 323 | 1,489 | none | 125 | — | 108,276 | 97,636 | 28p |
+
+**ONE LINE WENT ONTO THE FITTING-OUT SHEET IN THIS MOVEMENT AND IT IS CHAPTER 586, AT ONE THOUSAND AND THIRTEEN PENCE, BEING FIVE MARKS, SEVENTEEN SHILLINGS AND NINEPENCE, IN SIX FIGURES WITH THE MULTIPLICATION PRINTED AT EVERY ONE OF THEM AND WITH THE TWENTY-FOURTH OF THIS MONTH AGAINST IT AS THE DAY IT STOPPED AND THE TWENTY-SIXTH AGAINST IT AS THE DAY THAT YARD SETTLED IT, BOTH DAYS NAMED OUT LOUD IN THAT YARD'S OWN MOUTH BEFORE A FIGURE WAS WRITTEN. 107,263 + 1,013 = 108,276 AND 108,276 − 10,640 = 97,636 AND 96,623 + 1,013 = 97,636. 28 + 1,680 − 1,680 = 28. THE READ-BACK IS NOT DONE AND IS NOT BEFORE CHAPTER 600.**
+
+### The day-counters, and the hearing
+
+| Ch | notice | bellwright | crown | bench | two lights | end stall | four lines | nine-line | six names | hearing |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 581 | 279 | 281 | 619 | 385 | 203 | 158 | 173 | 190 | 221 | 79 |
+| 582 | 280 | 282 | 620 | 386 | 204 | 159 | 174 | 191 | 222 | 80 |
+| 583 | 281 | 283 | 621 | 387 | 205 | 160 | 175 | 192 | 223 | 81 |
+| 584 | 282 | 284 | 622 | 388 | 206 | 161 | 176 | 193 | 224 | 82 |
+| 585 | 283 | 285 | 623 | 389 | 207 | 162 | 177 | 194 | 225 | 83 |
+| 586 | 284 | 286 | 624 | 390 | 208 | 163 | 178 | 195 | 226 | 84 |
+| 587 | 285 | 287 | 625 | 391 | 209 | 164 | 179 | 196 | 227 | 85 |
+| 588 | 286 | 288 | 626 | 392 | 210 | 165 | 180 | 197 | 228 | 86 |
+| 589 | 287 | 289 | 627 | 393 | 211 | 166 | 181 | 198 | 229 | 87 |
+| 590 | 288 | 290 | 628 | 394 | 212 | 167 | 182 | 199 | 230 | 88 |
+
+**NINETY OF NINETY AGREE WITH BASE PLUS DAY, RE-EXTRACTED FROM THE TEN STANDING PARAGRAPHS BY SCRIPT, AND NOT ONE OF THEM WAS FOUND BY LOOKING. THEY ARE A ROSTER OF DURATIONS AND NOT OF PERSONS AND NO LIST OF ANYBODY WHO PUT NOTHING IN IS KEPT BY ANYBODY.**
+
+### The figures of the batch, all re-derived by adding
+
+**THE DESCENT: FIVE GOING DOWN AND EIGHTEEN ON THE FLOOR AND TWO COMING UP IS TWENTY-FIVE OF TWENTY-FIVE, WITH FOUR PRINTED BOUNDARY TIMES OF TEN PAST TWO, A QUARTER PAST TWO, THIRTY-THREE MINUTES PAST TWO AND THIRTY-FIVE MINUTES PAST TWO. THE COUNT: TWO NIGHTS AT ELEVEN VESSELS ANSWERING THE ONE THAT WAS BROKEN IS TWENTY-TWO LINES OF CROSSING, AND IT IS SIX WEEKS BELOW THE NINE AND THE EIGHTEEN OF JANUARY ON THE SAME SLATE. THE INTERVAL: THREE TIMES NINETY-FOUR SECONDS IS TWO HUNDRED AND EIGHTY-TWO SECONDS, BEING FOUR MINUTES AND FORTY-TWO SECONDS, AND THE FOURTH COUNT OF THE SAME FIGURE WAS NOT ADDED IN. THE BILL: ONE TIMES TWO HUNDRED AND EIGHTY IS TWO HUNDRED AND EIGHTY, FOUR TIMES FORTY-FIVE IS ONE HUNDRED AND EIGHTY, SIX TIMES EIGHT IS FORTY-EIGHT, TWO TIMES ONE HUNDRED AND SIXTY-EIGHT IS THREE HUNDRED AND THIRTY-SIX, ONE TIMES ONE IS ONE, AND THE SIX SUM TO ONE THOUSAND AND THIRTEEN PENCE, BEING FIVE MARKS, SEVENTEEN SHILLINGS AND NINEPENCE. THE HOURS: TWO MEN FOR FIVE HOURS AT A PUMP IS TEN HOURS OF A MAN, SIX MEN FOR ONE HOUR AT A BENCH IS SIX HOURS, AND A QUARTER OF AN HOUR OF A MAN COUNTING A BOTTLE, BEING SIXTEEN HOURS AND A QUARTER OF A MAN, AND NOT ONE OF THOSE HOURS IS ON THAT SHEET.**
+
+### The ten days of the batch in one line each
+
+1. **581.** Six parts and an hour against every one of them and no name at the head of it, read out twice, and a man of about thirty-three says a page like that can be argued with by anybody and held to by nobody, and a woman of about forty-four says the only part anybody can be certain of is the part where nobody signs it.
+2. **582.** The seventieth Tuesday and the column does not move, and a night's victual, coal and air come out of a shed as five hundred and eight pence with the multiplication printed and sixteen hours and a quarter of a man underneath it and no figure anywhere in that country for those hours.
+3. **583.** Two slates with a reason in each man's own words and an hour at the foot of each, and a bell rung in a market, and a public copy with the middle taken out of it read once in a room over a working floor in front of twenty people of whom eleven cannot read it.
+4. **584.** A wedge, a drift, two fingers and a pin at about four fathoms, and the branch stops, and the answering comes through instead of going down, and nobody dies, and a man of about thirty-three refuses to turn four fathoms into a lesson and a woman of about forty-four refuses to give him a word for it.
+5. **585.** Ninety-four seconds counted a fourth time in a boat in the dark, and a fifth line on the back of an old slate with eleven and eleven on it and twenty-two lines of crossing behind it, and the man who keeps the leaf says he is not going to say the number in a slip.
+6. **586.** The day named out loud before the figure, being the twenty-fourth and not the day the work was done, six figures with the multiplication at every one, and three sums on the face of the line that agree, and sixteen hours and a quarter of a man off it.
+7. **587.** A wall bare for the ninety-fifth time and about eleven minutes both ways, and a room over a joiner's shop let out and not paid for, and four lines of which the second says the ceremony does not make her responsible for his diving and the third says it does not make him responsible for her record, and two names said once each in their own mouths.
+8. **588.** Eight lines of chalk on a limewashed wall, the fourth of which says a thing written under it is not a record, and the sixth of which says nobody has agreed to any part of it, and a woman of about thirty-one says the second of them is a door and she is not writing under it, and nothing was written under it by anybody.
+9. **589.** The seventy-first Tuesday and the column does not move, and a man who makes barrels says in four sentences and four interruptions what a failure is in a harbor, and a woman of thirty says the question nobody asked, which is whether any of it is being paid for.
+10. **590.** Four lines on a bench stone and not one of them about a man, the second of them saying the count is on a slate and not in a room, and a basket coming up that coast empty for the second time, and at ten past six it answered and about four people heard it and none of them said anything.
+
+### The figures and the apparatus, all run off the pages
+
+**48,542 WORDS ACROSS THE TEN, BEING 3,842 / 4,114 / 5,314 / 5,222 / 4,530 / 5,071 / 5,664 / 4,960 / 4,357 / 5,468. QUOTE PARITY EVEN ON ALL TEN AT 6, 8, 10, 8, 6, 8, 6, 6, 8 AND 6 MARKS. PRINTED WORD-LENGTHS, EVERY ONE EQUAL TO ITS PASSAGE AND MEASURED BY SCRIPT: 160, 149 AND 273; 21, 139, 128 AND 303; 160, 132, 145, 155 AND 305; 114, 109, 126 AND 345; 199, 146 AND 353; 150, 108, 197 AND 342; 193, 167 AND 434; 179, 150 AND 387; 279, 68 AND 166; 49, 111 AND 450. ZERO BYTE-IDENTICAL SCENE PROSE PARAGRAPHS ACROSS ALL FORTY-FIVE PAIRS, AND FOUR HUNDRED AND FIVE SHARED TWELVE-WORD RUNS, EVERY ONE OF THEM IN A NAMED HOUSE FORM, BEING THE STANDING SENTENCE THAT OPENS THE HALF-PAST-FIVE SCENE, THE STANDING SHORTFALL BLOCK, THE THIRD-AND-FOURTH-COLUMN SENTENCE, THE CISTERN PARAGRAPH, THE WAGE-COLUMN PARAGRAPH, THE PRICED PAGE, THE CLOSING BLOCK OF THE SHEET, THE LEAF'S RUN-OF-DAYS CLAUSE AND THE DESCRIPTORS OF THE FOUR PEOPLE WHO COME BACK. AND AT ZERO: A FOUR-DIGIT YEAR, THE SECOND PERSON OUTSIDE A MOUTH, THE PROHIBITED WORD LIST, THE FORBIDDEN PANEL CONSTRUCTIONS, THE WORDS FOR A GIFT, THE WORD *BRAVE*, A READ-BACK OF THAT LEAF, THE DATE OF THE FOURTH COLUMN'S REASON, A NAMED BODY, A CASUALTY FIGURE, A FOURTH HEAD, A FIFTH HEAD, A ROSTER OF ANYBODY WHO PUT NOTHING IN, A NAME UNDER A SEAL READ OUT IN A ROOM, THE COUNT OF ELEVEN OR TWENTY-TWO SAID IN A ROOM, AND A LINE OF BOATS SAID TO HAVE BEEN TAKEN AWAY OR TO HAVE EASED.**
+
+
 ## Volume 12, Batch 0003 (Chapters 571–580), Movement 3, *every bell on that coast answering one signal, and the thing a sealed record does that a permitted one cannot* — as written, 30 September 2026
 
 **TEN CHAPTERS, TEN DAYS FROM FRIDAY THE ELEVENTH DAY OF FEBRUARY TO SUNDAY THE TWENTIETH, 40,522 WORDS MEASURED WITH `wc -w` AFTER THE WRITING, NO DAY MISSING AND NO DAY IN TWO CHAPTERS. THE FULL FIGURE TABLE, THE LOCKS AND THE DISPOSITIONS ARE AT THE HEAD OF `state/continuity.md`. WHAT FOLLOWS IS THE VOICE AND THE FIGURES OF THE BATCH AND NOTHING ELSE.**
