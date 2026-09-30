@@ -40,7 +40,7 @@ A woman of thirty of no office said out loud at about ten this morning, in nine 
 
 The third of my four is empty. The fourth is still at one hundred and twenty-five and has no hundred and twenty-sixth line in it, and the reason it has taken none is not on a page of mine. At about six this evening I entered one line on the first column and five on the second, and neither of the first two figures of that leaf has been read out loud anywhere this month, and that is the second day of a run counted from Sunday the thirteenth."
 
-Nobody was thanked for the arithmetic and nobody was thanked for a hundred and thirty-three charges, and by six that shed was empty and its door stood open on a slip with nobody on it. and the butt behind that market was still up to the top of the second hoop.
+Nobody was thanked for the arithmetic and nobody was thanked for a hundred and thirty-three charges, and by six that shed was empty and its door stood open on a slip with nobody on it, and the butt behind that market was still up to the top of the second hoop.
 
 ---
 

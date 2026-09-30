@@ -52,7 +52,7 @@ And there is a piece of paper in this harbor that nobody wrote. **That is the cl
 
 **And here is what I have not got an answer to and am not going to get one to today. A method built on visible gaps has to be run at a speed at which the edges of the gaps stop being visible, and a person who cannot see a gap is a person who has been handed a smooth page.** That is not chalk on a wall. Chalk on a wall is a page somebody has to climb up and count. **A calendar is a page nobody has to climb up.** It has four columns and it has a day against every day, and it asks a community to be in one of four places every morning of the month, and there is no place on it for a community to stop being in one of them, and that is not a fault in it, and that is the thing I want somebody else to be angry at instead of me, because I am not going to say it out loud in this shed and I am not going to say it twice.
 
-Nobody was thanked for the arithmetic and nobody was thanked for eight lines read out twice, and the shed stood empty by about six with the door standing open on a slip nobody was on. and that paper was still under the stone at the head of those boards with the stone put back on it by somebody who did not say they had done it."
+Nobody was thanked for the arithmetic and nobody was thanked for eight lines read out twice, and the shed stood empty by about six with the door standing open on a slip nobody was on, and that paper was still under the stone at the head of those boards with the stone put back on it by somebody who did not say they had done it."
 
 ---
 
