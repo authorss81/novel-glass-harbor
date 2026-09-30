@@ -18,7 +18,7 @@ The second was on a slate, four days down that coast, in the hand of a man of ab
 
 The third came in a letter with no seal on it and no name on the outside of it, put in at a counter in a harbor about nine miles up that coast by a woman of about thirty-six who keeps a light at the top of a point there, and it had been in a boat and a boat takes a day and a night, and it was on that bench stone at about four o'clock on the same afternoon.
 
-All three of them were the same figure. Ninety-four seconds from one answer to the next answer, and the two of them are not the same quantity, and this yard did not add them together and is not going to.
+All three of them were the same figure. Ninety-four seconds from one answer to the next answer, and that is not the same quantity as the forty-seven seconds under it on that other slate, and this yard did not add the two of them together and is not going to.
 
 ---
 
