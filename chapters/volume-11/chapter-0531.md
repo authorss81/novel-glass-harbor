@@ -24,7 +24,7 @@ Nobody argued with him about it and nobody thanked him and the wagons were turne
 
 ---
 
-**And at about half past ten in the morning, four hundred yards and nine miles back from where that was said, the wall behind a reeve's bench in that harbor came down bare for the eighty-seventh time, and it went up whole at the angle it has been at since the twelfth, and five people of that harbor walked past it between then and the middle of the day and not one of them put a bucket under it.**
+**And at about half past ten in the morning, four hundred yards and nine miles back from where that was said, the wall behind a reeve's bench in that harbor came down bare for the eighty-seventh time, and it went up again unrepaired at the angle it has been at since the twelfth, and five people of that harbor walked past it between then and the middle of the day and not one of them put a bucket under it.**
 
 ---
 

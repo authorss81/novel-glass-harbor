@@ -10,7 +10,7 @@ Sunday the ninth day of January, in that harbor, in about four hundred yards of 
 
 ---
 
-**The wall behind that reeve's bench came down at about half past ten in the morning and it is the eighty-eighth time it has come down bare, and it went up whole at the angle it has been at since the twelfth, and six people of that harbor walked past it between then and the middle of the day and not one of them put a bucket under it.**
+**The wall behind that reeve's bench came down at about half past ten in the morning and it is the eighty-eighth time it has come down bare, and it went up again unrepaired at the angle it has been at since the twelfth, and six people of that harbor walked past it between then and the middle of the day and not one of them put a bucket under it.**
 
 ---
 

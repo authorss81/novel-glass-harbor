@@ -10,7 +10,7 @@ Sunday the nineteenth day of December, in that harbor, in about four hundred yar
 
 ---
 
-**The wall behind that reeve's bench came down at about half past ten in the morning and it is the eighty-fifth time it has come down bare, and it went up whole at the angle it has been at since the twelfth, and five people of that harbor walked past it between then and the middle of the day and not one of them put a bucket under it.**
+**The wall behind that reeve's bench came down at about half past ten in the morning and it is the eighty-fifth time it has come down bare, and it went up again unrepaired at the angle it has been at since the twelfth, and five people of that harbor walked past it between then and the middle of the day and not one of them put a bucket under it.**
 
 **And at about ten in the morning, with the door of that shed open on the slip, the man who keeps the leaf said out loud, once, why a day of the berth fund was paid on a Sunday, and about four men who were on that slip at the time heard it and it is not the reason the last Sunday of that week carried and it is not the reason the Sunday before that carried.**
 
@@ -53,7 +53,7 @@ Nobody was asked for the rest of it and nobody thanked anybody on that Sunday, a
 
 ---
 
-**A WALL CAME DOWN BARE BEHIND THAT REEVE'S BENCH FOR THE EIGHTY-FIFTH TIME AND WENT UP WHOLE AT THE ANGLE IT HAS BEEN AT SINCE THE TWELFTH AND FIVE PEOPLE WALKED PAST IT AND NONE OF THEM PUT A BUCKET UNDER IT. A DAY OF THE BERTH FUND PAID AT TEN IN THE MORNING AND A DAY PAID AT FOUR IN THE AFTERNOON AND THE FIGURE IN CHALK DID NOT MOVE AND TWENTY-EIGHT PENCE IS IN THE BAG UNDER IT. SIX SENTENCES WERE READ OUT ONCE IN A ROOM OVER THAT MARKET ON SUNDAY AFTERNOON WITH THE READER'S OWN NAME AND THE HOUR UNDER THEM AND THE SIXTH OF THEM SAYS THAT NOBODY HAS AGREED TO ANY OF IT AND NOBODY IS ASKED TO. THERE IS A DAMP BROWN PAGE FLAT UNDER A WEIGHT ON A BOARD IN THAT ROOM AND IT IS ON NO SHEET IN THAT HARBOR. THREE MARKS ARE ON AN ENTRY AT THAT OTHER PORT WITH THE NINTH OF NOVEMBER AGAINST THEM AND THEY ARE STILL ON THE NINTH OF NOVEMBER. THE SHEET THAT CARRIES THE MONEY IS THIRTY-FIVE THOUSAND THREE HUNDRED AND FORTY-SIX PENCE SHORT AGAINST THAT YARD'S OWN BOOK.**
+**A WALL CAME DOWN BARE BEHIND THAT REEVE'S BENCH FOR THE EIGHTY-FIFTH TIME AND WENT UP UNREPAIRED AT THE ANGLE IT HAS BEEN AT SINCE THE TWELFTH AND FIVE PEOPLE WALKED PAST IT AND NONE OF THEM PUT A BUCKET UNDER IT. A DAY OF THE BERTH FUND PAID AT TEN IN THE MORNING AND A DAY PAID AT FOUR IN THE AFTERNOON AND THE FIGURE IN CHALK DID NOT MOVE AND TWENTY-EIGHT PENCE IS IN THE BAG UNDER IT. SIX SENTENCES WERE READ OUT ONCE IN A ROOM OVER THAT MARKET ON SUNDAY AFTERNOON WITH THE READER'S OWN NAME AND THE HOUR UNDER THEM AND THE SIXTH OF THEM SAYS THAT NOBODY HAS AGREED TO ANY OF IT AND NOBODY IS ASKED TO. THERE IS A DAMP BROWN PAGE FLAT UNDER A WEIGHT ON A BOARD IN THAT ROOM AND IT IS ON NO SHEET IN THAT HARBOR. THREE MARKS ARE ON AN ENTRY AT THAT OTHER PORT WITH THE NINTH OF NOVEMBER AGAINST THEM AND THEY ARE STILL ON THE NINTH OF NOVEMBER. THE SHEET THAT CARRIES THE MONEY IS THIRTY-FIVE THOUSAND THREE HUNDRED AND FORTY-SIX PENCE SHORT AGAINST THAT YARD'S OWN BOOK.**
 
 ---
 

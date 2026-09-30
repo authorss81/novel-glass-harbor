@@ -1,3 +1,44 @@
+## Volume 11 CLOSE (Chapters 501–550) and the Volume 12 outline, 30 September 2026 — THE AUDIT'S VERDICT ON THE WHOLE VOLUME, ITS FIGURES, AND THE STATE CHAPTERS 551 TO 560 INHERIT
+
+**THIS IS NOT A BATCH. IT IS THE CLOSE OF FIFTY CHAPTERS. THE AUDIT IS `reviews/volume-11/volume-11-close.md` AND IT IS THE AUTHORITY; THIS SECTION IS THE COMPACT HAND-OVER A WRITER OF CHAPTERS 551 TO 560 NEEDS AND NO MORE. EVERY FIGURE BELOW WAS RE-DERIVED OFF THE FACE OF THE FIFTY CHAPTERS BY SCRIPT AND NOT OUT OF ANY STATE FILE.**
+
+### The verdict
+
+**VOLUME 11 IS PAID, AUDITED AND CLOSED. FIVE MOVEMENTS, FIFTY DAYS, ONE DAY TO A CHAPTER, NO DAY MISSING AND NO DAY IN TWO CHAPTERS, 192,724 WORDS. SEVEN HUNDRED AND EIGHTY-EIGHT COUNTED FIGURE PAIRS EVALUATED AND NONE FAILED. THIRTY-SEVEN OF THIRTY-SEVEN LOCKS RULED AND NONE BREACHED. ONE WORD REPAIRED AT EIGHT PLACES. NOTHING ON THE POVERTY LIST IMPROVED AND NOTHING STANDING WAS PAID.**
+
+| Check | Result |
+|---|---|
+| money-and-gloss pairs, on one mark to 160 pence | **150 / 150 evaluate** |
+| running-out figures, derived by adding from the base of Ch 500 | **50 / 50 agree** |
+| shortfall figures, each its own running-out less 10,640 | **50 / 50 agree** |
+| printed four-column clauses, against 233 + *n* and 1,039 + 5*n* | **29 / 29 agree** |
+| day-counters, against base + day | **450 / 450 agree, and all nine agree on all fifty chapters** |
+| Movement 5's six lines added | **6 / 6** |
+| the bag, on each day and across the fifty | **50 / 50, and 28 + 1,680 − 1,680 = 28** |
+| the two lost boats' bills and their difference | **3 / 3, and the difference is 1,784 and not 2,104** |
+| day of the week, against the derived calendar | **50 / 50, and the count of a four-digit year is ZERO** |
+| wage Tuesdays / wipes / rota days and cistern charges | **7 / 7 / 14, with zero mismatch on any of the three** |
+| descent clocks | **8 / 8 close at twenty-five of twenty-five in three forms and no other** |
+| quote parity | **50 / 50 even, 772 marks, zero unpaired** |
+| duplicate sweep, scene prose | **five byte-identical paragraphs in three kinds, all the house's own form** |
+| duplicate sweep, apparatus | **nine, all the house's own form** |
+
+### The figures a writer of 551 to 560 needs, and no more
+
+**THE LEAF.** 283 / 1,289 / none / 125 at the close of Chapter 550, and 282 / 1,287 / none / 125 at the hour of that reading. **The base of the read-back due in Chapter 600 is 283 and 1,289 and NOT the close of Chapter 590**, and a read-back that derives from the later figure adds its own ten days twice. 283 + 50 = 333 and 1,289 + 250 = 1,539. The third column is empty and unappointed, a boy of twenty-two's hand is at the head of it, his surname is on no page, and he is not on the water. The fourth column stands at 125, has no hundred and twenty-sixth line in it, is neither closed nor struck, and **the reason it took no line is not entered again in Volume 12 and the pages say only *a day in the summer*.**
+
+**THE SHEET.** 106,646 out, being 666 marks, 7 shillings and 2 pence, against 10,640 in, being 66 marks, 6 shillings and 8 pence, and 96,006 short, being 600 marks and 6 pence. **Nothing goes in on any line in Volume 12 and the sheet is not made to balance by asking that harbor for the difference.** The mechanism is the settled form and the superseded form, and the third form — a line carrying a day other than the day the work was done — is for a line whose day is a day something was **lost, stopped or refused**, and only with that day named as what it is on the face of the line and in the yard's own mouth.
+
+**THE BAG.** 28 pence, being 2 shillings and 4 pence, against a wage of 4 marks, being 640 pence, short by 612 pence, being 3 marks 11 shillings. **It is never zero in Volume 12 either.** 168 in at ten and 168 out at four on every day including the Sundays.
+
+**THE NINE, AT THE CLOSE OF CHAPTER 550.** 248 / 250 / 588 / 354 / 172 / 127 / 142 / 159 / 90, and each one is its own base plus the day, and none of the nine is a person and none of them is anybody's fault, and no list of anybody who put nothing in is kept by anybody.
+
+**THE STAGES.** Line Diver. **Chorus Diver was taken once, in Chapter 528, and is not entered again and not improved.** Keelwright, Faultreader, Bellwright, Storm-Reader and Tide-Ear are not re-taken, not improved, not priced and not described. **The new thing Volume 12 owns is the openhand prototype, and it is a prototype, not a stage, and it settles nothing and prices nothing and may be worked in at most one chapter of any movement.**
+
+**THE CALENDAR OF VOLUME 12, WHICH IS FIXED AND IS IN `outline/volume-12.md` L1.** Fifty days from Saturday the twenty-second day of January to Saturday the twelfth day of March, one day to a chapter. **Wage Tuesdays are the twenty-fifth of January and the first, eighth, fifteenth and twenty-second days of February and the first and eighth days of March, being the sixty-sixth to the seventy-second, being seven, and that list is complete.** The cistern is charged on a Monday and a Thursday and on no other day. The wall behind a reeve's bench comes down bare on a Sunday and goes up again unrepaired and not whole.
+
+**AND THE ONE THING A WRITER OF 551 TO 560 MUST NOT DO WITH ANY OF THE ABOVE: IMPROVE IT, CLOSE IT, FILL IT, PAY IT, STRIKE IT, OR WRITE ONE WORD UNDER THE BAG SAYING ANYBODY IS GOING TO PAY IT.**
+
 ## Volume 11, Batch 0005 (Chapters 541–550), Movement 5, *three points in one night, a coast that moves without a Crown hull, and a question about a single voice* — as written, 30 September 2026. **THE CLIMAX MOVEMENT IS PAID AND THE VOLUME IS WRITTEN TO CHAPTER 550. THREE CLOSE-SEA POSITIONS WERE BROKEN ON THE NIGHT OF THE FOURTEENTH BY THREE INDEPENDENT CREWS OF EIGHT MEN IN THREE BOATS, AND THE WHOLE OF THE COORDINATION WAS THREE WRITTEN WINDOWS AND A BELL RUNG ONCE ON EACH OF THREE MARKS BY THE CREW THAT ANSWERS FOR THAT MARK, AND THERE WAS NO NAME AT THE HEAD OF ANY OF THE THREE AND THE MAN OF ABOUT THIRTY-TWO IS THE THIRD NAME DOWN ON THE FIRST OF THEM AND IS NOT THE HEAD OF ANY OF THEM. TWO BOATS WERE LOST TO THE WATER ON THAT NIGHT, NOBODY WAS KILLED, NO BODY IS NAMED, NO CASUALTY FIGURE IS PRINTED, BOTH CREWS WERE ASHORE BY SIX IN THE MORNING, AND BOTH LOSSES ARE ON THE SHEET IN PENCE AS TWO BILLS ON TWO DIFFERENT DAYS. THE RECONSTRUCTION IS PAID A SECOND TIME AT FIVE THOUSAND FIVE HUNDRED AND SEVENTY-TWO PENCE, WHICH IS NOT FIFTEEN THOUSAND THREE HUNDRED AND TWENTY PENCE. THE CONCRETE RESULT IS IN A WORKING MAN'S MOUTH AND THE VULNERABILITY IS SAID ONCE IN ELEVEN WORDS BY A MAN WHO IS NOT A MINISTER AND IS NOT THANKED. THE READ-BACK IS IN CHAPTER 550 WITH ITS OWN DERIVATION. THE QUESTION OF THE VOLUME IS ASKED ONCE AT A WORKING PLACE AND ANSWERED BY NOBODY. NOTHING WENT INTO THE SHEET IN ANY HAND, NOBODY WAS ASKED FOR ANYTHING, NOTHING ON THE POVERTY LIST IMPROVED, A PRICE DID NOT COME DOWN, NO FLOUR CAME INTO THAT MARKET, THE COLUMN DID NOT MOVE ON ITS ONE TUESDAY, THE FOUR HEADS DID NOT CHANGE, AND NOBODY WAS THANKED FOR ANYTHING ON ANY OF THE TEN DAYS.** The word counts of the ten, RE-MEASURED AFTER THE REPAIR PASS OF 30 SEPTEMBER 2026, are 4,470 / 4,447 / 5,478 / 4,625 / 4,511 / 4,206 / 4,051 / 4,116 / 4,411 / 4,043, BEING **44,358, AND THAT TOTAL IS THE SUM OF THE TEN FIGURES BECAUSE IT WAS ADDED AND NOT COPIED.** The ten were 4,459 / 4,154 / 5,183 / 4,404 / 4,138 / 4,172 / 4,042 / 4,087 / 4,365 / 4,003, being 43,007, before the repairs. All ten run above the house guideline of three thousand two hundred words and the reasons are recorded in `state/continuity.md`: Chapter 543 carries the whole night with eight descents and eight clocks and Chapter 541 carries the arranging of it, and on every page the two apparatus columns are about nine hundred words of the total. The disposition is at `state/continuity.md` § *Volume 11, Batch 0005 (Chapters 541–550) as written*.
 
 ### Chapter 541 — *Wednesday the Twelfth Day of January, Not a Rota Day and Not a Wage Tuesday and Not a Wipe, a Cart Going Down That Coast Road on Monday the Ninth of December Past and Coming Back Up at About Half Past Eleven in the Morning on the Wednesday With Three Windows and Three Bells Written on the Back of a Page in Three Different Hands, a Page of Hours Read Out Loud on That Bench Stone Before a Word of It Was Written With No Name at the Head of It, Three Crews Asked in the Same Eighteen Words and Three Answers, Eight Slates Carrying a Reason in Each Man's Own Words and the Hour and Twenty-Five Minutes of Air, a Man of About Thirty-Three Who Hires Hands Asking Out Loud Who Is in Charge and Being Answered in About Sixty Words, the Shortfall Said Out Loud Unmoved at Sixty-Five Thousand Eight Hundred and Fifty Pence*
