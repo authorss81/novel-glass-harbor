@@ -12,9 +12,9 @@ Tuesday the twenty-eighth day of December, in that harbor, in about four hundred
 
 **At about ten o'clock in the morning a clerk of the harbor authority read that column out on the step at the back of that market, and about forty people were on the boards in front of that step and about twenty of them cannot read the column on the lid, and he put his own name at the foot of the reading and the hour, and the chest with the twenty envelopes in it was shut at ten o'clock and was shut at four o'clock and the sixty-second week stands fallen due at the close of that day.**
 
-The column did not move. It has not moved since the seventh of October, when it was at twenty-five lines and one hundred marks, and the twenty-sixth line and the last four marks went in on the twenty-fourth of November and nothing has gone on it since.
+The column did not move. It has not moved since the twenty-fourth of November, when the twenty-sixth line and the last four marks went onto it and it stood at twenty-five lines and one hundred marks the week before, and nothing has gone on it since.
 
-A man at the back of that step said out loud, in front of about forty people, that there was a twelth week of this winter in there somewhere, and somebody said the twelth, and he said the twelfth, and a woman at the front of that step said that the twelfth of what, and nobody answered her, and the clerk went on reading the next line and nobody stopped him and the twelfth week of that winter went back into the column without a word.
+A man at the back of that step said out loud, in front of about forty people, that there was a twelfth week of this winter in there somewhere, and somebody else said the twelfth, and he said the twelfth week, and a woman at the front of that step said the twelfth of what, and nobody answered her, and the clerk went on reading the next line and nobody stopped him and the twelfth week of that winter went back into the column without a word.
 
 ---
 
