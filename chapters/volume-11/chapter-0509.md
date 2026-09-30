@@ -24,7 +24,7 @@ They had come up those stairs because there is nowhere else in that harbor to si
 
 Nobody in that room said anything for a moment. About a dozen people were in it and about five of them cannot read the schedule that was read out in that market on the Thursday.
 
-**A ropemaker of about sixty-one, who is not in her room on a Sunday and has not been in one for two years, and who is not a member of anything, and who is not on a list of anything, and whose name is not on that sheet on any line, said four words from about nine feet back.**
+**A ropemaker of about sixty-one, who is not in a room of her own on a Saturday and has not had one for eleven years, and who is not a member of anything, and who is not on a list of anything, and whose name is not on that sheet on any line, said four words from about nine feet back.**
 
 "Nobody is keeping that."
 

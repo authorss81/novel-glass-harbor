@@ -60,7 +60,7 @@ Nobody asked him a second question about it. A man of about fifty-eight of the s
 
 "Bread and salt beef for nine men for ten days. One thousand six hundred pence, being ten marks. That is the figure I paid the same victual at on the twenty-third day of November and it is the figure I have paid it at every other time and I am not carrying it anywhere else."
 
-"And then four days apiece to the same four men in advance, being six hundred and seventy-two pence, being four marks, two shillings and eightpence. That is four men at one hundred and sixty-eight pence apiece, being a day apiece at the figure in chalk, and the four of them are not on this sheet and are not counted on it and their names are in the book the days are paid from and not here."
+"And then a day apiece to the same four men in advance, being six hundred and seventy-two pence, being four marks, two shillings and eightpence. That is four men at one hundred and sixty-eight pence apiece, being a day apiece at the figure in chalk, and the four of them are not on this sheet and are not counted on it and their names are in the book the days are paid from and not here."
 
 He wrote the third day of December against both of them and put the pen down flat.
 
