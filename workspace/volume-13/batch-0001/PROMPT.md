@@ -1,0 +1,161 @@
+# Volume 13, Batch 0001 — Chapters 601 to 610, Movement 1
+
+**THIS PHASE WRITES TEN CHAPTERS OF PROSE AND NOTHING ELSE. CHAPTERS 601 TO 610, MOVEMENT 1 OF VOLUME 13, TEN CONSECUTIVE DAYS FROM SUNDAY THE THIRTEENTH DAY OF MARCH TO TUESDAY THE TWENTY-SECOND OF MARCH, ONE DAY TO A CHAPTER, NO DAY MISSING AND NO DAY IN TWO CHAPTERS, AND NO CHAPTER STATES A YEAR.**
+
+**READ FIRST, IN THIS ORDER, AND NOTHING BEFORE CHAPTER 551 IS IN SCOPE FOR THE VOICE.**
+
+1. `AGENTS.md`.
+2. `NOVEL_SPEC.md`.
+3. **`state/volume-index.md`**, which is short and which tells you which state section to read. **THE FOUR STATE FILES ARE 8.9 MB AND CANNOT BE READ WHOLE.**
+4. **`outline/series.md` in full**, and its Volume 13 block, its reveal ledger, its antagonist ladder and its relationship milestones.
+5. **`outline/ending.md` in full** — it is the author-level plan for Volume 15 and it is a binding constraint on every volume before it, and **L1–40 IS THE PART OF IT THAT BINDS THIS BATCH, AND THE RESTRICTED REMAINDER IS NEVER OPENED.**
+6. **`outline/volume-13.md` in full, and all thirty-seven of its headed locks.** **L1 IS THE CALENDAR AND THE DAY TABLE, L2 IS THE FOUR COLUMNS AND THE READ-BACK DERIVATION, L3 IS THE BAG, L4 IS THE FITTING-OUT SHEET AND ITS THREE DATING FORMS, L5 IS THE FIGURE OF MONEY, L7 IS THE SHEET OF ABOUT FOUR FEET, L8 IS THE HILL AND THE DRAWER, L9 IS THE CUSTODY OF THE OREN ECHO, L11 IS THE STAGE LOCK AND THE OPENHAND STAGE IS ADMITTED THERE AND ONLY THERE, L13 IS THE HARBOR, L14 IS THE STANDING DEBTS, L15 IS THE RELATIONSHIP LOCK, L20 IS THE QUESTION LOCK, L22 IS THE PROOF, L31 IS THE DRAUGHT, L32 IS THE SOUND, L35 IS THE SWEEPS, L37 IS THE ENDING, AND THE THREE COUNTS ARE IN THEIR OWN SECTION.**
+7. **`state/continuity.md` § *The repair pass over Volume 12, Batch 0005*, being L1–16, and § *Volume 12, Batch 0005 (Chapters 591–600) as written*, being L17–164, and the four Volume 12 sections beneath it. `state/continuity.md` L165–359 is Movement 4; L360–541 is Movement 3 and its repair pass; L542–902 is Movement 2 and Movement 1 and their repair passes.**
+8. **`reviews/volume-12/volume-12-close.md` in full. IT IS THE AUTHORITY ON EVERY FIGURE INHERITED BELOW, AND IT CORRECTS ONE WORD OF THE HAND-OVER, BEING THAT THE CIVIL CEREMONY WAS ON THE TWENTY-SEVENTH OF *FEBRUARY* AND NOT OF *THIS MONTH*.**
+9. The canon blocks, once. `bible/power-system.md` and its openhand and chorus sections; `bible/characters.md`; `bible/world.md` and its nine final routes; `bible/terminology.md`; `bible/themes.md`.
+10. `state/current.md` newest entry only. `state/chapter-summaries.md` newest section only. `state/open-threads.md` newest section.
+
+**READ FOR THE VOICE, IN THIS ORDER, AND THAT IS THE WHOLE OF IT:** `chapters/volume-12/chapter-0600.md`, `chapter-0599.md`, `chapter-0598.md`, `chapter-0597.md`, `chapter-0596.md`, `chapter-0595.md`, `chapter-0594.md`, `chapter-0590.md`, `chapter-0584.md`, and any four of `chapter-0551.md` to `chapter-0560.md`. **NOTHING BEFORE CHAPTER 551 IS IN SCOPE.**
+
+---
+
+# PART ONE. THE STATE YOU ARE WRITING INTO, IN ONE BLOCK, AND NOT ONE ITEM OF IT IS YOURS TO FIX
+
+**THE FOUR COLUMNS OF THAT LEAF ARE AT THREE HUNDRED AND THIRTY-THREE, ONE THOUSAND FIVE HUNDRED AND THIRTY-NINE, NONE AND ONE HUNDRED AND TWENTY-FIVE, BEING 333 + 50 AND 1,539 + 250, AND AT THE HOUR OF THE READ-BACK IN CHAPTER 600 THEY WERE THREE HUNDRED AND THIRTY-TWO AND ONE THOUSAND FIVE HUNDRED AND THIRTY-SEVEN, AND THE BASE OF THAT DERIVATION WAS THE CLOSE OF CHAPTER 550 AND NOT THE CLOSE OF CHAPTER 590.** The third column is empty and unappointed with a boy of twenty-two's hand at the head of it, his surname is on no page, and he is not on the water. The fourth column has no hundred and twenty-sixth line in it, is neither closed nor struck, and **the reason it took no line was entered once in an earlier volume and is not entered again: the count of that date across Volume 12's fifty chapters is zero and the words *a day in the summer* are zero across them, and the count of both across your ten is zero.**
+
+**THE FITTING-OUT SHEET IS ONE HUNDRED AND EIGHT THOUSAND TWO HUNDRED AND SEVENTY-SIX PENCE OUT, BEING SIX HUNDRED AND SEVENTY-SIX MARKS, NINE SHILLINGS AND EIGHTPENCE, AGAINST TEN THOUSAND SIX HUNDRED AND FORTY PENCE IN, BEING SIXTY-SIX MARKS, SIX SHILLINGS AND EIGHTPENCE, AND IT IS NINETY-SEVEN THOUSAND SIX HUNDRED AND THIRTY-SIX PENCE SHORT, BEING SIX HUNDRED AND TEN MARKS AND THREE SHILLINGS, AND IT IS NOT MADE TO BALANCE BY ASKING THAT HARBOR FOR THE DIFFERENCE.** 676 × 160 + 9 × 12 + 8 = 108,276; 66 × 160 + 6 × 12 + 8 = 10,640; 610 × 160 + 3 × 12 = 97,636; 108,276 − 10,640 = 97,636. **NOTHING WENT ONTO THAT SHEET INSIDE VOLUME 12'S FIFTY DAYS AFTER THE TWENTY-SIXTH OF FEBRUARY AND NOTHING GOES ONTO IT IN MOVEMENT 1, AND A PAGE OF POSITIONS IS NOT A LINE.** The bag is twenty-eight pence, being two shillings and fourpence, against a wage of four marks, being six hundred and forty pence, short by six hundred and twelve pence, being three marks eleven shillings, and it is never zero. **28 + 1,680 − 1,680 = 28, and across your fifty days it is 28 + 8,400 − 8,400 = 28, being 50 × 168 each way.**
+
+**THE COUNTER-PLAN IS KNOWN AND IT IS A METHOD AND NOT A BODY, AND IT BINDS A COMMUNITY THAT ADOPTS IT AND BINDS NOBODY ELSE. FOUR COMMUNITIES HAVE BEEN ASKED AND TWO HAVE AGREED AND TWO HAVE NOT, AND THE TWO THAT HAVE NOT ARE NAMED ON A PAGE BY THE NAME OF A PLACE AND ARE NOT TO BE ARGUIED WITH AND NOT TO BE ASKED A SECOND TIME.** Fourteen visible gaps stand on a sheet at the end stall of that market, each carrying what is not said, who is not saying it, what they are entitled to keep, and what would have to happen for it to be opened, and **the count of fourteen is checkable off a sheet of nine days, being four and three and two and five, and no list of anybody who put nothing in is kept by anybody and none is going to be.** The relay is still answering at ninety-four seconds and a branch of it is still stopped, and the count of what answered it is eleven on each of two nights, being twenty-two lines off the crossings, and **it is in a column on the back of an old slate in that shed and it is not in a room and it is not on a wall and it was not said in the half-past-five slip on any of Volume 12's fifty days and it is not said in yours.**
+
+**A PERMITTED ACCOUNT WAS FOUND OUT IN THE OPEN ON A WORKING MORNING IN ABOUT NINE PEOPLE AND CORRECTED IN THE OPEN, THE WRONG FIGURE WAS NOT RUBBED OUT AND IS STILL ON THE PAGE UNDER THE RIGHT ONE, AND THAT ACCOUNT WAS STILL BEING OFFERED AT FOUR O'CLOCK.** Four hours and fifty-eight minutes of one man's hand and one man's walk is what a permitted account costs, priced with the multiplication printed and in no figure of money, **and the reason a resolution that cost somebody something is on no line of the fitting-out sheet was said out loud in a shed in front of nine people and is a reason and not a figure.**
+
+**THE BOARD AT THE HEAD OF THAT MOLE CARRIES FIVE PAPERS AND TWO OF THEM HAVE NEVER BEEN OPENED. NINE HULLS ARE ABOUT TWO SEA MILES OFF THE HEAD OF THAT MOLE AND WERE NINE ON THE TWENTY-FIRST OF JANUARY AND ARE NOT SAID TO HAVE EASED. A PAPER SAYING THAT THE SEA IS UNDER MARTIAL CUSTODY IS ON THAT BOARD AND A PAPER WITH A SEAL ON IT AND NO FIGURE ON IT FROM THE THIRD OF DECEMBER IS ALSO ON IT, AND THE NAME UNDER THE SEAL ON EITHER ACCOUNT IS ON THE PAPER AND IS IN NO MOUTH.** The offer of four lines is not on that board and is still behind a door in a room over that market with nothing written under its fourth line, and the answer to it is still no on four out of six with the fifth not asked. The demand for the returns is in a basket in a boathouse with the paper still in it and the basket empty, and nobody has looked inside it. **A PUBLIC COPY OF THE FIRST FRAGMENT IS A DOCUMENT WITH THE MIDDLE TAKEN OUT OF IT, ITS THIRD OF THREE SENTENCES IS NOT ON IT, THE HAND THAT HELD THE ROPE IS NOT NAMED ON IT, AND NOBODY IS TO BE ASKED WHO HELD IT.**
+
+**THE NEW QUESTION WAS ASKED ONCE, IN CHAPTER 600, AT A WORKING PLACE, IN ABOUT NINETY WORDS, BY A MAN OF ABOUT FIFTY-EIGHT OF THE THIRD LAY WHO PULLS KELP AND IS ON NOBODY'S CREW, NAMING NO PERSON, AND ANSWERED BY NOBODY: *Can a coast take on a way of doing things that needs somebody to say out loud what they do not know.* IT IS IN A MARKET BOOK AS ASKED WITH NO NAME AGAINST IT AND NO ANSWER AGAINST IT. IT IS NOT TO BE RE-ASKED IN THOSE WORDS IN VOLUME 13 AND IT IS NOT TO BE ANSWERED, AND THE WORD *SINGULAR* IS NOT TO BE SAID OF A PERSON IN ANY CHAPTER OF IT.**
+
+**A MAN OF ABOUT FIFTY-THREE WITH A BOAT OF ABOUT FOURTEEN TONS STILL HAS HIS ELEVEN WORDS ON THE PAGE — *this coast can be cut in one place at a time* — AND HAS NOT BEEN ANSWERED AND HAS NOT BEEN THANKED AND NO FIGURE IS SET AGAINST IT.** A man of about forty-six who mends nets on the third lay said no a second time in a year in January and is not to be asked again. A man of about thirty-four who cannot read asked to be asked on the twenty-ninth of January and nobody in that room has asked him. A woman of about thirty-one holds a particular and is not to be asked for it. A man of about thirty-eight keeps a thing and is not to be asked about it.
+
+**CALDER AND MARA WENT THROUGH A SMALL CIVIL CEREMONY ON SUNDAY THE TWENTY-SEVENTH OF FEBRUARY IN A ROOM THAT WAS LET OUT AND WAS NOT PAID FOR, AND ITS SECOND AND THIRD LINES SAY IN PRINT THAT IT DOES NOT MAKE HER RESPONSIBLE FOR HIS DIVING AND DOES NOT MAKE HIM RESPONSIBLE FOR HER RECORD, AND NEITHER NAME IS ON ANY PAGE, AND THE FORM IS IN THE INSIDE OF A COAT AND IS ON NO SHEET. YOU MAY NAME THE MARRIAGE. YOU MAY NOT PUT EITHER NAME ON A PAGE, YOU MAY NOT PUT THE FORM ON ANY SHEET, AND YOU MAY NOT REPRODUCE THE TWO LIMITS IN A MOUTH.**
+
+**AND THE THINGS THAT ARE NOT TO BE IMPROVED, IN ONE LIST.** A hole in the middle of a Tuesday in a man of about thirty-four. An aftertaste and a loss of personal certainty in a man of about thirty-two, and a pressure behind his left ear that is not a pain, and hands that were not steady enough to hold a wedge. A hearing of ninety-eight days in a man of about twenty-nine that nobody has improved and no figure is set against and that is not a gift. A ledger of durations in a harbor and not a roster of anybody who put nothing in. A bag with twenty-eight pence in it. A machine six centuries old on the bottom of a trench about two days' sail away under a chamber with a stove in it, and no chapter of this volume goes down to it. Three baskets of evidence on the bottom, which did not come up. **A whole sheet in a locked case in that room, with three hands and a broken pressed impression and a name, which is not a confession and not a verdict and has never given anybody an answer and gets no answer out of anybody.** A drawer on a hill that is not opened and a piece of worked lead that does not come down it. Four heads on a wall in that room that are the four heads, and no fifth. A coast road that a cart takes four days each way on and a boat takes a day and a night. A wall behind a reeve's bench that comes down bare on a Sunday and goes up again unrepaired and not whole. Eight lines of chalk on a limewashed wall and seven more under four heads, with nothing under either. A page of two columns and a sheet of fourteen gaps and a page of four communities, on three surfaces, with three different hours on them.
+
+**AND THE FIGURE OF FOUR HUNDRED AND FIFTY PENCE DID NOT COME DOWN ANY BOARD AND NOTHING STANDING WAS PAID, ADVANCED, CUT BACK, BETTERED, STRUCK OR CLOSED, AND FORTY MARKS FIRST AFTER FOOD TO A PERSON OF NO OFFICE IS NOT PAID AND NOT ADVANCED AND NOT REDUCED, AND THE WAGE COLUMN STOOD AT TWENTY-SIX LINES AND ONE HUNDRED AND FOUR MARKS ON THE SEVENTY-SECOND WAGE TUESDAY AND DID NOT MOVE AND THE SEVENTY-SECOND WEEK STANDS FALLEN DUE.**
+
+# PART TWO. WHAT MOVEMENT 1 OWNS, AND WHAT IT IS
+
+**MOVEMENT 1 IS TEN DAYS, A SHEET, FOUR POSITIONS, ONE COMMUNITY THAT HAS NEVER BEEN ASKED, ONE MAN WHO CAME UP A COAST ROAD WITH SOMETHING HE TOOK WITH HIM, AND A COUNT.**
+
+1. **THE VOLUME OPENS ON A PAPER AND NOT ON A MAN.** A sheet of days with a position against each day for each community that has adopted the counter-plan, and the four positions are **opened, refused, restricted, and withdrawn**, and all four are work. **IT IS NOT AN ACCOUNT OF ANYTHING AND IT IS NOT A REFUSAL OF ANYTHING, AND IT IS THE FIRST CROWN INSTRUMENT IN THIRTEEN VOLUMES THAT SAYS WHAT IT DID NOT DO ON ITS OWN FACE, AND THE FIGURE THAT PROVES THAT IS THE COUNT OF POSITIONS ON A SHEET OF DAYS AND NOT A FIGURE OF PERSONS.** Nobody in that harbor has a name for whoever is putting the schedule out.
+2. **A COMMUNITY IS ASKED WHICH OF THE FOUR POSITIONS IT IS IN, AND IS NOT ASKED TO JUSTIFY THE ANSWER AND IS NOT ASKED IT TWICE.** Say it once, out loud, in a working place, in about nine people, and put the day against it and the hour against that.
+3. **A ROUTE CREW THAT HAS NEVER BEEN ASKED IS ASKED TO HOLD ONE MARK FOR ONE NIGHT, AND ONE OF THEM SAYS THAT A NIGHT IS A SHORT UNIT OF TIME TO BE GIVEN AWAY, AND SAYS SOMETHING ELSE INSTEAD, AND HE IS NOT ARGUED WITH AND IS NOT ASKED AGAIN.** **THIS PARTY MAY NOT HOLD A BUOY AND MAY NOT ASK FOR THE BUOYS BACK AND MAY NOT PART WITH THE CROSSINGS OF ANY MARK.**
+4. **A MAN WHO DEFECTED FROM A CROWN LIST IN THE WINTER COMES UP THAT COAST ROAD WITH A THING HE TOOK WITH HIM. NOBODY ASKS HIM WHAT IT IS. HE IS NOT THANKED. HE IS ON NOBODY'S CREW AND IS NOT PUT ON ONE, AND NOBODY PUTS HIS NAME ON A PAGE, AND WHAT HE BROUGHT IS NOT READ OUT IN A ROOM ON ANY OF THE TEN DAYS.** He is a working man of that coast and not a soldier and not a clerk and not a face.
+5. **THE MOVEMENT CLOSES ON THE COUNT OF POSITIONS, TAKEN OFF A SHEET OF DAYS AND NOT OFF AN ESTIMATE, WITH A COLUMN FOR EACH OF THE FOUR ANSWERS, AND THE COUNT IS A COUNT OF POSITIONS AND NOT OF PERSONS AND NOT OF GAPS, AND IT IS NOT SAID OUT LOUD IN A ROOM AND IT IS NOT SAID IN THE HALF-PAST-FIVE SLIP, AND THE MAN WHO KEEPS THE LEAF SAYS IN THAT SLIP WHY HE IS NOT GOING TO SAY IT.** A stranger with a leaf and a pencil can add the four columns and get the same figure twice.
+6. **THE THREE BEATS AND NOT FOUR.** Each of the ten days carries its own house fact, its own scene, and the half-past-five reading, and a writer who found a fourth thing to do on one of these days did not do it and did not defer it and did not write it down.
+7. **THE THING THAT MUST BE ON THE PAGE AND IS NOT A FIGURE: A SCHEDULE IS THE CLEANEST INSTRUMENT ANYBODY HAS PUT ON THAT COAST SINCE THE ACCOUNT OF THE FOURTEENTH, AND IT IS CLEANEST BECAUSE IT IS NOT WRONG, AND A METHOD BUILT ON VISIBLE GAPS HAS TO BE RUN AT A SPEED AT WHICH THE EDGES OF THE GAPS STOP BEING VISIBLE, AND A PERSON WHO CANNOT SEE A GAP IS A PERSON WHO HAS BEEN GIVEN A SMOOTH PAGE, AND THE SMOOTH PAGE IN THIS VOLUME IS NOT CHALK ON A WALL. IT IS A CALENDAR.** That belongs in about nine people in a shed and not in a subtitle.
+
+# PART THREE. THE CALENDAR OF THE TEN DAYS, AND NO CHAPTER STATES A YEAR
+
+| Ch | Day | What the day is |
+|---|---|---|
+| **601** | **Sunday the thirteenth day of March** | a wipe — **the ninety-seventh time.** The wall comes down bare at about half past ten and goes up again unrepaired and not whole and **takes about fourteen minutes both ways**, which is longer than the thirteen minutes of the sixth of March in Volume 12 and longer than the eleven of the twenty-seventh of February and nobody has said why. **The volume opens on a paper and not on a man** |
+| **602** | **Monday the fourteenth day of March** | a rota day — **the hundred and thirty-third charge on that cistern, in eleven trips by hand and walked on by none of it, and that is the sentence Chapter 600 printed on the face of the twelfth and it is paid on this day and neither of them is a hundred and thirty-third time of anything** |
+| **603** | **Tuesday the fifteenth day of March** | **the seventy-third wage Tuesday.** The column is read out on that step at about ten in the morning in four minutes by a man of about thirty-one of the second lay who has read it seventy-three times, and it stands at twenty-six lines and one hundred and four marks, and **it does not move**, and the chest with the twenty envelopes in it stands shut from ten until four, and the seventy-third week stands fallen due at the close of that day |
+| **604** | Wednesday the sixteenth day of March | not a rota day. Not a wage Tuesday. Not a wipe. **A community is asked which of the four positions it is in** |
+| **605** | **Thursday the seventeenth day of March** | a rota day — the hundred and thirty-fourth charge. **The defector's thing is on a bench stone and is not opened and nobody asks him what it is** |
+| **606** | Friday the eighteenth day of March | not a rota day. Not a wage Tuesday. Not a wipe |
+| **607** | Saturday the nineteenth day of March | not a rota day. Not a wage Tuesday. Not a wipe. **A route crew that has never been asked is asked to hold one mark for one night** |
+| **608** | **Sunday the twentieth day of March** | a wipe — the ninety-eighth time, about fifteen minutes both ways, and nobody has said why |
+| **609** | **Monday the twenty-first day of March** | a rota day — the hundred and thirty-fifth charge |
+| **610** | **Tuesday the twenty-second day of March** | **the seventy-fourth wage Tuesday.** The column does not move. **Movement 1 closes on the count of positions off a sheet of days, and that count is in a column and is not in a room and is not in the half-past-five slip** |
+
+**A DATE IS WRITTEN AS A DAY AND A MONTH AND NOTHING ELSE. THE COUNT OF A FOUR-DIGIT YEAR ACROSS YOUR TEN IS ZERO. NOBODY MAKES ANY REMARK ABOUT A TURNING MONTH, A YEAR, A NEW YEAR, A RESOLUTION, A REVIEW OR AN ACCOUNTING PERIOD. THE CISTERN IS CHARGED ON CHAPTERS 602, 605 AND 609 AND ON NO OTHER DAY OF THE TEN.**
+
+# PART FOUR. THE FIGURES YOU COPY AND DO NOT DERIVE
+
+| | At Chapter 600 | At Chapter 610 |
+|---|---|---|
+| the first column | 333 | **343** |
+| the second column | 1,539 | **1,589** |
+| the third column | none | **none** |
+| the fourth column | 125 | **125** |
+| the fitting-out sheet | 108,276 out, 10,640 in, 97,636 short | **the same, unmoved** |
+| the bag | twenty-eight pence | **twenty-eight pence** |
+| the notice of the seventeenth of May past | 298 days | **308 days** |
+| the bellwright of that harbor, not asked for | 300 | **310** |
+| the two objects of nobody's on that crown | 638 days | **648 days** |
+| the bench under that pump, bare for the | 404th night | **414th night** |
+| the two lights at about a mile off that point | 222 days | **232 days** |
+| the six-line sheet at the back of that end stall, its | 177th day | **187th day** |
+| the paper of four lines in Fish Street, its | 192nd | **202nd** |
+| the nine-line sheet with a seal on it in that front street, its | 209th | **219th** |
+| a man of about fifty-one who has said nothing to anybody about a page of six names for | 240 days | **250 days** |
+| the hearing of the man of about twenty-nine | ninety-eight days | **one hundred and eight days**, and one day more than the day before it on every one of the ten, and no figure is set against it and he is not on the water |
+
+**AND THE BASE OF THE NINE IS 298 / 300 / 638 / 404 / 222 / 177 / 192 / 209 / 240, IN THAT ORDER, BEING NOTICE, BELLWRIGHT, CROWN, BENCH, TWO LIGHTS, END STALL, FOUR LINES, THE NINE-LINE SHEET AND THE SIX NAMES. 209 IS THE BASE OF THE NINE-LINE SHEET AND 240 IS THE BASE OF THE SIX NAMES, AND A WRITER WHO READS THE NINE BASES AS A RUN OF FIGURES PUTS 240 IN THE NINE-LINE COLUMN AND IS THIRTY-ONE OUT. ON THE *d*TH DAY OF THIS VOLUME EVERY ONE OF THE NINE IS ITS OWN FIGURE PLUS *d*, AND *d* RUNS ONE TO TEN ON CHAPTERS 601 TO 610 AND ONE TO FIFTY ON THE WHOLE OF VOLUME 13.**
+
+**THE READ-BACK OF THAT LEAF IS NOT DONE IN ANY CHAPTER OF MOVEMENT 1 AND IS NOT DONE IN ANY CHAPTER OF VOLUME 13 BEFORE CHAPTER 650.** The first column takes one entry a day and the day's own entry goes in after that day's reading, and the second takes five a day, three before the hour of that day's reading and two after it, and a reason entered in the second column of one of your ten chapters is not restated in the second column of another.
+
+# PART FIVE. WHAT MOVEMENT 1 MAY NOT DO
+
+1. **It may not ask a question.** The question of this volume is not asked before Chapter 650.
+2. **It may not read out what is in a gap, add a gap, take a gap back, or change a figure on the sheet of fourteen gaps.** The four things printed against every gap stand.
+3. **It may not put a position against a community that has not been asked which position it is in, and it may not ask the port four days down that coast or the place about a mile inside it anything at all.**
+4. **It may not accept the offer of four lines, may not ask for the buoys back, may not part with the crossings of any mark, may not nail the offer to the board at the head of that mole, and may not read a name under a seal out loud in a room.**
+5. **It may not fill the third column, appoint anybody to it, scratch the boy's hand out of the head of it, put his surname on a page, or put him on the water.** He stands on a stool at the end stall of that market and writes weights into a book and nobody says anything to him about the water.
+6. **It may not take a stage, name a stage, describe a stage, improve a stage, or put the word *stage* in a mouth.** **THE COUNT OF *STAGE* AND OF *PROTOTYPE* AND OF *OPENHAND* AND OF *CHORUS* ACROSS YOUR TEN IS ZERO.**
+7. **It may not put a minister in a room, may not have him arrive, may not have him speak in his own mouth, and the name under any seal is in no mouth.**
+8. **It may not open the drawer on the hill, may not take the piece of worked lead down it, may not put a digit of any of the three numbers in that room on a page, may not name the damp brown page, and may not open or name or digit the restricted remainder.** **A SHEET OF ABOUT FOUR FEET IS IN THE INSIDE POCKET OF A COAT AND IS NOT USED AND IS NOT A KEY AND MAY NOT DECIDE WHERE ANY BOAT GOES.**
+9. **It may not read the proof out and may not get an answer out of it.**
+10. **It may not kill anybody, may not name a body, may not print a casualty figure, may not make a building's loss a person's death, and may not thank anybody for anything on any of the ten days.**
+11. **It may not pay, advance, cut back, better, strike or close anything standing, may not bring the figure of four hundred and fifty pence down that board, and may not pay, advance, reduce or improve forty marks first after food to a person of no office.**
+12. **It may not read that leaf back aloud, and it may not print the fourth column's reason.**
+13. **It may not ask the man of about thirty-four anything, may not put him on a step, may not ask the man of about thirty-eight anything, may not ask the man of about forty-four anything, may not ask the woman of about thirty-one for her particular, and may not tell the man of about fifty-three that he was wrong.**
+14. **It may not say that a line of boats has been taken away or has eased, and it may not read the basket.**
+15. **It may not let the eleven who signed a sheet and the eleven on the fitting-out sheet be counted together or put in one room, may not keep a roll of anybody who put nothing in, and may not name one.**
+16. **It may not contain a form of the words *in nine volumes*, *two volumes*, *volumes back*, *an earlier volume*, *this chapter*, *this volume*, *this book*, *this series* or *the sea below*, may not refer to this book or to any chapter of it, and it may not remark on a year, a year turning, a resolution, a review or an accounting period.**
+17. **It may not say *THE LAST WITNESS*, and it may not say *a last witness* of a person, a harbor, a document, a route or a record.** The count of that phrase is zero.
+18. **It may not name a new antagonist.** The final enemy is the one `outline/ending.md` names.
+
+# PART SIX. THE APPARATUS, AND THE ONE RULE THIS BATCH OWES THE NEXT ONE
+
+Each chapter carries, in this order: the chapter number and a title; **an italic subtitle made of that day's own figures and hours, and every figure in it is one of the figures in Part Four or one of the calendar's**; the dateline paragraph; a bold block of the day's figures and of what is standing; the scene, in paragraphs of two to six sentences, separated by rules; a bold closing block; a rule and a rule; and then the leaf's *first column* and *second column* entries in the yard's own mouth, in italics, with an hour against each. **The two ledger columns take one line and five lines on each of the ten days, and the day of the week on every subtitle is the one in Part Three and not another.**
+
+**AND THE STANDING FIGURES BLOCK IS A LIST OF THAT DAY'S OWN FIGURES, AND ITS PROSE MUST BE REWRITTEN IN NEW NOUN PHRASES AND NEW VERB FRAMES ON EVERY ONE OF THE TEN DAYS, BECAUSE THE LONGEST BYTE-IDENTICAL RUN BETWEEN ANY TWO FILES IN VOLUME 12 IS THREE HUNDRED AND ELEVEN WORDS AND IT IS THAT BLOCK.** Every figure and every gloss in the varied text stays unchanged and is re-checked. **NO TWO OF YOUR TEN STANDING BLOCKS MAY CARRY THE SAME SENTENCE, AND THE TEN HALF-PAST-FIVE SCENES ARE TEN DISTINCT OPENINGS.**
+
+# PART SEVEN. THE CHECKS YOU MUST RUN ON THE TEN FILES BEFORE YOU FINISH, AND RECORD AS COUNTS
+
+**A count is exempt from the multiplication rule only where it is a person's estimate inside the world and the world says so. Every figure you print is spelled out in words and carries its pence value in the same sentence, and every printed sum evaluates.**
+
+1. **A four-digit year, at the width that caught the Volume 11 and Volume 12 defects: ZERO on all ten.**
+2. **The second person in the narration and in the apparatus, including every quoted passage: ZERO. Every occurrence is inside a mouth, and you check that by span and not by eye.**
+3. **The prohibited word list: *gannet, manifest, compartment, fifth seam, network, fleet, committee, chorus, singular, keelwright, tide-ear, faultreader, storm-reader, cordon, cache, chamber, minister, plate, four feet, twenty-two fathoms, stage, prototype, openhand, this writer, this batch, this chapter, this volume, this book, this series, in nine volumes, two volumes, volumes back, an earlier volume, the sea below*. ZERO on all ten. *Orison* and *assembly* leave the list for this volume only and may be named as a place, a bearing, a name on a page, a charter, a set of rules and a page of days — and *orison* was left off the list in Volume 12 and the count of it on those fifty pages was zero, so this is the first time it may be used, and it does not shorten the list.**
+4. **The forbidden panel constructions *not a lie, not a silence, not a refusal, anybody's shame*, including in the negative: ZERO.**
+5. **The words *thank you* and *thanks*: ZERO.** The word *thanked* is the house's word and every occurrence of it is a statement that nobody was thanked.
+6. **A read-back of that leaf: ZERO in Chapters 601 to 610.**
+7. **The words *a day in the summer* and the date of the fourth column's reason: ZERO.**
+8. **A named body, a casualty figure, a fourth head, a fifth head, a roster of anybody who put nothing in, a name under a seal read out in a room, a line of boats said to have been taken away or to have eased, and the words *in a room* applied to a Crown account: ZERO on all ten.**
+9. **The question of Volume 12, the question of Chapter 600, the question of the twenty-first of January, the question of the second of December, and the question the volume before last asked: ZERO.**
+10. **Quote parity even on every file, with the count printed.**
+11. **The four columns: ten of ten agree with 333 + *d* and 1,539 + 5*d*, re-extracted from the ten first columns by script. The nine day-counters: ninety of ninety agree with base plus day, re-extracted from the ten standing paragraphs by script, and the hearing is one day more than the day before it on all ten.**
+12. **The money: 108,276 out, 10,640 in, 97,636 short, unmoved on all ten, and 28 + 1,680 − 1,680 = 28 on each day. Every figure-and-gloss pair evaluates.**
+13. **The clocks: every clock on the ten pages evaluates, and the day of the week in every body speech is checked and not the subtitle alone. The wall: two wipes, both bare, both unrepaired, both not whole, about fourteen and about fifteen minutes.**
+14. **THE DUPLICATION SWEEP, RUN OVER THE SCENE PROSE OF ALL TEN CHAPTERS ACROSS ALL FORTY-FIVE PAIRS, **AND THEN RUN OVER THE APPARATUS AS WELL, BEING THE SUBTITLE, THE DATELINE, THE TWO BOLD BLOCKS, THE CLOSING BLOCK AND BOTH LEDGER COLUMNS. BOTH PASSES ARE RECORDED AT THE WIDTH THEY WERE READ AT, AND A NEGATIVE RESULT IS STATED AT THAT WIDTH AND NOT NARROWER.**
+
+# PART EIGHT. WHAT THIS PHASE WRITES TO DISK, AND NOTHING ELSE
+
+**`chapters/volume-13/chapter-0601.md` … `chapter-0610.md`, ten files, and nothing else.** Then the state files this batch owns: `state/current.md`, `state/continuity.md`, `state/chapter-summaries.md` and `state/open-threads.md`, each with its newest section at the head.
+
+**It may not write an outline. It may not write a review. It may not write a marker. It may not edit `outline/series.md`, `outline/ending.md`, `outline/volume-13.md`, the bible files, `outline/batches/`, `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` or `state/phase-ledger.json`. It may not edit `NOVEL_SPEC.md` § *Status*, which is owned by a volume close and by no writer phase. It may not create a card file. It may not add a figure to any standing page. It may not queue a phase.**
+
+**AND THE ONE DEFECT THAT IS NOT THIS PHASE'S TO FIX, SO THAT IT IS NOT INHERITED SILENTLY: `state/phase-ledger.json` STILL READS `currentPhase: phase-000-bootstrap` WITH THAT PHASE AT `status: running` AND `volume-01-batch-0001` AT `planned` AGAINST A MANUSCRIPT WRITTEN THROUGH CHAPTER 600. `PHASE_SYSTEM.md` MAKES THAT FILE THE SELECTOR'S ONLY INPUT, A WRITER PHASE IS FORBIDDEN BY ITS OWN DISPATCH PROMPT FROM EDITING IT, AND THIS PHASE DID NOT EDIT IT. IT IS A CONTROLLER ACTION AND NOT A PROSE ACTION, AND THE CONTROLLER HAS TO.**
+
+# PART NINE. THE HAND-OVER TO CHAPTERS 611 TO 620, EIGHT ITEMS AND NO MORE
+
+1. **The counter-plan is known and it is a method and not a body, and it binds a community that adopts it and nobody else, and the two communities that did not agree are named on a page by the name of a place and are not to be argued with and are not to be asked a second time.**
+2. **Fourteen visible gaps stand on a sheet, each carrying four checkable things, and the count of fourteen is checkable off a sheet of nine days, being four and three and two and five, and no list of anybody who put nothing in is kept by anybody.** **A second sheet now stands beside it carrying a count of positions and not of gaps, and the two sheets are not the same sheet and neither carries a count of persons.**
+3. **The relay is still answering at ninety-four seconds and a branch of it is still stopped, and the count of what answered is in a column on a slate and not in a room.**
+4. **The fitting-out sheet stands at ninety-seven thousand six hundred and thirty-six pence short and does not move, and a resolution that cost somebody something is on no line of it.**
+5. **The new question was asked once and answered by nobody, and the word *singular* is in no mouth in Volume 12.**
+6. **A man of about fifty-three with a boat of about fourteen tons still has his eleven words on the page and has not been answered and has not been thanked.**
+7. **The civil ceremony was gone through on Sunday the twenty-seventh of February in a room that was let out and not paid for, and the second and third of its four lines say in print that it does not make her responsible for his diving and does not make him responsible for her record, and neither name is on any page.**
+8. **No stage is taken, the word *stage* is in no mouth, the third column is empty and unappointed with a boy's hand at the head of it, the fourth stands at one hundred and twenty-five with no hundred and twenty-sixth line in it, and the bag is twenty-eight pence.**
