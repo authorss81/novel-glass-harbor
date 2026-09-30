@@ -42,7 +42,7 @@ Nobody argued with him about any part of either line. Two men who had come in of
 
 He had a wet coat on over a dry one and a cut across the back of his left hand that had not been dressed, and he read standing up, with the sheet in his left hand and no table under it, and he was not a herald and he had not written a word of what he said.
 
-"This is the list of what may not come in. It is dated at the head and it carries a seal on it and there is no figure on it. It sets down salt, coal, victual, timber, oil, glass and the seven other things set down on it. It does not name any person. At the foot of it, in the margin, are the four names of the officers employed in it, and I am one of the four, and that margin is a list of men and not a list of anybody's goods."
+"This is the list of what may not come in. It is dated at the head and it carries a seal on it and there is no figure on it. It sets down salt, coal, victual, timber, oil, glass and one more, being about seven things, and there are about nine lines of rule under that. It does not name any person. At the foot of it, in the margin, are the four names of the officers employed in it, and I am one of the four, and that margin is a list of men and not a list of anybody's goods."
 
 **A woman of about forty-three who keeps a store on the second lay stood up at the back of that room and asked him one question, and he answered it in the words the list uses and in no other words at all.**
 

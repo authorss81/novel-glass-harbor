@@ -68,7 +68,7 @@ Nobody wrote the four anywhere. There is no list of them in that room, in that y
 
 **At about eleven in the morning the man who keeps the leaf put one line onto that sheet and said the whole of it out loud, and it went on with the ninth of December against it and not on with the tenth.**
 
-"A day apiece in advance to the same four men, being four men at one hundred and sixty-eight pence apiece, being six hundred and seventy-two pence, being four marks, two shillings and eightpence, with the ninth of December against it, being the day they worked. I am paying them on Friday for the Thursday they have already done, and the line goes into the total at the foot of that sheet on the day I write it, which is tomorrow, and the day the work was done and the day it is written are two different days and both of them are on that sheet and you can take either of them off it with a pencil."
+"A day apiece in advance to the same four men, being four men at one hundred and sixty-eight pence apiece, being six hundred and seventy-two pence, being four marks, two shillings and eightpence, with the ninth of December against it, being the day they worked. I am paying them on Friday for the Thursday they have already done, and the line went on this sheet at about eleven o'clock this morning and the figure at the foot of that sheet does not take it until I settle it, which is tomorrow, and the day the work was done and the day the line goes in are two different days and both of them are on that sheet and you can take either of them off it with a pencil."
 
 Nobody argued with him about it and nobody asked him why the four men are the same four men they were on the third of December, and he did not say, and it is the same four men.
 

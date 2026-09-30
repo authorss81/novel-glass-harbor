@@ -50,7 +50,7 @@ The man who keeps the leaf went up and read it. He read it standing up with his 
 
 "And can anybody say what is on it."
 
-"No," he said. "I can tell you what is standing on it. There is a date at the head of it and a seal at the foot of it and about seven words in the second line and about nine lines of rule under that, and there is not one person's name on the whole of it that I could see standing where I was standing. That is the whole of what I know about it."
+"No," he said. "I can tell you what is standing on it. There is a date at the head of it and a seal at the foot of it and about seven things set down in the second line and about nine lines of rule under that, and there is not one person's name on the whole of it that I could see standing where I was standing. That is the whole of what I know about it."
 
 Nobody asked him a second question about it. A man of about fifty-eight of the second lay asked one other person at that mole head at about half past two in the afternoon whether it was about the boats, and the person he asked said he did not know, and that was the end of it, and nobody wrote the answer down because there was not one.
 
