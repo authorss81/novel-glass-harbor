@@ -12,7 +12,7 @@ Friday the twenty-second day of April, with that market opened on the boards fro
 
 At about ten in the morning a man of about thirty-three who hires hands went out onto the head of that mole with a slate and a length of cord and stood over the pressure bell that is set in the stone there for the use of the two men who take a bearing off it every Sunday morning.
 
-He read a bearing off it and got Orison, and the ninth bell at Orison is a bell and not that bell and is not the same thing as that bell, and about two days' sail from that quay in a boat and not one day less.
+He read a bearing off it and got Orison, and the ninth bell at Orison is a different thing from the bell he was standing over, and about two days' sail from that quay in a boat and not one day less.
 
 He came back down that mole and put the slate on the bench in that shed with the bearing written on the back of it, and the inside face of that bell carries a figure of nine cut into the metal by somebody, and about four people went up and looked at the nine and could not say where it had been cut.
 
