@@ -12,7 +12,7 @@ Tuesday the twenty-second day of February, in that harbor, in about four hundred
 
 The column was read out on that step from ten o'clock in the morning and it took four minutes, and the reading was done by a man of about thirty-one of the second lay who reads it every Tuesday and has read it seventy times, and about forty people were on the boards and about eleven of them could not see a line.
 
-He read twenty-six lines and one hundred and four marks off the lid of that step, and the chest with the twenty envelopes in it stood shut behind that door from ten until four, and when he came to the end of the twenty-sixth line he stopped and said the figure and said that the figure had not moved, and that is what he says.
+He got to the end of the twenty-sixth line on the lid of that step and stopped on it, and one hundred and four marks was the figure standing there, and he said that figure out loud and said that it had not moved, and behind that door the chest with the twenty envelopes in it stood shut from ten until four while he said it, and that is what he says.
 
 The seventieth week stands fallen due at the close of that day. It stands behind the sixty-ninth, which stands behind the sixty-eighth, and nobody in that market said a word about any of them except the man reading, who says it every Tuesday because it is on his list.
 

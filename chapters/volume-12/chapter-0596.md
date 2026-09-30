@@ -12,7 +12,7 @@ Tuesday the eighth day of March, in that harbor, in about four hundred yards of 
 
 The column was read out on that step from ten o'clock in the morning and it took four minutes, and the reading was done by a man of about thirty-one of the second lay who reads it every Tuesday and has read it seventy-two times, and about forty people were on the boards and about eleven of them could not see a line.
 
-He read twenty-six lines and one hundred and four marks off the lid of that step, and the chest with the twenty envelopes in it stood shut behind that door from ten until four, and when he got to the end of the twenty-sixth line he stopped and said the figure and said that the figure had not moved, and that is what he says.
+He read twenty-six lines off the lid of that step and the last one came to one hundred and four marks, and there he stopped, and he said the figure and he said that the figure had not moved, and behind that door the chest with the twenty envelopes in it stood shut from ten until four, and that is what he says.
 
 The seventy-second week stands fallen due at the close of that day. It stands behind the seventy-first, which stands behind the seventieth, and the only person in that market who said a word about it was the man reading.
 

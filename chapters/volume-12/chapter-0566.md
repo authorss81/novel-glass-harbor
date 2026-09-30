@@ -20,7 +20,7 @@ And at about two o'clock in the afternoon a clerk of that harbor authority, who 
 
 The sheet has a seal at the foot of it and a name under the seal and no figure of money anywhere on it, and the clerk read all six lines out loud word for word and stopped at the seal and did not read the name under it, and nobody on those stones asked him to.
 
-These are the six lines, and there are six of them.
+These are six lines about another night, and there are six of them.
 
 1. *Nine boats of that port were inside that line of boats at ten o'clock at night on Friday the twenty-first, and nine were inside that line at six o'clock in the morning.*
 2. *Two of those nine had been out of that line earlier on the same day and came back into it, one at about eleven o'clock at night and one at about two in the morning, and those two hours are taken from the harbour returns of the vessels engaged in that line and from nothing else.*

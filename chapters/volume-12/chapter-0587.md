@@ -12,7 +12,7 @@ Sunday the twenty-seventh day of February, in that harbor, in about four hundred
 
 That wall came down bare at about half past ten and went up again at about ten to eleven, and it took about eleven minutes both ways, and the boards at the join are showing weather on the face of them and there are two of them that are not the colour they were. The light at the head of that mole was out at about half past seven this morning as it is on every clear night and there is no figure for it on any board in that harbor, and about eleven people went past that wall between half past ten and the middle of the day and not one of them put a bucket under it, and one of the eleven was a man of about nineteen with a handcart who stood and looked at the angle of it for about a minute and then went on up the street.
 
-The two men who do that cistern were there at about eleven. They lifted the covers and looked straight down into it and put the covers back on, and neither of them put a pail in it, and one of the two said out loud, to the other and not to anybody else, that a cistern is a Monday and a Thursday thing and that on a Sunday the most a man can do is look at one.
+About eleven o'clock the two men who do that cistern came to it and took the covers off, and both of them stood looking straight down the shaft with a pail in neither hand, and they put the covers back on where they had been, and the one of the two who does the Monday and the Thursday said out loud to the other and to nobody else that a cistern is a Monday and a Thursday thing and that on a Sunday the most a man can do is look at one.
 
 ---
 

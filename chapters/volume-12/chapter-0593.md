@@ -12,7 +12,7 @@ Saturday the fifth day of March, in that harbor, in about four hundred yards of 
 
 That end stall opens at six and the fish came in off one boat before seven on a Saturday and off a second boat at about half past eight, and the weight went on the beam both times and the chalk figure on the lid of that slate has been in the same place since the first of December and does not know what day of the week it is.
 
-A boy of twenty-two stood on a stool at that stall from about half past six and wrote the weights into a book as they came over the beam, and nobody said anything to him about the water and nobody asked him where he had been and he is not on the water.
+A boy of twenty-two was on the stool at that stall from about half past six with his book open on his knee, and he took the weights as they came over the beam and wrote each one down, and nobody at that stall said a word to him about the water and nobody asked him where he had been, and he is not on the water.
 
 ---
 
