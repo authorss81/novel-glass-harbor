@@ -1,3 +1,42 @@
+## Volume 14, Batch 0005 (Chapters 691 to 700) — the REPAIR against the review of that batch. **A REPAIR AND NOT A CHAPTER PASS. NO CHAPTER WAS WRITTEN, RESTARTED, CUT, REPLACED, REORDERED OR MOVED, NO DAY WAS MOVED, NO SCENE WAS REWRITTEN AND THE PLANNED PLOT OF THE FIFTY DAYS IS UNCHANGED. NO STANDING THREAD WAS CLOSED, ADVANCED OR RESOLVED BY THIS REPAIR, AND NONE WAS CREATED. IT DID NOT RESTATE THE GAP BETWEEN THE MANUSCRIPT AND THE LEDGER, WHICH IS STATED ONCE LOWER IN THIS FILE.**
+
+### 1. WHAT THE REPAIR CLOSED, AND IT IS FOUR CONTRADICTIONS AND ONE ABSENT CLAUSE
+
+**EVERY ONE OF THE EIGHT REQUIRED FINDINGS WAS REAL AND IS REPAIRED, AND THE FULL DISPOSITION WITH THE FILE, THE LINE AND THE FIGURE OF EACH IS THE SECOND SECTION OF `state/current.md`. WHAT A READER OF THIS FILE NEEDS IS THE SHORT FORM.**
+
+| # | What was wrong | What it is now |
+|---|---|---|
+| F1 | 691's closing block said the first sleep was **in four nights** against three nights in three other places in the same chapter and in the Movement 4 record | **Three nights**, one fact in four places |
+| F2 | 695's first column said the page had been up **three weeks** against eighteen days in four other places in the same chapter | **For the eighteen days it has been up**, in the same chapter's own words |
+| F3 | 692's first column said **about five people** saw the wipe where the scene and the comparable Sunday both say four | **About four**, and the column agrees with the scene |
+| F4 | 699 said the yard had spent **fifty days** on the forty-ninth day | **Forty-nine days** |
+| F5 | 696 asserted **nine pages on that wall**, which no chapter establishes; that wall carries two lines and about eleven inches of empty plaster | **Those nine pages**, which is the claim 652 and 674 support. The wall was never nine pages and is not made to be |
+| F6 | The outline's **Crown Keel turned toward Orison** had no carrier: the word *keel* occurs nowhere in the volume and *Orison* only in a route name | **A bearing of Orison said once on the deck and again unasked on the lane, written as a bearing and not as a name, recorded without being understood, and carried into 700's ending under L37.** No figure, no entry, nobody looks, not described from inside |
+| F7 | The cistern crew's anchor date was carried at **two values**, and one chapter carried two of them | **The Thursday of the ninth of June**, which agrees with 689, with 700's explicit date and with 700's week |
+| F8 | The spent batch prompt claimed **no chapter file for 691 or any later number exists** | **Withdrawn in terms**, in a status block that says the batch is written and the file is spent |
+
+**THE THREE COUNTED FIGURES THIS MOVED WERE RE-SET AT EVERY PLACE THEY ARE PRINTED, WHICH IS THE HOUSE'S OWN RULE AND NOT AN OPTION: 696 from 644 to 641, 697 from 603 to 619, and 699 from 689 to 801 with 700 from 966 to 1,026. The published lengths for the ten files are now 579, 612, 556, 628, 590, 641, 619, 687, 801 and 1,026.**
+
+### 2. ONE ITEM THE REVIEW MARKED INHERITED WAS NOT, AND WAS REPAIRED
+
+**`chapter-0697.md:37` HAD THE YARD SAYING THE BOAT OFF THE POINT **WAS THERE YESTERDAY**, BEING THE THURSDAY, WHEN NOTHING ON 696 RECORDS ANY BOAT, WHICH GAVE THAT YARD KNOWLEDGE ITS OWN PAGE DID NOT CARRY. The review listed it among its inherited items, but 697 is one of this batch's own ten and not an inherited file, so it was repaired rather than carried. It stood in the scene and twice inside the counted slip. It now says what the yard can support: nobody went up that coast road, and the Thursday line of that page carries nothing about her, and this yard is not going to go and put something there.**
+
+### 3. THE PROSE FORMS THE REVIEW ASKED FOR, AND WHAT IS STILL INHERITED
+
+**THE ORDINAL WELDED TO A PLURAL NOUN WAS SETTLED ON ALL TEN DAYS. Forty-three figures across the ten standing blocks had an ordinal governing a plural and every one is now its own cardinal, each checked by hand to carry the value it carried before, and the count across the ten files is zero. THE SAME FORM IS INHERITED IN CHAPTERS 667, 671, 675, 676, 677, 678, 679, 680, 684, 685, 686, 687, 688, 689 AND 690 AND REMAINS THERE, BECAUSE THOSE ARE NOT THIS BATCH'S FILES AND A REPAIR PASS WHICH EDITS AN INHERITED CHAPTER IS A PASS THAT HAS STOPPED WRITING ITS OWN. The audit is asked to rule on them.**
+
+**THE NUMBER AND VERB DISAGREEMENT IN neither of the two men who does that work WAS SETTLED AT ALL FOUR OF ITS PLACES IN THIS BATCH, being 692 and 699 in the scene and in the first column, and the same variance is inherited at `chapter-0685.md:19` and remains.**
+
+### 4. THE FIGURES AS THEY NOW STAND, AND THE ONE HAND-OVER THAT DID NOT MOVE
+
+**THE TEN CHAPTERS STAND AT 40,246 WORDS BY `wc -w` PER FILE AND SUMMED, BEING 4,037, 3,871, 3,762, 3,914, 3,658, 3,922, 3,563, 4,008, 4,444 AND 5,067, AGAINST 39,667 BEFORE THE REPAIR. THE VOLUME IS FIFTY CHAPTERS AND 190,292 WORDS, BEING 68,942 + 38,657 + 42,447 + 40,246. EVERY FIGURE THAT IS NOT A COUNTED SLIP LENGTH IS UNCHANGED: the four columns, the ninety day-counters, the hearing, the money, the cistern, the wipes, the wage Tuesday, the page of hands at fifteen, the sealed remainder, the proof, the hole in the Tuesday, the twenty-eight pence and the page of hours all stand exactly as the chapter pass left them.**
+
+### 5. THE ONE PHASE THIS VOLUME OWES, AND THIS REPAIR DID NOT PLAN IT
+
+**`workspace/volume-14/close/PROMPT.md` IS ON DISK AND IS STILL THE ONLY NEXT PHASE. THIS REPAIR CREATED NO PROMPT AND PLANNED NO SIXTH BATCH, AND THE STATUS BLOCK OF THE SPENT `workspace/volume-14/batch-0005/PROMPT.md` NOW SAYS IN TERMS THAT THE BATCH IS WRITTEN, THAT A RE-DISPATCH MUST NOT FLAG THE TEN AS ABSENT, AND THAT THE CLOSE IS THE ONE NEXT PHASE.**
+
+---
+
 ## Volume 14, Chapters 691 to 700, Movement 5 — the hand-over out of the last ten days of Volume 14, and what an auditor of this volume needs. **THE VOLUME IS WRITTEN WHOLE. FIFTY CHAPTERS ARE ON DISK. THIS PASS WROTE TEN CHAPTERS, CLOSED NONE OF THE STANDING THREADS, ADVANCED NONE, AND RESOLVED NOTHING. IT DID NOT RESTATE THE GAP BETWEEN THE MANUSCRIPT AND THE LEDGER, WHICH IS STATED ONCE AT § *Flagged for the controller, and it is not a writer action* BELOW THIS SECTION.**
 
 ### 1. THE FIGURES, MEASURED AND NOT DERIVED

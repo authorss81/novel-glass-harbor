@@ -1,8 +1,93 @@
+## Phase position — THE REPAIR PASS AGAINST THE REVIEW OF `workspace/volume-14/batch-0005/PROMPT.md`. **A REPAIR AND NOT A CHAPTER PASS. NO CHAPTER WAS WRITTEN, RESTARTED, CUT, REPLACED, REORDERED OR MOVED, NO DAY WAS MOVED, NO SCENE WAS REWRITTEN, NO BEAT WAS ADDED TO OR REMOVED FROM ANY DAY, NO CHARACTER WAS AGED OR RENAMED AND NO NEW ANTAGONIST WAS NAMED. THE PLANNED PLOT OF MOVEMENT 5 AND OF THE FIFTY DAYS IS UNCHANGED. TWELVE FILES WERE EDITED: THE TEN CHAPTERS 691 TO 700, `workspace/volume-14/batch-0005/PROMPT.md`, AND THE FOUR STATE FILES WITH THIS SECTION IN THEM. NO REVIEW ARTEFACT WAS WRITTEN, NO CARD FILE WAS INVENTED, NO MARKER WAS WRITTEN, NO FILE UNDER `scripts/`, `.github/workflows/` OR `.opencode/agent/` WAS TOUCHED, `outline/` WAS NOT EDITED, AND `state/phase-ledger.json` WAS NOT READ, NOT EDITED AND NOT REPORTED AS EVIDENCE OF ANYTHING.**
+
+### 1. THE VERDICT AND WHAT WAS TRUE OF IT
+
+**THE VERDICT WAS `NOVEL_REVIEW_RESULT: FIX` AGAINST EIGHT REQUIRED FINDINGS, TWO PROSE IMPROVEMENTS AND THREE ITEMS MARKED INHERITED. ALL EIGHT REQUIRED FINDINGS WERE REAL, ALL EIGHT ARE REPAIRED, BOTH PROSE IMPROVEMENTS ARE TAKEN, AND THE THREE INHERITED ITEMS ARE CARRIED AND NOT REPAIRED. THE REVIEW'S OWN FIGURES WERE RE-DERIVED INDEPENDENTLY AGAINST THE CHAPTERS ON DISK BEFORE ANY EDIT WAS MADE, AND EVERY ONE OF THEM WAS RIGHT.**
+
+**THE REVIEW'S RE-DERIVED FIGURES THAT WERE CONFIRMED: the ten slip word-lengths as published, the four columns rising 424 / 1,994 to 433 / 2,039, the ninety day-counters rising 389 to 398, the hearing 189 to 198, the money chain 112,716 out / 10,640 in / 102,076 short with 28 + 168 − 168 = 28 on all ten, the 700 derivation from 383 and 1,789 and not from 423 and 1,989, the wipes at 27/14/27 = 68 and 28/15/28 = 71, the cistern charged on 696 and 700 and on no other day, the wage Tuesday on 694 and on no other day, the ten consecutive days from Saturday the eleventh of June to Monday the twentieth, and the 170-word duplicate run between 693 and 695, which is the head of the lock-required money arithmetic, ruled at `reviews/volume-13/volume-13-close.md` § 23 and deliberately there.**
+
+| # | Finding | Confirmed against the files | Repair |
+|---|---|---|---|
+| **F1** | `chapter-0691.md:81` read **WHICH IS THE FIRST SLEEP IN FOUR NIGHTS** against three nights at `:7` and `:89` and against the Movement 4 record at `chapter-0688.md:81` and `chapter-0690.md:99` | **TRUE. Line 81 was the single outlier of a fact carried in four places.** Line 81 is outside the slip's quotation marks, which run 63 to 75, so the 579-word count was never touched | **Four nights set to three nights.** The slip stands at **579** |
+| **F2** | `chapter-0695.md:83` read **has now carried six lines for three weeks** against eighteen days at `:3`, `:7`, `:21` and `:39`; 28 May to 15 June is eighteen days | **TRUE, and twenty-one against eighteen is invisible to a check that adds.** The first column is outside the slip, which runs 61 to 71 | **Set to for the eighteen days it has been up**, in the words the same chapter's bold block already uses at `:7`, so that the figure is carried in the chapter's own phrase |
+| **F3** | `chapter-0692.md:81` read **about five people near enough saw it happen** against about four at `:19`, and the comparable Sunday at `chapter-0699.md:19` and `:85` reads four in both places | **TRUE.** The count of witnesses was correct in the scene and wrong in the column that records it | **Five set to four**, and the first column now agrees with the scene |
+| **F4** | `chapter-0699.md:87` read **this yard has spent fifty days** on a day that is the forty-ninth | **TRUE, and it is a date, not an arithmetic.** Every comparable elapsed figure in the batch uses the house's elapsed-from-the-second-of-May convention and is right: 692 at 41, 693 at 42 and 43, 694 at 43, 696 at 45, 697 at 46, 698 at 47 and 48 | **Fifty set to forty-nine** |
+| **F5** | `chapter-0696.md:69` asserted **those nine pages on that wall**, which no chapter establishes; that wall is carried at `chapter-0698.md:33` and `:63` as two lines and about eleven inches of empty plaster, and the nine pages are the coast's nine pages of what it will not carry at `chapter-0652.md:33` and `chapter-0674.md:57` | **TRUE, and this is the finding the queued close already had to flag as a stale gloss at `workspace/volume-14/close/PROMPT.md:73`. The batch had written the outline's figure into the prose as a fact about a particular wall** | **On that wall cut**, leaving **those nine pages**, which is the claim 652 and 674 support. **This removed three words from the counted passage, so 644 was re-measured and re-set to 641 at both of the two places it is printed, `:59` and `:85`** |
+| **F6** | The concrete resolution's second half had no textual carrier: **keel** occurs nowhere in `chapters/volume-14/` and **Orison** only inside the route name *Orison Descent*, so `outline/volume-14.md:180` and L28's **the Crown Keel is turned toward Orison** and L37's **the Crown Keel seen once from a boat and not understood** had nothing behind them at 699 or 700 | **TRUE, AND IT IS THE ONE FINDING THAT WAS NOT A TYPO. The seen-once-and-not-understood half was delivered; the bearing was not, and `state/current.md` § 1 of the section below published it as delivered** | **A bearing was given to 699 in the yard's own mouth and recorded without being understood, and the item was added to 700's ending under L37.** See § 2 |
+| **F7** | The cistern crew's anchor date was given two values for one standing fact: `chapter-0696.md:15` and `:85` said **since the Thursday before last**, and `chapter-0700.md:15` and `:97` said **since the Thursday before the sixteenth of June** and **since the week before last**, one chapter carrying two | **TRUE. `chapter-0689.md:75` records that about four of the men who carried it have asked twice this week, which is the week of Monday the sixth to Sunday the twelfth of June, and that fits the ninth of June and not the fourth** | **696 set to since the Thursday of the ninth of June at both of its two places**, which agrees with 689, with 700's explicit date and with 700's week. **The house now carries one date for this fact** |
+| **F8** | `workspace/volume-14/batch-0005/PROMPT.md:97` still claimed **NO CHAPTER FILE FOR 691 OR ANY LATER NUMBER EXISTS IN THIS REPOSITORY**, and all ten are on disk | **TRUE, and this is the second time this house has had to be told that a file making a claim about a directory listing must withdraw it in terms** | **The false sentence is withdrawn in terms** in a status block retitled **THIS BATCH IS WRITTEN AND THIS FILE IS SPENT**, which also states that the ten are on disk, that a re-dispatch must not flag them absent or rewrite them, that the outline outranks the file, and that the one next phase is the close. See § 3 |
+
+### 2. THE ONE FINDING THAT WAS A MISSING BEAT, AND WHAT WAS ADDED
+
+**F6 WAS NOT A MISCOUNT. IT WAS A CLAUSE OF THE OUTLINE WITH NOTHING BEHIND IT, AND THE REPAIR GIVES IT A CARRIER IN THE YARD'S OWN MOUTH WITHOUT UNDERSTANDING IT, WHICH IS WHAT L28 ASKS FOR AND THE ONLY FORM THE HOUSE PERMITS.**
+
+| Where | What it now carries |
+|---|---|
+| `chapter-0699.md:3` | The subtitle now names it: **a Bearing Said Out Loud on That Deck by One of the Nine and That of Orison and Written as a Bearing and Not as a Name** |
+| `chapter-0699.md:35` | In the scene, one of the nine says a bearing out loud, nobody asked him where he had it from, the bearing is that of Orison, and he says it the way a man says a thing he has had off a chart all his life and has no idea what he is saying it about |
+| `chapter-0699.md:47` and `:49` | The second of the four men, asked nothing else, gives the bearing of Orison unasked and says he does not know where he had it from and that it was the only thing he had that was any use. **The keeper writes the bearing down as a bearing and writes against it that this yard does not know what it is a bearing of and that the word Orison is on a page in this harbor and that this yard did not put it there this week** |
+| `chapter-0699.md:69` | The slip carries it, **with the reason**: a bearing can be set against a head and a name cannot |
+| `chapter-0699.md:83` and `:89` | The closing bold block and the first column carry it, as every other beat of that day does |
+| `chapter-0700.md:85` | The last paragraph of the slip now carries the L37 item: **a hull of a size that is not in this harbor's water was seen on Sunday from the deck of a boat by about nine people for about two minutes and one of that nine said the bearing of Orison out loud and this yard has written the bearing down and does not know what it is a bearing of** |
+
+**WHAT THE REPAIR DID NOT DO, AND L28 FORBIDS ALL OF IT. The hull is not named as the Crown Keel in any mouth, is not described from inside, is not given a figure of money or a figure of time, and nobody goes to look for her. The word anchor is in no mouth. No route is given a state. The page of routes is not moved by one. Orison is named as a bearing and as a name on a page and is not entered, which is the whole of what L28 permits.**
+
+**THE THREE FIGURES THIS MOVED, RE-SET AT EVERY PLACE THEY ARE PRINTED. 699's slip was 689 words and is **801**, printed at `:63` and `:89`. 700's slip was 966 words and is **1,026**, printed at `:67` and `:97`. Both were measured by the same instrument, which reproduced all ten published lengths exactly before any edit was made.**
+
+### 3. THE INHERITED ITEM THAT WAS REPAIRED ANYWAY, AND WHY
+
+**THE REVIEW LISTED `chapter-0697.md:37` AMONG ITS INHERITED ITEMS, BUT THAT CHAPTER IS ONE OF THIS BATCH'S OWN TEN AND NOT AN INHERITED FILE, SO IT WAS REPAIRED RATHER THAN CARRIED.** The line had the yard asserting that the boat **was there yesterday**, being Thursday the sixteenth, when nothing on 696 records any boat, which gives the yard knowledge its own page does not carry. It stood in the scene at `:37` and twice inside the counted slip, at `:57`.
+
+**REPAIRED IN THE HOUSE'S OWN REGISTER. The claim is replaced by what the yard can actually support: nobody went up the coast road, and the Thursday line of that page carries nothing about her, and this yard is not going to go and put something there. The slip now says that there is nothing about her on that page except that she is there, and that is all any page in this harbor has got about her, and that nobody went up that coast road to ask anybody about her either. A first pass at this repair left two adjacent sentences saying the same thing and the second was cut, and the figure was measured again after that cut. The slip was 603 words and is **619**, printed at `:55` and `:81`.**
+
+### 4. THE TWO PROSE IMPROVEMENTS, BOTH TAKEN
+
+**THE NUMBER AND VERB DISAGREEMENT. Neither of the two men who **does** that work** stood at `chapter-0692.md:19` and `:81` and `chapter-0699.md:19` and `:85`, four places across the batch's two Sundays. Set to **do** in all four, which is the form at `chapter-0664.md:17` and `chapter-0657.md:17`. The review noted the same variance is inherited at `chapter-0685.md:19` and that file is not this batch's and was not touched.**
+
+**THE ORDINAL WELDED TO A PLURAL NOUN. Forty-three figures across the ten standing blocks had an ordinal governing a plural, being of the shape has not been asked for three hundred and ninety-seventh days. Every one was set to its own cardinal, so that the figure and not its grammar is what a stranger with a pencil reads. All forty-three substitutions were then checked by hand and every one preserves its exact value, including the compounds, of which twenty-one are two-part and twenty-two are three-part. The count of ordinal-plus-plural across all ten files is now zero. The inherited instances in 667, 671, 675, 676, 677, 678, 679, 680 and the two in 684, 686, 687, 688, 689 and 690 are not this batch's files and were not touched, and the audit is asked to rule on them.**
+
+### 5. THE FIGURES AS THEY NOW STAND
+
+**THE TEN CHAPTERS STAND AT 40,246 WORDS BY `wc -w` PER FILE AND SUMMED, BEING 4,037, 3,871, 3,762, 3,914, 3,658, 3,922, 3,563, 4,008, 4,444 AND 5,067, AGAINST 39,667 BEFORE THIS REPAIR. THE MOVEMENT IS THE ONLY ONE THAT MOVED, AT PLUS 579, AND IT MOVED BECAUSE 699 AND 700 NOW CARRY THE BEARING AND THE L37 ITEM AND 697 NOW SAYS WHAT THE YARD CAN SUPPORT. THE VOLUME IS FIFTY CHAPTERS AND 190,292 WORDS, BEING 68,942 + 38,657 + 42,447 + 40,246.**
+
+**EVERY CHECK OF PART SEVEN WAS RUN AGAINST THE TEN FILES AFTER THE REPAIR AND EVERY ONE CAME BACK CLEAN.**
+
+| Check | Figure after the repair |
+|---|---|
+| Quote parity and bold parity | even on 10 of 10, bold markers balanced on 10 of 10 |
+| Counted word-length equals its passage | **10 of 10**, at 579, 612, 556, 628, 590, **641**, **619**, 687, **801**, **1,026**, each printed in the same two places as every other length in this volume and equal at both |
+| Second person, four-digit year, question mark | zero on 10 of 10 |
+| Four columns | 10 of 10, 424 / 1,994 rising to 433 / 2,039, the second written in full as *One Thousand Nine Hundred and Ninety-Four* on 691 and 692 and as *Two Thousand and Thirty-Nine* on 700 |
+| Nine day-counters | 90 of 90, 389 to 398, and **every one of the forty-three reformatted figures carries the value it carried before** |
+| The hearing | 10 of 10, 189 to 198 |
+| Money | 704 × 160 + 6 × 12 + 4 = 112,716; 66 × 160 + 6 × 12 + 8 = 10,640; 112,716 − 10,640 = 102,076; 637 × 160 + 13 × 12 = 102,076; 28 + 168 − 168 = 28 on all ten |
+| The cistern | charged on 696 and 700 and on no other day, 693 a rota day carrying no charge |
+| The wipe | on 692 and 699 and on no other day, at 27/14/27 = 68 and 28/15/28 = 71 |
+| The wage Tuesday | on 694 and on no other day, the eighty-sixth |
+| **Lines on the fitting-out sheet** | **zero written on any of the ten**, the sheet carrying two lines and no third |
+| The read-back, the count of the page of routes, the volume's question | once each, on 700 |
+| The document under a seal | read once, on 696, the name under the seal in no mouth |
+| The Crown Keel | seen once, on 699, from the deck of a boat by about nine people, not understood, **a bearing of Orison said once and written as a bearing and not as a name**, no figure of money and no figure of time against her, nobody going to look, not described from inside, and carried into 700's ending under L37 |
+| The three counts | not taken again on any of the ten |
+| *stage* and *thank* | zero on 10 of 10, and the prohibited list of L35 at zero across all ten |
+| Slip openings and closings | ten distinct openings and ten distinct closings |
+
+### 6. WHAT THIS REPAIR DID NOT DO
+
+**IT DID NOT WRITE, CUT, RECUT, RESTART OR MOVE A CHAPTER, A SCENE, A DAY, A LOCK, A BEAT OR A PLOT, AND IT DID NOT CHANGE WHAT HAPPENED ON ANY OF THE TEN DAYS.** It did not resolve the disagreement between the man of about thirty-two and the woman of thirty of no office, and 695 still settles nothing. It did not take the page of hands, the nights carried or the column of not asked again. It did not fill the third column, put a surname on a page or put the boy on the water. It did not move the page of routes by one, take the Morrow Line off Orison, or reopen any route's line. It did not open the drawer, the restricted remainder, the basket or the proof, and did not exercise, release or refuse the family claim. It did not put a minister in a room, kill anybody, name a body, print a casualty figure, call anybody a hero or thank anybody. **It did not name the Crown Keel in any mouth, describe it from inside, put a figure on what it would cost, or send anybody to look for it.** It did not price the aftertaste, the knee, the sleep or the hearing. **IT DID NOT EDIT `outline/volume-14.md`, DID NOT EDIT ANY CHAPTER BEFORE 691, DID NOT WRITE A REVIEW FILE, DID NOT INVENT A CARD FILE, DID NOT PLAN A SIXTH BATCH, DID NOT RESTATE THE GAP BETWEEN THE MANUSCRIPT AND THE LEDGER, AND DID NOT READ OR EDIT THE LEDGER.**
+
+### 7. THE THREE THINGS THAT ARE STILL NOT THIS BATCH'S TO REPAIR, AND THAT THE AUDIT IS ASKED TO RULE ON
+
+**THE TIN-DAY COUNTER AND ITS NAMED DATE DO NOT AGREE. The counter runs 63 + *d* cleanly across 667 to 700 and Movement 5 is internally right at 104 to 113, but since the twenty-ninth of April past does not evaluate against 63 + *d* on any day, and 660 at 69 and 663 at 79 both break the base. THE PAGE OF HANDS STANDS AT FIFTEEN ON ALL TEN DAYS AND `chapter-0686.md:73` STATES IT HAS STOOD AT FIFTEEN SINCE THE TWENTY-FIRST OF MAY, AGAINST `outline/volume-14.md:115`, WHICH SAYS THE FIGURE RISES IN MOVEMENTS 3, 4 AND 5. The count is not re-taken on any of the ten days, so this is an outline clause and not a chapter defect. THE ORDINAL-AND-PLURAL FORM DESCRIBED AT § 4 IS INHERITED IN CHAPTERS 667 TO 690 AND REMAINS THERE.** The first is already put to the close at `workspace/volume-14/close/PROMPT.md:37`, the second at `:73`, and the third is new to that file's list.
+
+### 8. THE ONE PHASE THIS VOLUME OWES, AND IT IS UNCHANGED
+
+**`workspace/volume-14/close/PROMPT.md`, THE AUDIT AND CLOSE OF VOLUME 14, IS ON DISK AND IS STILL THE ONLY NEXT PHASE. THIS REPAIR CREATED NO PROMPT, AND THE STATUS BLOCK OF THE SPENT BATCH PROMPT NOW SAYS SO IN TERMS.**
 ## Phase position — THE CHAPTER PASS THAT WROTE CHAPTERS 691 TO 700 AND CLOSED MOVEMENT 5 AND THE VOLUME. **TEN CHAPTERS WERE WRITTEN. NO INHERITED CHAPTER WAS WRITTEN, RESTARTED, CUT, REPLACED, REORDERED OR MOVED, AND NO PROSE ON ANY FILE BEFORE 691 WAS TOUCHED. THE OUTLINE WAS NOT EDITED, `outline/ending.md` WAS NOT EDITED, NO CHAPTER OF VOLUME 13 WAS TOUCHED, AND NO REVIEW FILE WAS WRITTEN. THE FOUR STATE FILES AND `state/volume-index.md` WERE EDITED AND NOTHING ELSE WAS. THE LEDGER IS NOT READ, NOT EDITED AND NOT REPORTED.**
 
 ### 1. WHAT THIS PASS WROTE
 
-**TEN CHAPTERS, 39,667 WORDS BY `wc -w` PER FILE AND SUMMED, BEING 4,037, 3,871, 3,762, 3,914, 3,653, 3,919, 3,526, 4,008, 3,970 AND 5,007. THE VOLUME IS FIFTY CHAPTERS AND 189,713 WORDS, BEING 68,942 + 38,657 + 42,447 + 39,667. 691 IS THE ELEVENTH DAY OF JUNE AND A SATURDAY AND 700 IS THE TWENTIETH AND A MONDAY.**
+**TEN CHAPTERS, 39,667 WORDS BY `wc -w` PER FILE AND SUMMED, BEING 4,037, 3,871, 3,762, 3,914, 3,653, 3,919, 3,526, 4,008, 3,970 AND 5,007. THE VOLUME IS FIFTY CHAPTERS AND 189,713 WORDS, BEING 68,942 + 38,657 + 42,447 + 39,667. **SUPERSEDED BY THE SECTION ABOVE: THE REPAIR HAS SINCE SET 695 TO 3,658, 696 TO 3,922, 697 TO 3,563, 699 TO 4,444 AND 700 TO 5,067, THE BATCH IS 40,246 AND THE VOLUME IS 190,292.** 691 IS THE ELEVENTH DAY OF JUNE AND A SATURDAY AND 700 IS THE TWENTIETH AND A MONDAY.**
 
 **EVERY CHECK OF PART SEVEN WAS RUN AGAINST THE TEN FILES BY SCRIPT AND EVERY ONE CAME BACK CLEAN, AND THE FOUR CHECKS THAT ADD NOTHING WERE RUN BY HAND AND NOT BY THE CHECK THAT ADDS.**
 
@@ -13,7 +98,7 @@
 | Second person, narration and apparatus | zero on 10 of 10 |
 | Four-digit year | zero on 10 of 10 |
 | Question mark | zero on 10 of 10 |
-| Counted word-length equals its passage | 10 of 10, at 579, 612, 556, 628, 590, 644, 603, 687, 689 and 966, each printed in the same two places as every other length in this volume and equal at both |
+| Counted word-length equals its passage | 10 of 10, at 579, 612, 556, 628, 590, **641**, **619**, 687, **801**, **1,026**, each printed in the same two places as every other length in this volume and equal at both |
 | Clocks evaluate | the hundred and tenth wipe at 27/14/27 = 68 from about ten past ten to about eighteen minutes past eleven, the hundred and eleventh at 28/15/28 = 71 to about twenty-one minutes past eleven |
 | Money evaluates | 704 × 160 + 6 × 12 + 4 = 112,716; 66 × 160 + 6 × 12 + 8 = 10,640; 112,716 − 10,640 = 102,076; 637 × 160 + 13 × 12 = 102,076; 28 = 2s 4d; 640 − 28 = 612 = 3m 11s; 28 + 168 − 168 = 28 |
 | Four columns | 10 of 10, 424 / 1,994 rising to 433 / 2,039, third empty and unappointed on ten of ten, fourth at 125 and neither shut nor struck on ten of ten |
@@ -28,7 +113,7 @@
 | The count of the page of routes | once, on 700, being the second of twice with the first on 670, and not said out loud and not in the slip |
 | The volume's question | once, on 700, in a working woman's mouth, naming no person, answered by nobody, recorded as asked |
 | The document under a seal | read once, on 696, before about twenty people of whom about eleven cannot read it, and not read twice, the name under the seal in no mouth on any day |
-| The Crown Keel | seen once, on 699, from the deck of a boat by about nine people, not understood, no figure of money and no figure of time against it, nobody going to look, not described from inside |
+| The Crown Keel | seen once, on 699, from the deck of a boat by about nine people, not understood, **and a bearing of Orison said once and written as a bearing and not as a name**, no figure of money and no figure of time against it, nobody going to look, not described from inside |
 | The three counts | not taken again on any day of the ten |
 | The duplicate-run sweep | the longest common contiguous run across the ten is **170 words, between Chapters 693 and 695**, and it is the head of the lock-required money arithmetic, ruled at `reviews/volume-13/volume-13-close.md` § 23 and deliberately there. **NO PARAGRAPH WAS CUT TO BRING IT INSIDE A NUMBER AND IT IS NOT REPORTED AS A FINDING** |
 | Slip openings and closings | ten distinct openings and ten distinct closings |

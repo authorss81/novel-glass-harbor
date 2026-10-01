@@ -92,6 +92,12 @@ Update the four state files and `state/volume-index.md`: a section at the head o
 
 ---
 
-## Status of this file
+## Status of this file — THIS BATCH IS WRITTEN AND THIS FILE IS SPENT
 
-Written 1 October 2026 by the chapter pass that wrote Chapter 690 and closed Movement 4. It is built out of `outline/volume-14.md`, its locks, § *Movement 5*, the head of `state/continuity.md` as that pass left it, and the figures verified by script across Chapters 681 to 690. **NO CHAPTER FILE FOR 691 OR ANY LATER NUMBER EXISTS IN THIS REPOSITORY.**
+Written 1 October 2026 by the chapter pass that wrote Chapter 690 and closed Movement 4. It is built out of `outline/volume-14.md`, its locks, § *Movement 5*, the head of `state/continuity.md` as that pass left it, and the figures verified by script across Chapters 681 to 690.
+
+**THE SENTENCE THAT STATED THAT NO CHAPTER FILE FOR 691 OR ANY LATER NUMBER EXISTS IN THIS REPOSITORY IS WITHDRAWN IN TERMS. ALL TEN ARE ON DISK.** They stand at `chapters/volume-14/chapter-0691.md` through `chapter-0700.md`, they were written and committed on 1 October 2026, and they were repaired on the same day against the review of that batch. **A RE-DISPATCH OF THIS FILE MUST NOT FLAG THOSE TEN AS ABSENT, MUST NOT WRITE THEM AGAIN, AND MUST NOT RESTART, RECUT, REORDER OR MOVE THEM.** A directory listing is the court and a file that makes a claim about one is a claim about a listing, which this repository has now had to be told twice.
+
+**`outline/volume-14.md` IS BINDING AND OUTRANKS EVERY FIGURE IN THIS FILE.** Every day, hour, counter, column and money figure on the face of the fifty chapters is the authority, and where this file and a chapter disagree the chapter is right and this file is wrong.
+
+**THE ONE NEXT PHASE IS `workspace/volume-14/close/PROMPT.md`, THE AUDIT AND CLOSE OF VOLUME 14. IT IS ON DISK. IT IS NOT THIS FILE.** The disposition of the review of this batch, including every finding repaired and every figure re-set, is the second section of `state/current.md`.

@@ -1,8 +1,36 @@
+## VOLUME 14, CHAPTERS 691 TO 700, MOVEMENT 5 — THE REPAIR AGAINST THE REVIEW OF THAT BATCH. **THE SUMMARIES OF THE TEN CHAPTERS BELOW THIS LINE STAND UNCHANGED IN EVERY FIGURE, AND EVERY ONE OF THEM IS STILL TRUE OF THE CHAPTERS ON DISK. WHAT IS NEW IS WHAT THE REPAIR CHANGED, AND IT CHANGED ONE FACT IN FOUR CHAPTERS AND ADDED NOTHING TO ANY DAY'S PLOT.**
+
+### WHAT THE REPAIR WAS
+
+**A REPAIR AND NOT A CHAPTER PASS. NO CHAPTER WAS WRITTEN, RESTARTED, CUT, REPLACED, REORDERED OR MOVED, NO DAY WAS MOVED, NO SCENE WAS REWRITTEN, NO CHARACTER WAS AGED OR RENAMED AND THE PLANNED PLOT OF THE FIFTY DAYS IS UNCHANGED. THE REVIEW'S VERDICT WAS FIX AGAINST EIGHT REQUIRED FINDINGS, ALL EIGHT ARE REAL AND ALL EIGHT ARE REPAIRED. THE FULL DISPOSITION IS THE SECOND SECTION OF `state/current.md`.**
+
+### THE CHAPTER SUMMARIES THAT CHANGED, AND ONLY IN THE RESPECTED PHRASE
+
+| Ch | What the summary said | What the chapter now says |
+|---|---|---|
+| **691** | A first sleep in three nights | **Unchanged.** The chapter's closing block said four nights in one place against three in three others and is now three in all four |
+| **692** | About four people near enough saw it happen | **Unchanged.** The first column said five where the scene said four and is now four in both, and neither of the two men who **does** that work is now who **do** it |
+| **695** | The page of the twenty-eighth of May has carried six lines for the **eighteen days** it has been up | **Unchanged.** The first column said three weeks and is now the eighteen days, in the chapter's own words |
+| **696** | A paper under a seal, read once, correct and costing a person | **Unchanged.** The slip no longer says **nine pages on that wall**, which no chapter established, and now says **those nine pages**. **The cistern crew's anchor is now the Thursday of the ninth of June**, which agrees with 689 and with 700 |
+| **697** | A boat standing off the point, not one of the nine, described by nobody, and this yard does not go and look | **Unchanged in its plot.** The chapter no longer says the boat **was there yesterday**, which gave the yard knowledge its own page did not carry, and says instead that the Thursday line of that page carries nothing about her and that this yard is not going to go and put something there |
+| **699** | A hull seen once, not understood, no figure set against it, nobody going to look | **Unchanged in its plot, and one thing added. One of the nine said a bearing out loud and it was that of Orison, one of the four men gave it again unasked, and the keeper wrote it as a bearing and not as a name and wrote against it that this yard does not know what it is a bearing of.** She is still not named in any mouth, still not described from inside, still carries no figure of money and no figure of time, and nobody went to look for her |
+| **700** | The read-back, the second counting of the page of routes, the volume's question asked once and answered by nobody | **Unchanged in its plot, and one item added to the ending. The last paragraph of the slip now carries the hull seen on Sunday and the bearing of Orison written down and not understood**, which is what L37 asks the ending to hold |
+
+**CHAPTERS 693, 694 AND 698 ARE UNCHANGED IN EVERY RESPECT BUT THE ORDINAL FORM OF THEIR STANDING BLOCK, WHICH CHANGED GRAMMAR AND NOT FIGURE.**
+
+### THE FIGURES AFTER THE REPAIR
+
+**THE TEN CHAPTERS STAND AT 40,246 WORDS BY `wc -w` PER FILE AND SUMMED, BEING 4,037, 3,871, 3,762, 3,914, 3,658, 3,922, 3,563, 4,008, 4,444 AND 5,067, AGAINST 39,667 BEFORE IT. THE VOLUME IS FIFTY CHAPTERS AND 190,292 WORDS.**
+
+**THE PUBLISHED SLIP LENGTHS ARE NOW 579, 612, 556, 628, 590, 641, 619, 687, 801 AND 1,026, BEING 644 TO 641 ON 696, 603 TO 619 ON 697, 689 TO 801 ON 699 AND 966 TO 1,026 ON 700, EACH RE-SET AT BOTH OF THE TWO PLACES IT IS PRINTED. EVERY OTHER FIGURE IN THE SUMMARIES BELOW IS UNCHANGED: the four columns, the ninety day-counters, the hearing, the money at 112,716 out and 102,076 short with twenty-eight pence in the bag, the cistern on 696 and 700, the wipes at 27/14/27 and 28/15/28, the wage Tuesday on 694, the page of hands at fifteen, the sealed remainder, the proof, the hole in the Tuesday and the page of hours.**
+
+---
+
 ## VOLUME 14, CHAPTERS 691 TO 700, MOVEMENT 5 — THE BATCH SUMMARY AND THE TEN CHAPTER SUMMARIES. **VOLUME 14 IS WRITTEN WHOLE AND THESE ARE THE LAST TEN CHAPTERS OF IT. THE SECTIONS BELOW THIS LINE STAND UNCHANGED AND WERE NOT REWRITTEN. NOTHING WAS RESOLVED IN THESE TEN CHAPTERS AND NOTHING WAS CLOSED.**
 
 ### THE BATCH
 
-**Ten chapters, Saturday the eleventh day of June to Monday the twentieth, being days 41 to 50 of the volume, at 39,667 words by `wc -w` per file and summed. The volume is fifty chapters and 189,713 words.** Movement 5 is the recovery and the close: the boat comes back, the five who went down come home, a man sleeps, the cistern is dry on the one day it is not charged, an eighty-sixth Tuesday does not move, a disagreement is carried and gets a seventh line under one of its four, a paper with a seal on it is read out once and is correct and costs a person, a yard declines to look at a boat it has been told about, a slate is turned over where it lies, a hull of a size not in that harbor's water goes past once and is not understood, and on the fiftieth day a leaf is read out in the open with its own derivation on the face of the reading, the three columns of the page of routes are written down for the second of twice, and a question is asked at an end stall and answered by nobody.
+**Ten chapters, Saturday the eleventh day of June to Monday the twentieth, being days 41 to 50 of the volume, at 39,667 words by `wc -w` per file and summed. The volume is fifty chapters and 189,713 words. **SUPERSEDED BY THE SECTION ABOVE: THE REPAIR HAS SINCE SET THE BATCH AT 40,246 AND THE VOLUME AT 190,292, AND EVERY OTHER FIGURE IN THIS SUMMARY IS UNCHANGED AND STILL TRUE.** Movement 5 is the recovery and the close: the boat comes back, the five who went down come home, a man sleeps, the cistern is dry on the one day it is not charged, an eighty-sixth Tuesday does not move, a disagreement is carried and gets a seventh line under one of its four, a paper with a seal on it is read out once and is correct and costs a person, a yard declines to look at a boat it has been told about, a slate is turned over where it lies, a hull of a size not in that harbor's water goes past once and is not understood, and on the fiftieth day a leaf is read out in the open with its own derivation on the face of the reading, the three columns of the page of routes are written down for the second of twice, and a question is asked at an end stall and answered by nobody.
 
 **THE MONEY DID NOT MOVE.** The bag is twenty-eight pence on all ten days and 28 + 168 − 168 = 28 on each. The fitting-out sheet stands at one hundred and twelve thousand seven hundred and sixteen pence out, being seven hundred and four marks, six shillings and fourpence, against ten thousand six hundred and forty pence in, being sixty-six marks, six shillings and eightpence, and one hundred and two thousand and seventy-six pence short, being six hundred and thirty-seven marks and thirteen shillings, on ten of ten. **NOT ONE LINE WENT ONTO IT ON ANY DAY OF THE TEN AND IT CARRIES TWO LINES AND NO THIRD.** Four hundred and fifty pence is still on that board in the front street on the last day of the fifty.
 
