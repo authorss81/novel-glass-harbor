@@ -1,3 +1,55 @@
+## VOLUME 14, BATCH 0004, CHAPTERS 681 TO 690, MOVEMENT 4, THE CLIMAX. **WRITTEN 1 OCTOBER 2026 IN THE CHAPTER PASS QUEUED ON `workspace/volume-14/batch-0004/PROMPT.md`. TEN CHAPTERS STAND, NO CHAPTER RESTARTED, NO DAY MOVED, NO FIGURE OF MONEY ADDED OR REMOVED, NO LOCK SOFTENED, NO RESTRICTED REMAINDER OPENED, NO NEW ANTAGONIST NAMED AND NO PLOT ALTERED. NINE OF THE TEN (681 TO 689) WERE ON DISK AS UNTRACKED FILES WHEN THIS PASS ARRIVED, THE WORK OF A PARTIAL RUN THAT DEFERRED WITHOUT WRITING STATE; THE PROMPT'S CLAIM THAT NO CHAPTER FILE FOR 681 OR LATER EXISTS WAS STALE AGAINST THE DIRECTORY, AND THE DIRECTORY IS THE COURT, SO THIS PASS DID NOT FLAG AN ABSENCE, VERIFIED THE NINE, WROTE THE TENTH (690), REPAIRED ONE STALE FIGURE AT SOURCE, AND WROTE THE STATE. THE ONLY FILES OPENED FOR WRITING WERE CHAPTER 690, THE ONE REPAIR IN 684, THE FOUR STATE FILES, `state/volume-index.md` AND ONE NEXT-PHASE PROMPT.**
+
+**THE GATE WAS CHECKED FIRST AND IT WAS SATISFIED: `outline/volume-14.md` IS ON DISK AND `chapters/volume-14/chapter-0651.md` THROUGH `chapter-0680.md` ARE ON DISK. THIS PHASE DID NOT FLAG AN ABSENCE, DID NOT INVENT AN OUTLINE, DID NOT INVENT A CARD FILE, AND DID NOT RE-STATE THE DEBT. `state/phase-ledger.json` WAS NOT READ, NOT EDITED AND NOT REPORTED AS EVIDENCE OF ANYTHING.**
+
+### 1. WHAT THIS PHASE WROTE AND WHAT IT REPAIRED
+
+**TEN CHAPTERS STAND AT 42,450 WORDS BY `wc -w` SUMMED OVER THE TEN, BEING 3,960, 3,893, 4,172, 3,993, 3,919, 4,138, 3,545, 5,121, 4,130 AND 5,579, WITH 690 THE LONGEST AND 687 THE SHORTEST. THE MANUSCRIPT OF VOLUME 14 IS FORTY CHAPTERS AND 153,485 WORDS ON DISK, BEING 68,923 ACROSS CHAPTERS 651 TO 670, 42,112 ACROSS 671 TO 680, AND 42,450 ACROSS 681 TO 690.**
+
+**THE FIVE RULED THINGS, AND ALL FIVE ARE ON THE PAGE.** Nine route teams and one boat of about thirty tons and about nine minutes of a shared stretch of about four fathoms off that mole, held by five separate living witnesses, each consenting, tethered and separate, none asked to hold anything, on Chapter 688. The man of about thirty-two offering his body and saying yes in about nine people, with the reason written down in his own fifty words with the hour against it before anybody goes down, on Chapter 684. A named tender (a woman of about thirty-three, named in no mouth) on the surface and not in the water, an independent line off her own winch, a fixed air limit of twenty-five minutes and about nine in the water, a cutoff she pulls without asking, on Chapters 683 and 688, and she pulls it. The cost paid in full: acute aftertaste on top of his own, a knee a pressure bell should not have touched, three days of poor sleep across 688, 689 and 690, and temporary hearing loss in that same man, which is not the man of about twenty-nine's hearing and improves nothing of his, on Chapters 688, 689 and 690 with hours and no figure against any of them. The one line on the fitting-out sheet in fifty days, on Chapter 689, with its multiplication printed at every one of its five parts (40 x 3 = 120; 2 x 18 = 36; 60; 9 x 2 x 16 = 144; 2 x 168 = 336; 120 + 36 + 60 + 144 + 336 = 696, being four marks, four shillings and eightpence). **THE MOVEMENT CLOSED ON THE COLUMN OF NOT ASKED, TAKEN ONCE, ON CHAPTER 690, FALLING NINE TO NOTHING ACROSS THE TEN DAYS, AND NOT SAID IN A ROOM AND NOT IN ANY SLIP.**
+
+**ONE REPAIR, AT SOURCE, IN AN INHERITED FILE OF THIS BATCH.** `chapter-0684.md` printed its half-past-five slip at **six hundred and seventy-two words** in the lead-in and the first column, and the passage measures **seven hundred and two**. Both places re-set to **seven hundred and two**. **THAT IS THE FOURTEENTH TIME THIS HOUSE HAS PAID FOR A CUT LEAVING A COUNTED FIGURE STALE.**
+
+### 2. EVERY CHECK, WITH ITS FIGURE
+
+| Check | Result |
+|---|---|
+| The four columns on ten of ten | **10/10**, 414 to 423 and 1,944 to 1,989, the third none and the fourth one hundred and twenty-five on all ten (the third worded four ways, per house variance and precedent) |
+| The nine day-counters on ninety of ninety | **90/90**, 379/381/719/485/303/258/273/290/321 at the close of 681 rising by one a day to 388/390/728/494/312/267/282/299/330 at the close of 690 |
+| The hearing on ten of ten | **10/10**, 179 to 188, one more than the day before on each of the ten, no figure set against it, the man of about twenty-nine not on the water on any of the ten, and the temporary hearing loss never set against his figure |
+| Ten consecutive days, no day missing, no day in two chapters | **1 to 10 June, ten distinct days**, Wednesday the first to Friday the tenth |
+| Day of the week and day of the month in ten of ten subtitles and ten of ten datelines | **20/20 and 20/20** |
+| Four-digit year | **zero on all ten** |
+| Question mark | **zero on all ten** |
+| Quote parity | **even on ten of ten** |
+| Bold parity | **even on ten of ten** |
+| The second person in the narration and in the apparatus, checked by span | **zero on all ten**, the one token in 688 sitting inside the quoted slip |
+| The prohibited list, Volume 14's L35 in full | **at zero on all ten**, including *stage*, *singular*, *fleet*, *committee*, *chorus*, *chamber*, *minister*, *cache*, *plate*, *four feet*, *twenty-two fathoms*, and the four panel constructions |
+| The bare verb *thank* | **zero on all ten**; *thanked* only ever a statement that nobody was thanked |
+| The word *anchor* said of the five witnesses | **zero on all ten** |
+| Every counted word-length equals its passage | **10/10 slips**, measuring 529, 553, 593, 702, 633, 654, 532, 839, 721 and 511, each printed in its lead-in and its first column (the sixty, forty-four and thirty-eight-word indirect speeches carry *about* and are estimates and exempt) |
+| Every clock evaluates | **26 + 13 + 26 = 65** on 685, and the eleven trips, the twenty-five minutes against about nine, and the four minutes all sit in their own passages |
+| Every printed money figure evaluates | **120 + 36 + 60 + 144 + 336 = 696**; **111,876 + 696 = 112,572**; **112,572 − 10,640 = 101,932**; **703 × 160 + 7 × 12 + 8 = 112,572**; **637 × 160 + 1 × 12 = 101,932**; **640 − 28 = 612**; **28 + 168 − 168 = 28** on ten of ten |
+| The cistern charged on 682, 686 and 689 and on no other day | **3/3 and 7 days clean**, the hundred and fifty-fifth, the hundred and fifty-sixth and the hundred and fifty-seventh |
+| The wipe on 685 and on no other day | **1/1 and 9 days clean**, the hundred and ninth at 26/13/26 |
+| The wage Tuesday on 687 and on no other day | **1/1 and 9 days clean**, the eighty-fifth, the column at twenty-six lines and one hundred and four marks and unmoved, the chest shut from ten until four |
+| One line on the fitting-out sheet, on 689 and on no other day | **once, on 689**, with its multiplication at every one of its five parts; the sheet stands at 112,572 out, 10,640 in, 101,932 short from 689 on |
+| The column of not asked taken once, on 690 | **once, on 690**, falling nine to nothing, not said in a room and not in any slip |
+| The count of the three columns of the page of routes | **taken on no day of the ten** |
+| The count of the nights carried | **not taken again on any of the ten** |
+| Ten distinct slip openings and ten distinct slip closings | **10/10 and 10/10** |
+| A reason in the second column of one chapter not written in the second column of another | **distinct stems across all ten**, five to six reasons a chapter |
+| The duplicate-run sweep, scene prose and apparatus together | **longest run 86 words against this batch's own 690 (lock-required money chain and first-column date boilerplate, ruled and carried); longest across all pairs 163 between inherited 684 and 688 (lock-required money arithmetic, ruled and carried per precedent)** |
+| The two things proved on 688 and no third | **two and only two**: no single centre held it, and he could be withdrawn rather than owned |
+| No figure of money against aftertaste, knee, sleep or hearing | **none on any of the ten**; the four costs carry hours and no figure |
+| The disagreement between the man of about thirty-two and the woman of thirty of no office | **carried as an ordinary working arrangement and not resolved on any of the ten** |
+
+### 3. WHAT THIS PHASE DID NOT DO
+
+**IT DID NOT ASK THE VOLUME'S QUESTION. IT DID NOT READ THAT LEAF BACK ALOUD. IT DID NOT TAKE THE COUNT OF THE THREE COLUMNS OF THE PAGE OF ROUTES. IT DID NOT TAKE THE COUNT OF THE NIGHTS CARRIED A SECOND TIME. IT DID NOT TAKE THE COLUMN OF NOT ASKED BEFORE 690. IT DID NOT WRITE A SECOND LINE ON THE FITTING-OUT SHEET. IT DID NOT FILL THE THIRD COLUMN, APPOINT ANYBODY TO IT, SCRATCH THE BOY'S HAND OUT, PUT HIS SURNAME ON A PAGE OR PUT HIM ON THE WATER. IT DID NOT TAKE A STAGE, NAME A STAGE OR PUT THE WORD *STAGE* IN A MOUTH. IT DID NOT PUT A MINISTER IN A ROOM. IT DID NOT OPEN THE DRAWER, TAKE THE WORKED LEAD DOWN THE HILL, PUT A DIGIT OF ANY OF THE THREE NUMBERS IN THAT ROOM ON A PAGE, OR OPEN THE RESTRICTED REMAINDER. IT DID NOT EXERCISE, RELEASE OR REFUSE THE FAMILY CLAIM. IT DID NOT READ THE PROOF OUT. IT DID NOT KILL ANYBODY, NAME A BODY, PRINT A CASUALTY FIGURE, CALL ANYBODY A HERO OR THANK ANYBODY. IT DID NOT PAY, ADVANCE, CUT BACK, BETTER, STRIKE OR CLOSE ANYTHING STANDING. IT DID NOT BRING FOUR HUNDRED AND FIFTY PENCE DOWN THAT BOARD. IT DID NOT ASK THE MAN OF ABOUT FIFTY-THREE, THIRTY-FOUR, THIRTY-EIGHT, FORTY-FOUR, FIFTY-ONE OR SIXTY-ONE ANYTHING, AND IT DID NOT ASK THE WOMAN OF ABOUT THIRTY-ONE FOR HER PARTICULAR. IT DID NOT REOPEN THE MORROW LINE'S LINE OR MOVE THE PAGE OF ROUTES BY ONE. IT DID NOT SAY THAT A LINE OF BOATS HAS BEEN TAKEN AWAY OR HAS EASED. IT DID NOT READ THE BASKET. IT DID NOT LET THIS PARTY BE THE BODY THAT DECIDES WHERE ANY BOAT GOES. IT DID NOT TURN A ROUTE INTO A FLEET. IT DID NOT NAME A NEW FINAL ENEMY.**
+
+---
+
 ## VOLUME 14, BATCH 0003, CHAPTERS 671 TO 680, MOVEMENT 3. **WRITTEN 1 OCTOBER 2026 IN THE CHAPTER PASS QUEUED ON `workspace/volume-14/batch-0003/PROMPT.md`. TEN CHAPTERS WRITTEN, NO CHAPTER RESTARTED, NO CHAPTER CUT, NO DAY MOVED, NO FIGURE OF MONEY ADDED OR REMOVED, NO LOCK SOFTENED, NO RESTRICTED REMAINDER OPENED, NO NEW ANTAGONIST NAMED AND NO PLOT ALTERED. THE ONLY FILES OPENED FOR WRITING WERE THE TEN CHAPTERS, THE FOUR STATE FILES, `state/volume-index.md` AND ONE NEXT-PHASE PROMPT.**
 
 **THE GATE WAS CHECKED FIRST AND IT WAS SATISFIED: `outline/volume-14.md` IS ON DISK AT 104,343 BYTES AND `chapters/volume-14/chapter-0651.md` THROUGH `chapter-0670.md` ARE ON DISK. THIS PHASE DID NOT FLAG AN ABSENCE, DID NOT INVENT AN OUTLINE, DID NOT INVENT A CARD FILE, AND DID NOT RE-STATE THE DEBT. `state/phase-ledger.json` WAS NOT READ, NOT EDITED AND NOT REPORTED AS EVIDENCE OF ANYTHING.**
