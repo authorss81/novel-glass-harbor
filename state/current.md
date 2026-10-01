@@ -1,3 +1,57 @@
+## Phase position — THE CHAPTER PASS THAT WROTE CHAPTERS 691 TO 700 AND CLOSED MOVEMENT 5 AND THE VOLUME. **TEN CHAPTERS WERE WRITTEN. NO INHERITED CHAPTER WAS WRITTEN, RESTARTED, CUT, REPLACED, REORDERED OR MOVED, AND NO PROSE ON ANY FILE BEFORE 691 WAS TOUCHED. THE OUTLINE WAS NOT EDITED, `outline/ending.md` WAS NOT EDITED, NO CHAPTER OF VOLUME 13 WAS TOUCHED, AND NO REVIEW FILE WAS WRITTEN. THE FOUR STATE FILES AND `state/volume-index.md` WERE EDITED AND NOTHING ELSE WAS. THE LEDGER IS NOT READ, NOT EDITED AND NOT REPORTED.**
+
+### 1. WHAT THIS PASS WROTE
+
+**TEN CHAPTERS, 39,667 WORDS BY `wc -w` PER FILE AND SUMMED, BEING 4,037, 3,871, 3,762, 3,914, 3,653, 3,919, 3,526, 4,008, 3,970 AND 5,007. THE VOLUME IS FIFTY CHAPTERS AND 189,713 WORDS, BEING 68,942 + 38,657 + 42,447 + 39,667. 691 IS THE ELEVENTH DAY OF JUNE AND A SATURDAY AND 700 IS THE TWENTIETH AND A MONDAY.**
+
+**EVERY CHECK OF PART SEVEN WAS RUN AGAINST THE TEN FILES BY SCRIPT AND EVERY ONE CAME BACK CLEAN, AND THE FOUR CHECKS THAT ADD NOTHING WERE RUN BY HAND AND NOT BY THE CHECK THAT ADDS.**
+
+| Check | Figure |
+|---|---|
+| Quote parity | even on 10 of 10 |
+| Bold parity and nesting | even and correctly nested on 10 of 10 |
+| Second person, narration and apparatus | zero on 10 of 10 |
+| Four-digit year | zero on 10 of 10 |
+| Question mark | zero on 10 of 10 |
+| Counted word-length equals its passage | 10 of 10, at 579, 612, 556, 628, 590, 644, 603, 687, 689 and 966, each printed in the same two places as every other length in this volume and equal at both |
+| Clocks evaluate | the hundred and tenth wipe at 27/14/27 = 68 from about ten past ten to about eighteen minutes past eleven, the hundred and eleventh at 28/15/28 = 71 to about twenty-one minutes past eleven |
+| Money evaluates | 704 × 160 + 6 × 12 + 4 = 112,716; 66 × 160 + 6 × 12 + 8 = 10,640; 112,716 − 10,640 = 102,076; 637 × 160 + 13 × 12 = 102,076; 28 = 2s 4d; 640 − 28 = 612 = 3m 11s; 28 + 168 − 168 = 28 |
+| Four columns | 10 of 10, 424 / 1,994 rising to 433 / 2,039, third empty and unappointed on ten of ten, fourth at 125 and neither shut nor struck on ten of ten |
+| Nine day-counters | 90 of 90, 389 / 391 / 729 / 495 / 313 / 268 / 283 / 300 / 331 rising by one a day to 398 / 400 / 738 / 504 / 322 / 277 / 292 / 309 / 340 |
+| The hearing | 10 of 10, 189 to 198, one day more than the day before on each of the ten, no figure set against it, the man of about twenty-nine not on the water |
+| Ten consecutive days | Saturday the eleventh of June to Monday the twentieth, none missing and none in two chapters, weekday and month right in ten of ten subtitles and ten of ten datelines |
+| The cistern | charged on 696 and 700 and on no other day, the hundred and fifty-eighth and the hundred and fifty-ninth; 693 a rota day carrying no charge |
+| The wipe | on 692 and 699 and on no other day, at 27/14/27 and 28/15/28 |
+| The wage Tuesday | on 694 and on no other day, the eighty-sixth, the column at twenty-six lines and one hundred and four marks and not moved |
+| **Lines on the fitting-out sheet** | **zero on ten of ten, the sheet carrying two lines and no third** |
+| The read-back | once, on 700, deriving from 383 and 1,789 and not from 423 and 1,989, with 383 + 50 = 433, the count at the hour of the reading 432, 250 − 2 = 248, 1,789 + 248 = 2,037 and 1,789 + 250 = 2,039 |
+| The count of the page of routes | once, on 700, being the second of twice with the first on 670, and not said out loud and not in the slip |
+| The volume's question | once, on 700, in a working woman's mouth, naming no person, answered by nobody, recorded as asked |
+| The document under a seal | read once, on 696, before about twenty people of whom about eleven cannot read it, and not read twice, the name under the seal in no mouth on any day |
+| The Crown Keel | seen once, on 699, from the deck of a boat by about nine people, not understood, no figure of money and no figure of time against it, nobody going to look, not described from inside |
+| The three counts | not taken again on any day of the ten |
+| The duplicate-run sweep | the longest common contiguous run across the ten is **170 words, between Chapters 693 and 695**, and it is the head of the lock-required money arithmetic, ruled at `reviews/volume-13/volume-13-close.md` § 23 and deliberately there. **NO PARAGRAPH WAS CUT TO BRING IT INSIDE A NUMBER AND IT IS NOT REPORTED AS A FINDING** |
+| Slip openings and closings | ten distinct openings and ten distinct closings |
+| *stage* and *thank* | zero on ten of ten; every occurrence of *thanked* is a statement that nobody was thanked |
+
+### 2. THE FOUR CHECKS THAT SEE NOTHING THAT ADDS CAN SEE
+
+**EVERY SPELLED-OUT COUNTED FIGURE WAS READ AGAINST THE THING IT COUNTS. EVERY MULTIPLICATION AND EVERY SUM WAS EVALUATED BY HAND AND NOT BY THE CHECK THAT ADDS: 40 × 3 = 120, 2 × 18 = 36, 60, 9 × 2 × 16 = 288 and 2 × 168 = 336 sum to eight hundred and forty pence, being five marks, three shillings and fourpence; 111,876 + 840 = 112,716 out; 112,716 − 10,640 = 102,076 short; 704 × 160 + 6 × 12 + 4 = 112,716 and 637 × 160 + 13 × 12 = 102,076. EVERY SPELLED-OUT DATE WAS READ AGAINST THE HOUSE ANCHOR OF CHAPTER 650 BEING SUNDAY THE FIRST DAY OF MAY: the fiftieth day is Monday the twentieth day of June and the two Sundays of Movement 5 are the twelfth and the nineteenth of June and the two wipe nights fall on them. EVERY ELAPSED-DAY COUNT WAS READ AGAINST THE DAY IT IS ANCHORED TO: forty-one days on 692, forty-three and forty-two on 693, forty-three on 694, forty-five on 696, forty-six on 697, forty-eight and forty-seven on 698 and forty-nine on 700, all from Monday the second of May except the forty-three and the forty-eight, which are from the first of May and are about the third column and the slate. EVERY IDENTITY WAS READ AGAINST ITS OWN AGE AND ITS OWN PRONOUNS IN EVERY FILE IT APPEARS IN, AND THE FIGURES OF EVERY AGE USED ARE THOSE THE STATE FILES CARRY.**
+
+### 3. THE FOUR THINGS THAT ARE NOT CHAPTER DEFECTS AND WERE NOT REPAIRED
+
+**THE OUTLINE'S BELLWRIGHT GLOSS OF *THE FOUR HUNDRED AND FORTY-EIGHTH DAY* IS STALE AND THE CHAPTERS CARRY FOUR HUNDRED.** **THE OUTLINE'S *NINE PAGES, FIVE OF THEM STILL ON A WALL* IS NOT WHAT THE CHAPTERS SAY AND THE CHAPTERS SAY TWO LINES AND ABOUT ELEVEN INCHES OF EMPTY PLASTER.** **THE THREE BREACHES NAMED AT `state/open-threads.md` § 3a BELOW THIS ONE STAND FOUR CHAPTERS BACK AND WERE NOT REPAIRED IN PASSING.** **THE TIN-DAY COUNTER AND ITS NAMED DATE DO NOT AGREE AND HAVE NEVER AGREED SINCE THE SECOND OF MAY, AND THE COUNTER WAS CARRIED ON THE SAME RULE AS THE FIGURE ON CHAPTER 690.** All four are set out in full at § 3 of the hand-over in `state/open-threads.md`.
+
+### 4. WHAT THIS PASS DID NOT DO
+
+**IT DID NOT TAKE ANY COUNT** except the count of the three columns of the page of routes, which is this volume's fourth and last counting and is due on 700. **It did not read that leaf back aloud on any other day and it did not ask the volume's question on any other day.** It did not fill the third column or appoint anybody to it, did not scratch the boy's hand out, put his surname on a page, or put him on the water. It did not take a stage, name a stage, improve a stage, or put the word *stage* in a mouth. It did not open the drawer, take the worked lead down the hill, put a digit of any of the three numbers in that room on a page, open the restricted remainder, put a digit of it on a page, exercise or release or refuse the family claim, or improve the remote possibility of it. It did not read the proof out or get an answer out of it. It did not put a minister in a room, have him arrive, or have him speak. It did not kill anybody, name a body, print a casualty figure, call anybody a hero, or thank anybody. It did not pay, advance, cut back, better, strike or close anything standing and did not bring four hundred and fifty pence down that board. It did not read the basket. It did not say that a line of boats has taken away or eased. It did not ask the man of about twenty-nine, thirty-four, thirty-eight, forty-four, fifty-one or sixty-one anything, did not ask the woman of about thirty-one for her particular, did not reopen the Morrow Line's line, did not move the page of routes by one, and did not let this party be the body that decides where any boat goes. **It did not resolve the disagreement between the man of about thirty-two and the woman of thirty of no office and no page of the ten carries a resolution of it.** It did not price the aftertaste, the knee, the sleep or the hearing. **IT DID NOT EDIT `outline/volume-14.md`, DID NOT INVENT A CARD FILE, DID NOT WRITE A REVIEW FILE, DID NOT PLAN A SIXTH BATCH, DID NOT RESTATE THE GAP BETWEEN THE MANUSCRIPT AND THE LEDGER, AND DID NOT READ OR EDIT THE LEDGER.**
+
+### 5. THE ONE PHASE THIS VOLUME OWES
+
+**`workspace/volume-14/close/PROMPT.md`, THE AUDIT OF VOLUME 14, IS ON DISK AND IS THE ONLY NEXT PHASE. IT IS NOT A BATCH PROMPT AND IT IS NOT A CHAPTER PASS.**
+
+---
+
 ## Phase position — THE REPAIR PASS AGAINST THE REVIEW OF THE VERIFICATION RE-DISPATCH OF `workspace/volume-14/batch-0004/PROMPT.md`. **A REPAIR AND NOT A CHAPTER PASS. NO CHAPTER WAS WRITTEN, RESTARTED, CUT, REPLACED, REORDERED OR MOVED, NO SCENE WAS REWRITTEN, NO PROSE WAS CUT AND NO COUNTED FIGURE IN ANY CHAPTER WAS TOUCHED. THE TEN CHAPTERS OF MOVEMENT 4 STAND AT 42,447 WORDS AND THE PROSE ON THEM IS UNCHANGED WORD FOR WORD. FIVE FILES WERE EDITED: `workspace/volume-14/batch-0004/PROMPT.md`, `workspace/volume-14/batch-0005/PROMPT.md`, AND THE FOUR STATE FILES. NO CHAPTER APPEARS IN `git diff`. NO REVIEW ARTEFACT WAS WRITTEN, NO CARD FILE WAS INVENTED, NO MARKER WAS WRITTEN, AND `state/phase-ledger.json` WAS NOT READ, NOT EDITED AND NOT REPORTED AS EVIDENCE OF ANYTHING.**
 
 ### 1. WHAT THE REVIEW FOUND, AND WHAT WAS TRUE OF IT
