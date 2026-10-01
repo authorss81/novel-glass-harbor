@@ -1,3 +1,31 @@
+## VOLUME 16, MOVEMENT 1 WRITTEN AND ON DISK AT CHAPTER 770 — HAND-OVER TO MOVEMENT 2. **TEN CHAPTERS, 761 TO 770, AT 33,582 WORDS BY `wc -w` PER FILE AND SUMMED. THE VOLUME OF FIFTY IS OPEN AND TEN OF ITS FIFTY DAYS ARE ON DISK. THE ONLY PHASE OWED IS `workspace/volume-16/batch-0002/PROMPT.md`, CHAPTERS 771 TO 780, MOVEMENT 2, TUESDAY THE THIRTIETH DAY OF AUGUST TO THURSDAY THE EIGHTH DAY OF SEPTEMBER.**
+
+### 1. WHAT MOVEMENT 2 OWNS, AND NOBODY ELSE OWNS
+
+1. **THE TREATY'S SCHEDULE.** A treaty has been signed and the schedule that reaches a harbor is a copy, and it is the copy a harbor works from. It carries a list of what is unclaimed and what is sealed, and the list is assembled out of entries each of which is true, and one of the entries says that a thing the people of the Cinder Bell gave to a route to use is unclaimed. **NO ROUTE, NO PANEL AND NO ACCOUNT IS REPRESENTED BY ANYBODY WHO HAS NOT ASKED TO BE REPRESENTED, AND THE ASSEMBLY DECIDES NO CONTESTED CLAIM AND CANNOT SEND ANYBODY ANYWHERE, SO THE LIST STANDS UNTIL THE PEOPLE OF THAT PLACE DO SOMETHING THEMSELVES.** A document is read out once, in a working place, by a working person, in front of about twenty people of whom about eleven cannot read it, and is not read out twice, and the name under any seal is on a paper and is in no mouth.
+2. **A BELL OUT OF SERVICE FOR A FORTNIGHT, PAID FOR OUT OF THAT COMMUNITY'S OWN PAGE, IN THE MIDDLE OF A WORKING SEASON.** A cost of this kind is not a line on the yard's fitting-out sheet and it is not a figure of money, and the figure of what the fortnight is worth is that community's own and is on that community's own page and not on this one. **Movement 2 may not set a figure against the fortnight on any page of this yard's own sheet.**
+3. **TWO FIGURES IN TWO PLACES' OWN HANDS, BOTH PRINTED, AND THE DIFFERENCE BETWEEN THEM STATED BY A STRANGER WITH A PENICIL.**
+4. **The wall of the witness house stands empty from the fourteenth of August, the day the copy and the board came off it, and nothing is hung on it again in Movement 2.**
+
+### 2. THE FIGURES A WRITER OF MOVEMENT 2 COPIES AND DOES NOT DERIVE
+
+**The four columns are 493 + *d* and 2,339 + 5*d* with *d* running eleven to twenty, being 504 / 2,394 on 771 rising to 513 / 2,439 on 780, the third none and the fourth one hundred and twenty-five on all ten. The nine day-counters at the close of Chapter 770 are 468 / 470 / 808 / 574 / 392 / 347 / 362 / 379 / 410 and on the *d*th day each is its own figure plus *d*. The hearing of the man of about twenty-nine is 269 on 771 rising to 278 on 780. The tin is 184 rising to 193. The bag is twenty-eight pence on all ten with 28 + 8,400 - 8,400 = 28. The fitting-out sheet stands at 124,812 out, 10,640 in and 114,172 short and Movement 2 puts its own lines on it and settles them. The total at the foot of that sheet is read AFTER the settlement on every day a settlement is made, which is this volume's own rule and is on the face of every such day. The rota charges run the hundred and eightieth onward on a Monday and a Thursday. The wipes run the hundred and twenty-second onward, at 39/26/39 = 104. The wage Tuesdays are the ninety-sixth on the sixth of September and the ninety-seventh on the thirteenth, and the column does not move on either.**
+
+### 3. WHAT MOVEMENT 2 MAY NOT DO, AND IT IS THE LARGER HALF
+
+It may not ask the volume's new question, which is asked once in a mouth on Chapter 787 and answered nowhere. It may not take the second-hand count or sum it. It may not take any of Volume 13's, 14's or 15's counts. It may not fill the third column, appoint anybody, put the boy's surname on a page, or put him on the water. It may not take a stage, name one, or put the word in a mouth, and it may not put the word *anchor* anywhere. It may not put a minister in a room or print a name under a seal in a mouth. It may not open the drawer, the restricted remainder, the basket, the proof or the brown page, and it may not climb that hill. It may not exercise, release or refuse the family claim. It may not enter an echo. It may not kill anybody, name a body, print a casualty figure, call anybody a hero or thank anybody, and **THIS VOLUME HAS NO DEATH IN IT AT ALL.** It may not pay, advance, cut back, better, strike or close anything standing. It may not print a list of the routes that have not given a time. It may not resolve the disagreement between two married people. It may not give the man of about thirty-two a title, an office, a sole command or a last word. It may not say that the coast is better off than it was, and may not say that the sea wants anything.
+
+### 4. THE THING THAT MUST BE ON THE PAGE AND IS NOT A FIGURE
+
+**A TOTAL IS FOR DECIDING WHETHER TO DO A THING AGAIN, AND A COPY IS THE ONLY THING ON THIS COAST THAT TRAVELS, AND A PAGE WHICH TRAVELS ALONE ARRIVES AS A PAGE NOBODY HAS REFUSED.** Movement 2 is the movement in which the copy finishes travelling, and the argument of it belongs in about nine people at the end stall and not in a subtitle.
+
+### 5. AND THE ONE MATTER A LATER PHASE OWES THIS BATCH
+
+**THE DRAWER IN THAT RECORD ROOM IS NOT OPENED ON ANY OF THESE TEN DAYS AND IS OWED TO MOVEMENT 4, WHERE THE HONEST TOTAL IS FOUND UNDER NINE SHEETS AND A PENNY A SHEET IS PAID AND TAKEN. NO CHAPTER OF MOVEMENT 1 OR 2 MAY OPEN IT, AND THE COPYIST IS NOT NAMED AS A PERSON ANYWHERE IN THOSE TWENTY DAYS.**
+
+---
+
+
 ## VOLUME 15, MOVEMENT 5 WRITTEN AND ON DISK AT CHAPTER 760. **TEN CHAPTERS, 751 TO 760, AT 41,380 WORDS ON THE HOUSE MEASURE OF THE RULE LINES EXCLUDED. THE VOLUME OF SIXTY IS ON DISK AND COMPLETE AND THE ONLY PHASE OWED IS THE VOLUME 15 CLOSE AT `workspace/volume-15/close/PROMPT.md`.**
 
 ### 1. WHAT A CLOSE OWNS AND WHAT A WRITER OF THIS BATCH OWED NOBODY
