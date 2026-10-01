@@ -62,7 +62,7 @@ He said he had not moved from June and she said she knew that and had not expect
 
 ---
 
-At about half past five on that Monday the shortfall went out loud at that bench stone in about nine hundred words to about nine people, and about four of those nine had stood at the back of that market at about two and heard eight hands read out once.
+At about half past five on that Monday the shortfall went out loud at that bench stone in about nine hundred and fifty-nine words to about nine people, and about four of those nine had stood at the back of that market at about two and heard eight hands read out once.
 
 "**The water went up that butt this morning in the eleventh trip at about eleven, which was the hundred and seventy-first time anybody has charged it, and the covers went on at that hour as they go on every Monday and Thursday of this run of days. About five people drew from it after four and were not kept waiting, and the keeper wrote the number and the hours and wrote beside them that no line goes on the sheet today.**"
 

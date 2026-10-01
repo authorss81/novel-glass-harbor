@@ -62,7 +62,7 @@ He said he had not moved from June and she said she knew that and that she was s
 
 ---
 
-At about half past five on that Sunday the shortfall went out loud at that bench stone in about nine hundred words to about nine people, and about four of those nine had stood in the lane that morning watching that wall stand bare.
+At about half past five on that Sunday the shortfall went out loud at that bench stone in about nine hundred and twenty-two words to about nine people, and about four of those nine had stood in the lane that morning watching that wall stand bare.
 
 "**That wall behind that bench came down bare at about half past ten this morning and stood bare until about a quarter to twelve, and it went up at the angle it has held since the twelfth of January and it did not go up whole. I read the three figures off a slip before the ladder went up, being thirty-four off and twenty-one bare and thirty-four back and eighty-nine the whole of it, and I read them twice because about five of this party cannot read a column. The pump was closed up and the gaskets left to set and the bottom washed down with a bucket.**"
 

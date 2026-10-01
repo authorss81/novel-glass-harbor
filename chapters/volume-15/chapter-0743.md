@@ -38,7 +38,7 @@ He said he had not moved from June and she said she knew that and that she was s
 
 ---
 
-The boat went out of that landing at about four in the afternoon with nine men aboard, and the man of about thirty-two and the woman of about thirty-three who stands in the tender and the man who keeps the leaf were in her, and the pump hand of about forty-four was in her because he asked to be. The tender gear was made fast amidships and the independent line was coiled on the pin and the spare glass lay in its wrap beside it, and the keeper wrote the hour she cleared the bar and wrote that the boat was going to a place whose name his book had not carried until this week.
+The boat went out of the landing below that yard at about four in the afternoon with nine men aboard, and the man of about thirty-two and the woman of about thirty-three who stands in the tender and the man who keeps the leaf were in her, and the pump hand of about forty-four was in her because he asked to be. The tender gear was made fast amidships and the independent line was coiled on the pin and the spare glass lay in its wrap beside it, and the keeper wrote the hour she cleared the bar and wrote that the boat was going to a place two days of water and a night from that landing, and that the name of it had not been carried in that book until this week.
 
 ---
 
@@ -54,7 +54,7 @@ The register copy of the reason went to a table at the west basin office with th
 
 ---
 
-At about half past five on that Tuesday the shortfall went out loud at that bench stone in about nine hundred words to about nine people, and about four of those nine had stood at the flat of that stone at about two and heard five parts read with their multiplications.
+At about half past five on that Tuesday the shortfall went out loud at that bench stone in about eight hundred and ninety-six words to about nine people, and about four of those nine had stood at the flat of that stone at about two and heard five parts read with their multiplications.
 
 "**The lid on that step was read at about ten this morning in four minutes by a man of about thirty-one of the second lay, and it came to twenty-six lines and one hundred and four marks, and it did not move, and the chest stayed shut from ten until four, and a further week stood fallen due at the close of it. That is the ninety-second of those Tuesdays and the column has not moved on any of them and nobody has asked for the reading twice.**"
 
