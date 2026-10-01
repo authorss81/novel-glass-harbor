@@ -1,3 +1,31 @@
+## Volume 13, Chapters 601–650 — the CLOSE AND THE AUDIT. **NO CHAPTER WAS WRITTEN, RESTARTED, CUT OR MOVED, NO CHAPTER WAS REPAIRED, NO DAY WAS MOVED, NO FIGURE OF MONEY WAS ADDED OR REMOVED AND NO PLOT WAS ALTERED. WHAT FOLLOWS IS WHAT THE AUDIT FOUND ABOUT THE FIFTY CHAPTERS, NOT A NEW ACCOUNT OF THEM. THE FULL AUDIT IS `reviews/volume-13/volume-13-close.md`; THE STATE OF THE WORLD IS AT THE HEAD OF `state/continuity.md`; THE HAND-OVER IS THE EIGHT ITEMS AT THE HEAD OF `state/open-threads.md`.**
+
+**A SUMMARY THAT DISAGREES WITH ITS CHAPTER IS A FINDING AND NOT A FAULT OF THE CHAPTER, AND THE AUDIT READ THESE SUMMARIES ONLY AFTERWARDS. THREE SUMMARIES WERE FOUND TO DISAGREE WITH THE FIFTY PAGES AND ALL THREE ARE THE CHAPTERS' FAULT AND NOT THE SUMMARIES'.**
+
+| # | What a hand-over or a summary said | What the fifty chapters say | Ruling |
+|---|---|---|---|
+| **1** | **THE COUNT OF THE BARE VERB *THANK* IS ONE, IN `chapter-0613.md` AT LINE 23** | **TWO, at line 23 in the speech and at line 67 in that file's own first column** | **THE CHAPTERS ARE RIGHT. THE COUNT IS TWO** |
+| **2** | **THE COUNT OF THE THREE COLUMNS OF THE PAGE OF ROUTES IS WRITTEN DOWN ON CHAPTER 650 AND ON NO OTHER DAY** | **ON CHAPTER 630, BEING TWO AND FOUR AND THREE, AND ON CHAPTER 650, BEING ONE AND FOUR AND FOUR, AND ON NO OTHER DAY** | **THE CHAPTERS ARE RIGHT. THE OUTLINE'S OWN THREE-COUNTS SECTION ASKS FOR TWICE** |
+| **3** | **THE MARRIED PAIR'S PUBLIC DISAGREEMENT IS PAID THREE TIMES** | **THREE THREE-SPEECH ARGUMENTS AND A FOURTH EXCHANGE IN THE OPEN ON THE TWENTY-SEVENTH OF APRIL** | **BOTH PRINTED. STILL MARRIED, STILL OPEN, THIRD COLUMN STILL EMPTY** |
+| **4** | **THE MOVE THAT DID NOT HAPPEN: A DESCENT IN THE TRENCH AND A ROUTE ARRIVING AT ORISON** | **NO DESCENT APPEARS IN ANY CHAPTER OF MOVEMENT 5 AND NO ROUTE ARRIVES AT ORISON** | **ORISON IS ENTERED AS A NAME, A BEARING, A FIGURE NINE CUT INTO A PRESSURE BELL AND A THING ABOUT TWO DAYS' SAIL AWAY. THIS IS THE VOLUME'S ONE UNPAID NAMED LOCATION AND IT IS RULED AT § 21.1 OF THE CLOSE** |
+| **5** | **THE MOVEMENT 5 APPARATUS AGAINST ITS SCENE, 28,953 AGAINST 14,454** | **31,014 AGAINST 10,353 on the splitter stated in the close, and 31,014 + 10,353 + 2,142 = 43,509, which is `wc -w` on those ten files exactly** | **NEITHER WITHDRAWN. THE DIFFERENCE IS ONE BOUNDARY, BEING THE BOLD SPEECHES INSIDE THE SCENE** |
+
+**WHAT REPRODUCED OFF THE FIFTY FILES, EVERY COUNT WITH ITS METHOD BESIDE IT.**
+- **The calendar: 50 of 50 subtitle-and-dateline weekday-and-date pairs agree; the locked run-ordinal agrees with the day-number on 50 of 50; a four-digit year is at zero on all fifty; a question mark is at zero on all fifty.**
+- **The four columns: 50 of 50 carry 333 + *d* and 1,539 + 5*d*, in two worded forms. The close of Chapter 650 is 383 / 1,789 / none / 125 and the hour of its reading is 382 and 1,787.**
+- **The nine day-counters: 450 of 450 agree with base + (day − 1). Chapter 650 carries 348 / 350 / 688 / 454 / 272 / 227 / 242 / 259 / 290. The hearing of the man of about twenty-nine: 50 of 50, 99 to 148, no figure set against it and the man off the water on all fifty.**
+- **The money: twenty-eight pence on 50 of 50, never zero; 28 + 8,400 − 8,400 = 28; 640 − 28 = 612. The bill's five parts on Chapter 639 sum to 3,600. The sheet stands at 111,876 / 10,640 / 101,236 and every marks-and-shillings gloss evaluates at one mark to 160 pence.**
+- **The wipes: 8, on the 8 Sundays, none on any other day; the off-and-back ladder 14 to 21, one a Sunday; the bare ladder 1 to 8.**
+- **The page of routes: 1 held, 4 restricted, 4 dormant, 1 + 4 + 4 = 9, the held column the Saltmarch Weatherway alone, and all nine names read aloud on Chapter 650 and on no other day.**
+- **The sweeps: *thank you* zero, *thanks* zero, the bare verb *thank* two, *thanked* 230 and every one a negation; the second person outside a quoted or italic span zero, of 91 tokens in the raw files; quote parity even on 50 of 50 at 208 marks; bold parity even on 50 of 50; of the twelve L35 terms eleven at zero and *in the book* at four.**
+- **The duplication: the longest common contiguous word-run over all 1,225 pairs is 93 words, between Chapters 617 and 624; byte-identical paragraphs at eight words or more are two, 49 words at 617/624 and 59 words at 628/639.**
+
+**THE LENGTH OF THE FIFTY FILES, RE-DERIVED AND CORRECTED: 205,235 WORDS BY `wc -w` PER FILE AND SUMMED — 39,916 / 38,663 / 41,916 / 41,231 / 43,509. THE MOVE THAT MOVED WAS THE AUDIT'S OWN: AN EARLIER PASS PRINTED 41,188 AND 205,192, WHICH ARE PRE-REPAIR FIGURES FOR MOVEMENT 4, AND THE DIFFERENCE OF 43 WORDS IS THE LENGTHENING DONE BY THE REPAIR PASS AGAINST `logs/batch-0004.review.log` IN FOUR FILES. THE OTHER FOUR MOVEMENT TOTALS AND EVERY LONGEST AND SHORTEST FIGURE REPRODUCED EXACTLY. NO CHAPTER WAS TOUCHED TO MAKE ANY FIGURE COME OUT.**
+
+**THE TWELVE FINDINGS ARE AT § 23 OF THE CLOSE, EIGHT OF THEM FOUND AND RULED BEFORE THE RULINGS WERE WRITTEN AND FOUR OF THEM FOUND BY THE AUDIT ON ITS OWN FIGURES. NONE OF THE TWELVE WAS FOUND BY LOOKING.**
+
+---
+
 ## Volume 13, Batch 0004 (Chapters 631–640), Movement 4 — what the repair pass of 30 September 2026 changed in each of the ten files, and what it changed nothing in. **RUN AGAINST `logs/batch-0004.review.log`. NO CHAPTER WAS RESTARTED, NO CHAPTER WAS CUT, NO SCENE WAS REWRITTEN, NO DAY WAS MOVED AND NO FIGURE OF MONEY WAS ADDED OR REMOVED. WHAT FOLLOWS IS A LIST OF WHAT MOVED AND NOT A SUMMARY OF THE CHAPTERS, AND THE CHAPTERS THEMSELVES ARE UNCHANGED IN EVERY OTHER RESPECT.**
 
 **THE TALLY. NINE FILES TOUCHED, ONE NOT. FORTY-THREE IN-PLACE REPLACEMENTS, THE RE-CUT OF ONE SECOND COLUMN AND ONE HOUR INSIDE IT. WORD COUNTS 3,686 / 3,921 / 3,867 / 3,792 / 3,976 / 3,983 / 4,169 / 4,627 / 4,675 / 4,535, being 41,231 in all against 41,188 before, and every one of the ten above the house guideline of three thousand two hundred. ALL TEN PRINTED WORD-LENGTHS UNCHANGED AND ALL TEN STILL MEASURING EQUAL TO THEIR PASSAGES BY SCRIPT, BEING 573 / 543 / 602 / 547 / 667 / 613 / 712 / 638 / 517 / 695.**
