@@ -447,7 +447,7 @@ Quote parity even on every file; the second person at zero in the narration and 
 | **683** | **Friday the third day of June** | 33 | not a rota day. Not a wage Tuesday. Not a wipe |
 | **684** | **Saturday the fourth day of June** | 34 | not a rota day. Not a wage Tuesday. Not a wipe |
 | **685** | **Sunday the fifth day of June** | 35 | **a wipe — the hundred and ninth time, sixty-five the whole of it** |
-| **686** | **Monday the sixth day of June** | 36 | a rota day — the hundred and fifty-seventh charge |
+| **686** | **Monday the sixth day of June** | 36 | a rota day — the hundred and fifty-sixth charge |
 | **687** | **Tuesday the seventh day of June** | 37 | **the eighty-fifth wage Tuesday.** The column does not move |
 | **688** | **Wednesday the eighth day of June** | 38 | not a rota day. Not a wage Tuesday. Not a wipe |
 | **689** | **Thursday the ninth day of June** | 39 | a rota day — the hundred and fifty-seventh charge. **The rehearsal, and a woman's watch, and about nine minutes** |

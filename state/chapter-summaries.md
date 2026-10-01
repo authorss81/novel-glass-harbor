@@ -1,3 +1,28 @@
+## THE REPAIR PASS AGAINST `logs/next-0004.review.log`, ON TOP OF THE TWENTY CHAPTERS SUMMARISED BELOW. **VERDICT FIX AGAINST THREE SERIOUS AND FOUR MODERATE FINDINGS. NO CHAPTER WAS WRITTEN, RESTARTED, CUT, REPLACED OR MOVED, NO SCENE WAS REWRITTEN, NO DAY WAS MOVED, NO FIGURE OF MONEY WAS ADDED OR REMOVED, NO LOCK WAS SOFTENED AND NO PLOT WAS ALTERED. SIX CHAPTERS WERE TOUCHED AND NOTHING BELOW THIS LINE IS SUPERSEDED EXCEPT WHERE A FIGURE IS NAMED IN THE TABLE.**
+
+### THE FIGURES AND STATEMENTS THIS PASS CHANGED, AND WHAT EACH ONE NOW SAYS
+
+| Ch | Stood | Now | Ruling |
+|---|---|---|---|
+| **662** | **a man of about forty-four with a chandler's counter**, and his 2:30 paragraph printed after the 3:30 one | **a woman of about forty-four**, and the day runs 2:00, 2:30, 3:30, 3:30, 4:00, 4:00 | **She is a woman in all twenty of her Volume 14 appearances and in four chapters of Volume 13. The second column already had the day in the right order and the scene did not** |
+| **664** | **a man of about forty-four with a chandler's counter**, then *she* and *her* three times | **a woman**, and the answering clause named as **the woman of thirty of no office** | **THE SAME CHARACTER. Chapter 664 also carried a second man of about forty-four, the crossings keeper, who is correctly aged and unchanged; the two are now two different people** |
+| **664** | the slip said the buckets were **a rota day** and then that it had not made a rota day | **it is not a rota day** | **It was a Sunday. The standing block, the closing block and the second column all said not a rota day and were right** |
+| **664** | the woman of thirty's speech, **fifty-one words** in the scene and first column | **forty-six** | Measured; set in both places |
+| **664** | the slip, **three hundred and eighty-five words** | **three hundred and eighty-six** | **The figure moved because this pass's own correction to the rota-day clause lengthened the slip, and a cut that makes a figure stale is the same defect this pass was called in to fix** |
+| **666** | the subtitle, **one hundred and twelve words** | **Two Hundred and Ninety** | The body, the first column and the closing block were already right |
+| **666** | the definition of a seam, **nine words** in the scene, the slip and the first column | **fifteen** | **It is *a seam is a place where two things that should be the same are not*. Set in all three places** |
+| **667** | the subtitle, **one hundred and forty-six words** | **One Hundred and Fifty-Eight** | Set against the measured indirect speech |
+| **668** | the subtitle, **one hundred and sixty-two words** | **Two Hundred and One** | Set against the measured indirect speech |
+| **670** | the subtitle, the standing block and the closing block all put **four hands at about two in the afternoon** | **one hand on the Monday at a man's own asking and three at about two on the Saturday afternoon** | **The first column was already right. The sum still falls eighteen to fifteen and no name was scratched out** |
+| **670** | **for the First Time in Nine Days**, and **nine days in between** | **for the First Time Since the First of May**, and **twenty days in between** | **Chapter 650 is the first of May and this is the twenty-first, so the gap is twenty. The slip's *nothing has moved in that page in nine days* is now twenty days** |
+| **670** | the slip, **five hundred and fifty-nine words** | **five hundred and sixty-seven** | **The figure moved because this pass's own correction to the four-hands dating lengthened the slip** |
+
+**AND ONE LINE OF THE BINDING PLAN.** `outline/volume-14.md` gave Chapter 686 **the hundred and fifty-seventh charge**, the same figure as 689. **686 is now the hundred and fifty-sixth, the ladder runs 146 on 651 unbroken to 159 on 700, and 693 remains a rota day carrying no charge.** **NOTHING ELSE IN ANY OUTLINE, BATCH CARD OR PROMPT WAS EDITED, AND NO DAY, MOVEMENT OR CHAPTER WAS PLANNED BY THIS PASS.**
+
+**WHAT IS CARRIED AND NOT REPAIRED, THREE, AS BEFORE:** the seventy-six-word common run between 654 and 668, which is the head of the locked money arithmetic the outline requires on every day of the fifty; the apparatus share of about two thirds; and the relative year in the standing block of 651, which satisfies the four-digit-year sweep and has precedent. **NO CHAPTER AND NO PARAGRAPH WAS CUT FOR ANY OF THEM.**
+
+---
+
 ## Volume 14, Chapters 651–670 — Movements 1 and 2 as written, with the repair pass over the ten chapters this phase inherited. **CHAPTERS 661 TO 670 WERE WRITTEN BY THIS PHASE. CHAPTERS 651 TO 660 WERE ON DISK AND WERE NOT REWRITTEN; TWELVE COUNTED-FIGURE AND INTERNAL-CONTRADICTION DEFECTS IN THEM WERE REPAIRED AT SOURCE AND EVERY ONE IS NAMED IN THE TABLE BELOW. NO CHAPTER WAS RESTARTED, CUT OR MOVED, NO DAY WAS MOVED AND NO FIGURE OF MONEY WAS ADDED OR REMOVED.**
 
 ### THE TWELVE REPAIRS, AT THE PLACE EACH FIGURE STOOD

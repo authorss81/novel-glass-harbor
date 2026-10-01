@@ -32,15 +32,15 @@ Nobody in that yard has ever kept a record of handwriting. There is no column fo
 
 ---
 
-At about half past three a woman of about thirty-nine who mends net came past that bench stone with a basket, and she looked at the two names and said that they were written by somebody who writes with their wrist and not their fingers, and that there is one such hand in this harbor and she is not going to say whose it is and nobody has asked her.
+At about half past two a woman of about forty-four with a chandler's counter four hundred yards up that lane stopped at that shed door on her way back from the market and looked at that page of days over the man's shoulder, and did not go in, and said one thing into the doorway, which was that the height of a name is not a thing anybody has ever been asked for, and then went up the lane.
 
-That is not an answer and it is not an accusation. She was thanked for nothing and nobody thanked her for that either, and she went on to the market with her basket.
+Nobody called her back and nobody answered her.
 
 ---
 
-At about half past two a man of about forty-four with a chandler's counter four hundred yards up that lane stopped at that shed door on his way back from the market and looked at that page of days over the man's shoulder, and did not go in, and said one thing into the doorway, which was that the height of a name is not a thing anybody has ever been asked for, and then went up the lane.
+At about half past three a woman of about thirty-nine who mends net came past that bench stone with a basket, and she looked at the two names and said that they were written by somebody who writes with their wrist and not their fingers, and that there is one such hand in this harbor and she is not going to say whose it is and nobody has asked her.
 
-Nobody called him back and nobody answered him.
+That is not an answer and it is not an accusation. She was thanked for nothing and nobody thanked her for that either, and she went on to the market with her basket.
 
 ---
 
