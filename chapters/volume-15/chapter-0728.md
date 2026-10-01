@@ -1,0 +1,73 @@
+# Chapter 728
+
+*Monday the Eighteenth Day of July, a Rota Day and the Hundred and Sixty-Seventh Charge on That Cistern, Eleven Trips by Hand With the Covers On From Eleven Until Four, Air and Line and Boat Gone Over for Descent Work and a Woman of About Thirty-Three Coiling an Independent Line, the Bag at Twenty-Eight Pence, Being Two Shillings and Fourpence, the First Column at Four Hundred and Sixty-One and the Second at Two Thousand One Hundred and Seventy-Nine*
+
+Monday the eighteenth day of July, with that market open from about nine and a steady wind coming up the harbor mouth by noon, a yard below that market with a shed standing in it, and about nine people in that shed at half past five that afternoon.
+
+**A rota day and not a wage Tuesday and not a wipe, and that cistern charged in eleven trips by hand between about eight in the morning and about eleven, being the hundred and sixty-seventh charge, with the covers lying on it from about eleven until about four in the afternoon and walked on by none of it. Air and line and boat were gone over in the forenoon for descent work, with the pump tried and the valves greased and ninety yards of line laid out along the bench stone and coiled back again. The sheet stands at one hundred and sixteen thousand seven hundred and forty-six pence out and one hundred and six thousand one hundred and six pence short, against ten thousand six hundred and forty pence in. A hundred and sixty-eight pence came into that yard at about ten and a hundred and sixty-eight went out of it at about four, and two thousand one hundred and eighty-one pence came into that yard in the running of the thirteen days and two thousand one hundred and eighty-one went out of it, and twenty-eight plus two thousand one hundred and eighty-one less two thousand one hundred and eighty-one is twenty-eight, and under that slate is twenty-eight pence, being two shillings and fourpence, and no tin in that shed has been opened since the twenty-ninth of April past, this yard now one hundred and forty-one days without one.**
+
+**Nine counters about things that are not being done ran a day on this morning. That notice of the seventeenth of May past stands on its four hundred and twenty-sixth day. Four hundred and twenty-eight days have gone by without anybody asking a bellwright of this harbor, and his chest stays shut. Two objects of nobody's on that crown are into their seven hundred and sixty-sixth day. That bench under that pump has stood bare for the five hundred and thirty-second night. Two lights about a mile off that point have spent three hundred and fiftieth days with no figure set against them. A six-line sheet at the back of that end stall has reached its three hundred and fifth day. The paper of four lines in Fish Street is on its three hundred and twentieth. A nine-line sheet with a seal on it in that front street has stood three hundred and thirty-seventh day. A man of about fifty-one has kept three hundred and sixty-eighth days of not saying anything to anybody about a page of six names. That third column is empty and unappointed and a boy's hand of twenty-two is at the head of it and his surname is on no page and he is off the water. That fourth column stands at one hundred and twenty-five and has taken no line and is neither shut nor struck. About two sea miles off that mole head lie nine hulls this afternoon and nine lay there on the twenty-first of January, and this harbor has not said a word about any of them easing. A man of about twenty-nine hears out of the left side of his head and it is two hundred and twenty-six days, one more than the day before, no figure is set against it, and he is not on the water.**
+
+---
+
+The cistern took its eleven trips before eleven for the hundred and sixty-seventh time, with the man of about forty on the carrying and the boy of twenty-two on the dipping and the keeper calling the hours from the doorway. The covers went on at about eleven and stayed on until about four, and about four people came at noon and were told the hours and came back after four and were served without waiting. The keeper wrote the charge number and the hours and wrote beside them that air and line and boat work would go on around the lying covers without moving them.
+
+---
+
+The pump was tried at about nine with two men on the handles and the valves greased beforehand with a rag and a pot. The air came through clean and without a break through the morning, and the man of about thirty-two put his hand over the outlet twice and nodded to the keeper and said nothing about the feel of it. The housing was closed again by about ten and the handles were lashed with twine, and the keeper wrote that the pump had been tried and gave no opinion on it beyond the fact of the trial.
+
+---
+
+Ninety yards of line were laid out along the flat of that bench stone at about ten and gone over hand over hand for chafe and soft places. About four people walked the length of it on both sides and turned it over twice, and one soft place was found near the middle and marked with red twine and cut out before noon. The two ends were whipped and the good length was coiled back on the pin by about eleven, and the cut length was hung on a nail by the door with the red mark showing.
+
+---
+
+The boat was hauled alongside at about eleven and her bilge was pumped out and her bottom looked over and her thwarts tried for looseness. About four people went over her with the man of about thirty-two, and a loose thwart aft was wedged and nailed and tried again with a man's weight standing on it. The mast was stepped and unstepped and the sail bent on and left bent, and the sea lead and the spare coil were put aboard and left aboard under a cover.
+
+---
+
+At about two the woman of about thirty-three with a watch brought her own coil across the yard and laid it beside the bench stone. It was an independent line, lighter than the yard's and coiled in smaller turns, with a cutoff at the upper end that she worked three times before anybody touched it. She coiled it back herself without letting another hand into the turns, and she hung the cutoff where it could be reached without stooping. About four people watched and nobody asked to handle it, and she said it was hers to tend and would stay in her hands on the day.
+
+---
+
+At about three one of the nine stood near the bench stone and spoke to the man of about thirty-two in front of the others. The person said the descent work was coming on and the air and the line and the boat had been gone over, and that the man had done this work before and knew what it asks of a body. The person said the man would be the one to go down when the day comes, and waited for an answer, and the man said he had heard what was said and did not answer it either way.
+
+---
+
+About four people looked at the stone after that and about four looked out through the doorway, and nobody took up the words and nobody added to them. The woman of thirty of no office wrote the hour on a scrap and put the scrap under the slate without a name against it, and the keeper nodded to her and said nothing about it. The man of about thirty-two went back to the boat's thwart and tried the wedge again with his foot, and the talk in that shed went back to the line and the pump.
+
+---
+
+The disagreement between the two of them stood in the shed through the afternoon without being opened again at length. He said at about four that an independent line kept in one pair of hands is still a line this yard has to trust without handling, and she said that trust is not the same as handling and that some things are kept by being left alone. He said he knew what he had objected to in June and that this was part of the same thing, and she said she knew that too and was keeping both books and the line in the same way. About four people agreed with her and about four agreed with him in silence, and the matter stayed open and no page of these days carries a resolution of it.
+
+---
+
+The second book stayed dry on the shelf above that butt through the whole of the day and was not taken down except once at about one to check a figure. The first still shows the cockled corner from Friday and turns stiff on those two leaves, and the woman of thirty read the checked figure out once for about five of that nine who cannot read a column. The Lowfen Reed lay dormant and nobody came down that coast road with a new time, and the end stall stood quiet after three with nobody waiting at it past four.
+
+---
+
+At about half past five on that Monday the shortfall went out loud at that bench stone in about nine hundred words to about nine people, four of whom had walked the length of that line at about ten in the morning.
+
+"**The air went through that pump clean at about nine with two men on the handles and the valves greased beforehand, and the housing was closed again by ten and the handles lashed. Ninety yards of line were laid along this stone at about ten and gone over hand over hand, and one soft place near the middle was marked with red twine and cut out before noon and the good length coiled back on the pin. That cistern took eleven trips by hand between eight and eleven for the hundred and sixty-seventh time, and the covers have lain on it from eleven until four and about four people came back after four and were served.**
+
+"**That boat was hauled alongside at about eleven and her bilge pumped out and a loose thwart aft wedged and nailed and tried with a man's weight, and the mast stepped and unstepped and the sail left bent and the sea lead and spare coil put aboard under a cover. At about two the woman with a watch laid her own coil beside this stone and worked the cutoff three times and coiled it back herself, and nobody handled it and it will stay in her hands on the day.**
+
+"**At about three words were said in this shed in front of nine about the descent work coming on and about who would go down when the day comes, and the man heard what was said and did not answer it either way. Nobody took the words up and nobody added to them, and the hour was written on a scrap without a name and put under the slate. The disagreement between the two of them stood here again at about four without being opened at length, and the matter stays open and no page of these days settles it, and the Lowfen Reed lay dormant and nobody came down that road with a new time.**
+
+"**The sheet stands at one hundred and sixteen thousand seven hundred and forty-six pence out and one hundred and six thousand one hundred and six pence short, against ten thousand six hundred and forty pence in, being sixty-six marks, six shillings and eightpence. Two thousand one hundred and eighty-one pence in and two thousand one hundred and eighty-one out in the running of the fortnight, and twenty-eight plus two thousand one hundred and eighty-one less two thousand one hundred and eighty-one is twenty-eight, and under that slate is twenty-eight pence, being two shillings and fourpence, and that is six hundred and twelve pence short of the wage of four marks, being three marks eleven shillings. No tin in that shed has been opened since the twenty-ninth of April past and this yard is now one hundred and forty-one days without one.**
+
+"**And the last of it. The second book stayed dry on the shelf and was taken down once at one to check a figure, and the first still turns stiff on its two leaves. About two sea miles off that mole head there are nine hulls this afternoon and there were nine there on the twenty-first of January. A man of about twenty-nine hears out of the left side of his head and it is two hundred and twenty-six days today and nothing tried on pump or line this morning touched it by a day.**"
+
+Nobody was thanked for the arithmetic and nobody was thanked for a coil kept in one pair of hands, and that shed stood empty by about six with its door standing open on a lane nobody was on, and that page of that week had thirty lines on it, and that wooden tally slate was still lying flat on that bench stone with nothing on it.
+
+---
+
+**A ROTA DAY AND THE HUNDRED AND SIXTY-SEVENTH CHARGE IN ELEVEN TRIPS BY HAND WITH THE COVERS ON FROM ELEVEN UNTIL FOUR. AIR AND LINE AND BOAT WERE GONE OVER FOR DESCENT WORK AND ONE SOFT PLACE WAS CUT OUT BEFORE NOON. A WOMAN WITH A WATCH COILED AN INDEPENDENT LINE HERSELF AND WORKED THE CUTOFF THREE TIMES. WORDS WERE SAID ABOUT WHO WOULD GO DOWN AND NO ANSWER WAS GIVEN EITHER WAY. THE SHEET STANDS AT ONE HUNDRED AND SIXTEEN THOUSAND SEVEN HUNDRED AND FORTY-SIX PENCE OUT AND ONE HUNDRED AND SIX THOUSAND ONE HUNDRED AND SIX PENCE SHORT. THE BAG HOLDS TWENTY-EIGHT PENCE, BEING TWO SHILLINGS AND FOURPENCE.**
+
+---
+
+---
+
+*First column, entered on Monday the eighteenth day of July at about six in the evening in that shed: that the said day was a rota day and was not a wage Tuesday and was not a wipe, and that that cistern was charged in eleven trips by hand between about eight and about eleven, being the hundred and sixty-seventh charge, with the covers lying on it from eleven until four; and that the pump was tried at nine and ninety yards of line laid out at ten with one soft place cut out before noon; and that the boat was hauled alongside at eleven with a loose thwart wedged and nailed; and that a woman with a watch laid an independent line beside that bench stone at two and worked the cutoff three times and coiled it herself; and that at three words were said in nine about who would go down when the day comes and no answer was given either way; and that the Lowfen Reed lay dormant and nobody came down that coast road with a new time.*
+
+*Second column, not checkable from a mole, entered on the said Monday at about six in the evening in that shed, and no name is against it: that at about nine the reason two men were put on the pump handles is that air tried by one man is air tried on one rhythm, and descent work asks for air that does not depend on how one man breathes that morning; that at about ten the reason the soft place was marked with red twine before it was cut is that a fault shown plainly can be owned by nine people, and line mended quietly belongs to whoever held the knife; that at about two the reason nobody handled the independent coil is that a cutoff kept in one pair of hands is only good if those hands have never had to ask for it, and borrowing it for a minute would teach it a second pull; and that at about three the reason the words about going down were left without an answer is that an answer in nine people on a Monday would have sounded like a promise, and work got ready is not the same as a man got ready.*
