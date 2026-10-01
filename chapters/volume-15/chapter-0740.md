@@ -1,0 +1,85 @@
+# Chapter 740
+
+*Saturday the Thirtieth Day of July, Not a Rota Day and Not a Wage Tuesday and Not a Wipe, a Pilot of About Forty-One Hiring This Yard's Boat for Two Days at the Figure in Chalk and Giving the Order for Her Himself, the Sheet at One Hundred and Eighteen Thousand Seven Hundred and Eighty-Four Pence Out, the Bag at Twenty-Eight Pence, the First Column at Four Hundred and Seventy-Three and the Second at Two Thousand Two Hundred and Thirty-Nine*
+
+Saturday the thirtieth day of July, with that market busy from nine and the wind veering west through the morning until it came hard on the quarter, a yard below that market with a shed standing in it, and about nine people in that shed at half past five that afternoon.
+
+**Not a rota day and not a wage Tuesday and not a wipe, and no charge put on that cistern and its covers lying on it from nine in the morning until four in the afternoon. This yard's boat was hired for two days by a pilot of about forty-one out of a creek three days up that coast road, being two days at the figure in chalk at two times one hundred and sixty-eight for three hundred and thirty-six pence, being two marks and sixteen pence, and that figure went into his own book in chalk and not onto this sheet and not into this yard's book. He gave the order for her himself and nobody in this shed gave one. The sheet stands at one hundred and eighteen thousand seven hundred and eighty-four pence out and one hundred and eight thousand one hundred and forty-four pence short, against ten thousand six hundred and forty pence in. A hundred and sixty-eight pence came into that yard at about ten and a hundred and sixty-eight went out of it at about four, and under that slate is twenty-eight pence, being two shillings and fourpence, and no tin in that shed has been opened since the twenty-ninth of April past.**
+
+**Nine days of things that are not being done went on a day in the morning, and this is what they stood at. That notice of the seventeenth of May past is on its four hundred and thirty-eighth day. A bellwright of this harbor has now gone four hundred and forty days without anybody asking him a question, and his chest is shut and stays shut. Two objects belonging to nobody on that crown are into the seven hundred and seventy-eighth day of themselves. That bench under that pump has now stood bare for the five hundred and forty-fourth night running. Two lights about a mile off that point have gone three hundred and sixty-two days with nothing set against them. A six-line sheet at the back of that end stall has reached the three hundred and seventeenth day of its standing. The paper of four lines in Fish Street is on the three hundred and thirty-second. A nine-line sheet with a seal on it in that front street has stood three hundred and forty-ninth day. And a man of about fifty-one has now kept three hundred and eightieth days of saying nothing to anybody about a page of six names. That third column is empty and unappointed with a boy's hand of twenty-two at the head of it, his surname is on no page, and he is off the water. That fourth column stands at one hundred and twenty-five and has taken no line and is neither shut nor struck. About two sea miles off that mole head lie nine hulls this afternoon and nine lay there on the twenty-first of January, and this harbor has not said a word about any of them easing. A man of about twenty-nine hears out of the left side of his head and it is two hundred and thirty-eight days, one more than the day before, no figure is set against it, and he is not on the water.**
+
+---
+
+A word came down the boards at about ten in the morning. Two ships were standing in about four miles off the mouth of the inner water and neither of them was moving, and the man who keeps the leaf wrote the word and the hour and wrote beside it that a word at the boards is a word and not a report.
+
+---
+
+The pilot came up the lane at about half past ten with a coil of his own line over his shoulder and no man with him. He is about forty-one and has the inside of his left hand gone white with a rope he has held a long time, and he asked for the boat for two days and gave the figure himself before anybody asked him for one.
+
+---
+
+He put the figure in chalk on the flat of that bench stone and said out loud that it was two days at the figure in chalk and that the figure is in his book and not on this yard's sheet and not in this yard's book, and that a route's hire of a boat is a figure in chalk and a route pays it. The keeper wrote the two days and the sum and the hour and wrote that this yard was hired and gave no order, and nobody in that shed said the word route with a meaning on it.
+
+---
+
+At about eleven he said out loud at the flat of that stone, in about nine people, what he meant to do with her. He said he would take her in between the shoals on the ebb at about four in the afternoon on a set he remembered from thirty years of fishing it, and that two ships drawing what those two draw cannot follow the deep water in over the bar without taking the ground, and that the chart of about nine years standing is a chart of a coast that has moved and that the stones he means to use are not on it.
+
+---
+
+About four of that nine agreed with him and about four said nothing. A man of about thirty-eight asked him what happened if the set had gone the other way, and he said he would put her on the mud at about two fathoms and everybody would come out of it wet, and that this was the same answer he had given himself before he asked, and nobody said he was wrong and nobody said he was right.
+
+---
+
+She went out at about twenty to eleven with the pilot at the helm and two men of his own creek aboard and one hired hand of this yard, who was the pump hand of about forty-four and had asked to go and was not asked anything. The order was given from the boat and not from the shore, and the keeper wrote the hour she cleared the bar and the hour she was out of sight of the mole head and wrote no reason against either hour.
+
+---
+
+Nobody put the same words to the man of about thirty-two this day about going down, and nobody put them to him at the end stall, and the page of days carries no hour against his name and no sum is set against it on any sheet in that yard. He worked the seams of a coat that had gone at the shoulder and did not go near the water, and the quiet around that page settled nothing and proved nothing.
+
+---
+
+The ordinary work went on around all of it. The pump ran clean from about nine with two men on the handles, the bilge was pumped out and the bottom washed down with the hose that has been dead since the spring, and about four men spread ninety yards of line along the flat of that bench stone and worked the kinks out of it hand over hand. Nine men of this yard and of two creeks went on the six days of work that is booked and not yet written, and the keeper said out loud that the line goes onto the sheet on the Tuesday with the day the work was done against it and settles on the Thursday.
+
+---
+
+At about half past two the bell off that mole carried one answer and then, at about twenty to three, a second and shorter one, and the two were in hours and not in names. The keeper wrote both hours and no reason against them and wrote that a bell is a bell and a signal is a signal and a signal is not a scene and has nobody put inside it.
+
+---
+
+The disagreement between the two of them about what a page prints was in that shed again at about four in about nine people and it is not settled. He said a page that prints a disagreement gives a refusal a following and that a limit printed on the face of a claim is a limit anybody may use, and she said what goes on the face of a claim is what the person who stands behind it was told and never a name against a person, and that a limit nobody may use is not a limit.
+
+---
+
+He said he had not moved from June and she said she knew that and that she was still keeping the second book on the shelf above that butt because one wet road takes one book. About four agreed with her and about four agreed with him and nobody said either was wrong, and the matter is open between them and no page in that yard carries a resolution of it.
+
+---
+
+The sheet with the fourteen gaps at the end stall stood all day with no figure moved by one. About four people stopped at it on the way to the boards and about four passed it without stopping, and the keeper did not go to it and did not send anybody to it, and the far bench was occupied from ten until four with nothing put on it to be read.
+
+---
+
+At about half past five on that Saturday the shortfall went out loud at that bench stone in about nine hundred words to about nine people, and about four of those nine had stood at the flat of that stone at about eleven to hear a pilot say what he meant to do with a boat that was not his.
+
+"**A pilot of about forty-one came up this lane at about half past ten with a coil of his own line on his shoulder and no man with him, and he asked for this boat for two days and gave the figure before anybody asked him for one. He put it in chalk on the flat of this stone himself, being two days at the figure in chalk at two times one hundred and sixty-eight for three hundred and thirty-six pence, being two marks and sixteen pence, and he said out loud that the figure is in his book and not on this sheet and not in this yard's book, and that a route's hire of a boat is a figure in chalk and the route pays it. I wrote the two days and the sum and the hour, and I wrote that this yard was hired and gave no order, and nobody in this shed gave one.**"
+
+"**At about eleven he said at the flat of this stone, in about nine of us, that he would take her in between the shoals on the ebb at about four this afternoon on a set he remembered from thirty years of fishing that water, and that two ships drawing what those two draw cannot follow the deep water in over that bar without taking the ground, and that the chart of about nine years standing is a chart of a coast that has moved and that the stones he means to use are not on it. About four agreed and about four said nothing, and a man of about thirty-eight asked him what happens if the set has gone the other way, and he said he puts her on the mud at about two fathoms and everybody comes out wet, and that is the answer he gave himself first. Nobody said he was wrong and nobody said he was right.**"
+
+"**She went out at about twenty to eleven with the pilot at the helm, two men of his own creek aboard and one pump hand of about forty-four of this yard who asked to go and was not asked anything. The order was given from the boat and not from the shore. At about half past two the bell off that mole carried one answer and at about twenty to three a second and shorter one, and both are in hours and not in names, and a signal is not a scene and there is nobody put inside it. Nobody put words to the man of about thirty-two about going down today and nobody put them to him at the end stall, and the page of days carries no hour and no name for this Saturday, and the quiet settled nothing.**"
+
+"**The disagreement was in this shed again at about four. He said a page that prints a disagreement gives a refusal a following, and that a limit printed on the face of a claim is a limit anybody may use, and she said what goes on the face of a claim is what the person standing behind it was told and never a name against a person, and that a limit nobody may use is not a limit. He said he had not moved from June and she said she was still keeping the second book on the shelf because one wet road takes one book, and about four agreed with her and about four with him, and this is not settled and no page here settles it.**"
+
+"**And the last of it. The sheet stands at one hundred and eighteen thousand seven hundred and eighty-four pence out and one hundred and eight thousand one hundred and forty-four pence short, against ten thousand six hundred and forty pence in. A hundred and sixty-eight pence in at about ten and a hundred and sixty-eight out at about four, and twenty-eight plus two thousand one hundred and eighty-one plus one thousand eight hundred and forty-eight less four thousand and twenty-nine is twenty-eight, and under that slate is twenty-eight pence, being two shillings and fourpence, and that is six hundred and twelve pence short of the wage of four marks, being three marks eleven shillings. No tin in that shed has been opened since the twenty-ninth of April past and this yard is now one hundred and fifty-three days without one. That cistern was not charged and its covers lay on it from nine until four. About two sea miles off that mole head there are nine hulls this afternoon and there were nine there on the twenty-first of January. A man of about twenty-nine hears out of the left side of his head and it is two hundred and thirty-eight days today and nothing hired or answered this morning touched it by a day.**"
+
+Nobody was thanked for the arithmetic and nobody was thanked for a boat hired and a figure in chalk, and that shed stood empty by about six with its door standing open on a slip nobody was on, and that page of that week had thirty-two lines on it, and that wooden tally slate was still lying flat on that bench stone with nothing on it.
+
+---
+
+**A PILOT OF ABOUT FORTY-ONE HIRED THIS YARD'S BOAT FOR TWO DAYS AT THE FIGURE IN CHALK, BEING THREE HUNDRED AND THIRTY-SIX PENCE, BEING TWO MARKS AND SIXTEEN PENCE, AND THE FIGURE WENT INTO HIS OWN BOOK AND NOT INTO THIS ONE, AND HE GAVE THE ORDER FOR HER HIMSELF AND NOBODY IN THAT SHED GAVE ONE. NOBODY PUT THE SAME WORDS TO THE MAN OF ABOUT THIRTY-TWO ABOUT GOING DOWN THIS DAY. THE SHEET STANDS AT ONE HUNDRED AND EIGHTEEN THOUSAND SEVEN HUNDRED AND EIGHTY-FOUR PENCE OUT AND ONE HUNDRED AND EIGHT THOUSAND ONE HUNDRED AND FORTY-FOUR PENCE SHORT. THE BAG HOLDS TWENTY-EIGHT PENCE, BEING TWO SHILLINGS AND FOURPENCE.**
+
+---
+
+---
+
+*First column, entered on Saturday the thirtieth day of July at about six in the evening in that shed: that the said day was not a rota day and was not a wage Tuesday and was not a wipe, and that no charge was placed on that cistern and that the covers lay on it from nine in the morning until four in the afternoon; and that a word came down the boards at about ten that two ships were standing in about four miles off the mouth of the inner water and neither was moving, and that the keeper wrote the word and the hour and wrote that a word at the boards is a word and not a report; and that a pilot of about forty-one of a creek three days up that coast road hired this yard's boat for two days at the figure in chalk, being two times one hundred and sixty-eight for three hundred and thirty-six pence, being two marks and sixteen pence, that figure being in his own book in chalk and not on this sheet and not in this yard's book, and that the keeper wrote that this yard was hired and gave no order; and that at about eleven he said out loud in about nine people that he would take her in between the shoals on the ebb at about four in the afternoon on a set he remembered, and that the chart of about nine years standing is a chart of a coast that has moved, and that about four agreed and about four said nothing; and that she cleared the bar at about twenty to eleven and was out of sight of the mole head at about eleven and the order was given from the boat; and that at about half past two and at about twenty to three the bell off that mole carried two answers in hours and not in names; and that nobody put the same words to the man of about thirty-two on that day about going down, and no hour and no name went on the page of days for it.*
+
+*Second column, not checkable from a mole, entered on the said Saturday at about six in the evening in that shed, and no name is against it: that at about half past ten the reason the pilot's figure was left in his own book is that a route's hire of a boat is paid by the route, and a line that carried it here would have made this yard a party to what he did with the water; that at about eleven the reason nobody in that shed said he was wrong or said he was right is that a pilot who has decided the water is answerable by what happens to him on it, and an argument here would only have moved the decision into nine mouths that are not going out in the boat; that at about half past two the reason two answers were written as hours and not as ships is that a bell carries sound and not a hull, and a page that named the hull would be a page keeping a list of what is out there; and that at about four the reason the disagreement was left standing is that a limit printed on the face of a claim is either usable or it is a decoration, and the two of them have not agreed which, and the day does not have to agree for them either.*

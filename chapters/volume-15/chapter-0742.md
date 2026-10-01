@@ -1,0 +1,91 @@
+# Chapter 742
+
+*Monday the First Day of August, a Rota Day and the Hundred and Seventy-First Charge on That Cistern, the Words of Eight Other Places on That Coast Read Out Once at About Two in Front of About Twenty People, No Two of Them Having Done the Same Thing, the Sheet at One Hundred and Eighteen Thousand Seven Hundred and Eighty-Four Pence Out, the Bag at Twenty-Eight Pence, the First Column at Four Hundred and Seventy-Five and the Second at Two Thousand Two Hundred and Forty-Nine*
+
+Monday the first day of August, with that market open from about nine and a flat haze on the water that did not lift until the middle of the morning, a yard below that market with a shed standing in it, and about nine people in that shed at half past five that afternoon.
+
+**A rota day and not a wage Tuesday and not a wipe, and that cistern charged in eleven trips by hand between about eight in the morning and about eleven and walked on by none of it, being the hundred and seventy-first charge, and the covers left lying on it from about eleven until about four in the afternoon. No line went onto that money sheet and no figure was written into its foot. The words of eight other places on that coast were read out once at about two in the afternoon on the boards at the back of that market in front of about twenty people of whom about eleven cannot read them, and no two of the eight had done the same thing. The sheet stands at one hundred and eighteen thousand seven hundred and eighty-four pence out and one hundred and eight thousand one hundred and forty-four pence short, against ten thousand six hundred and forty pence in. A hundred and sixty-eight pence came into that yard at about ten and a hundred and sixty-eight went out of it at about four, and under that slate is twenty-eight pence, being two shillings and fourpence, and no tin in that shed has been opened since the twenty-ninth of April past.**
+
+**Nine days of things that are not being done went on a day in the morning, and this is what they stood at. That notice of the seventeenth of May past is on its four hundred and fortieth day. Four hundred and forty-two days have gone by without anybody asking a bellwright of this harbor a question, and his chest is shut and stays shut. Two objects belonging to nobody on that crown are into the seven hundred and eightieth day of themselves. That bench under that pump has now stood bare for the five hundred and forty-sixth night running. Two lights about a mile off that point have gone three hundred and sixty-fourth days with nothing set against them. A six-line sheet at the back of that end stall has reached the three hundred and nineteenth day of its standing. The paper of four lines in Fish Street is on the three hundred and thirty-fourth. A nine-line sheet with a seal on it in that front street has stood three hundred and fifty-first day. And a man of about fifty-one has now kept three hundred and eighty-second days of saying nothing to anybody about a page of six names. That third column is empty and unappointed with a boy's hand of twenty-two at the head of it, his surname is on no page, and he is off the water. That fourth column stands at one hundred and twenty-five and has taken no line and is neither shut nor struck. About two sea miles off that mole head lie nine hulls this afternoon and nine lay there on the twenty-first of January, and this harbor has not said a word about any of them easing. A man of about twenty-nine hears out of the left side of his head and it is two hundred and forty days, one more than the day before, no figure is set against it, and he is not on the water.**
+
+---
+
+That cistern went its eleventh trip at about eleven for the hundred and seventy-first time and the covers went on at the same hour as they went on yesterday and the day before. About five people came for water after four and were served without waiting, and the keeper wrote the charge number and the hours and wrote beside them that no line goes on the sheet today.
+
+---
+
+At about a quarter past ten a woman of about thirty-four came down that lane with a sheet in a waxed cloth under her arm, and she said at the door of that shed that it was eight places' own words and that she had carried it herself and that she was not carrying it for anybody.
+
+---
+
+The woman of thirty of no office read it out at about two on the boards at the back of that market, in front of about twenty people of whom about eleven cannot read a column, and she read it once and did not read it again. She said before she began that the eight had each been asked one thing and that the answer of each was in that hand and not in hers, and that the sheet was not going onto the nail in that yard.
+
+---
+
+One of the eight had brought every boat and every cart up that coast road in the night and had put its people in the church because the church is high and the roof on it is sound. One of the eight had sent its boat home and had gone up the road with nothing at all and had not told anybody what it was taking with it.
+
+---
+
+One of the eight had stood a watch from noon and had put two men on its shoals with hand lines, on the ground that a shoal is where a boat is when a boat is not moving. One of the eight had taken the code as a signal about a tide and not about weather, and had put its people on the only ground it had, and said in its own hand that it would do whatever it was told at the time.
+
+---
+
+One of the eight had done nothing whatever and had written four lines to say that doing nothing had been decided at about eleven and not later, and that the decision was made by eleven people and that the sheet named the count of them and not their names. One of the eight had asked its own bell to be rung at ten and at four on the day, whatever else happened, so that the coast would have an hour to go on.
+
+---
+
+And the eighth of the eight had sent a time down the road in its own hand for the first time since the spring, being that it could be in contact from the middle of the morning of the fourth and could hold it until about two in the afternoon, and that after two it could not say. The keeper took it and wrote the day and the hour and did not write it under the sheet of eight hours.
+
+---
+
+Nobody in that market said that the eight had done wrong, and nobody said that the eight had done right, and about four of that twenty said out loud that six of the eight had done something and that the six things were not one thing. The woman of thirty of no office said the sheet was read once and that a second reading would be a second account of the same eight hands.
+
+---
+
+At about four a man of about thirty-eight came down that coast road on foot with a sheet of hours in a pocket and no coat on, and he said he kept the line of the ninth bell above Orison and that the bell had been run in the last three days and that a man of an office there was on the line and had asked for a diver and a tender in writing, and that the writing had a seal on it and that the name under the seal was not on the sheet he was carrying.
+
+---
+
+The keeper took the hours and wrote them with the days against them and wrote that a man of an office at Orison had asked for a diver and a tender and that this yard was not a diver and this yard's boat is a boat, and he wrote the hour at which the boat would be wanted and no reason against it. The man of about thirty-eight said the boat was wanted on the Tuesday and said nothing else, and he was not asked anything else.
+
+---
+
+Nobody spoke those words to the man of about thirty-two on that Monday about going down, and nobody spoke them to him at the end stall, and the page of days has no hour against his name that day. He worked the pump gaskets until noon and sat on the far bench from two until four with the sheet of eight hours in his hands and read it twice, and nobody asked him what he made of it.
+
+---
+
+The two of them disagreed again in that shed at about four in about nine people about what a page prints, and it is not settled. He said a page of eight hands read once in front of twenty people is the only kind of public there is, and that the six things were not one thing and never could be made one, and she said a page of eight hands read once is a page nobody can answer, and that a community that has been asked one thing and answered it in its own hand has not agreed to anything else.
+
+---
+
+He said he had not moved from June and she said she knew that and had not expected anything else, and she was still keeping the second book on the shelf where the damp could not get at it, and about four agreed with her and about four agreed with him and the matter is open and no page in that yard carries a resolution of it.
+
+---
+
+At about half past five on that Monday the shortfall went out loud at that bench stone in about nine hundred words to about nine people, and about four of those nine had stood at the back of that market at about two and heard eight hands read out once.
+
+"**The water went up that butt this morning in the eleventh trip at about eleven, which was the hundred and seventy-first time anybody has charged it, and the covers went on at that hour as they go on every Monday and Thursday of this run of days. About five people drew from it after four and were not kept waiting, and the keeper wrote the number and the hours and wrote beside them that no line goes on the sheet today.**"
+
+"**At about a quarter past ten a woman of about thirty-four came down this lane with eight places' own words in a waxed cloth and said she was carrying it for herself and not for anybody. At about two the woman of thirty of no office read it out once on the boards at the back of that market in front of about twenty of us, of whom about eleven cannot read a column, and she said before she began that each of the eight had been asked one thing and that the answer of each was in that hand and not in hers. One had brought every boat and cart up the coast road in the night and put its people in a church with a sound roof. One had sent its boat home and gone up the road with nothing. One had stood a watch from noon and put two men on its shoals with hand lines. One had read the code as a signal about a tide and not about weather. One had done nothing and written four lines to say the decision was made at about eleven and not later by eleven people, and printed the count of them and not their names. One had rung its own bell at ten and at four so the coast would have an hour to go on. And the eighth had sent a time down this road in its own hand for the first time since the spring, being in contact from the middle of the morning of the fourth until about two in the afternoon and not able to say after two. I took that time and wrote the day and the hour and did not put it under the sheet of eight hours.**"
+
+"**Six of the eight did something and the six things were not one thing, and nobody in that market said any of the eight had done wrong and nobody said any of them had done right, and the sheet was read once and a second reading would be a second account of the same eight hands.**"
+
+"**At about four a man of about thirty-eight came down this road on foot with a sheet of hours in his pocket and said he keeps the line of the ninth bell above Orison, that the bell has been run in the last three days, and that a man of an office there is on the line and has asked in writing for a diver and a tender. He said the writing has a seal on it and that the name under the seal is not on the sheet he carried. I took the hours and wrote the days against them and wrote that this yard is not a diver and that this yard's boat is a boat, and I wrote the hour the boat would be wanted, being Tuesday, and no reason against it. Nobody in this shed read a name out of anything and no name under any mark is in any mouth here.**"
+
+"**Nobody put words to the man of about thirty-two about going down today and nobody put them to him at the end stall, and he read that sheet of eight hands twice on the far bench and nobody asked him what he made of it. At about four the disagreement was in this shed. He said a page of eight hands read once in front of twenty people is the only kind of public there is, and she said a page of eight hands read once is a page nobody can answer, and that a community which has been asked one thing and answered it in its own hand has not agreed to anything else. He said he had not moved from June and she said she was keeping the second book where the damp could not get at it, and about four agreed with her and about four with him, and this is not settled and no page here settles it.**"
+
+"**And the last of it, and it is the same every day of this run. A hundred and sixty-eight pence in at about ten and a hundred and sixty-eight out at about four, and twenty-eight plus two thousand one hundred and eighty-one plus one thousand eight hundred and forty-eight less four thousand and twenty-nine is twenty-eight, and under that slate is twenty-eight pence, being two shillings and fourpence, and that is six hundred and twelve pence short of the wage of four marks, being three marks eleven shillings. No tin in that shed has been opened since the twenty-ninth of April past and this yard is now one hundred and fifty-five days without one. The sheet stands at one hundred and eighteen thousand seven hundred and eighty-four pence out and one hundred and eight thousand one hundred and forty-four pence short, against ten thousand six hundred and forty pence in. About two sea miles off that mole head there are nine hulls this afternoon and there were nine there on the twenty-first of January. A man of about twenty-nine hears out of the left side of his head and it is two hundred and forty days today and nothing read out this afternoon touched it by a day.**"
+
+Nobody was thanked for the arithmetic and nobody was thanked for eight hands read out once, and that shed stood empty by about six with its door standing open on a slip nobody was on, and that page of that week had thirty lines on it, and that wooden tally slate was still lying flat on that bench stone with nothing on it.
+
+---
+
+**THAT CISTERN WAS CHARGED FOR THE HUNDRED AND SEVENTY-FIRST TIME IN ELEVEN TRIPS BY HAND AND WALKED ON BY NONE OF IT, AND NO LINE WENT ONTO THAT MONEY SHEET. THE WORDS OF EIGHT OTHER PLACES ON THAT COAST WERE READ OUT ONCE AT ABOUT TWO IN FRONT OF ABOUT TWENTY PEOPLE AND NO TWO OF THE EIGHT HAD DONE THE SAME THING, AND THE SHEET WENT ON THE END STALL AND NOT ON THE NAIL IN THAT SHED. THE SHEET STANDS AT ONE HUNDRED AND EIGHTEEN THOUSAND SEVEN HUNDRED AND EIGHTY-FOUR PENCE OUT AND ONE HUNDRED AND EIGHT THOUSAND ONE HUNDRED AND FORTY-FOUR PENCE SHORT. THE BAG HOLDS TWENTY-EIGHT PENCE, BEING TWO SHILLINGS AND FOURPENCE.**
+
+---
+
+---
+
+*First column, entered on Monday the first day of August at about six in the evening in that shed: that the said day was a rota day and was not a wage Tuesday and was not a wipe, and that that cistern was charged in eleven trips by hand between about eight and about eleven and was walked on by none of it, being the hundred and seventy-first charge, with the covers lying on it from about eleven until about four; and that no line went onto that money sheet and no figure was written into its foot; and that at about a quarter past ten a woman of about thirty-four brought down that lane a sheet carrying eight places' own words, carried by herself and for herself; and that the woman of thirty of no office read it out once at about two on the boards at the back of that market in front of about twenty people of whom about eleven cannot read a column, having said first that each of the eight had been asked one thing and that the answer of each was in that hand; and that six of the eight did something and that the six things were not one thing, one having brought boats and carts up the road in the night, one having sent its boat home, one having stood a watch and put two men on its shoals with hand lines, one having read the code as a signal about a tide, one having done nothing by a decision made at about eleven by eleven people with the count printed and the names not, and one having rung its own bell at ten and at four; and that the eighth of the eight gave a time in its own hand for the first time since the spring, being in contact from the middle of the morning of the fourth until about two in the afternoon and not able to say after two, and that the day and the hour were written against it and it was not put under the sheet of eight hours; and that at about four a man of about thirty-eight came down that road with a sheet of hours and said he keeps the line of the ninth bell above Orison and that a man of an office there is on the line and has asked in writing for a diver and a tender, and that the name under the seal is not on that sheet, and that the hour the boat would be wanted was written, being Tuesday, with no reason against it; and that nobody put the same words to the man of about thirty-two on that day about going down, and no hour and no name went on the page of days for it.*
+
+*Second column, not checkable from a mole, entered on the said Monday at about six in the evening in that shed, and no name is against it: that at about two the reason the sheet was read once and not twice is that a second reading is not a second account of eight hands, it is one account of eight hands put into a shape two of those hands did not agree to; that at about two the reason the sixth of the eight printing a count of eleven people and not their names was left as it stands is that a count of people on a page is a roll the moment anybody can add to it, and a page that gives eleven and no names can be checked without becoming a list; that at about four the reason a request in writing from a place with a seal on it was taken as a request and not as an instruction is that this yard may be asked and may refuse, and a request with a seal on it is still a request, and the seal does not make it into an order; and that at about four the reason the disagreement stood open on a Monday is that a Monday is the day people go back to work, and an argument that only holds on a Sunday has not been held at all.*
