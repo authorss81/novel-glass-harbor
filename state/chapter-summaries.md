@@ -18,7 +18,7 @@
 - **The wipes: 8, on the 8 Sundays, none on any other day; the off-and-back ladder 14 to 21, one a Sunday; the bare ladder 1 to 8.**
 - **The page of routes: 1 held, 4 restricted, 4 dormant, 1 + 4 + 4 = 9, the held column the Saltmarch Weatherway alone, and all nine names read aloud on Chapter 650 and on no other day.**
 - **The sweeps: *thank you* zero, *thanks* zero, the bare verb *thank* two, *thanked* 230 and every one a negation; the second person outside a quoted or italic span zero, of 91 tokens in the raw files; quote parity even on 50 of 50 at 208 marks; bold parity even on 50 of 50; of the twelve L35 terms eleven at zero and *in the book* at four.**
-- **The duplication: the longest common contiguous word-run over all 1,225 pairs is 93 words, between Chapters 617 and 624; byte-identical paragraphs at eight words or more are two, 49 words at 617/624 and 59 words at 628/639.**
+- **The duplication: the longest common contiguous word-run over all 1,225 pairs is 93 words, between Chapters 617 and 624; byte-identical paragraphs at eight words or more are one, 49 words at 617/624, and the only near-miss is the same 59 words at 628/639, which differ by one comma.**
 
 **THE LENGTH OF THE FIFTY FILES, RE-DERIVED AND CORRECTED: 205,235 WORDS BY `wc -w` PER FILE AND SUMMED — 39,916 / 38,663 / 41,916 / 41,231 / 43,509. THE MOVE THAT MOVED WAS THE AUDIT'S OWN: AN EARLIER PASS PRINTED 41,188 AND 205,192, WHICH ARE PRE-REPAIR FIGURES FOR MOVEMENT 4, AND THE DIFFERENCE OF 43 WORDS IS THE LENGTHENING DONE BY THE REPAIR PASS AGAINST `logs/batch-0004.review.log` IN FOUR FILES. THE OTHER FOUR MOVEMENT TOTALS AND EVERY LONGEST AND SHORTEST FIGURE REPRODUCED EXACTLY. NO CHAPTER WAS TOUCHED TO MAKE ANY FIGURE COME OUT.**
 
