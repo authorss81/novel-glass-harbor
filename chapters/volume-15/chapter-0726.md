@@ -16,7 +16,7 @@ The bell off that mole answered the bell off a shoal four days down that coast r
 
 ---
 
-At about half past three the man who keeps the leaf took the page of days off its nail. On that page the hands that rang stand down the side in the order they are always read in, and that column has not been touched since the second of July and stands with thirty against it, and it was not taken again today and is not taken again in the twenty-eight days that follow this fortnight.
+At about half past three the man who keeps the leaf took the page of days off its nail. On that page the hands that rang stand down the side in the order they are always read in, and that column has not been touched since the second of July and stands with thirty against it, and it was not taken again today and is not taken again in the next nine runs of days.
 
 Beside it there is a column headed WENT HOME, and it has been running at nothing against every day since the last week of the winter when that page was begun, and this afternoon he set the fourteen days of this fortnight down whole against the fourteen days.
 
@@ -24,13 +24,13 @@ He put the day and the hour against the sum and did not say the sum out loud, an
 
 ---
 
-The figures against the fourteen days are zero and zero and one and zero and two and zero and one and zero and three and zero and zero and one and zero and three, and eleven is the sum of them. Three of those figures are against the fourth of this month and three are against the sixteenth and two are against the fifth and one each against the seventh, the ninth, the twelfth and the fourteenth.
+The figures against the fourteen days are zero and zero and one and zero and two and zero and one and zero and three and zero and zero and one and zero and three, and eleven is the sum of them. One of those figures is against the fifth of this month, two against the seventh, one against the ninth, three against the eleventh, one against the fourteenth and three against the sixteenth, and the other eight days stand at nothing against them.
 
 About nine people were in that shed at half past three because they come at that hour, and about four of them can read a column and about four of them cannot, and the figures were not read out, and the reason they were not read out is in the second column.
 
 ---
 
-A person who put a hand on that page and went home is on this column once and on no other sheet of this yard. The one who went down the road on the fifth and the two who went on the seventh and the man of about twenty-six and the woman of about thirty-one on the seventh afternoon are four figures and they are four people and none of them is on any other paper here, and the one who wrote the hours of their going did not write one word about why.
+A person who put a hand on that page and went home is on this column once and on no other sheet of this yard. The one who went down the road on the fifth is one figure, and the two who went on the seventh are two more and no day carries one of them twice, and the one who left that room on the ninth, the three who went on the eleventh, the woman who went up the road on the fourteenth and the three who went off the boards this afternoon are the other eight, and eleven is the whole of the column. None of them is on any other paper here, and the one who wrote the hours of their going did not write one word about why.
 
 The woman of thirty of no office looked at the column at about four and said out loud that eleven is a small number of people to have lost off nine lines in a fortnight and that nobody in that shed should try to make it a smaller one or a larger one by telling the story twice. About four people agreed and about four said nothing, and the man of about thirty-two said nothing at all about it, and nobody thanked anybody for the taking of it.
 
