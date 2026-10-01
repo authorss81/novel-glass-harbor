@@ -1,3 +1,56 @@
+## Phase position — THE AUDIT AND CLOSE OF VOLUME 14, AND THE FIRST PHASE THAT FOUND NO ABSENCE TO REPORT. **AN AUDIT AND NOT A CHAPTER PASS. NO CHAPTER WAS WRITTEN, RESTARTED, CUT, REPLACED, REORDERED OR MOVED, NO FIGURE WAS ADDED TO OR TAKEN OFF ANY PAGE, NO DAY WAS MOVED, NO LOCK WAS SOFTENED AND NO PLOT WAS ALTERED. THE PLANNED PLOT OF THE FIFTY DAYS IS UNCHANGED. THE OUTLINE WAS NOT EDITED, NO CARD FILE WAS INVENTED, NO BATCH PROMPT WAS PLANNED, NO MARKER WAS WRITTEN, NOTHING UNDER `scripts/`, `.github/workflows/` OR `.opencode/agent/` WAS TOUCHED, `reviews/volume-01/` THROUGH `reviews/volume-13/` ARE UNTOUCHED, AND `state/phase-ledger.json` WAS NOT READ, NOT EDITED AND NOT REPORTED AS EVIDENCE OF ANYTHING. THE GAP BETWEEN THE MANUSCRIPT AND THE LEDGER IS STATED ONCE LOWER IN THIS FILE AND IS NOT RESTATED HERE.**
+
+**THE GATE WAS SATISFIED AND IT IS NOT A CONDITION ANYMORE. `outline/volume-14.md` IS ON DISK AND `chapters/volume-14/chapter-0651.md` THROUGH `chapter-0700.md` ARE FIFTY FILES ON DISK. NO PARAGRAPH OF THE AUDIT RECORDS AN ABSENCE, BECAUSE THERE WAS NONE.**
+
+### 1. WHAT THE AUDIT IS AND WHERE IT LIVES
+
+**`reviews/volume-14/volume-14-close.md`, 612 LINES AND 28,555 WORDS, READ IN FIVE MOVEMENTS OF TEN AND NOT IN ONE PASS AGAINST `AGENTS.md`, `outline/series.md:306–316`, `outline/ending.md` WHOLE, `outline/volume-14.md` IN FULL AND `reviews/volume-13/volume-13-close.md`.** It is the home of every ruling Volume 14 defers or flags. **THE FOUR STATE FILES ARE 8.9 MB AND WERE NOT READ WHOLE; THE HEAD SECTIONS WERE READ, AND EVERY PLACE WHERE A HAND-OVER AND A CHAPTER DISAGREE IS AT ITS § 24 WITH BOTH FIGURES AND THE ARITHMETIC.**
+
+### 2. THE FOUR FINDINGS, AND THE DISPOSITION OF EACH
+
+| # | Finding | Ruling | Disposition |
+|---|---|---|---|
+| **1** | **A COUNTED FIGURE IN THE DISPATCH THIS CLOSE WAS RUN AGAINST IS STALE.** The dispatch publishes Movement 5 at **39,667** and the volume at **189,713**. `wc -w` per file and summed gives **40,246** and **190,292**, and the difference is **579** in both places. **The dispatch also publishes the ten Movement 5 slip lengths as 579, 612, 556, 628, 590, 644, 603, 687, 689 and 966 against the files' 579, 612, 556, 628, 590, 641, 619, 687, 801 and 1,026** | **THE FIFTY CHAPTERS ARE RIGHT. THE REPAIR PASS THAT MADE THE CHANGE RECORDED THE OLD FIGURES AS SUPERSEDED AND THE DISPATCH WAS WRITTEN AGAINST THE STATE BEFORE THAT PASS** | **REPAIRED IN THE AUDIT'S OWN § 18, BOTH FIGURES PRINTED, EVERY PLACE RE-SET. NO CHAPTER TOUCHED** |
+| **2** | **THE CHECKABLE FOUR-COLUMN DERIVATION IS PRINTED ON TEN OF THE FIFTY FILES.** *three hundred and eighty-three and [d] is [383+d] at the close of it* stands on Chapters 651 to 660 and on none of the forty after them | **THE PAIR IS ON ALL FIFTY SUBTITLES AND ALL HUNDRED FIGURES ARE RIGHT, SO NO FIGURE ON ANY PAGE IS WRONG. WHAT IS NARROWER THAN L2 ASKS IS THE ARITHMETIC A STRANGER CAN ADD** | **RULED AND CARRIED. ADDING AN ARITHMETIC TO FORTY FINISHED CHAPTERS IS THE ADDITION OF A BEAT AND NOT A CORRECTION** |
+| **3** | **THE VOLUME'S OWN LOCK-REQUIRED MONEY ARITHMETIC RUNS ONE HUNDRED AND SEVENTY-NINE WORDS BETWEEN CHAPTERS 678 AND 685**, against the 170 the house publishes for the same form across Movement 3 and across Movement 5, the 163 between 684 and 688, and the 93 across Volume 13's fifty | **IT IS THE HEAD OF THE ARITHMETIC THAT L3 AND L5 REQUIRE ON EVERY DAY OF THE FIFTY, MEASURED ACROSS THE WHOLE VOLUME RATHER THAN WITHIN ONE MOVEMENT, WHICH IS THE SCOPE THE HOUSE HAS CORRECTED ITSELF ON TWICE** | **RULED FOR THE OWNER OF THE FORM AND **NOT REPORTED AS A FINDING**. NO PARAGRAPH WAS CUT** |
+| **4** | **NINETEEN CONSECUTIVE HALF-PAST-FIVE SLIPS OPEN ON ONE IDENTICAL SENTENCE**, being Chapters 651 to 669, all opening on *One hundred and one thousand two hundred and thirty-six pence short, being six hundred and thirty-two marks, nine shillings and eightpence.* The fifty slips return **THIRTY-TWO DISTINCT OPENINGS AND FIFTY DISTINCT CLOSINGS**, and the thirty files of Movements 2 to 5 return thirty distinct openings from thirty chapters | **THE FIGURE IS CORRECT IN ALL NINETEEN AND THE REPETITION IS OF A LOCK-REQUIRED SENTENCE CARRYING A LOCK-REQUIRED FIGURE. THE COUNT OF AN OPENING THAT IS ALSO SOMEBODY'S CLOSING IS ZERO** | **RULED AND CARRIED. A REPAIR WOULD MEAN RE-CUTTING NINETEEN FINISHED CHAPTERS AND RE-SETTING A COUNTED SLIP LENGTH AT EVERY PLACE IT IS PRINTED** |
+
+### 3. THE FOUR DIVERGENCES, RULED AS DELIVERED, AND THE OUTLINE NOT EDITED
+
+1. **THE WALL CARRIES TWO LINES AND ABOUT ELEVEN INCHES OF EMPTY PLASTER SINCE THE TWENTIETH OF MAY**, and `outline/volume-14.md` L31 and L37 speak of five of nine pages on a wall. **THE CHAPTERS ARE RIGHT AND THE CLAUSE BINDS ON WHAT MUST NOT CHANGE. THE FAILURES ARE LEFT VISIBLE AND THAT IS THE CLAUSE'S INTENT.**
+2. **THE PAGE OF HANDS STANDS AT FIFTEEN FROM THE TWENTY-FIRST OF MAY TO THE TWENTIETH OF JUNE AND IS NOT RE-TAKEN**, and `outline/volume-14.md`:115 says it rises in Movements 3, 4 and 5. **THE CHAPTERS ARE RIGHT. A PAGE THAT NINE COMMUNITIES KEEP ADDING TO IS A PAGE OF WHAT THE COAST WILL CARRY, AND WHAT IT WILL NOT CARRY IS THE PART THAT CAN BE CHECKED AGAINST TOMORROW.**
+3. **THE BELLWRIGHT'S FIGURE AT THE CLOSE IS FOUR HUNDRED, CONFIRMED AT 450 OF 450**, and the outline's gloss reads *four hundred and forty-eighth day*. **THE GLOSS IS STALE. A WRITER OF VOLUME 15 MAY COPY FOUR HUNDRED AND NOT FORTY-EIGHT.**
+4. **THE TIN-DAY COUNTER HOLDS ON TWENTY-SIX OF THE TWENTY-EIGHT DAYS THAT PRINT ONE.** Chapter 660 prints **69** where the ladder gives 73 and Chapter 663 prints **79** where it gives 76, and 69 − 63 = 6 and 79 − 63 = 16, so **NEITHER OUTLIER IS THE LADDER WITH A DAY'S ARITHMETIC APPLIED TO IT.** Both are inherited files, both were already named lower in this file, and neither is repaired by a close phase. **THE NAMED DATE OF THE TWENTY-NINTH OF APRIL AND THE FIGURE ARE TWO MEASUREMENTS AND HAVE NEVER AGREED, WHICH IS A HOUSE FACT AND NOT A MISCOUNT, AND A LATER WRITER MAY NOT "FIX" IT INTO CONSISTENCY.**
+
+### 4. THE THREE STANDING BREACHES, CARRIED AND NAMED, AND THE COUNT OF REPAIRED IS ZERO REPAIRED
+
+**1.** `chapter-0668.md` prints **not a lie** four times, being one of the four forbidden panel constructions of L35, in the sentence the midpoint turns on. **2.** `chapter-0679.md` carries *could not have told you on Tuesday* in its second column. **3.** `chapter-0671.md` carries the second person inside its counted half-past-five slip, which measures 502 against the figure printed for it. **NONE IS REPAIRED, NONE IS A FIGURE A WRITER OF VOLUME 15 MAY CARRY FORWARD, AND THIS VOLUME MAY NOT BE COUNTED AS CLEAN WHILE THEY STAND.**
+
+### 5. THE FIGURES AS THEY NOW STAND, AND EVERY CHECK
+
+| Check | Figure |
+|---|---|
+| Length | **190,292 words**, being 34,948 + 33,994 + 38,657 + 42,447 + 40,246, by `wc -w` per file and summed |
+| Calendar | **100 of 100** weekday-and-date checks agree, 50 subtitles and 50 datelines, from Chapter 650's own anchor of Sunday the first day of May. **Zero four-digit year, zero question mark** |
+| The four columns | **50 of 50** against 383 + *d* and 1,789 + 5*d*, and the read-back derives from 383 and 1,789 and names 423 and 1,989 in order to rule them out |
+| The nine day-counters | **450 of 450**, from 349/351/689/455/273/228/243/260/291 to 398/400/738/504/322/277/292/309/340 |
+| The hearing | **50 of 50**, 149 to 198 |
+| The money | **50 of 50** chains, 9 of 9 glosses, 6 of 6 parts of the one line and its sum, and zero money figures printed in digits |
+| The bag | **50 of 50** and 28 + 8,400 − 8,400 = 28, and never zero |
+| The calendar locks | **15 rota days, 8 Mondays and 7 Thursdays; 14 cistern charges each on its own day and none on 693; 7 wipes all Sundays with all three minutes and the total; 7 wage Tuesdays all Tuesdays with the column unmoved on all seven** |
+| The slip lengths | **50 of 50** exact, against an instrument calibrated on a known-good file |
+| The slips' openings and closings | **32 distinct openings and 50 distinct closings**, the 32 being finding four |
+| Quote and bold parity | even on 50 of 50, 120 quotation marks in all, zero unpaired |
+| Second person | **zero** in the narration and in the apparatus; four tokens surfaced and all four are inside a bold speech span, which the house's convention exempts |
+| The locks | **thirty-seven of thirty-seven** ruled and none breached by a figure, a day, a clock or a name |
+| The one-off beats | the read-back once on 700; the count of the page of routes twice, on 670 and 700; the question once on 700; the seal read once on 696 with the name in no mouth; the hull seen once on 699, not understood, with a bearing of Orison written as a bearing; the three counts taken once each and not again |
+| The prohibited list of L35 | **zero**, with *echo* at 11 and every one of the eleven the ordinary noun for a testimony in a sentence about a line on a wall, and no echo entered as a scene on any day |
+| *stage*, *openhand*, *anchor*, *thank* | **zero each**; *thanked* is 219 and every one is a statement that nobody was thanked |
+
+### 6. THE ONE PHASE THIS VOLUME OWES, AND IT IS NOT A WRITER PHASE OF VOLUME 14
+
+**VOLUME 14 IS WRITTEN WHOLE AND IS CLOSED. THE NEXT PHASE IS THE OPENING OF VOLUME 15, AND ITS AUTHORITY IS `outline/ending.md` AND `outline/series.md`, NOT THIS FILE. NO CARD FILE WAS INVENTED, NO SIXTH BATCH WAS PLANNED, AND NO PROMPT FOR VOLUME 15 WAS WRITTEN BY THIS PASS.**
+
 ## Phase position — THE REPAIR PASS AGAINST THE REVIEW OF `workspace/volume-14/batch-0005/PROMPT.md`. **A REPAIR AND NOT A CHAPTER PASS. NO CHAPTER WAS WRITTEN, RESTARTED, CUT, REPLACED, REORDERED OR MOVED, NO DAY WAS MOVED, NO SCENE WAS REWRITTEN, NO BEAT WAS ADDED TO OR REMOVED FROM ANY DAY, NO CHARACTER WAS AGED OR RENAMED AND NO NEW ANTAGONIST WAS NAMED. THE PLANNED PLOT OF MOVEMENT 5 AND OF THE FIFTY DAYS IS UNCHANGED. TWELVE FILES WERE EDITED: THE TEN CHAPTERS 691 TO 700, `workspace/volume-14/batch-0005/PROMPT.md`, AND THE FOUR STATE FILES WITH THIS SECTION IN THEM. NO REVIEW ARTEFACT WAS WRITTEN, NO CARD FILE WAS INVENTED, NO MARKER WAS WRITTEN, NO FILE UNDER `scripts/`, `.github/workflows/` OR `.opencode/agent/` WAS TOUCHED, `outline/` WAS NOT EDITED, AND `state/phase-ledger.json` WAS NOT READ, NOT EDITED AND NOT REPORTED AS EVIDENCE OF ANYTHING.**
 
 ### 1. THE VERDICT AND WHAT WAS TRUE OF IT

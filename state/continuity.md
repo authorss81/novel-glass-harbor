@@ -1,3 +1,38 @@
+## VOLUME 14 IS WRITTEN, AUDITED AND CLOSED. THE AUDIT AND THE CLOSE ARE AT `reviews/volume-14/volume-14-close.md`, 612 LINES AND 28,555 WORDS, AND IT IS THE HOME OF EVERY RULING THIS VOLUME DEFERS OR FLAGS. **THIS SECTION SUPERSEDES EVERY SECTION BELOW IT ON THE STATE OF THE WORLD. NO CHAPTER OF VOLUME 14 WAS WRITTEN, RESTARTED, CUT, REPLACED, REORDERED OR MOVED BY THAT PASS, NO FIGURE WAS ADDED TO OR TAKEN OFF ANY PAGE, NO DAY WAS MOVED, NO LOCK WAS SOFTENED AND NO PLOT WAS ALTERED. NO CHAPTER OF VOLUME 13 WAS TOUCHED.**
+
+**WHAT A WRITER OF VOLUME 15 NEEDS IS THIS SECTION, `outline/volume-14.md`, `outline/ending.md` AND NOTHING ELSE. THE THIRTY-SEVEN LOCKS OF THAT OUTLINE ARE ON THAT OUTLINE AND ARE NOT REPRINTED HERE. `outline/ending.md` L17 PLACES THE RELEASE OF THE FAMILY CLAIM IN VOLUME 15 AND IT IS NOT RELEASED IN VOLUME 14.**
+
+### 0. WHAT THE AUDIT CHANGED IN THE STATE OF THE WORLD: NOTHING, AND THAT IS THE RULING
+
+**THE FIFTY DAYS ARE AS THE CHAPTER PASS AND THE REPAIR PASS LEFT THEM. EVERY FIGURE IN THE HEAD SECTION BELOW WAS RE-DERIVED BY SCRIPT OFF THE FACE OF THE FIFTY FILES AND EVERY ONE AGREES, AND THE AUDIT'S OWN FIGURES ARE AT `reviews/volume-14/volume-14-close.md`.** What the audit added is four findings, none of which is a chapter defect, and four divergences ruled as delivered, and three standing breaches carried and named. **NO FIGURE ON ANY PAGE MOVED.**
+
+### 1. THE FIGURES OF THE CLOSE, ALL RE-DERIVED, ALL AGREEING
+
+| | At the close of Chapter 700 | The arithmetic that produced it |
+|---|---|---|
+| the four columns | **433 / 2,039 / none / 125** | 383 + 50 = 433; 1,789 + 250 = 2,039. At the hour of the reading on the fiftieth day **432 / 2,037**: 250 − 2 = 248, 1,789 + 248 = 2,037 |
+| the first column's definition | one entry a day, the day's own entry after that day's reading | so a stranger counts that column by counting days |
+| the second column's definition | five a day, three before the hour of the reading and two after it | and it is that ledger's own and is not checkable from a mole |
+| the nine day-counters | **398 / 400 / 738 / 504 / 322 / 277 / 292 / 309 / 340** | each its own figure at the close of Chapter 650 plus fifty. **CONFIRMED AT 450 OF 450** |
+| the hearing of the man of about twenty-nine | **198 days** | 149 on the first day, one more than the day before on every one of the fifty. **CONFIRMED AT 50 OF 50** |
+| the fitting-out sheet | **112,716 out, 10,640 in, 102,076 short** | 704 × 160 + 6 × 12 + 4 = 112,716; 66 × 160 + 6 × 12 + 8 = 10,640; 112,716 − 10,640 = 102,076; 637 × 160 + 13 × 12 = 102,076. **TWO LINES AND NO THIRD** |
+| the one line of this volume | **840 pence, being five marks, three shillings and fourpence** | 40 × 3 = 120; 2 × 18 = 36; 60; 9 × 2 × 16 = 288; 2 × 168 = 336; sum 840. It went on at about two in the afternoon on Thursday the ninth of June |
+| the bag | **twenty-eight pence, being two shillings and fourpence** | 28 + 8,400 − 8,400 = 28, being 50 × 168 = 8,400 each way. **NEVER ZERO ON ANY OF THE FIFTY DAYS** |
+| the page of hands | **fifteen** | 4 + 3 + 3 + 2 + 2 + 2 + 1 + 1 + 1 = 19 at the close of 660; 19 − 4 = 15, and 18 − 3 = 15. **NOT RE-TAKEN AFTER THE TWENTY-FIRST OF MAY** |
+| the nights carried | **one, against the Cinder Bell** | zero on all nine at the base; one written against one name and nothing against the other eight, and the sum is one |
+| the column of not asked | **nothing** | nine on every day before Movement 4, falling to nothing across its ten days |
+| the page of routes | **one held, four restricted, four dormant** | 1 + 4 + 4 = 9 over nine names, written down twice and on no other day, being 670 and 700 |
+| the cistern | **the hundred and fifty-ninth charge** | fourteen charges, the hundred and forty-sixth to the hundred and fifty-ninth, on fifteen rota days of which Chapter 693 carries none |
+| the wipes | **the hundred and eleventh** | seven wipes, the hundred and fifth to the hundred and eleventh, all Sundays, at 22/9/22, 23/10/23, 24/11/24, 25/12/25, 26/13/26, 27/14/27 and 28/15/28, being 53, 56, 59, 62, 65, 68 and 71 minutes |
+| the wage column | **twenty-six lines and one hundred and four marks** | seven wage Tuesdays, the eightieth to the eighty-sixth, the column not moving on any of them and a further week fallen due at the close of each |
+| the four hundred and fifty pence | **still on that board** | and it did not come down on the fiftieth day |
+| the third column | **none** | a boy's hand of twenty-two at the head of it, his surname on no page, and he is not on the water on all fifty days |
+| the fourth column | **one hundred and twenty-five** | no line taken in fifty days, no hundred and twenty-sixth line in it, neither shut nor struck, and the reason it took no line was entered once in an earlier volume |
+
+**THE LENGTH OF THE VOLUME, MEASURED `wc -w` PER FILE AND SUMMED AND NEVER BY A PIPE: 190,292 WORDS ACROSS FIFTY CHAPTERS, BEING 34,948 + 33,994 + 38,657 + 42,447 + 40,246. THE FIGURE THE MOVEMENT 5 REPAIR PASS PUBLISHED AND THE HEAD OF `state/volume-index.md` CARRIES IS THE SAME 190,292. A FIGURE OF 189,713 AND ONE OF 39,667 FOR MOVEMENT 5 CIRCULATE IN OLDER PASS PROMPTS AND ARE SUPERSEDED; THE DIFFERENCE IS 579 IN BOTH PLACES.**
+
+**AND THE PUBLISHED SLIP LENGTHS FOR 691 TO 700 ARE 579, 612, 556, 628, 590, 641, 619, 687, 801 AND 1,026, MEASURED AGAINST THEIR PASSAGES BY AN INSTRUMENT CALIBRATED FIRST ON `chapters/volume-13/chapter-0650.md`, WHERE IT REPRODUCES THAT FILE'S FOUR PUBLISHED FIGURES OF 441, 164, 292 AND 724 EXACTLY.**
+
 ## VOLUME 14, CHAPTERS 691 TO 700, MOVEMENT 5, AT THE CLOSE OF CHAPTER 700. **THE FIFTY DAYS OF THE VOLUME ARE ALL ON DISK AND THIS SECTION IS THE HEAD OF THIS FILE. IT SUPERSEDES EVERY SECTION BELOW IT ON THE STATE OF THE WORLD. NO DAY, NO CLOCK, NO FIGURE OF MONEY, NO LOCK, NO BEAT AND NO THREAD SET BY ANY SECTION BELOW IT HAS BEEN TOUCHED. NO CHAPTER OF VOLUME 13 WAS WRITTEN, REPAIRED OR MOVED, AND NO CHAPTER OF VOLUME 14 BEFORE 691 WAS EDITED BY THIS PASS.**
 
 **WHAT A WRITER OF VOLUME 15 NEEDS FROM THIS FILE IS THIS SECTION AND `outline/volume-14.md` AND NOTHING ELSE. THE THIRTY-SEVEN LOCKS OF THAT OUTLINE ARE ON THAT OUTLINE AND ARE NOT REPRINTED HERE.**

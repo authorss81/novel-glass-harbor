@@ -1,3 +1,30 @@
+## VOLUME 14 IS WRITTEN, AUDITED AND CLOSED. THE AUDIT IS AT `reviews/volume-14/volume-14-close.md`. **A CLOSE AND NOT A CHAPTER PASS. NO CHAPTER WAS WRITTEN, RESTARTED, CUT, REPLACED, REORDERED OR MOVED, NO FIGURE WAS ADDED TO OR TAKEN OFF ANY PAGE, NO DAY WAS MOVED, AND THE SUMMARIES OF ALL FIFTY CHAPTERS BELOW STAND UNCHANGED IN EVERY FIGURE BECAUSE EVERY FIGURE ON EVERY ONE OF THEM RE-DERIVED AND AGREED.**
+
+### WHAT THE AUDIT DID TO THESE FIFTY SUMMARIES, WHICH IS NOTHING TO THEIR FIGURES
+
+| What the audit measured | Figure | Verdict against the summaries |
+|---|---|---|
+| the four columns | 50 of 50 against 383 + *d* and 1,789 + 5*d* | **AGREE, ALL FIFTY** |
+| the nine day-counters | 450 of 450 | **AGREE, ALL FOUR HUNDRED AND FIFTY** |
+| the hearing | 50 of 50, 149 to 198 | **AGREE, ALL FIFTY** |
+| the money chain | 50 of 50 files carry the three figures of their own chain | **AGREE, ALL FIFTY** |
+| the bag | 28 + 8,400 − 8,400 = 28 and never zero | **AGREE, ALL FIFTY** |
+| the calendar | 100 of 100 weekday-and-date checks, anchored on Chapter 650's own dateline | **AGREE, ALL FIFTY** |
+| the calendar locks | 15 rota days, 14 charges, 7 wipes, 7 wage Tuesdays, all on the right days | **AGREE** |
+| the counted slip lengths | 50 of 50 exact | **AGREE, ALL FIFTY** |
+| the one line of the volume | 840 pence in five parts, on 689, and no second | **AGREE** |
+| the three counts and the fourth counting | taken once each and not again; the page of routes twice, on 670 and 700 | **AGREE** |
+
+**AND THE FOUR THINGS THE AUDIT FOUND ARE NOT CHAPTER DEFECTS AND CHANGED NO SUMMARY.** A stale counted figure in the dispatch the close was run against, repaired in the audit's own text. The checkable four-column derivation printed on ten of fifty files. The 179-word run of lock-required money arithmetic, ruled for the owner of the form and not a finding. Nineteen identical half-past-five slip openings in Movement 1. **ALL FOUR ARE AT § 23 OF THE AUDIT WITH BOTH FIGURES AND THE DISPOSITION OF EACH.**
+
+### THE TWO SUMMARIES A WRITER OF VOLUME 15 SHOULD READ FIRST, BECAUSE THEY CARRY THE TWO FIGURES THE LOCKS BIND
+
+**CHAPTER 660 — THE COUNT OF HANDS.** Nine figures at the head of the nine lines, in the order the nine names are always read in, being four, three, three, two, two, two, one, one and one, and **4 + 3 + 3 + 2 + 2 + 2 + 1 + 1 + 1 = 19**, with the day and the hour against each and nineteen written underneath in the same hand, and a man of about fifty-three adding them with a leaf and a pencil in about a minute and getting nineteen and then reading the nine names and getting nine again. **It is not said in a room and it is not in the half-past-five slip.** Four hands come off it in Movement 2 and the sum is fifteen.
+
+**CHAPTER 700 — THE CLOSE.** The read-back at about two in the afternoon, twice, all four columns including the empty third, with both definitions in the same mouth and the derivation on the face of the reading, **deriving from three hundred and eighty-three and one thousand seven hundred and eighty-nine at the close of the first of May and not from four hundred and twenty-three and one thousand nine hundred and eighty-nine**, and giving 432 and 2,037 at the hour of the reading and 433 and 2,039 at the close. The count of the three columns of the page of routes, one and four and four over nine names, written for the second of twice. The new question, asked once at the end stall by a woman who sells rope, answered by nobody, in that market's book as asked with the hour against it and no name against it. Two lines and about eleven inches of empty plaster on that wall, four names off the page of hands with the figures under them still readable, a hull seen once from a boat and not understood, twenty-eight pence under a slate, and a page of hours that nobody has converted into a man.
+
+---
+
 ## VOLUME 14, CHAPTERS 691 TO 700, MOVEMENT 5 — THE REPAIR AGAINST THE REVIEW OF THAT BATCH. **THE SUMMARIES OF THE TEN CHAPTERS BELOW THIS LINE STAND UNCHANGED IN EVERY FIGURE, AND EVERY ONE OF THEM IS STILL TRUE OF THE CHAPTERS ON DISK. WHAT IS NEW IS WHAT THE REPAIR CHANGED, AND IT CHANGED ONE FACT IN FOUR CHAPTERS AND ADDED NOTHING TO ANY DAY'S PLOT.**
 
 ### WHAT THE REPAIR WAS
