@@ -22,7 +22,7 @@ At about three in the afternoon a bell buoy of about two tons came alongside tha
 
 They hung it themselves. They made up their own shackle and they took their own turns on it and they used their own grease, and this yard sent a hand and that hand carried a coil of line and did not touch the shackle and did not touch the ring and stood on that deck for about an hour and a half and said almost nothing.
 
-The two men who are of the third lay of that route who put the line on that wall in 651 were on that deck and neither of them said a word about Monday, and about four people near enough to see it heard one of them say that a fouled bell answers wrong, in the voice of a man who has said it before and does not need to say it again.
+The man of about forty-one of the third lay of that route, who came down that coast road on Monday morning and put the line on that wall himself with four tacks out of his own pocket, was on that deck and he said not one word about Monday, and about four people near enough to see it heard him say that a fouled bell answers wrong, in the voice of a man who has said it before and does not need to say it again.
 
 Nobody thanked those six men. They did not stop for that, and they were not asked to.
 

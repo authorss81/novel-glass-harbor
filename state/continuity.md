@@ -1,3 +1,105 @@
+## VOLUME 14, CHAPTERS 651 TO 670, MOVEMENTS 1 AND 2 AS THEY STAND ON DISK. **THIS SECTION IS THE HEAD OF THIS FILE AND IT SUPERSEDES EVERY SECTION BELOW IT ON THE STATE OF THE WORLD. NO DAY, NO CLOCK, NO FIGURE OF MONEY, NO LOCK, NO BEAT AND NO THREAD SET BY ANY SECTION BELOW IT HAS BEEN TOUCHED. NO CHAPTER OF VOLUME 13 WAS WRITTEN, REPAIRED OR MOVED. NO FIGURE WAS ADDED TO ANY SHEET, NO LOCK WAS SOFTENED, NO RESTRICTED REMAINDER WAS OPENED AND NO NEW ANTAGONIST WAS NAMED.**
+
+**WHAT A WRITER OF CHAPTERS 671 TO 700 NEEDS FROM THIS FILE IS THIS SECTION AND `outline/volume-14.md`, AND NOTHING ELSE. THE THIRTY-SEVEN LOCKS OF THAT OUTLINE ARE ON THAT OUTLINE AND ARE NOT REPRINTED HERE.**
+
+**THE DEBT RECORDED AT `state/open-threads.md` § 2 OF THE HEAD SECTION BELOW IS PAID: `outline/volume-14.md` AND `outline/batches/volume-14-batch-0001.md` ARE ON DISK, THE FIRST TWENTY CHAPTERS ARE ON DISK, AND THE THREE HEAD SECTIONS THAT SAID A VOLUME 14 WRITER WAS NOT AUTHORISED ARE SUPERSEDED BY THIS ONE.**
+
+### 1. THE CALENDAR AS IT NOW STANDS, TWENTY DAYS
+
+**Chapter 650 was Sunday the first day of May. The twenty days on disk are Monday the second day of May to Saturday the twenty-first day of May, one day to a chapter, no day missing and no day in two chapters, and the day after Chapter 670 is Sunday the twenty-second, which is the hundred and seventh wipe.**
+
+| Ch | Day | Day of the volume | First column | Second column | Hearing | On the calendar |
+|---|---|---|---|---|---|---|
+| 651 | Monday the second of May | 1 | 384 | 1,794 | 149 | rota, the hundred and forty-sixth charge |
+| 652 | Tuesday the third | 2 | 385 | 1,799 | 150 | the eightieth wage Tuesday |
+| 653 | Wednesday the fourth | 3 | 386 | 1,804 | 151 | — |
+| 654 | Thursday the fifth | 4 | 387 | 1,809 | 152 | rota, the hundred and forty-seventh |
+| 655 | Friday the sixth | 5 | 388 | 1,814 | 153 | the requirement sheet under the stone |
+| 656 | Saturday the seventh | 6 | 389 | 1,819 | 154 | about two fathoms, about eleven minutes |
+| 657 | Sunday the eighth | 7 | 390 | 1,824 | 155 | **a wipe, the hundred and fifth, 22/9/22 = 53** |
+| 658 | Monday the ninth | 8 | 391 | 1,829 | 156 | rota, the hundred and forty-eighth |
+| 659 | Tuesday the tenth | 9 | 392 | 1,834 | 157 | the eighty-first wage Tuesday, the second page |
+| 660 | Wednesday the eleventh | 10 | 393 | 1,839 | 158 | **Movement 1 closes on the page of hands** |
+| 661 | Thursday the twelfth | 11 | 394 | 1,844 | 159 | rota, the hundred and forty-ninth |
+| 662 | Friday the thirteenth | 12 | 395 | 1,849 | 160 | the heights of four names |
+| 663 | Saturday the fourteenth | 13 | 396 | 1,854 | 161 | four names read out in a market of sixty |
+| 664 | Sunday the fifteenth | 14 | 397 | 1,859 | 162 | **a wipe, the hundred and sixth, 23/10/23 = 56** |
+| 665 | Monday the sixteenth | 15 | 398 | 1,864 | 163 | rota, the hundred and fiftieth; a name comes off |
+| 666 | Tuesday the seventeenth | 16 | 399 | 1,869 | 164 | the eighty-second wage Tuesday; a seam defined |
+| 667 | Wednesday the eighteenth | 17 | 400 | 1,874 | 165 | a man reads his own account out of the page |
+| 668 | Thursday the nineteenth | 18 | 401 | 1,879 | 166 | rota, the hundred and fifty-first; the route closes |
+| 669 | Friday the twentieth | 19 | 402 | 1,884 | 167 | **the line comes down on four tacks** |
+| 670 | Saturday the twenty-first | 20 | 403 | 1,889 | 168 | **four hands off; the page of routes counted, the first of twice** |
+
+**THE FOUR COLUMNS AT THE CLOSE OF CHAPTER 670 ARE FOUR HUNDRED AND THREE, ONE THOUSAND EIGHT HUNDRED AND EIGHTY-NINE, NONE, AND ONE HUNDRED AND TWENTY-FIVE, AND THE THIRD IS STILL EMPTY AND UNAPPOINTED WITH A BOY'S HAND OF TWENTY-TWO AT THE HEAD OF IT AND HIS SURNAME IS ON NO PAGE AND HE IS OFF THE WATER ON ALL TWENTY DAYS.**
+
+**THE NINE DAY-COUNTERS AT THE CLOSE OF CHAPTER 670 ARE THREE HUNDRED AND SIXTY-EIGHT, THREE HUNDRED AND SEVENTY, SEVEN HUNDRED AND EIGHT, FOUR HUNDRED AND SEVENTY-FOUR, TWO HUNDRED AND NINETY-TWO, TWO HUNDRED AND FORTY-SEVEN, TWO HUNDRED AND SIXTY-TWO, TWO HUNDRED AND SEVENTY-NINE AND THREE HUNDRED AND TEN, IN THAT ORDER, BEING NOTICE, BELLWRIGHT, CROWN, BENCH, TWO LIGHTS, END STALL, FOUR LINES, THE NINE-LINE SHEET AND THE SIX NAMES. EACH IS ITS OWN FIGURE AT THE CLOSE OF CHAPTER 650 PLUS TWENTY, AND EVERY ONE OF THE HUNDRED AND EIGHTY CHECKS IS EXACT.**
+
+### 2. THE MONEY, AND IT HAS NOT MOVED IN TWENTY DAYS
+
+**THE BAG IS TWENTY-EIGHT PENCE, BEING TWO SHILLINGS AND FOURPENCE, AGAINST A WAGE OF FOUR MARKS, BEING SIX HUNDRED AND FORTY PENCE, SIX HUNDRED AND TWELVE PENCE SHORT, BEING THREE MARKS ELEVEN SHILLINGS, AND IT IS NEVER ZERO. 28 + 8,400 − 8,400 = 28 AND THAT CHAIN STANDS ON ALL TWENTY DAYS IN FOUR DIFFERENT SENTENCE FRAMES.**
+
+**THE FITTING-OUT SHEET IS STILL ONE HUNDRED AND ELEVEN THOUSAND EIGHT HUNDRED AND SEVENTY-SIX PENCE OUT, BEING SIX HUNDRED AND NINETY-NINE MARKS AND THREE SHILLINGS, AGAINST TEN THOUSAND SIX HUNDRED AND FORTY PENCE IN, BEING SIXTY-SIX MARKS, SIX SHILLINGS AND EIGHTPENCE, ONE HUNDRED AND ONE THOUSAND TWO HUNDRED AND THIRTY-SIX PENCE SHORT, BEING SIX HUNDRED AND THIRTY-TWO MARKS, NINE SHILLINGS AND EIGHTPENCE, AND IT CARRIES ONE LINE AND NO SECOND, THAT LINE BEING THE BILL FOR THE STORM OF THE TWENTIETH OF APRIL.**
+
+**NOT ONE LINE WENT ONTO THAT SHEET IN CHAPTERS 651 TO 670. THE ONE LINE THIS VOLUME AUTHORISES IS ON CHAPTER 689, IT IS THE GEAR FOR THE REHEARSAL, AND ITS FIVE PARTS ARE ONE HUNDRED AND TWENTY, THIRTY-SIX, SIXTY, ONE HUNDRED AND FORTY-FOUR AND THREE HUNDRED AND THIRTY-SIX, BEING SIX HUNDRED AND NINETY-SIX PENCE, BEING FOUR MARKS FOUR SHILLINGS AND EIGHTPENCE.** **THE ROUTE'S HIRE OF THE BOAT OF ABOUT THIRTY TONS ON THE SEVENTH OF MAY IS A FIGURE IN CHALK ON THAT ROUTE'S OWN PAGE AND NOT A LINE ON THAT SHEET, AND IT WAS PAID BY THE ROUTE, AND THIS YARD HAS NOT BEEN PAID A PENNY OF IT.**
+
+**FOUR HUNDRED AND FIFTY PENCE IS STILL THE FIGURE ON THAT BOARD IN THE FRONT STREET. NO TIN IN THAT SHED HAS BEEN OPENED SINCE THE TWENTY-NINTH OF APRIL PAST AND THIS YARD IS EIGHTY-THREE DAYS WITHOUT ONE.**
+
+### 3. THE PAGE OF HANDS, WHICH IS THE FIRST OF THIS VOLUME'S THREE COUNTS, AND IT HAS FALLEN
+
+**A SHEET OF DAYS IN THAT SHED WITH THE NINE ROUTE NAMES DOWN THE SIDE IN THE ORDER THEY ARE ALWAYS READ IN, AND A FIGURE AGAINST EACH NAME FOR THE NUMBER OF PEOPLE OF THAT ROUTE'S OWN COMMUNITY WHO HAVE PUT THEIR NAME TO THAT ROUTE'S WRITTEN LIMITS ON THAT DAY. IT IS A COUNT OF NAMES AND NOT A COUNT OF PERSONS AND NOT A HEAD-COUNT AND NOT A ROLL. A PERSON WHO PUT NOTHING IN IS NOWHERE ON IT, IS NOT COUNTED AGAINST ANYBODY, IS NOT WRITTEN OFF IT, IS NOT IN BRACKETS AT THE END OF IT, AND THERE IS NO SECOND COLUMN ON THAT PAGE WITH THE PEOPLE WHO REFUSED IN IT AND THERE IS NOT GOING TO BE ONE.**
+
+**THE BASE AT THE CLOSE OF CHAPTER 650 IS ONE ON EACH OF THE NINE NAMES AND THE SUM IS NINE. AT THE CLOSE OF CHAPTER 660 IT READS FOUR, THREE, THREE, TWO, TWO, TWO, ONE, ONE AND ONE IN THE ORDER OF THE NINE NAMES DOWN THE SIDE, AND FOUR PLUS THREE PLUS THREE PLUS TWO PLUS TWO PLUS TWO PLUS ONE PLUS ONE PLUS ONE IS NINETEEN. AT THE CLOSE OF CHAPTER 665 IT IS EIGHTEEN. AT THE CLOSE OF CHAPTER 670 IT IS FIFTEEN, BEING FOUR, THREE, THREE, TWO, TWO, TWO, ONE, ONE AND ONE WITH THE MORROW LINE AT NOTHING.**
+
+**ALL THREE FIGURES ARE LEFT READABLE ON THAT PAGE WITH THE DAY AND THE HOUR AGAINST EACH OF THEM, AND A STRANGER WITH A LEAF AND A PENCIL CAN PUT ALL THREE ON ONE SHEET AND GET THE SAME THREE NUMBERS OUT OF IT IN TWENTY YEARS. THE SUM IS NOT SAID OUT LOUD IN A ROOM, IS NOT IN ANY SLIP, AND IS NOT IN THE FIRST COLUMN IN WORDS.**
+
+**ONE OF THE FOUR HANDS CAME OFF AT A MAN'S OWN ASKING ON CHAPTER 665. THREE CAME OFF AT ABOUT TWO IN THE AFTERNOON ON CHAPTER 670, ONE FROM EACH OF THREE LINES, WITHOUT ANYBODY HAVING ASKED AND WITHOUT ANYBODY HAVING SAID WHY. NO NAME WAS SCRATCHED OUT AND ALL FOUR ARE STILL LEGIBLE UNDER THE CHALK, AND THAT IS ON THE FACE OF THE PAGE.**
+
+**THE COUNT IS TAKEN AND WRITTEN DOWN ONCE IN THE TEN DAYS OF MOVEMENT 1, BEING ON CHAPTER 660, AND ONCE IN THE TEN DAYS OF MOVEMENT 2, BEING ON CHAPTER 670.**
+
+### 4. THE PAGE OF ROUTES, AND IT HAS NOT MOVED, AND THAT IS THE POINT OF MOVEMENT 2
+
+**ONE HELD, FOUR RESTRICTED, FOUR DORMANT OVER NINE NAMES. THE HELD COLUMN IS THE SALTMARCH WEATHERWAY ALONE. THE FOUR RESTRICTED ARE THE TIDEWATCH CHANNEL, THE ASHTIDE RUN, THE TERNWATCH PASSAGE AND THE LOWFEN REED. THE FOUR DORMANT ARE THE MORROW LINE, THE CINDER BELL, THE PALE SHOALS AND THE ORISON DESCENT. ONE AND FOUR AND FOUR IS NINE.**
+
+**THE COUNT OF ITS THREE COLUMNS WAS WRITTEN DOWN TWICE IN VOLUME 13, BEING ON CHAPTER 630 AND ON CHAPTER 650, AND IT IS WRITTEN DOWN ONCE IN VOLUME 14 SO FAR, BEING ON CHAPTER 670, AND ONCE MORE, BEING ON CHAPTER 700, AND ON NO OTHER DAY OF THE FIFTY. NEITHER IS SAID OUT LOUD IN A SHED AND NEITHER IS IN ANY SLIP.**
+
+**A LINE CAME DOWN OFF THE WALL OF THAT SHED ON CHAPTER 669 AND THE PAGE OF ROUTES DID NOT MOVE BY ONE, AND THAT IS CORRECT AND IT IS THE WHOLE OF WHAT MOVEMENT 2 LEARNED: A PAGE OF WHAT A COAST WILL NOT CARRY IS NOT THE SAME KIND OF PAPER AS A PAGE OF WHAT A ROUTE'S OWN PEOPLE HAVE PUT THEIR NAMES TO, AND A LINE COMING DOWN A WALL IS NOT A ROUTE CHANGING STATE.**
+
+### 5. THE WALL OF THAT SHED, WHICH IS THIS VOLUME'S ARGUMENT IN ONE PLACE
+
+**IT CARRIED THREE ROUTE LINES AND ONE PAGE, AND IT NOW CARRIES TWO ROUTE LINES AND ONE PAGE AND ABOUT ELEVEN INCHES OF EMPTY PLASTER, AND THE EMPTY PLASTER IS NOT TO BE WHITEWASHED.**
+1. **The Saltmarch Weatherway's, eleven words, put up on Chapter 651 by a man of about forty-one of that route's third lay, with four tacks out of his own pocket, on a day he came four days down that coast road.** *We will not carry an echo this route cannot answer for.*
+2. **This yard's own page of eight lines, put up on Chapter 653, saying what a record of a line on a wall will carry and what it will not do, carrying neither of the two people who argued about it.**
+3. **The Lowfen Reed's, nine words, put up on Chapter 657 by that route's own people.** *We carry only what we are asked to carry.*
+4. **The Morrow Line's, forty-three words, put up on Chapter 658 by about eleven people of this harbor of whom about four cannot read what they wrote, read out twice because about eleven people in this harbor cannot read a notice. TAKEN DOWN ON CHAPTER 669 BY ABOUT ELEVEN PEOPLE IN ABOUT FOUR MINUTES ON FOUR TACKS.**
+
+**THE COUNT OF THE THREE COLUMNS OF THE PAGE OF ROUTES IS THE SECOND SHEET BY NAME ONLY AND IS NOT ONE OF THIS VOLUME'S THREE COUNTS. THE THREE ARE THE PAGE OF HANDS, THE NIGHTS CARRIED AND THE COLUMN OF NOT ASKED, AND THE FIRST HAS BEEN TAKEN TWICE AND THE OTHER TWO HAVE NOT BEEN TAKEN AT ALL.**
+
+### 6. THE PEOPLE, AS THEY STAND, AND WHAT MAY NOT BE ASKED OF ANY OF THEM
+
+- **The man of about thirty-two of that harbor.** He holds no buoy, decides no boat, is not the body that goes and asks, and has said out loud in nine people on three occasions what this yard is not. **He said nothing on Chapter 668 when a line was taken down and this yard wrote down that he said nothing and not one word about what he said nothing to. He is the man of thirty-two the outline means and the tender of Chapter 656 is a woman of about thirty-three and the two are different people and no chapter may put them in one sentence.**
+- **The woman of thirty of no office.** She holds the record, she is not the man of thirty-two's wife in any sentence on any page, and she has argued with him in the open on Chapter 653 and neither of them has been answered and neither has stood down.
+- **The woman of about thirty-nine who mends net.** She is on nobody's crew and on no sheet, has said no once in this harbor and given a ground once, and neither of those is on any page and neither is going to be asked about.
+- **The man of about thirty-one of the second lay.** He reads that lid out on a Tuesday in four minutes. He has not been on the water. Nobody in this market has ever asked him what he thinks of it.
+- **The man of about fifty-three with a boat of about fourteen tons.** His eleven words are still on a page and still unanswered. He has now added three more sentences of his own this month and none of them has been argued with.
+- **The woman of about twenty-four of the third lay.** She told this yard on Tuesday the third of May that a bright shackle under a belt of green is a shackle somebody handled, and she was right.
+- **The man of about sixty-one.** He came to that harbor in April, pays by the week over a chandler's shop, is not able to read, put a mark and not a name beside a sentence, asked on Chapter 665 for his name to be taken off that page and it was taken off that afternoon and not scratched out, and read his own account out of that harbor's own page on Chapter 667 in about nine people. **HE IS THE ONE WHO SAID HE WAS NOT ASKED WHETHER HE COULD GET AWAY FROM IT AFTERWARDS, HE SAID THAT TWICE, NOBODY ASKED HIM WHO GAVE HIM THE SHEET, AND HE WAS NOT ASKED AGAIN AFTERWARDS.**
+- **The woman of about twenty-nine of the second lay.** One of the about eleven who wrote the Morrow Line's sentence and one of the four of those eleven who cannot read what they wrote. She said it comes down and she was not thanked and was not argued with and was not asked to be sorry.
+- **The man of about forty-four who keeps the crossings for that crew.** He came and said on Chapter 664 that he had been asked nothing this week and had noticed that he had been asked nothing. **He was not asked anything then either and no chapter may ask him anything.**
+- **The man of about fifty-one of no office.** He asked one thing on the fiftieth day of the last volume. **He has not asked a second thing and no chapter may ask his question again in its own words.**
+- **The man of about thirty-eight who keeps a thing.** **Not asked about, not opened, not a mystery.**
+- **The man of about thirty-four of the second lay who cannot read.** **Not asked anything, not put on a step, not used as a node, and he is NOT the man of about sixty-one and the two are different people and no chapter may merge them.**
+
+### 7. THE STAGE, THE COST AND THE CLAIM, ALL UNCHANGED
+
+**THE CHORUS DIVER STAGE WAS TAKEN ONCE, IN CHAPTER 528, AND IS NOT ENTERED AGAIN. THE OPENHAND WAS TAKEN ONCE, IN CHAPTER 650, CONNECTED TO OTHER PEOPLE, PRICING NOTHING, AND IS NOT TAKEN AGAIN IN THIS VOLUME. THE WORD *STAGE* IS IN NO MOUTH ON ANY OF THE TWENTY PAGES AND IS AT ZERO. THE ONE POWER THING THIS VOLUME OWNS IS A LIVING ANCHOR USED ONCE, IN MOVEMENT 4, FOR ABOUT NINE MINUTES, CUT OFF BY A NAMED TENDER, AND IT HAS NOT BEEN USED YET.**
+
+**THE RESTRICTED REMAINDER IS SEALED AND IS NOT NAMED AND IS NOT OPENED AND NO DIGIT OF WHAT IS IN IT IS ON ANY PAGE. THE FAMILY CLAIM IS NEITHER EXERCISED NOR RELEASED NOR REFUSED AND ITS REMOTE POSSIBILITY IS NOT IMPROVED. THE CUSTODY ROOM ON THE HILL IS NOT ENTERED. THE PIECE OF WORKED LEAD HAS NOT COME DOWN THAT HILL. THE PROOF IS STILL IN A LOCKED CASE IN A ROOM OVER A FISH MARKET AND WAS NOT READ OUT.**
+
+**NOBODY DIED, NO BODY WAS NAMED, NO CASUALTY FIGURE WAS PRINTED, NOBODY WAS CALLED A HERO AND NOBODY WAS THANKED. NOTHING STANDING WAS PAID, ADVANCED, CUT BACK, BETTERED, STRUCK OR CLOSED IN THESE TWENTY DAYS, AND THE ONE THING THAT CAME DOWN OFF A WALL CAME DOWN BY THE HANDS THAT PUT IT UP AND WAS NOT ANYTHING ELSE.**
+
+---
+
 ## VOLUME 13, THE REPAIR PASS AGAINST `logs/batch-0001.review.log` — **THIS SECTION IS THE HEAD OF THIS FILE AND IT SUPERSEDES THE SECTION BELOW IT ON FIVE COUNTED FIGURES AND ON NOTHING ELSE. EVERY DAY, EVERY CLOCK, EVERY FIGURE OF MONEY, EVERY LOCK, EVERY BEAT AND EVERY THREAD SET BY ANY SECTION IN THIS FILE STANDS UNCHANGED. NO CHAPTER WAS WRITTEN, RESTARTED, CUT OR MOVED, NO DAY WAS MOVED, NO FIGURE OF MONEY WAS ADDED OR REMOVED, NO LOCK WAS SOFTENED, NO NEW ANTAGONIST WAS NAMED AND NO PLOT WAS ALTERED.**
 
 **IT WRITES NO CHAPTER AND IT INVENTS NO OUTLINE. THE FIVE FIGURES IT REPAIRS ARE ALL PRINTED FIGURES THAT STOOD WRONG IN A STATE FILE, AN AUDIT ARTEFACT OR THE QUEUED PROMPT, AND EACH IS REPAIRED AT THE PLACE IT STOOD WITH BOTH FIGURES PRINTED. THE CHAPTERS ARE THE COURT.**

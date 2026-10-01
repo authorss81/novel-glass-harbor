@@ -36,7 +36,7 @@ It is also not a figure of agreements. Four against the Morrow Line is four peop
 
 ---
 
-And at about half past five on that Wednesday the man who keeps the leaf took the shortfall out loud at that bench stone, in about six hundred and thirty-four words, to about nine people.
+And at about half past five on that Wednesday the man who keeps the leaf took the shortfall out loud at that bench stone, in about two hundred and eighty words, to about nine people.
 
 "**One hundred and one thousand two hundred and thirty-six pence short, being six hundred and thirty-two marks, nine shillings and eightpence. One line on that sheet since the twentieth of April. Ten thousand six hundred and forty pence has ever gone into it, being sixty-six marks, six shillings and eightpence. Four hundred and fifty pence on that board in the front street. No charge on that cistern and its covers lay on it from nine until four. A hundred and sixty-eight pence in at ten and a hundred and sixty-eight out at four and twenty-eight plus one hundred and sixty-eight less one hundred and sixty-eight is twenty-eight, and under that slate is twenty-eight pence, being two shillings and fourpence, and that is six hundred and twelve pence short of the wage of four marks, being three marks eleven shillings. No tin in that shed has been opened since the twenty-ninth of April past, and this yard has been sixty-nine days without one.**
 

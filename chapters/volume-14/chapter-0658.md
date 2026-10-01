@@ -1,6 +1,6 @@
 # Chapter 658
 
-*Monday the Ninth Day of May, a Rota Day and the Hundred and Forty-Eighth Charge on That Cistern, Eleven Trips by Hand and Walked on by None of It and the Covers Left Lying on It from About Eleven Until Four, About Eleven People at the End Stall of About Whom Four Cannot Read a Notice and a Line of About Thirty-Two Words Going Up on That Wall at About One in the Afternoon and Read Out Twice and the Second Reading Not for the Nine Who Can Read, Nothing Read Out of a Gap and No Figure Moved by One, the Bag at Twenty-Eight Pence, Being Two Shillings and Fourpence, the First Column at Three Hundred and Ninety-One and the Second at One Thousand Eight Hundred and Twenty-Nine*
+*Monday the Ninth Day of May, a Rota Day and the Hundred and Forty-Eighth Charge on That Cistern, Eleven Trips by Hand and Walked on by None of It and the Covers Left Lying on It from About Eleven Until Four, About Eleven People at the End Stall of About Whom Four Cannot Read a Notice and a Line of Forty-Three Words Going Up on That Wall at About One in the Afternoon and Read Out Twice and the Second Reading Not for the Nine Who Can Read, Nothing Read Out of a Gap and No Figure Moved by One, the Bag at Twenty-Eight Pence, Being Two Shillings and Fourpence, the First Column at Three Hundred and Ninety-One and the Second at One Thousand Eight Hundred and Twenty-Nine*
 
 Monday the ninth day of May, with about forty people on the boards at the back of that market from ten in the morning, a yard below that market with a shed standing in it, and about nine people in that shed at half past five that afternoon.
 
@@ -40,7 +40,7 @@ Nobody agreed with that and nobody argued with it and nobody thanked him for rea
 
 ---
 
-And at about half past five on that Monday the man who keeps the leaf took the shortfall out loud at that bench stone, in about two hundred and fifty-two words, to about nine people.
+And at about half past five on that Monday the man who keeps the leaf took the shortfall out loud at that bench stone, in about two hundred and fifty-one words, to about nine people.
 
 "**One hundred and one thousand two hundred and thirty-six pence short, being six hundred and thirty-two marks, nine shillings and eightpence. One line on that sheet since the twentieth of April and the last hand to touch it was on the twentieth of April. Ten thousand six hundred and forty pence has ever gone into it, being sixty-six marks, six shillings and eightpence. Four hundred and fifty pence on that board in the front street. That cistern was charged in eleven trips by hand this morning between about eight and about eleven and walked on by none of it, and it is the hundred and forty-eighth, and the covers lay on it from about eleven until about four. A hundred and sixty-eight pence in at ten and a hundred and sixty-eight out at four and twenty-eight plus one hundred and sixty-eight less one hundred and sixty-eight is twenty-eight, and under that slate is twenty-eight pence, being two shillings and fourpence, and that is six hundred and twelve pence short of the wage of four marks, being three marks eleven shillings. No tin in that shed has been opened since the twenty-ninth of April past.**
 
