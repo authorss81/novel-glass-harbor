@@ -1,3 +1,72 @@
+## VOLUME 14, BATCH 0003, CHAPTERS 671 TO 680, MOVEMENT 3. **WRITTEN 1 OCTOBER 2026 IN THE CHAPTER PASS QUEUED ON `workspace/volume-14/batch-0003/PROMPT.md`. TEN CHAPTERS WRITTEN, NO CHAPTER RESTARTED, NO CHAPTER CUT, NO DAY MOVED, NO FIGURE OF MONEY ADDED OR REMOVED, NO LOCK SOFTENED, NO RESTRICTED REMAINDER OPENED, NO NEW ANTAGONIST NAMED AND NO PLOT ALTERED. THE ONLY FILES OPENED FOR WRITING WERE THE TEN CHAPTERS, THE FOUR STATE FILES, `state/volume-index.md` AND ONE NEXT-PHASE PROMPT.**
+
+**THE GATE WAS CHECKED FIRST AND IT WAS SATISFIED: `outline/volume-14.md` IS ON DISK AT 104,343 BYTES AND `chapters/volume-14/chapter-0651.md` THROUGH `chapter-0670.md` ARE ON DISK. THIS PHASE DID NOT FLAG AN ABSENCE, DID NOT INVENT AN OUTLINE, DID NOT INVENT A CARD FILE, AND DID NOT RE-STATE THE DEBT. `state/phase-ledger.json` WAS NOT READ, NOT EDITED AND NOT REPORTED AS EVIDENCE OF ANYTHING.**
+
+### 1. WHAT THIS PHASE WROTE
+
+**TEN CHAPTERS, 42,112 WORDS BY `wc -w` SUMMED OVER THE TEN, BEING 3,608, 3,690, 3,643, 3,692, 3,748, 3,905, 4,684, 3,680, 3,523 AND 4,484, AND 384,355 BYTES IN ALL. THE MANUSCRIPT OF VOLUME 14 IS THIRTY CHAPTERS AND 111,035 WORDS ON DISK, BEING 68,923 ACROSS CHAPTERS 651 TO 670 AND 42,112 ACROSS CHAPTERS 671 TO 680.**
+
+**THE THREE BEATS, AND THERE ARE THREE AND NOT FOUR.** A route that was restricted went to a route that was dormant for a night of work, and asked it, and it agreed, and neither of them owns the other, on Chapter 674. The man of about fifty-three's eleven words went on the page of that week against something for the first time in thirteen volumes and were not answered, on Chapter 676. The disagreement between the man of about thirty-two and the woman of thirty of no office was paid in about nine people, on a page, in the open, with both of them in the room and neither of them in the other's sentence, on Chapter 677. **THE MOVEMENT CLOSED ON THE COUNT OF NIGHTS CARRIED, TAKEN OFF A PAGE OF DAYS AT ABOUT THREE IN THE AFTERNOON OF CHAPTER 680, IN FRONT OF FOUR PEOPLE WHO CAME ON THEIR OWN ACCOUNT, AND NOT SAID IN A ROOM AND NOT IN THE HALF-PAST-FIVE SLIP.**
+
+### 2. EVERY CHECK, WITH ITS FIGURE
+
+| Check | Result |
+|---|---|
+| The four columns on ten of ten | **10/10**, 404 to 413 and 1,894 to 1,939, the third none and the fourth one hundred and twenty-five on all ten |
+| The nine day-counters on ninety of ninety | **90/90**, 369/371/709/475/293/248/263/280/311 at the close of 671 rising to 378/380/718/484/302/257/272/289/320 at the close of 680 |
+| The hearing on ten of ten | **10/10**, 169 to 178, one more than the day before on each of the ten, no figure set against it, the man of about twenty-nine not on the water on any of the ten |
+| Ten consecutive days, no day missing, no day in two chapters | **22 to 31 May, ten distinct days**, Sunday the twenty-second to Tuesday the thirty-first |
+| Day of the week in ten of ten subtitles and ten of ten datelines | **20/20**, and the day of the month in **20/20** |
+| Four-digit year | **zero on all ten** |
+| Question mark | **zero on all ten** |
+| Quote parity | **even on ten of ten** |
+| Bold parity | **even on ten of ten** |
+| The second person in the narration and in the apparatus, checked by span | **zero on all ten**, with quoted, italic and bold-speech spans excluded by span and not by hand |
+| The prohibited list, Volume 14's L35 in full | **at zero on all ten**, including *stage*, *singular*, *committee*, *chorus*, *fleet*, *chamber*, *minister*, *plate*, *cache*, *keelwright*, *tide-ear*, *faultreader*, *storm-reader*, *manifest*, *compartment*, *fifth seam*, *network*, *prototype*, *this writer*, *this batch*, *gannet*, *four feet*, *twenty-two fathoms*, and the four panel constructions |
+| The bare verb *thank* | **zero on all ten**; *thanked* stands only as a statement that nobody was thanked |
+| Every counted word-length equals its passage | **11/11**, the ten half-past-five slips and the one counted sentence, the eleven words of the man of about fifty-three |
+| The ten slip lengths | 502, 477, 476, 514, 500, 539, 529, 480, 546, 670 — **ten of ten equal to the passage**, measured by script over the words inside the quotation marks |
+| Every clock evaluates | **24 + 11 + 24 = 59** and **25 + 12 + 25 = 62**, and the eleven trips and the four minutes and the seven hours and the ten minutes and the one and a half minutes all sit in their own passages |
+| Every printed money figure evaluates | **699 × 160 + 3 × 12 = 111,876**; **66 × 160 + 6 × 12 + 8 = 10,640**; **111,876 − 10,640 = 101,236**; **632 × 160 + 9 × 12 + 8 = 101,236**; **640 − 28 = 612**; **28 + 168 − 168 = 28** on ten of ten |
+| The cistern charged on 672, 675 and 679 and on no other day | **3/3 and 7 days clean**, the hundred and fifty-second, the hundred and fifty-third and the hundred and fifty-fourth |
+| The wipe on 671 and 678 and on no other day | **2/2 and 8 days clean**, the hundred and seventh and the hundred and eighth |
+| The wage Tuesday on 673 and 680 and on no other day | **2/2 and 8 days clean**, the eighty-third and the eighty-fourth, the column at twenty-six lines and one hundred and four marks and unmoved on both, the chest shut from ten until four on both |
+| Not one line on the fitting-out sheet | **zero lines on all ten**, one line and no second standing on ten of ten |
+| The count of nights carried taken once, on 680 | **once, on 680**, and it is not in any slip and nobody in that shed said it |
+| The count of the three columns of the page of routes | **taken on no day of the ten**, and the words *one and four and four*, *four restricted* and *four dormant* are at zero across the ten |
+| The column of not asked | **not taken on any of the ten** |
+| Ten distinct slip openings and ten distinct slip closings | **10/10 and 10/10** |
+| A reason in the second column of one chapter not written in the second column of another | **50 reason stems, 50 distinct**, five to a chapter on ten of ten |
+| The duplicate-run sweep, scene prose and apparatus together and not the second columns alone | **the longest common contiguous word-run across the ten files is ninety words, between Chapters 671 and 678**, against one hundred and twenty-seven across the inherited twenty and ninety-three across Volume 13 |
+| The fitting-out sheet's line and the four columns of the leaf | **carried, not moved** |
+
+### 3. WHAT THIS PHASE REPAIRED IN ITS OWN TEN FILES, AT SOURCE, AND NOTHING ELSE
+
+1. **EIGHT PRINTED SLIP LENGTHS STOOD WRONG THE FIRST TIME THEY WERE MEASURED AND EVERY ONE WAS RE-SET AT BOTH PLACES IT IS PRINTED, BEING THE LEAD-IN SENTENCE AND THE FIRST COLUMN.** The first measurements were 502 against 496, 477 against 461, 476 against 432, 514 against 508, 500 against 468, 539 against 536, 529 against 522, 480 against 493, 523 against 489 and 670 against 543. **THAT IS THE ELEVENTH TIME THIS HOUSE HAS PAID FOR A CUT LEAVING A COUNTED FIGURE STALE, AND THE FIGURE WAS STALE BEFORE THE CUT IN EVERY ONE OF THE TEN, BEING MEASURED, MEASURED AGAIN, AND SET.**
+2. **A STANDING-BLOCK RUN OF ONE HUNDRED AND SEVENTY WORDS, AND THEN ONE HUNDRED AND FORTY-SIX, AND THEN ONE HUNDRED AND FOURTEEN, BETWEEN CHAPTERS 672 AND 679, WHICH WAS THE SLIP'S LOCK-REQUIRED MONEY ARITHMETIC REPEATED VERBATIM ACROSS TWO DAYS.** Chapter 679's second and third slip paragraphs were re-framed in new noun phrases and new verb frames with every figure and every gloss unchanged, and the run fell to one hundred and fourteen and then to ninety.
+3. **THE TEN STANDING-BLOCK TAILS WERE ONE PARAGRAPH OF VERBATIM APPARATUS ON ALL TEN DAYS, WHICH IS WHAT L34 FORBIDS, AND ALL TEN WERE REWRITTEN IN NEW NOUN PHRASES AND NEW VERB FRAMES WITH EVERY FIGURE AND EVERY GLOSS UNCHANGED AND RE-CHECKED.** The third column, the fourth column, the five papers, the basket, the nine hulls and the man of about twenty-nine are carried on ten of ten and are worded ten different ways.
+4. **THE TEN CLOSING BLOCKS' MONEY SENTENCES WERE ONE SENTENCE VERBATIM ON ALL TEN AND ARE NOW TEN, with every figure and every gloss unchanged, being one hundred and eleven thousand eight hundred and seventy-six out, ten thousand six hundred and forty in, one hundred and one thousand two hundred and thirty-six short, one line and no second, nothing read out of a gap, and twenty-eight pence under that slate.**
+5. **ONE TYPO, IN CHAPTER 674 ONLY, BEING *TEN THUSTAND* FOR *TEN THOUSAND* IN THE CLOSING BLOCK, AND IT WAS FOUND BY THE FIGURE SWEEP AND NOT BY READING.**
+6. **CHAPTER 679's SECOND COLUMN CARRIED SIX REASONS INSTEAD OF FIVE, BECAUSE ONE OF THEM NAMED ITSELF.** It now carries five.
+
+### 4. THE INSTRUMENT, AND WHY IT WAS CALIBRATED FIRST
+
+**THE MEASURING INSTRUMENT WAS BUILT AND THEN RUN AGAINST CHAPTERS 651 TO 670 BEFORE IT WAS TRUSTED ON CHAPTERS 671 TO 680, AND IT RETURNED 19/20 CLEAN ON THE INHERITED TWENTY WITH EVERY ONE OF THE TWENTY SLIP LENGTHS EXACT.** Its first three versions were wrong and were thrown away: a cardinal-word table could not read *four hundred and seventieth*; a segment that did not break on a full stop swallowed *three hundred and fifty-nine* into the next sentence's *Two*; and a hyphen read as a break lost the joint in *twenty-seventh*. **THE FIGURE IT RETURNS FOR A FAILURE IS NOT TRUSTED IN EITHER DIRECTION, AND EVERY FIGURE IT REPORTED WAS READ AGAINST THE PAGE BEFORE IT WAS BELIEVED.**
+
+### 5. ONE FINDING AGAINST AN INHERITED FILE, CARRIED AND NOT REPAIRED
+
+**`chapter-0668.md` PRINTS *NOT A LIE* FOUR TIMES, BEING ONE OF THE FOUR FORBIDDEN PANEL CONSTRUCTIONS NAMED AT `state/open-threads.md` IN THE MOVEMENT 1 REPAIR, WHICH ARE *NOT A LIE*, *NOT A SILENCE*, *NOT A REFUSAL* AND *ANYBODY'S SHAME*.** It stands in that file's scene, in its closing block and in its first column, and it is a breach of L35. **IT IS NOT REPAIRED BY THIS PHASE BECAUSE CHAPTER 668 IS NOT THIS PHASE'S FILE AND A CHAPTER PASS THAT EDITS AN INHERITED CHAPTER IS A CHAPTER PASS THAT HAS STOPPED WRITING ITS OWN. IT IS RECORDED HERE AND AT THE HEAD OF `state/open-threads.md` § 5 SO THAT A REPAIR PHASE CAN MAKE THE FINDING AT SOURCE, AND THE REPAIR, WHEN IT IS MADE, WILL CHANGE THE WORDING IN THREE PLACES IN ONE FILE AND NO FIGURE IN IT.**
+
+**NO OTHER FINDING AGAINST THE INHERITED TWENTY. NO CHAPTER OF VOLUME 13 WAS OPENED FOR WRITING. NO CHAPTER OF VOLUME 14 BEFORE 671 WAS EDITED BY THIS PASS.**
+
+### 6. WHAT THIS PHASE DID NOT DO
+
+**IT DID NOT ASK THE VOLUME'S QUESTION, WHICH IS CHAPTER 700. IT DID NOT READ THAT LEAF BACK ALOUD. IT DID NOT TAKE THE COUNT OF THE THREE COLUMNS OF THE PAGE OF ROUTES. IT DID NOT TAKE THE COLUMN OF NOT ASKED. IT DID NOT WRITE A LINE ON THE FITTING-OUT SHEET. IT DID NOT FILL THE THIRD COLUMN, APPOINT ANYBODY TO IT, SCRATCH THE BOY'S HAND OUT, PUT HIS SURNAME ON A PAGE OR PUT HIM ON THE WATER. IT DID NOT TAKE A STAGE, NAME A STAGE OR PUT THE WORD *STAGE* IN A MOUTH. IT DID NOT PUT A MINISTER IN A ROOM. IT DID NOT OPEN THE DRAWER, TAKE THE WORKED LEAD DOWN THE HILL, PUT A DIGIT OF ANY OF THE THREE NUMBERS IN THAT ROOM ON A PAGE, OR OPEN THE RESTRICTED REMAINDER. IT DID NOT EXERCISE, RELEASE OR REFUSE THE FAMILY CLAIM. IT DID NOT READ THE PROOF OUT. IT DID NOT KILL ANYBODY, NAME A BODY, PRINT A CASUALTY FIGURE, CALL ANYBODY A HERO OR THANK ANYBODY. IT DID NOT PAY, ADVANCE, CUT BACK, BETTER, STRIKE OR CLOSE ANYTHING STANDING. IT DID NOT BRING FOUR HUNDRED AND FIFTY PENCE DOWN THAT BOARD. IT DID NOT ASK THE MAN OF ABOUT THIRTY-FOUR, THIRTY-EIGHT, FORTY-FOUR, FIFTY-ONE, SIXTY-ONE OR THE WOMAN OF ABOUT THIRTY-ONE ANYTHING. IT DID NOT TELL THE MAN OF ABOUT FIFTY-THREE THAT HE WAS WRONG. IT DID NOT REOPEN THE MORROW LINE'S LINE OR MOVE THE PAGE OF ROUTES BY ONE. IT DID NOT SAY THAT A LINE OF BOATS HAS BEEN TAKEN AWAY OR HAS EASED. IT DID NOT READ THE BASKET. IT DID NOT LET THIS PARTY BE THE BODY THAT DECIDES WHERE ANY BOAT GOES, TAKE A BUOY BACK, OR TURN A ROUTE INTO A FLEET. IT DID NOT FIND A FOURTH BEAT.**
+
+**AND IT DID NOT SAY, ANYWHERE IN THE TEN CHAPTERS, THAT A ROUTE OWNS A NIGHT BECAUSE IT WAS KEPT BUSY. THE ONLY TWO OCCURRENCES OF THE WORDING ON THAT COAST ARE THE TWO STATEMENTS ON CHAPTER 680 THAT A NIGHT CARRIED BY A ROUTE IS NOT A NIGHT THAT ROUTE OWNS AND THAT NO ROUTE OWNS A NIGHT BECAUSE IT WAS KEPT BUSY.**
+
+---
+
 ## Phase position — the REPAIR PASS AGAINST `logs/next-0004.review.log`, run on top of the Volume 14 Movement 1 and Movement 2 chapters, **verdict FIX against three serious findings, four moderate and four observations. THIS IS A REPAIR AND NOT A CHAPTER PASS, NOT A BATCH AND NOT A VOLUME PLAN. NO CHAPTER WAS WRITTEN, RESTARTED, CUT, REPLACED OR MOVED, NO SCENE WAS REWRITTEN, NO DAY WAS MOVED, NO FIGURE OF MONEY WAS ADDED OR REMOVED, NO LOCK WAS SOFTENED, NO NEW ANTAGONIST WAS NAMED, NO PLOT WAS ALTERED AND NO DAY WAS RECUT FOR ANY REASON BUT A NAMED FINDING. EIGHT FILES WERE TOUCHED: SIX CHAPTERS, THE VOLUME OUTLINE AND THE NEXT BATCH'S PROMPT. NO REVIEW ARTEFACT, NO CARD FILE, NO MARKER, AND THE LEDGER WAS NOT TOUCHED.**
 
 **THE VERDICT AND WHAT IT WAS AGAINST.** `NOVEL_REVIEW_RESULT: FIX`, against the twenty files of `chapters/volume-14/`. The review re-derived the four columns, the nine day-counters, the hearing, the rota ladder, the wipe clock, the wage Tuesdays, the calendar and the money chain, found all of them clean, and then said the sentence that governs this pass: **every one of those checks is arithmetic, and not one of them can see an identity, a date or a day of the week, which is exactly where the findings sat.**
