@@ -14,7 +14,7 @@ The morning work was short because the sheets were wanted on the bench stone by 
 
 ---
 
-At about ten a man of about sixty with oil-dark hands came down from the boards and stood at the flat of that bench stone beside the man of about thirty-two. He put to him the same words that had been put in the week, being whether he will go down. The man of about thirty-two said he had heard the words and that he keeps no hour for an answer in that shed. The keeper wrote the hour and no name against it, and the older man went back to the boards without more speech.
+At about ten a man of about sixty with rope marks across his palms came down from the boards and stood at the flat of that bench stone beside the man of about thirty-two. He put to him the same words that had been put in the week, being whether he will go down. The man of about thirty-two said he had heard the words and that he keeps no hour for an answer in that shed. The keeper wrote the hour and no name against it, and the older man went back to the boards without more speech.
 
 ---
 
