@@ -1,3 +1,24 @@
+## Volume 13, Batch 0004 (Chapters 631–640), the third dispatch — **the ten chapters were already written. No chapter was written, no chapter was restarted and no file in `chapters/volume-13/` was touched. What follows is the verification run against them, re-derived by script and not a new account of them. The full section is at the head of `state/continuity.md`.**
+
+**THE TEN FILES STAND AT 3,686 / 3,914 / 3,867 / 3,790 / 3,948 / 3,977 / 4,169 / 4,627 / 4,675 / 4,535 WORDS BY `wc -w`, 41,188 IN ALL, EVERY ONE ABOVE THE HOUSE GUIDELINE.**
+
+| Ch | Day | What the file carries, as verified |
+|---|---|---|
+| 631 | Tuesday the twelfth of April | the seventy-seventh wage Tuesday, the column read out in four minutes and not moved, and the sea coming up before the wind; Nethermorrow is inside it with a boat of about nine tons lying broadside on the bar |
+| 632 | Wednesday the thirteenth | the rescue rules written down before anybody went down — the air at twenty-five minutes, one at a time, nobody in twice in a day, nobody at the top of a flood, a cutoff the tender can pull, and an ascent a man asks for at six and twenty-eight minutes that is not argued with; work in about three and a half fathoms |
+| 633 | Thursday the fourteenth | a rota day and the hundred and forty-second charge; the first man down and the hour at the foot of his own reason |
+| 634 | Friday the fifteenth | nothing stood against the day and no charge on that cistern; the diver's reason on the tender in his own words |
+| 635 | Saturday the sixteenth | no charge, no wage, no wipe; the interval of the made storm counted at three minutes and forty seconds on three bells by three people |
+| 636 | Sunday the seventeenth | the wipe, the hundred and second time, closing at nineteen and six and nineteen, being forty-four minutes, with six standing bare |
+| 637 | Monday the eighteenth | a rota day and the hundred and forty-third charge |
+| 638 | Tuesday the nineteenth | the seventy-eighth wage Tuesday and the column still not moved; the forced-witness interface offered to Calder out loud and refused out loud, which would have made him the central witness and would have exposed only a route signal |
+| 639 | Wednesday the twentieth | the bill for the storm, the first line of the volume on the fitting-out sheet, with its multiplication printed at every one of its five parts and its own days on the face of it, being three thousand six hundred pence |
+| 640 | Thursday the twenty-first | a rota day with no charge on that cistern; the Morrow Line goes dormant and is not struck, the temporary private access signal is lost with it, the claim on the sealed restricted remainder is recognised in form and not exercised, and the movement closes on what it cost |
+
+**THE FIGURES, RE-EXTRACTED FROM THE FACE OF THE TEN FILES.** The four columns 20 of 20 against 333 + *d* and 1,539 + 5*d*, running 364 to 373 and 1,694 to 1,739. The nine day-counters 90 of 90 against base plus day. The hearing 10 of 10, 129 to 138. **That is 120 of 120.** Twenty-eight pence on all ten days and never zero. Ten printed word-lengths measuring equal to their passages at 573/543/602/547/667/613/712/638/517/695, every delta zero.
+
+**THE FOUR PARSER FAULTS FOUND BEFORE ANY COUNT WAS BELIEVED.** A word-number parser that summed rather than composed; a hyphen-blind tokenizer; a fixed-width window that overran into the next counter; and a label-anchored extractor that demanded adjacency. Each produced a bold wrong count that read like a finding. **A count that disagrees with the text belongs to the instrument until proved otherwise.**
+
 ## Volume 13, Batch 0004 (Chapters 631–640), the re-dispatch — **30 September 2026. THE TEN CHAPTERS WERE ALREADY WRITTEN. NO CHAPTER WAS WRITTEN, NO CHAPTER WAS RESTARTED AND NO FILE IN `chapters/volume-13/` WAS TOUCHED. WHAT FOLLOWS IS THE VERIFICATION THAT WAS RUN AGAINST THEM AND NOT A NEW ACCOUNT OF THEM. THE FULL SECTION IS AT THE HEAD OF `state/continuity.md`.**
 
 **THE TEN FILES STAND AT 3,686 / 3,914 / 3,867 / 3,790 / 3,948 / 3,977 / 4,169 / 4,627 / 4,675 / 4,535 WORDS BY `wc -w`, 41,188 IN ALL, EVERY ONE ABOVE THE HOUSE GUIDELINE OF THREE THOUSAND TWO HUNDRED. THE FIGURES BELOW ARE RE-DERIVED BY SCRIPT OFF THE FACE OF THE TEN FILES AND NONE IS INHERITED FROM ANY STATE FILE.**
