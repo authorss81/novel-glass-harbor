@@ -34,7 +34,7 @@ She read that out in the same voice and in the same market and nobody answered i
 
 At about half past ten a man of about fifty-three with a boat of about fourteen tons came alongside that market and heard the second half of it from about thirty feet off, and he came up and said one thing, and what he said was that a name written on a page in this harbor does not follow a man around the coast like a debt does.
 
-Nobody agreed with him and nobody argued with him. The man who keeps the leaf wrote down that he said it and wrote down the hour and wrote down no name against it.
+Nobody agreed with him and nobody argued with him. The man who keeps the leaf wrote down that he said it, put the hour against it, and wrote no name against it.
 
 ---
 

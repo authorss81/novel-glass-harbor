@@ -52,7 +52,7 @@ At about ten past six he was sitting on the gunwale of that tender with a blanke
 
 That is the fourth thing that is in this morning and none of the three that came before it is any more important than it is.
 
-Nobody in about nine people on that boat wrote anything down and nobody in that market wrote anything down about it until about eleven, and the man who keeps the leaf wrote it at about eleven in front of about nine people and put the hour against it and wrote no figure against it.
+Nobody in about nine people on that boat wrote anything down and nobody in that market put anything on paper about it until about eleven, and the man who keeps the leaf wrote it at about eleven in front of about nine people, put the hour against it, and wrote no figure against it.
 
 At about half past eleven the man of about thirty-three who hires hands in that yard asked him one question, being whether he could hear the water, and he said that he could not hear the water and that he had heard the wire go before that.
 

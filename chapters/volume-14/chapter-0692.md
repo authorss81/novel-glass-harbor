@@ -42,7 +42,7 @@ He got there on his own two feet and he did not stop on the way, and about eleve
 
 He read nothing because there is nothing new on that stall. He put his hand flat on the flat of the corner of it for the length of a minute, which is a thing he does, and then he went back down the lane by the rail side of the steps and did not go by the middle.
 
-Nobody in that market asked him what he thought and he did not say, and the man who keeps the leaf wrote the four minutes down with the hour against them and wrote no name against them and wrote no figure against them either.
+Nobody in that market asked him what he thought and he did not say, and the man who keeps the leaf wrote the four minutes down with the hour against them, and set no name and no figure against them either.
 
 ---
 

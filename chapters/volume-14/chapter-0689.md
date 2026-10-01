@@ -18,7 +18,7 @@ They carried it anyway and they were not asked again and this is the hundred and
 
 The line went on at about two in the afternoon and it took about twenty minutes and about eleven people were standing in that shed while it went on and the man who keeps the leaf read every part of it out loud as he wrote it.
 
-He wrote it as the yard's own mouth and he wrote the multiplication against each part and not only the product, and he wrote the day the work was done and the day the rehearsal was stopped and both days are on the face of the line.
+He wrote it as the yard's own mouth, set the multiplication against each part and not only the product, and put the day the work was done and the day the rehearsal was stopped on the face of the line, and both days are on it.
 
 Forty yards of line at three pence the yard, and forty times three is one hundred and twenty. Two bell seats cut and faced at eighteen pence, and two times eighteen is thirty-six. A watch for the tender and an independent line at sixty pence, and that is sixty pence and there is nothing to multiply because it is one watch and one line. Nine men at two days at sixteen pence a man-day, and nine times two times sixteen is two hundred and eighty-eight. Two days of a boat hired at the figure in chalk, and two times one hundred and sixty-eight is three hundred and thirty-six.
 

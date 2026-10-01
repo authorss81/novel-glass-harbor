@@ -14,7 +14,7 @@ That cistern was charged in eleven trips by hand between about eight and about e
 
 At about ten in the morning that woman of about twenty-nine came into that yard on her own account and asked whether the people who had written that line on Monday the ninth of May would be in that shed that afternoon.
 
-She is of the second lay and she is one of the about eleven people who wrote that line and four of the eleven who wrote it cannot read what they wrote.
+She is of the second lay and she is one of the about eleven people who wrote that line and four of those eleven cannot read what they wrote.
 
 ---
 

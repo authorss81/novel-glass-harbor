@@ -28,7 +28,7 @@ He went down on the second line at about ten with one handhold and he came up at
 
 What came up was a shackle and a pin and about an inch of green belt in a bucket, and nothing else came up.
 
-The buoy was not lifted. The moorings were not retied. The ring was left as it is, and the join in it was left as it is, and a man of about forty of that route's third lay stood on that deck and looked at that ring for a while and then said a word that was not a name and went and coiled a line.
+The buoy was not lifted. The moorings were not retied. The ring was left as it is, and the join in it was left as it is, and a man of about forty-one of that route's third lay stood on that deck and looked at that ring for a while and then said a word that was not a name and went and coiled a line.
 
 ---
 
@@ -52,7 +52,7 @@ And at about half past five on that Saturday the man who keeps the leaf took the
 
 **And here is what happened and what did not happen, and I want the two halves kept apart in this slip. About an inch of green came up in a bucket and it was three months old and the shackle under it was bright, and that is what a woman of about twenty-four told us on Tuesday. And there is a join in that ring that he could have used and did not use, and the reason is in that cabin's own mouth and it is that a join shows that two things were made separately and not which of them was made first. So we came back with a bucket and a reason and a woman of thirty-three with a watch, and we came back with nothing that anybody can put in front of a Crown boat and say, look what your men did.**
 
-**And I am going to write down the part that this yard gets wrong, because it gets it wrong every time. This yard went out today because a woman of about forty-one read one line off a wall on Monday and a man of about nineteen brought nineteen words up a coast road in a cart on Thursday, and between those two things a Crown boat had taken a mooring off a buoy nobody here owns. If those two things had not happened the mooring would still be off and nobody would have gone near it and nobody would have looked at that ring. I do not know what to do with that and I am not going to pretend I have.**
+**And I am going to write down the part that this yard gets wrong, because it gets it wrong every time. This yard went out today because a man of about forty-one read one line out loud on Monday and a man of about nineteen brought thirty-two words up a coast road in a cart on Thursday, and between those two things a Crown boat had taken a mooring off a buoy nobody here owns. If those two things had not happened the mooring would still be off and nobody would have gone near it and nobody would have looked at that ring. I do not know what to do with that and I am not going to pretend I have.**
 
 Nobody was thanked for the arithmetic and nobody was thanked for eleven minutes in about two fathoms, and that shed stood empty by about six, and the bucket with the belt of green in it was on the bench stone at the back of that shed at the close of the day and the green was already going black at the edges.
 

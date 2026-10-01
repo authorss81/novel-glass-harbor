@@ -38,7 +38,7 @@ About four people in that nine said they would and about five said nothing.
 
 At about four in the afternoon the man who keeps the leaf wrote the Monday line on the page of that week and it is two sentences long, and it says that one route's own third lay asked another community in nine people whether it would do the same thing again next week, and that the answer was that it would not say until it was asked, and that this yard was asked nothing and sent for nobody.
 
-He wrote no figure against it and no name against it and he wrote no opinion, and he wrote on the face of the sheet that the second sheet of days has not been added up and that it will be added up tomorrow off the page.
+He set no figure against it and no name against it and no opinion either, and wrote on the face of the sheet that the second sheet of days has not been added up and that it will be added up tomorrow off the page.
 
 ---
 

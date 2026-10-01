@@ -50,7 +50,7 @@ Nobody thanked her for asking and this yard wrote the hour against both question
 
 At about four in the afternoon the man who keeps the leaf wrote the Monday line on the page of that week and it says that all nine answers were in by about ten in the morning, and that five names came on five pieces of paper in five hands, and that four of the five said the person had been asked and had said they would and that the fifth said the person had not yet said, and that he was not going to write down which five until about noon on Wednesday, and that he said that on a Monday on purpose.
 
-He wrote no figure against it and no name against it and he wrote no state against any route, and he wrote on the face of that sheet that a name given by a community is not a name chosen by this yard and that the two things are printed on different pieces of paper and are kept that way.
+He set no figure against it and no name against it and no state against any route, and wrote on the face of that sheet that a name given by a community is not a name chosen by this yard and that the two things are printed on different pieces of paper and are kept that way.
 
 Nobody thanked him for the line.
 
@@ -66,7 +66,7 @@ And at about half past five on that Monday the man who keeps the leaf took the s
 
 **Four of those five say the person was asked and said they would. The fifth says the person has not yet said and will be asked again on Wednesday morning, and asked me to write that down as a person who has not yet had the question put to them in a room, and I have written it down exactly as it was asked. I am not going to shorten that paper to a turn-down and I am not going to lengthen it to an agreement.**
 
-**And the thing I said at eleven o'clock on that stone and am saying again. I am not going to write down which five until about noon on Wednesday. A man of about fifty-six told me two days is not much notice and that he would not have been a man for it, and he was right, and I said that a man who did not want two days would have said so this morning and not on Wednesday at noon. I am putting that exchange on this slip because in thirteen volumes nobody in this harbor has ever heard me say that a man in a market was right about me.**
+**And the thing I said at eleven o'clock on that stone and am saying again. I am not going to write down which five until about noon on Wednesday. A man of about fifty-six told me two days is not much notice and that he would not have been a man for it, and he was right, and I said that a man who did not want two days would have said so this morning and not on Wednesday at noon. I am putting that exchange on this slip because in as long as this yard has kept a page nobody in this harbor has ever heard me say that a man in a market was right about me.**
 
 **And the two questions the tender asked at about half past two this afternoon, and both of them were about the boat and not one was about the five of them. There is no wheelhouse and nobody will be standing in anything. She asked the second one because of something that happened on the Waterway in April and she was not going to describe it in that market and I did not ask her. Four people have told me this week that they know which five. I have not asked any of the four and I am not going to, and if one of them tells me I am going to write down that he told me and not what he said.**
 

@@ -52,7 +52,7 @@ Nobody thanked her for asking and nobody thanked him for the right answer.
 
 At about four in the afternoon the man who keeps the leaf wrote the Wednesday line on the page of that week, and it is four sentences long, and it says that nine route teams were asked one thing each between about ten and about two, and that one thing each is what was asked, and that three answers had come back saying they would ask their own people, and that six had not come back, and that this yard went with none of the nine and sent for nobody.
 
-He wrote no figure against it and no name against it and he wrote no state against any route, and he wrote on the face of the sheet that a community that sends nobody is not a community that has said no.
+He set no figure against it and no name against it and no state against any route, and wrote on the face of the sheet that a community that sends nobody is not a community that has said no.
 
 ---
 
@@ -64,7 +64,7 @@ And at about half past five on that Wednesday the man who keeps the leaf took th
 
 **A hundred and sixty-eight pence in at about ten and a hundred and sixty-eight out at about four, and twenty-eight plus one hundred and sixty-eight less one hundred and sixty-eight is twenty-eight, and under that slate is twenty-eight pence, being two shillings and fourpence, and that is six hundred and twelve pence short of the wage of four marks, being three marks eleven shillings. No tin in that shed has been opened since the twenty-ninth of April past and this yard is now ninety-four days without one.**
 
-**And here is the part I put on a slip and not on a wall, and there is one line of it. I have written at the bottom of all nine of those papers that a community which sends nobody will not be written down anywhere as having said no, and I want nine people to hear me say why, because in thirteen volumes this harbor has got very good at counting what it has been given and very bad at counting what it has not gone and asked for. A community on this coast can be held, restricted or dormant and a stranger with a leaf and a pencil can read that off a sheet in four seconds, and there is not one figure on that sheet for the communities that nobody has ever asked.**
+**And here is the part I put on a slip and not on a wall, and there is one line of it. I have written at the bottom of all nine of those papers that a community which sends nobody will not be written down anywhere as having said no, and I want nine people to hear me say why, because in as long as this harbor has been keeping pages it has got very good at counting what it has been given and very bad at counting what it has not gone and asked for. A community on this coast can be held, restricted or dormant and a stranger with a leaf and a pencil can read that off a sheet in four seconds, and there is not one figure on that sheet for the communities that nobody has ever asked.**
 
 **A man of about thirty-four of the second lay in this harbor has stood in this yard and said that he would rather be asked than not asked, and nobody in this yard has asked him, and I have not asked him this month and I am not going to ask him on Saturday. That is on a page in nine words and I am not going to turn it into anything else, and I am not going to use it as a reason for today.**
 

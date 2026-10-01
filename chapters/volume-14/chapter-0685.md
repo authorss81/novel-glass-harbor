@@ -44,7 +44,7 @@ Nobody thanked her for asking and this yard wrote the hour against the question 
 
 At about four in the afternoon the man who keeps the leaf wrote the Sunday line on the page of that week and it says three things, being the three numbers of that wall with the hour against them, that seven of the nine answers were in and two were not and that this yard did not go and find them, and that five people had been asked about and that it was not decided which five.
 
-He wrote no state against any route and he wrote the word witness on that sheet for the first time this month and he wrote against it that a witness is not asked to hold anything and that this yard did not write the word on any of the nine papers going up that road.
+He set no state against any route, put the word witness on that sheet for the first time this month, and wrote against it that a witness is not asked to hold anything and that this yard did not write the word on any of the nine papers going up that road.
 
 Nobody thanked him for the line and nobody argued with the word.
 

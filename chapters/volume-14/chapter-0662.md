@@ -68,7 +68,7 @@ And at about half past five on that Friday the man who keeps the leaf took the s
 
 **And this morning I learned something about a hand and I have not learned one single thing about a person. Two of those four names are written by the same hand as the two that are on the Morrow Line's own page and that is nothing, because a route has one hand. The other two are written by another hand and that hand is smaller and it comes down further at the end of a letter, and the two of those are not the same as each other by about a sixth of an inch.**
 
-**Here is what I am not going to do with a sixth of an inch. I am not going to write it in a column called a hand, because this yard has refused six different pieces of paper in thirteen volumes that would each have kept a list of people, and a column with a height in it is a column that ends up with a name in it inside four months. What I have done is put a figure a stranger can check beside two names, and stop there.**
+**Here is what I am not going to do with a sixth of an inch. I am not going to write it in a column called a hand, because this yard has spent as long as it has kept a page refusing six different pieces of paper that would each have kept a list of people, and a column with a height in it is a column that ends up with a name in it inside four months. What I have done is put a figure a stranger can check beside two names, and stop there.**
 
 **And I am not going to stand here and tell nine people what I think a smaller hand means, because I do not think anything yet. I have a difference and I have a height. A difference and a height are two facts and they are not a reason and they are not the beginning of a reason I am entitled to.**"
 

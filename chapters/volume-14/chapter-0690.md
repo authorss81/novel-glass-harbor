@@ -42,7 +42,7 @@ He drank a cup of water standing up and he set the cup down and he did not finis
 
 At about eleven the woman of about thirty-three who stands in the tender came down that lane with her independent line coiled over one shoulder, and she hung it on its own nail in that shed and she did not hand it to anybody.
 
-She said in front of about six people that the wire was still in her coat pocket and that the coil wanted nothing doing to it, and the man who keeps the leaf wrote down that she had said it and wrote no figure of money against her and no figure against the coil.
+She said in front of about six people that the wire was still in her coat pocket and that the coil wanted nothing doing to it, and the man who keeps the leaf wrote down that she had said it, set no figure of money against her, and wrote no figure against the coil.
 
 At about ten past eleven the man of about thirty-two asked her to say the hour out loud, and she said it out loud once, and he nodded and said that he had got it this time, and she said it once more a little louder and he said that he had got that one better.
 
@@ -84,7 +84,7 @@ He wrote that the man of about thirty-two has not slept for three nights and tha
 
 At about half past four the woman of thirty of no office came into that shed with a slip of her own in her hand, and she asked the man who keeps the leaf at what hour the page of that week comes off its nail, and he told her, and she wrote it on her slip and put it in her own pocket.
 
-She did not show him what was on the slip and he did not ask, and the man of about thirty-two was at the bench stone at the time and was copying nothing, and the keeper wrote the hour of the question down and wrote down not one word about what was on the slip.
+She did not show him what was on the slip and he did not ask, and the man of about thirty-two was at the bench stone at the time and was copying nothing, and the keeper wrote the hour of the question down and not one word about what was on the slip.
 
 ---
 

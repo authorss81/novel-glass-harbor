@@ -1,4 +1,23 @@
-## VOLUME 14 IS WRITTEN, AUDITED AND CLOSED. THE AUDIT IS AT `reviews/volume-14/volume-14-close.md`. **A CLOSE AND NOT A CHAPTER PASS. NO CHAPTER WAS WRITTEN, RESTARTED, CUT, REPLACED, REORDERED OR MOVED, NO FIGURE WAS ADDED TO OR TAKEN OFF ANY PAGE, NO DAY WAS MOVED, AND THE SUMMARIES OF ALL FIFTY CHAPTERS BELOW STAND UNCHANGED IN EVERY FIGURE BECAUSE EVERY FIGURE ON EVERY ONE OF THEM RE-DERIVED AND AGREED.**
+## THE REPAIR PASS AGAINST THE REVIEW OF THE VOLUME 14 CLOSE HAS RUN, AND THE SUMMARIES OF TWENTY OF THE FIFTY CHAPTERS BELOW ARE NOW ONE VERB AND A FEW WORDS OUT OF DATE. **A REPAIR AGAINST A REVIEW. NO CHAPTER WAS WRITTEN, RESTARTED, CUT, REPLACED, REORDERED OR MOVED, NO FIGURE WAS ADDED TO OR TAKEN OFF ANY PAGE AND NO DAY WAS MOVED, AND NOT ONE SUMMARY BELOW NEEDS A FIGURE CHANGED, BECAUSE NOT ONE FIGURE ON ANY PAGE CHANGED.**
+
+### WHAT THE REPAIR PASS DID TO THESE FIFTY SUMMARIES, WHICH IS PROSE IN TWENTY OF THEM AND NOTHING AT ALL IN THE OTHER THIRTY
+
+**A SUMMARY THAT RECORDS WHAT A CHAPTER DID, WHICH IS WHAT EVERY SUMMARY BELOW DOES, IS UNCHANGED BY EVERY REPAIR IN THIS PASS, BECAUSE NO CHAPTER'S ACTION CHANGED. What changed in twenty files is wording inside a sentence, and a summary that said *the man who keeps the leaf wrote three things on the page* is not made false by a different verb standing in the same sentence.** The one thing a reader of these summaries must be told is the three repairs that touch a fact a summary might have repeated.
+
+| Chapter | What was repaired | Does the summary below need changing |
+|---|---|---|
+| **0654** | a duration phrase that counted books; a page of **thirty-two words** that the sentence had called nineteen | **No action changes. If it says the page was nineteen words, it was wrong before this pass and is right now** |
+| **0656** | the third-lay man set to forty-one on the deck; the **man** of about forty-one who read the line out loud, in place of a woman who is not in the volume; **thirty-two words** for nineteen | **No action changes** |
+| **0657** | the third-lay man set to forty-one in the scene and in that chapter's first column, four lines apart on one deck | **No action changes** |
+| **0660, 0662, 0665, 0667, 0676, 0681, 0682, 0686** | a duration phrase that counted books, in one or two places each | **No action changes** |
+| **0663, 0665, 0668, 0673, 0676, 0679, 0681, 0685, 0686, 0688, 0689, 0690, 0692** | one verb varied in a sentence that had three or more instances of the same verb, and no fact touched | **No action changes** |
+
+**AND THE TWO FIGURES IN THIS FILE'S OWN TABLE THAT THE REPAIR CORRECTED. The identical half-past-five slip openings are NINETEEN and not thirteen, being Chapters 651, 652 and 654 to 670, and the distinct count is THIRTY-TWO and not thirty-eight. That correction was made by the Volume 14 close's own third pass and has now been reversed by the repair pass against that close's review, and the summaries of the nineteen affected chapters stand exactly as they were written, because the repetition was there when they were written and it is still there.** § 20i row four, § 23 finding four.
+
+---
+
+## SUPERSEDED BY THE SECTION ABOVE AND KEPT BELOW IT, AND EVERY FIGURE IN IT IS AS THE PASS THAT WROTE IT PUBLISHED IT. **THE REPAIR PASS AGAINST THE REVIEW OF THE VOLUME 14 CLOSE ADDED THE HEAD OF THIS FILE AND THIS SECTION IS NOT THE HEAD. WHERE THE TWO DISAGREE THE HEAD GOVERNS. The figures that moved are the volume total, 190,292 to 190,326; the fifth movement, 40,246 to 40,243; the identical slip openings, thirteen to nineteen; their distinct count, thirty-eight to thirty-two; the counted figure pairs, six hundred and twenty-seven to six hundred and twenty-nine; and the apparatus share, 72.5 to 72.75 per cent. § 20j and § 30 of `reviews/volume-14/volume-14-close.md`.**
+## VOLUME 14 IS WRITTEN, AUDITED AND CLOSED. THE AUDIT IS AT `reviews/volume-14/volume-14-close.md`, **NOW 717 LINES AND 37,150 WORDS**. **A CLOSE AND NOT A CHAPTER PASS. NO CHAPTER WAS WRITTEN, RESTARTED, CUT, REPLACED, REORDERED OR MOVED, NO FIGURE WAS ADDED TO OR TAKEN OFF ANY PAGE, NO DAY WAS MOVED, AND THE SUMMARIES OF ALL FIFTY CHAPTERS BELOW STAND UNCHANGED IN EVERY FIGURE BECAUSE EVERY FIGURE ON EVERY ONE OF THEM RE-DERIVED AND AGREED.**
 
 ### WHAT THE AUDIT DID TO THESE FIFTY SUMMARIES, WHICH IS NOTHING TO THEIR FIGURES
 
