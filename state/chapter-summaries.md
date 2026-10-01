@@ -1,3 +1,25 @@
+## VOLUME 14, CHAPTERS 681 TO 690, MOVEMENT 4 — VERIFICATION RE-DISPATCH OF `workspace/volume-14/batch-0004/PROMPT.md`. **THE BATCH SUMMARY AND THE TEN CHAPTER SUMMARIES BELOW THIS LINE STAND UNCHANGED AND WERE NOT REWRITTEN. NO CHAPTER WAS WRITTEN, RESTARTED, CUT, REORDERED OR MOVED AND NOT ONE WORD OF PROSE ON DISK WAS TOUCHED. WHAT FOLLOWS IS A VERIFICATION RECORD AND NOT A SECOND SET OF SUMMARIES.**
+
+**THE CHAPTER PASS WROTE NINE OF THE TEN AS UNTRACKED FILES AND THE TENTH ITSELF, THEN A REVIEW PASS RETURNED `NOVEL_REVIEW_RESULT: FIX` AGAINST FOUR FINDINGS AND DISPOSED OF ALL FOUR IN `772c1a6`. A THIRD PASS, THIS ONE, RE-DERIVED EVERY COUNTED FIGURE OFF THE FACE OF THE TEN FILES AGAINST `outline/volume-14.md` AND FOUND NO CHAPTER DEFECT.**
+
+### 1. THE FIGURES, RE-DERIVED AND CONFIRMED
+
+**Ten chapters, 42,447 words by `wc -w`, being 3,960, 3,893, 4,172, 3,997, 3,919, 4,138, 3,545, 5,121, 4,114 and 5,588.** 681 is the first day of June and a Wednesday; 690 is the tenth and a Friday; no day is missing and no day stands in two chapters. **Four columns on ten of ten at 414 / 1,944 rising to 423 / 1,989, the third none and the fourth one hundred and twenty-five throughout. Nine day-counters on ninety of ninety. The hearing on ten of ten at 179 to 188.** **Ten slip lengths each equal to its passage, at 529, 553, 593, 702, 633, 654, 532, 839, 715 and 509.**
+
+**The one line on the fitting-out sheet, on Chapter 689, in the figures the chapters now carry: 40 × 3 = 120; 2 × 18 = 36; 60; 9 × 2 × 16 = 288; 2 × 168 = 336; 120 + 36 + 60 + 288 + 336 = 840, being five marks, three shillings and fourpence; 111,876 + 840 = 112,716 out, being seven hundred and four marks, six shillings and fourpence; 112,716 − 10,640 = 102,076 short, being six hundred and thirty-seven marks and thirteen shillings; 704 × 160 + 6 × 12 + 4 = 112,716; 637 × 160 + 13 × 12 = 102,076.**
+
+**The bag did not move on any of the ten: 28 + 168 − 168 = 28, and 640 − 28 = 612, being three marks eleven shillings.**
+
+### 2. THE ONE REPAIR, AND IT WAS NOT IN A CHAPTER
+
+**`workspace/volume-14/batch-0004/PROMPT.md` carried the fourth part of that line as one hundred and forty-four and the whole chain built on it at 696, 112,572 and 101,932, being six hundred and thirty-seven marks and one shilling. It now carries two hundred and eighty-eight and the chain at 840, 112,716 and 102,076, being six hundred and thirty-seven marks and thirteen shillings.** The same file also claimed that no chapter file for 681 or any later number exists, which is false against the directory, and that claim is withdrawn in terms with a status block in its place. **`workspace/volume-14/batch-0005/PROMPT.md`, the only queued next phase, was checked and already carried the corrected chain and was not edited. NO SECOND NEXT PROMPT WAS CREATED.**
+
+### 3. WHAT THE NEXT WRITER SHOULD KNOW ABOUT THESE TEN CHAPTERS WITHOUT BEING TOLD
+
+**The word *anchor* is not in any of them, and that is the house's own device and not an omission.** A man of about fifty-six says the word *gap* once and out loud; the man of about thirty-two says that was the right word and that was all it was; and the keeper does not write the word on that sheet. **The tender is named in no mouth on any of the ten days and no chapter of the fifty names her.** **The four costs are on 688, 689 and 690 with hours against them and no figure of money against any of them, and the hearing that was lost is a different hearing from the man of about twenty-nine's and improves nothing of his.** **The column of not asked is taken once, on 690, at eight, seven, six, five, four, three, two, two, one and nothing, and is not spoken in that shed and is not in any slip.**
+
+---
+
 ## VOLUME 14, CHAPTERS 681 TO 690, MOVEMENT 4, THE CLIMAX — the batch summary and the summaries of the ten chapters. **NINE CHAPTERS (681 TO 689) WERE ON DISK WHEN THIS PASS ARRIVED, LEFT BY A PARTIAL RUN; THIS PASS VERIFIED THEM, WROTE 690, AND REPAIRED ONE FIGURE IN 684. EVERY FIGURE BELOW IS COPIED OFF THE PAGE AND IS NOT RE-DERIVED.**
 
 ### 1. THE BATCH, IN ONE PARAGRAPH
