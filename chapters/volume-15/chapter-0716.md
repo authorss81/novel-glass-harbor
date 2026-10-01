@@ -1,0 +1,63 @@
+# Chapter 716
+
+*Wednesday the Sixth Day of July, Not a Rota Day and Not a Wage Tuesday and Not a Wipe, a Man of About Forty-Seven Come Down the Road With the Coat He Laid the Flat Stroke In and Saying in About Nine People That Nobody Said Any Word to Him and That Nobody Had To, Line Six Waiting on That Sheet Until Thursday, the Bag at Twenty-Eight Pence, Being Two Shillings and Fourpence, the First Column at Four Hundred and Forty-Nine and the Second at Two Thousand One Hundred and Nineteen*
+
+Wednesday the sixth day of July, with a close morning and the water flat off that Point until about eleven, a yard below that market with a shed standing in it, and about nine people in that shed at half past five that afternoon.
+
+**Not a rota day and not a wage Tuesday and not a wipe, and no charge put on that cistern and its covers lying on it from nine in the morning until four in the afternoon, and that butt behind the market covered from eight in the morning until four in the afternoon with no charge on it either. A man of about forty-seven came down that coast road at about one in the afternoon in the coat he laid the flat stroke in, and he said in about nine people that nobody said any word to him about it and that nobody had to. Line six is on that money sheet with the fifth of July against it and waits there until Thursday to be settled into the foot. A hundred and sixty-eight pence came into that yard at about ten and a hundred and sixty-eight went out of it at about four, and under that slate is twenty-eight pence, being two shillings and fourpence, and no tin in that shed has been opened since the twenty-ninth of April past.**
+
+**Nine counters about things that are not being done ran a day on this morning. That notice of the seventeenth of May past stands on its four hundred and fourteenth day. Four hundred and sixteen days have gone by without anybody asking a bellwright of this harbor, and his chest stays shut. Two objects of nobody's on that crown are into their seven hundred and fifty-fourth day. That bench under that pump has stood bare for the five hundred and twentieth night. Two lights about a mile off that point have spent three hundred and thirty-eighth days with no figure set against them. A six-line sheet at the back of that end stall has reached its two hundred and ninety-third day. The paper of four lines in Fish Street is on its three hundred and eighth. A nine-line sheet with a seal on it in that front street has stood three hundred and twenty-fifth day. A man of about fifty-one has kept three hundred and fifty-six days of not saying anything to anybody about a page of six names. That third column is empty and unappointed and a boy's hand of twenty-two is at the head of it and his surname is on no page and he is off the water. That fourth column stands at one hundred and twenty-five and has taken no line and is neither shut nor struck. About two sea miles off that mole head lie nine hulls this afternoon and nine lay there on the twenty-first of January, and this harbor has not said a word about any of them easing. A man of about twenty-nine hears out of the left side of his head and it is two hundred and fourteen days, one more than the day before, no figure is set against it, and he is not on the water.**
+
+---
+
+The work went on all morning with the boat lying at the third lay and the pump running from about eight. Sixty yards of the new rope went out on the working line and came back wet and was hung over the rail to dry, and the tin and the sheet copper and the gaskets went into the pump housing and the housing stopped weeping at about eleven, which was the whole of what that part of the line was for.
+
+---
+
+The man came in at about one and he was not wet and he had been walking. He is about forty-seven and he keeps the Lowfen Reed page and he laid the flat stroke on it with a flat brush, and he said so in the first half-minute without being asked, which nobody in that nine expected.
+
+He said that a paper came to that creek in the spring with a table on it and the table had three columns and one of the columns wanted a time for that route to be in contact. He said the paper did not ask for a person and did not name a person and did not carry any figure against anything, and that it was the plainest paper he had ever had to do a thing with.
+
+Then he said what the paper went with, being a line on the second column that two households at the head of that creek would be left alone. He said that line was the whole of the pressure and that it was not said aloud and was not said to him, and that he read it and knew what it meant and that no man had to say a word to him about anything.
+
+---
+
+About four people in that nine asked nothing at all while he was standing there. One of them asked one thing, being whether the two households knew what their boats had been traded for, and he said they did not and were not to be told and would not recognise the arrangement if it were put to them.
+
+He said he had gone into that creek on the Tuesday with the brush and had put the stroke on the page because a stroke is how that community says a thing is settled, and because he believed at the time that a settled page would be read at the front office as a cooperative place. He said that is what he thought in the spring and that he has not stopped thinking it and that he would do it again on a page of that kind and that is the trouble with him.
+
+Nobody in that shed said the word that would have been said about a man who does that, and the man of about thirty-two came in at about two and stood at the back and did not say it either, and about four people looked at the floor.
+
+---
+
+The keeper wrote all of it down with the hour against it, being one in the afternoon, and he wrote the three columns and the line about the two households, and he wrote that the man said he would do it again. He wrote the words that make it plain that this yard did not go down that creek and did not send anybody and did not ask any of it, and that the man came on his own road at his own hour into a shed where nine people were already standing.
+
+The woman of thirty of no office copied the four lines into the second book as well as the first, and wrote beside them that a copy is of what a man said in a shed and is not of what a man is. She read them out twice because about five of that nine cannot read a column, and the man of about forty-seven stayed and heard them read out both times.
+
+---
+
+At about half past five on that Wednesday the shortfall went out loud at that bench stone in about nine hundred words to about nine people, and about four of those nine had heard the flat stroke described by the man who laid it.
+
+"**The pump stopped weeping at about eleven, which is what that tin and the copper and those gaskets were bought for, and the sixty yards of new rope went out on the working line at about eight and came back wet and is hung over the rail to dry.**
+
+"**Line six is on that sheet with the fifth of July against it as the day the work was done and it waits there until Thursday.**
+
+"**A man of about forty-seven came down that road at about one in the coat he laid the flat stroke in, and he said in the first half-minute that he laid it, and nobody had asked him. He said a paper came to that creek in the spring with a table on it with three columns and one of the columns wanted a time, and that the paper did not ask for a person and did not name a person and carried no figure against anything. He said what it went with was a line on a second column that two households at the head of that creek would be left alone, and that it was the whole of the pressure and was not said aloud and was not said to him, and that no man had to say a word about anything. He said he put the stroke on because he believed at the time that a settled page would be read at the front office as a cooperative place, and that he would do it again on a page of that kind, and that this is the trouble with him.**
+
+"**Nobody in this shed said the thing that would have been said about a man who does that. The sheet stands at one hundred and fourteen thousand six hundred and sixty-six pence out until Thursday and one hundred and four thousand and twenty-six pence short, and what goes into it is ten thousand six hundred and forty pence. Four hundred and fifty pence is still on that board in the front street. A hundred and sixty-eight pence in at about ten and a hundred and sixty-eight out at about four, and twenty-eight plus one hundred and sixty-eight less one hundred and sixty-eight is twenty-eight, and under that slate is twenty-eight pence, being two shillings and fourpence, and that is six hundred and twelve pence short of the wage of four marks, being three marks eleven shillings. No tin in that shed has been opened since the twenty-ninth of April past and this yard is now one hundred and twenty-nine days without one.**
+
+"**And the last of it. That cistern was not charged and its covers lay on it from nine until four. The wall in that shed is still two lines and about eleven inches of empty plaster. About two sea miles off that mole head there are nine hulls this afternoon and there were nine there on the twenty-first of January. A man of about twenty-nine hears out of the left side of his head and it is two hundred and fourteen days today and nothing said at about one this afternoon touched it by a day.**"
+
+Nobody was thanked for the arithmetic and nobody was thanked for a wet walk down a coast road, and that shed stood empty by about six with its door standing open on a slip nobody was on, and that page of that week had eighteen lines on it, and that wooden tally slate was still lying flat on that bench stone with nothing on it.
+
+---
+
+**A MAN OF ABOUT FORTY-SEVEN CAME DOWN THAT ROAD AT ABOUT ONE AND SAID WITHOUT BEING ASKED THAT HE LAID THE FLAT STROKE, AND THAT NO WORD WAS SAID TO HIM AND NONE WAS NEEDED. HE SAID HE WOULD DO IT AGAIN ON A PAGE OF THAT KIND. NOBODY IN THAT SHED SAID WHAT WOULD HAVE BEEN SAID ABOUT A MAN WHO DOES THAT. LINE SIX WAITS ON THAT SHEET UNTIL THURSDAY. THE SHEET STANDS AT ONE HUNDRED AND FOURTEEN THOUSAND SIX HUNDRED AND SIXTY-SIX PENCE OUT AND ONE HUNDRED AND FOUR THOUSAND AND TWENTY-SIX PENCE SHORT. THE BAG HOLDS TWENTY-EIGHT PENCE, BEING TWO SHILLINGS AND FOURPENCE.**
+
+---
+
+---
+
+*First column, entered on Wednesday the sixth day of July at about six in the evening in that shed: that the said day was not a rota day and was not a wage Tuesday and was not a wipe, and that no charge was placed on that cistern and that the covers lay on it from nine in the morning until four in the afternoon; and that the pump stopped weeping at about eleven and sixty yards of new rope went out on the working line and came back wet, with line six on that sheet carrying the fifth of July against it and waiting until the seventh to be settled; and that a man of about forty-seven came down that coast road at about one in the afternoon in the coat he laid the flat stroke in and said in the first half-minute that he laid it; and that he said a paper came to that creek in the spring carrying a table with three columns and wanting a time, and that it asked for no person and named no person and carried no figure against anything, and that what it went with was a line on a second column saying two households at the head of that creek would be left alone; and that he said he put the stroke on because he believed a settled page would be read at the front office as a cooperative place, and that he would do it again on a page of that kind.*
+
+*Second column, not checkable from a mole, entered on the said Wednesday at about six in the evening in that shed, and no name is against it: that at about one in the afternoon the reason a paper is entered as a thing that was carried and not as a thing that spoke is that a paper that asks for nobody and says nothing about harm is the hardest kind of paper to refuse and everybody on that coast knows it; that at about half past one the reason the second column of that paper is entered as the whole of the pressure is that a man who is not threatened and not paid has only the consequence to weigh, and a consequence written in a column needs no voice to be heard; that at about two the reason nobody said what would have been said is that the only man who could answer it is the one who wrote nothing, and putting that word on this page would make this yard the office that keeps records of that kind; and that at about half past three the reason both books carry the four lines is that a claim made once is a claim that can be taken off a coast with the page it is on.*
