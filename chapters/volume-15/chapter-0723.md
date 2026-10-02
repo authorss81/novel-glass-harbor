@@ -38,7 +38,7 @@ About four people said that the man of about forty-seven who laid the flat strok
 
 ---
 
-At about half past five on that Wednesday the man who keeps the leaf took the shortfall out loud at that bench stone, in about nine hundred words, to about nine people, and about four of those nine had stood on those boards at about two.
+The woman of thirty of no office had it in both of her books and at about half past five on that Wednesday the man who keeps the leaf took the shortfall out loud at that bench stone, in about six hundred and thirty-two words, to about nine people, and about four of those nine had stood on those boards at about two.
 
 "**Eight bells came in at the reading on that mole at about ten this morning where nine were due, and the ninth came in about eleven minutes late and then came in, and I wrote the hours in a column with no names and wrote no reason against it. That is the first time since this yard began keeping a page of days that a bell on this coast has come in late and this yard has written nothing about why, and I did not write which one it was.**
 

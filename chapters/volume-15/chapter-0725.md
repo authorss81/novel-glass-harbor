@@ -40,7 +40,7 @@ At about half past five the reading of that creek was quieter than it was on Wed
 
 ---
 
-At about half past five on that Friday the shortfall was read out loud at that bench stone in about nine hundred words to about nine people, and about four of those nine had seen a cart wheel go over a book at about half past two.
+A cart wheel went over a book on that Friday and at about half past five on that Friday the shortfall was read out loud at that bench stone in about six hundred and fifty words to about nine people, and about four of those nine had seen a cart wheel go over a book at about half past two.
 
 "**The pump housing came apart and the gaskets were gone over again and the bilge was pumped out and the rope off the rail went back on in a coil that a man checked twice. At about two the woman of thirty of no office put the first of the two books down on the flat of this bench stone and went across to the boards with the second under her arm. At about half past two a cart came across this stone with its left wheel on the corner of the book and went up the lane without anybody seeing it, and the corner was wet through and two leaves were spoiled beyond reading, being the twelfth and the thirteenth of July.**
 

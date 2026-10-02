@@ -58,7 +58,7 @@ The ordinary work of that Tuesday went on and was not stopped by any of it, bein
 
 ---
 
-At about half past five on that Tuesday the shortfall went out loud at that bench stone in about eleven hundred and thirty-five words to about nine people, and about four of those nine had stood at that flat stone at about one and heard a man say what his own answer had been.
+The mechanism at Orison lost its living custodian at about half past two and at about half past five on that Tuesday the shortfall went out loud at that bench stone in about eleven hundred and thirty-five words to about nine people, and about four of those nine had stood at that flat stone at about one and heard a man say what his own answer had been.
 
 "**A boat of the Orison landing of about twelve tons came in over the bar at about six this morning with the north wind behind her, and the man in her had been at sea all night. The man of about thirty-eight had come off that headland on foot at about four with a sheet in his own hand, and the sheet carried hours and nothing else. The hours say the ninth bell was run at ten on the Monday and at two in the afternoon on the Monday and that it answered nothing on either hour, and that the ninth section came off the frame at about half past two in the morning of this day, and that the bell has not been rung since that hour, and that the eight sections are laid along the bench in the room beside that bell and answer when they are rung and will not do the work the whole was doing. The hours say one more thing in the same hand, being that on the Saturday the man on the line said out loud that he wanted what he had put into that bell read out into the record, in the hands of the nine places and not in a bell.**"
 

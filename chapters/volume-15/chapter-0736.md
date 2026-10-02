@@ -42,7 +42,7 @@ The disagreement was in that shed again at about four in about nine people, and 
 
 ---
 
-At about half past five on that Tuesday the shortfall went out loud at that bench stone in about nine hundred words to about nine people, and about four of those nine had watched a boat come back to the landing at about noon with a man holding the rail with both hands.
+That held line was pulled before the route came together and at about half past five on that Tuesday the shortfall went out loud at that bench stone in about six hundred and seventy-two words to about nine people, and about four of those nine had watched a boat come back to the landing at about noon with a man holding the rail with both hands.
 
 "**The coil on that pin lay ready from first light with the independent line flaked beside it, and the column on the lid of that step was read at about ten in four minutes by a man of about thirty-one of the second lay at twenty-six lines and one hundred and four marks, and the chest stayed shut from ten until four and a further week stood fallen due at the close of it. Nobody asked for the reading a second time, and I wrote the day and the hour and that the column had not moved.**
 

@@ -50,7 +50,7 @@ At about four the keeper took the money sheet off its nail and named the twenty-
 
 ---
 
-The mark went on in the hillside room before noon and the reading went out at the bench stone at about half past five on that Wednesday in about nine hundred words to about nine people, and about four of those nine had heard the twenty-sixth named out loud at about four.
+The mark went on in the hillside room before noon and the reading went out at the bench stone at about half past five on that Wednesday in about six hundred and forty-one words to about nine people, and about four of those nine had heard the twenty-sixth named out loud at about four.
 
 "**At about ten a man stood at the flat of this bench stone and put words to the man of about thirty-two and I wrote the hour and no name, and at about two a second person put the same words to him at the end stall and I wrote the hour and no name, and no sum is on any sheet here. At about eleven two women went up the hill with a paper from the turning council, and no other person went into that room, and two marks went on the outside of a case that was not opened, under the oversight of the turning council, with the lid shut and nothing inside named or numbered or measured, and it is not an opening and not an exercising and not a reading.**
 

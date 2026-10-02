@@ -42,7 +42,7 @@ Nobody said his memory was right and nobody said it was wrong, and the page of t
 
 ---
 
-The shortfall was read out loud at that bench stone at about half past five on that Sunday, in about nine hundred words, to about nine people, and about four of those nine had been in that boat on that tide.
+The shortfall was read out loud at that bench stone at about half past five on that Sunday, in about six hundred and fifteen words, to about nine people, and about four of those nine had been in that boat on that tide.
 
 "**That wall came down at about ten past ten and was bare by about forty to eleven and back at about half past eleven, being thirty-one off and eighteen bare and thirty-one back, which is eighty the whole of it, and it is a minute longer each way than last Sunday. Nobody has said why it is getting slower and I have stopped asking the two men who do it.**
 

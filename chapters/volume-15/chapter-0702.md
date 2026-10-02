@@ -60,7 +60,7 @@ Nobody thanked anybody for that page. The page of that week had four lines on it
 
 ---
 
-And at about half past five on that Wednesday the man who keeps the leaf took the shortfall out loud at that bench stone, in about eight hundred and eighty-eight words, to about nine people, and about four of those nine had asked him a question about a reason between half past three and four o'clock.
+A second time came down that coast road in a coat at about ten and at about half past five on that Wednesday the man who keeps the leaf took the shortfall out loud at that bench stone, in about eight hundred and eighty-eight words, to about nine people, and about four of those nine had asked him a question about a reason between half past three and four o'clock.
 
 "**Two times now, and one of them came down that coast road in the inside of a coat on Monday night and the other one came in the same coat this morning, and the second is half past seven in the morning in a hand that is not the hand of anybody in this shed, and nobody in that nine asked whose hand it is, because it is that community's hand and it is not this yard's business to name a person whose hand is on a page that came down a road on its own.**
 

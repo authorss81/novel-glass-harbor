@@ -36,7 +36,7 @@ The woman of thirty of no office copied the four lines into the second book as w
 
 ---
 
-At about half past five on that Wednesday the shortfall went out loud at that bench stone in about nine hundred words to about nine people, and about four of those nine had heard the flat stroke described by the man who laid it.
+At about half past five on that Wednesday the shortfall went out loud at that bench stone in about five hundred and twenty-five words to about nine people, and about four of those nine had heard the flat stroke described by the man who laid it.
 
 "**The pump stopped weeping at about eleven, which is what that tin and the copper and those gaskets were bought for, and the sixty yards of new rope went out on the working line at about eight and came back wet and is hung over the rail to dry.**
 

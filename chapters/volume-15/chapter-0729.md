@@ -50,7 +50,7 @@ The Lowfen Reed lay dormant through the whole of the day and nobody came down th
 
 ---
 
-At about half past five on that Tuesday the shortfall went out loud at that bench stone in about nine hundred words to about nine people, four of whom had heard the lid read at about ten in the morning.
+At about half past five on that Tuesday the shortfall went out loud at that bench stone in about five hundred and fifty-eight words to about nine people, four of whom had heard the lid read at about ten in the morning.
 
 "**The Tuesday lid was read at about ten in four minutes at twenty-six lines and one hundred and four marks unmoved, and that chest with twenty envelopes inside is shut from ten until four and no envelope was opened. A further week stands fallen due at the close of this Tuesday and the column does not move on any of the eight. That cistern was not charged and its covers lay on it from nine until four, and the butt water was for drinking only.**
 

@@ -64,7 +64,7 @@ Nobody thanked anybody for that line and nobody argued with it.
 
 ---
 
-And at about half past five on that Tuesday the man who keeps the leaf took the shortfall out loud at that bench stone, in about eight hundred and sixty-seven words, to about nine people, and about four of those nine had been at the top of that mole at about half past one in the afternoon.
+A bell seat that was not bolted down when she left came off her at about two and at about half past five on that Tuesday the man who keeps the leaf took the shortfall out loud at that bench stone, in about eight hundred and sixty-seven words, to about nine people, and about four of those nine had been at the top of that mole at about half past one in the afternoon.
 
 "**A boat went out of this mole at about six this morning and came alongside it again at about two this afternoon, and she was hired by the only route anybody in this harbor is holding and not by this yard. She went out with no bell seat on her and she came back with one bolted down amidships on the port side, four bolts through a deck somebody painted over in a winter, and I could see the new paint round the bolt holes from the mole head at about half past one this afternoon, and a man of about thirty-one of that route had his hand on the new rope for about eleven seconds and then coiled the slack the way a man coils slack who has done it ten thousand times, and the other one of that two stayed forward the whole crossing and I am not going to say why and nobody asked him.**
 

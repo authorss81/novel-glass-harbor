@@ -46,7 +46,7 @@ The bell off that mole answered the bell off a shoal four days down that coast r
 
 ---
 
-At about half past five on that Sunday the shortfall went out loud at that bench stone in about nine hundred words to about nine people, four of whom had been on the stairs at about half past ten in the morning.
+About nine people had been on those stairs since about half past ten and at about half past five on that Sunday the shortfall went out loud at that bench stone in about five hundred and fifty-eight words to about nine people, four of whom had been on the stairs at about half past ten in the morning.
 
 "**The Sunday began with the pump closed up and the gaskets left to set and the bottom washed down with two buckets, and the rail coil gave up one chafed length near the pin that was cut out and whipped. At about half past ten that wall came down bare for the hundred and fifteenth time, with thirty-two off and nineteen bare and thirty-two back, being eighty-three in sum of the ladder, and it went up again unrepaired and not whole at the angle it has held since the twelfth of January. The room was locked at about eleven and the key is back on its nail in this shed.**
 

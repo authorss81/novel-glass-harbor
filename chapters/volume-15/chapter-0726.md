@@ -36,7 +36,7 @@ The woman of thirty of no office looked at the column at about four and said out
 
 ---
 
-At about half past five on that Saturday the shortfall went out loud at that bench stone, in about nine hundred words, to about nine people, four of whom cannot read a column, and about four of those nine had been standing at the flat of that stone at about half past three.
+A column headed WENT HOME was set down whole and at about half past five on that Saturday the shortfall went out loud at that bench stone, in about five hundred and ninety-two words, to about nine people, four of whom cannot read a column, and about four of those nine had been standing at the flat of that stone at about half past three.
 
 "**The sail was bent on and unbent again in that wind and the sea lead was tried against the harbour side and found to agree with the harbour side, and that bell off that mole answered the bell off a shoal four days down that coast road at about half past ten and again at about three, and the two answers are in hours and not in names. About four people came down from the boards at about eleven and stood at the end stall until about one and none of them came into the shed.**
 

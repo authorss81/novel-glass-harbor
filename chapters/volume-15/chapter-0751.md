@@ -44,7 +44,7 @@ The ordinary work of that Wednesday went on and was not stopped by any of it. A 
 
 ---
 
-At about half past five on that Wednesday the whole of that day was put out loud at that stone, in about one thousand one hundred and seventy-eight words, to about nine people, and about four of those nine had stood at that flat stone at about four and watched a sum go down into the foot of a sheet.
+Line eleven went into the foot of that money sheet at about four and at about half past five on that Wednesday the whole of that day was put out loud at that stone, in about one thousand one hundred and seventy-eight words, to about nine people, and about four of those nine had stood at that flat stone at about four and watched a sum go down into the foot of a sheet.
 
 "**A boat of the Orison landing went out over the bar at about six this morning with the tide under her and was alongside this mole again at about eight this evening, and the tide had turned under her twice while she was gone. She had the ninth section of that bell on her deck and two of the other eight and she had them there for a working reason, being that the frame above that room is coming down in parts under the order of the people of that landing, the chain above it having parted on the Saturday, and the ninth section was lying across the door of a room where nine people work, and they wanted it out of the room and not out of the harbor.**"
 

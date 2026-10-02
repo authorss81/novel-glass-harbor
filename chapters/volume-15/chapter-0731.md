@@ -50,7 +50,7 @@ The bell off that mole answered the bell off a shoal four days down that coast r
 
 ---
 
-At about half past five on that Thursday the settling and the water were read out at that bench stone in about nine hundred words to about nine people, and about four of those nine had carried water from that butt after four.
+At about half past five on that Thursday the settling and the water were read out at that bench stone in about five hundred and thirty words to about nine people, and about four of those nine had carried water from that butt after four.
 
 "**Eleven trips went up by hand between eight and eleven for the hundred and sixty-eighth time on that butt at the back. The covers lay on it from eleven until four. About four came for water after four and were served without waiting, and I wrote the number and the hours and that the next charge falls on a Monday.**
 

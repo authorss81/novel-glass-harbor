@@ -46,7 +46,7 @@ The reading of that creek at the end stall was steady all afternoon and about ni
 
 ---
 
-At about half past five on that Wednesday the shortfall was laid out at that bench stone in about nine hundred words to about nine people, and about four of those nine had stood by that bench stone at about ten in the morning.
+A page went down that coast road with an hour on it and at about half past five on that Wednesday the shortfall was laid out at that bench stone in about five hundred and thirty-one words to about nine people, and about four of those nine had stood by that bench stone at about ten in the morning.
 
 "**The housing came apart before eight and the gaskets were laid on sacking and gone over for cracks. Sixty yards of line were hauled across and coiled and checked hand over hand. The boat was bailed and washed and scrubbed back to clean timber, and by eleven the housing was together and the coil was on the pin.**
 

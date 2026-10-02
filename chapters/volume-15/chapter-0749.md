@@ -50,7 +50,7 @@ The swell came over the mole head twice before eleven and once more at about thr
 
 ---
 
-At about half past five on that Monday the shortfall went out loud at that bench stone in about nine hundred and eighty-five words to about nine people, and about four of those nine had heard the ninth of August named out loud at about two in front of about nine.
+The mechanism broke at about half past twelve and its ninth section came off the frame and at about half past five on that Monday the shortfall went out loud at that bench stone in about nine hundred and eighty-five words to about nine people, and about four of those nine had heard the ninth of August named out loud at about two in front of about nine.
 
 "**A sheet of hours came in over that bar at about ten this morning in the hand of a man who keeps a line of bell two days of water from here, and it said the ninth bell at Orison was run at ten this morning and answered nothing, and that the chain above it came apart into nine pieces at about half past twelve on the Saturday. The hundred and seventy-third charge went up that butt between eight and about eleven and the covers lay on it until four, and I wrote the charge number and the hours and wrote beside them that no settlement goes into the foot of that sheet today.**"
 

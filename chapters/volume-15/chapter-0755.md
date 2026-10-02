@@ -54,7 +54,7 @@ The sheet with the fourteen gaps at the end stall stood all day with no figure m
 
 ---
 
-At about half past five on that Sunday the whole of that day was put out loud at that stone, in about one thousand and forty-three words, to about nine people, and about four of those nine had stood in that lane at about half past ten watching that wall stand bare for twenty-three minutes.
+The boat was going for two sections of that bell and not for the man and at about half past five on that Sunday the whole of that day was put out loud at that stone, in about one thousand and forty-three words, to about nine people, and about four of those nine had stood in that lane at about half past ten watching that wall stand bare for twenty-three minutes.
 
 "**That wall came off bare at about half past ten this morning and the plaster of it was the colour it has been since the last Sunday, and the ladder went up at about a quarter to one with a man's weight on it and a second man on the foot of it, and about five people stood in that lane and watched and did not offer. Thirty-six off and twenty-three bare and thirty-six back is ninety-five the whole of it, and I read the three figures twice before the ladder went up because about five of that party cannot read a column, and I wrote the hour and the day and wrote beside them no reason at all. It is a minute longer each way and a minute longer bare than the one before it and nobody has said why and nobody has asked.**"
 

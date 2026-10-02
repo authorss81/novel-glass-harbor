@@ -34,7 +34,7 @@ The two books stood on that bench stone and on that shelf at the hour of that da
 
 ---
 
-At half past five on that Tuesday he took the shortfall out loud at the flat of that bench stone, in about nine hundred words, to about nine people, and about four of those nine had stood in front of two books at about half past three.
+At half past five on that Tuesday he took the shortfall out loud at the flat of that bench stone, in about five hundred and eighty-three words, to about nine people, and about four of those nine had stood in front of two books at about half past three.
 
 "**For the eighty-eighth time a man of about thirty-one of the second lay stood on that step at about ten with the lid open and read out twenty-six lines in four minutes, and the figure at the foot of that lid is the same figure it carried at seven in the morning, being twenty-six lines and one hundred and four marks. The chest with the twenty envelopes in it stands shut from ten until four, and the eighty-eighth week stands fallen due at the close of today behind the eighty-seventh.**
 

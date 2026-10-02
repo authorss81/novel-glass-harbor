@@ -34,7 +34,7 @@ He was right that it shows less. Nobody wrote on any page in that shed that the 
 
 ---
 
-At about half past five on that Friday the shortfall was taken out loud at that bench stone in about nine hundred words to about nine people, and about four of those nine had heard four sentences read at about two.
+At about half past five on that Friday the shortfall was taken out loud at that bench stone in about four hundred and ninety-three words to about nine people, and about four of those nine had heard four sentences read at about two.
 
 "**A route closed at about two this afternoon in about nine people, and the closing was four sentences long in the hand of a woman of about fifty-eight, written at that creek this morning and brought down in her apron. The first sentence is that the time was given by a man who was not free to refuse it and that a page so given is not that community's answer. The second is that the seam across the back of that page shows a mark was taken off and cannot show which mark, and that a thing which cannot tell a willing hand from a pressed hand cannot show the rest of that coast's pages are good. The third is that the route is closed from this morning and the closing is in their hand and not ours. The fourth is that they will not be asked why.**
 

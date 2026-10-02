@@ -50,7 +50,7 @@ At about four the keeper stood at the flat of that bench stone and said out loud
 
 ---
 
-At about half past five on that Sunday the shortfall went out loud at that bench stone in about nine hundred and fifty-seven words to about nine people, and about four of those nine had stood in that lane that morning watching bare plaster, and about four of that nine had not been in the room at Orison at all.
+The mechanism at Orison was found in sections and at about half past five on that Sunday the shortfall went out loud at that bench stone in about nine hundred and fifty-seven words to about nine people, and about four of those nine had stood in that lane that morning watching bare plaster, and about four of that nine had not been in the room at Orison at all.
 
 "**The ladder went to that wall at about half past ten this morning and the plaster stood bare behind the reeve's bench for twenty-two minutes until about half past twelve, and the wall was back at about a quarter to one at the angle it has held since the twelfth of January and it did not go up whole. I read the three figures off a slip before the ladder went up, being thirty-five off and twenty-two bare and thirty-five back and ninety-two the whole of it, and I read them twice because about five of this party cannot read a column. I wrote the day and the hour and no reason against the slowness.**"
 

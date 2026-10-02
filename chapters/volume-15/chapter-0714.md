@@ -38,7 +38,7 @@ Nobody in that shed called that page a bad page and nobody in that shed called i
 
 ---
 
-The man who keeps the leaf read the shortfall out loud at that bench stone at about half past five on that Monday, in about nine hundred words, to about nine people, and about four of those nine had carried reed into the shed at about eleven.
+The man who keeps the leaf read the shortfall out loud at that bench stone at about half past five on that Monday, in about five hundred and forty-seven words, to about nine people, and about four of those nine had carried reed into the shed at about eleven.
 
 "**Four men carried eleven trips of water up from that butt this morning between about eight and about eleven and filled it, and that was the hundred and sixty-third time this yard has filled it, and the covers went on at the hour they went on last week. A man of about fifty-six came down that road at about eleven with a bundle of reed under his arm and he has kept the marks of that channel for about thirty years and has never kept one for this yard.**
 

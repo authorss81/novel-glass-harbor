@@ -38,7 +38,7 @@ About four people said that going into the foot of that sheet a line whose stone
 
 ---
 
-The shortfall went out loud at that bench stone at about half past five on that Tuesday in about nine hundred words to about nine people, four of whom cannot read a column, and about four of those nine had stood in the room over the market at about half past eleven.
+The shortfall went out loud at that bench stone at about half past five on that Tuesday in about six hundred and forty-five words to about nine people, four of whom cannot read a column, and about four of those nine had stood in the room over the market at about half past eleven.
 
 "**The twenty-six lines on that lid were read out this morning at about ten in four minutes by a man of about thirty-one of the second lay, and the lid came down at ten past the hour carrying the same figure it has carried every Tuesday since the spring, being twenty-six lines and one hundred and four marks. The chest with the twenty envelopes in it is shut from ten until four and the eighty-ninth week stands fallen due at the close of today behind the eighty-eighth.**
 

@@ -42,7 +42,7 @@ The bell off that mole answered the bell off a shoal four days down that coast r
 
 ---
 
-At about half past five on that Friday the step in the foot and the day's work were given out at that bench stone in about nine hundred words to about nine people, and about four of those nine had smelled tar all morning.
+The same words were put to him again at about eleven and at about half past five on that Friday the step in the foot and the day's work were given out at that bench stone in about five hundred and thirty-two words to about nine people, and about four of those nine had smelled tar all morning.
 
 "**Tar and oakum hung over this yard from eight until noon while four drove seams along the waterline and tarred them. Four more spliced a chafed length and whipped the ends and tarred them. The housing set true yesterday held tight at nine, and by noon the seams were full and the splice was hard.**
 

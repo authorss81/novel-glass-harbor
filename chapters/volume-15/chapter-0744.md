@@ -70,7 +70,7 @@ The disagreement between the two of them was not in that room, because one of th
 
 ---
 
-At about half past five on that Wednesday the reading went out in that room at Orison in about eleven hundred and sixty-nine words to about nine people, and about four of those nine had been in that room since about ten, and the money sheet was not in that room and was not read in it.
+That room at Orison had nine people in it from about ten and at about half past five on that Wednesday the reading went out in that room at Orison in about eleven hundred and sixty-nine words to about nine people, and about four of those nine had been in that room since about ten, and the money sheet was not in that room and was not read in it.
 
 "**We lay against the Orison landing at about ten with the warp on the bollard, and the man of about thirty-eight who keeps the line of that bell took the warp himself. The bell stands on an iron frame on the headland and it is a bell and not a building, and the room beside it has a stove and a bench and a window on the water, and about nine of us standing in it can see the frame through that window and can touch the rope where it comes through the wall, and the man who works there can tell the rest of it. I wrote the name in that yard's book at about ten with the hour against it, being that the room beside that bell is the Ninth Bell, and that the name is the name at the head of the sheet that came down that road on Monday, and that this yard's book had not carried it before this week.**"
 

@@ -58,7 +58,7 @@ The sheet with the fourteen gaps at the end stall stood all day with no figure m
 
 ---
 
-At about half past five on that Saturday the shortfall went out loud at that bench stone in about eight hundred and twenty-three words to about nine people, and about four of those nine had stood at the flat of that stone at about eleven to hear a pilot say what he meant to do with a boat that was not his.
+A word came down the boards at about ten that morning and at about half past five on that Saturday the shortfall went out loud at that bench stone in about eight hundred and twenty-three words to about nine people, and about four of those nine had stood at the flat of that stone at about eleven to hear a pilot say what he meant to do with a boat that was not his.
 
 "**A pilot of about forty-one came up this lane at about half past ten with a coil of his own line on his shoulder and no man with him, and he asked for this boat for two days and gave the figure before anybody asked him for one. He put it in chalk on the flat of this stone himself, being two days at the figure in chalk at two times one hundred and sixty-eight for three hundred and thirty-six pence, being two marks and sixteen pence, and he said out loud that the figure is in his book and not on this sheet and not in this yard's book, and that a route's hire of a boat is a figure in chalk and the route pays it. I wrote the two days and the sum and the hour on the page of that week and wrote beside them that the figure itself is in his own book in chalk, and I wrote that this yard was hired and gave no order, and nobody in this shed gave one.**"
 

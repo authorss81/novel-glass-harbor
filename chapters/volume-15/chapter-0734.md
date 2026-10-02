@@ -38,7 +38,7 @@ At about four the woman of thirty of no office read the two leaves of the twelft
 
 ---
 
-At about half past five on that Sunday the shortfall went out loud at that bench stone in about nine hundred words to about nine people, and about four of those nine had watched that wall stand bare at about half past ten.
+Line nine went onto that sheet with two days on its face and at about half past five on that Sunday the shortfall went out loud at that bench stone in about six hundred and ninety-three words to about nine people, and about four of those nine had watched that wall stand bare at about half past ten.
 
 "**That wall behind that bench stood bare this morning from about half past ten, and the ladder took thirty-three minutes off and thirty-three minutes back as it has since the twelfth of January, being thirty-three off and twenty bare and thirty-three back and eighty-six the whole of it, and I read the three figures and the sum twice because about five of this party cannot read a column. The pump leathers were greased and sixty yards of line were laid along this stone and the kinks worked out hand over hand, and a man checked the splices twice and put the coil back on the pin before noon.**
 

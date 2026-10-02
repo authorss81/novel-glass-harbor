@@ -1,3 +1,78 @@
+## VOLUME 15, CHAPTERS 701 TO 760, ALL SIXTY, CLOSED AND AUDITED. **THE WHOLE VOLUME IS PUBLISHED HERE IN ONE TABLE, SIXTY ROWS, ONE DAY TO A CHAPTER, TUESDAY THE TWENTY-FIRST DAY OF JUNE TO FRIDAY THE NINETEENTH DAY OF AUGUST, AT 189,886 WORDS ON THE HOUSE MEASURE OF THE RULE LINES EXCLUDED AND 190,564 ON EVERY LINE, AGAINST 189,263 AND 189,941 BEFORE THE VOLUME CLOSE'S THREE REPAIRS. THE AUDIT IS AT `reviews/volume-15/volume-15-close.md`. NO CHAPTER WAS WRITTEN OR RESTARTED BY THAT CLOSE; IT REPAIRED THIRTY-FIVE COUNTED WORD-LENGTHS, PUT A NEW OPENING CLAUSE IN FORTY-THREE SLIP OPENINGS, AND REMOVED TWENTY-FIVE STRAY QUOTATION MARKS ACROSS FIVE FILES, AND NOTHING ELSE ON ANY FILE MOVED. `outline/volume-15.md` WAS NOT EDITED AND `state/phase-ledger.json` WAS NOT READ, NOT EDITED AND NOT REPORTED AS EVIDENCE OF ANYTHING.**
+
+**THE HOUSE'S OWN MEASURE OF A COUNTED WORD-LENGTH IS THE WHITESPACE-SPLIT COUNT OF THE BOLD-QUOTED HALF-PAST-FIVE PARAGRAPHS, AND THE FIGURE IS PRINTED IN THE LINE THAT INTRODUCES THE READING AND NOT INSIDE THE READING. THE COLUMN BELOW IS THAT MEASURE. EVERY ONE OF THE FIFTY-EIGHT FIGURES IN IT NOW EQUALS ITS OWN PASSAGE; CHAPTERS 713 AND 719 PRINT NO COUNTED FIGURE AND PRINTED NONE BEFORE.**
+
+| Ch | Day | Movement | Slip | The day on the page, in one line |
+|---|---|---|---|---|
+| 701 | Tue 21 June | 1 | **867** | the volume opens on a boat that came back with a bell seat and forty yards of line; a time goes onto a route's own page with no day of the week on it; the eleven words are said again and answered by nobody |
+| 702 | Wed 22 June | 1 | **888** | a second community gives a time; a third gives no time and gives a reason, and the reason goes on that community's own page |
+| 703 | Thu 23 June | 1 | **608** | **the hundred and sixtieth charge**; a hand-bill of eight clauses comes ashore in a boat's boots and is read out once in front of about twenty people of whom about eleven cannot read it, and it is correct |
+| 704 | Fri 24 June | 1 | **539** | eleven households go up that coast road with their own goods; this yard did not ask them to and was not asked |
+| 705 | Sat 25 June | 1 | **482** | **line three settles**, 494; a man who was on the water eight hours cannot get up his own steps without the rail |
+| 706 | Sun 26 June | 1 | **469** | **a wipe, the hundred and twelfth, 29/16/29 = 74**; three Sundays go on one line for the first time in nine runs of days |
+| 707 | Mon 27 June | 1 | **454** | **the hundred and sixty-first charge**; a time comes with a condition of nine words under it, and the condition is not this party's to accept and is not accepted |
+| 708 | Tue 28 June | 1 | **518** | **the eighty-seventh wage Tuesday**; the column does not move; a woman asks him in about nine people to give up the choosing of the times for about a week, and he neither answers her nor says no |
+| 709 | Wed 29 June | 1 | **455** | about two minutes come in on two of the nine bells at about half past four; their timing and their perspective do not match the account in that front street |
+| 710 | Thu 30 June | 1 | **463** | **the hundred and sixty-second charge**; a Crown boat takes a second mooring and this yard did not go; **line four goes on** with the day the work was done against it |
+| 711 | Fri 1 July | 1 | **470** | **line four settles** and **line five goes on**; six of the nine have given a time |
+| 712 | Sat 2 July | 1 | **525** | **MOVEMENT 1 CLOSES.** Nine bells in contact by about ten; **the hands that rang are taken once at thirty and said nowhere**; the page of routes is written for the first of three; **line five settles** |
+| 713 | Sun 3 July | 2 | 459 | **a wipe, the hundred and thirteenth, 30/17/30 = 77**; a route closes because its custodians were coerced and not because they refused |
+| 714 | Mon 4 July | 2 | **547** | **the hundred and sixty-third charge** |
+| 715 | Tue 5 July | 2 | **583** | **the eighty-eighth wage Tuesday**, unmoved, the chest shut, a further week fallen due; **line six goes on** |
+| 716 | Wed 6 July | 2 | **525** | a fisher pilot uses a remembered current that is out of date and still useful |
+| 717 | Thu 7 July | 2 | **527** | **the hundred and sixty-fourth charge**; **line six settles** |
+| 718 | Fri 8 July | 2 | **493** | the Crown draws the surviving evidence of the seizure into the Keel and the truth of it becomes visible on a public bell |
+| 719 | Sat 9 July | 2 | 532 | **the four heads are exercised for the first time in nine runs of days, being claims and public correction** |
+| 720 | Sun 10 July | 2 | **615** | **a wipe, the hundred and fourteenth, 31/18/31 = 80**; **line seven goes on** carrying the ninth for the work and the eleventh for the day four stones were let go |
+| 721 | Mon 11 July | 2 | **613** | **the hundred and sixty-fifth charge**; line seven's second day is named out loud before any figure is written |
+| 722 | Tue 12 July | 2 | **645** | **refusals and restricted records exercised, so all four heads are on that wall and none of them is a fifth thing**; **line seven settles** |
+| 723 | Wed 13 July | 2 | **632** | the woman of thirty of no office makes parallel public records so that one version cannot erase the other's claims |
+| 724 | Thu 14 July | 2 | **583** | **the hundred and sixty-sixth charge** |
+| 725 | Fri 15 July | 2 | **650** | the standing disagreement between two married people is put in the open in about nine and is not settled |
+| 726 | Sat 16 July | 2 | **592** | **MOVEMENT 2 CLOSES.** **Those who went home are taken once at eleven and said nowhere**; the page of routes is not counted |
+| 727 | Sun 17 July | 2 | **558** | **a wipe, the hundred and fifteenth, 32/19/32 = 83**; **Movement 3 opens** |
+| 728 | Mon 18 July | 3 | **573** | **the hundred and sixty-seventh charge**; the route carrying the truth starts to come apart while it is still true |
+| 729 | Tue 19 July | 3 | **558** | **line eight goes on**, five multiplications on its face |
+| 730 | Wed 20 July | 3 | **531** | the man of about thirty-two keeps no hour for an answer and nobody presses him to a step |
+| 731 | Thu 21 July | 3 | **530** | **the hundred and sixty-eighth charge**; **line eight settles** |
+| 732 | Fri 22 July | 3 | **532** | the foot steps to 117,736 and the keeper reads the new foot without reading the figures that made it |
+| 733 | Sat 23 July | 3 | **530** | **THE MIDPOINT, IN A WORKING PLACE, TO ABOUT NINE PEOPLE, OUT OF A SHEET.** The evacuation bell had sounded and a second rescue line was still active when the keel-line was cut; the record cannot establish whether he understood the cost. The plan changes the same day: no testimony stands as the centre |
+| 734 | Sun 24 July | 3 | **693** | **a wipe, the hundred and sixteenth, 33/20/33 = 86**; **line nine goes on** |
+| 735 | Mon 25 July | 3 | **590** | **the hundred and sixty-ninth charge** |
+| 736 | Tue 26 July | 3 | **672** | **THE HELD LINE.** About eleven minutes in the water against a fixed limit of twenty-five, **pulled by the tender before the route reaches synchronization**, and he surfaces and is not fine. **Line nine's second day is named** as the day the descent was stopped |
+| 737 | Wed 27 July | 3 | **641** | **THE ROOM ON THE HILL IS ENTERED ONCE, BY TWO PEOPLE.** The recognised family claim is released into a dual seal on the outside of a case that is not opened, and it is not exercised. **Line nine settles** |
+| 738 | Thu 28 July | 3 | **570** | **a wipe, the hundred and seventeenth, 34/21/34 = 89**; the day carries no line and that is said out loud |
+| 739 | Fri 29 July | 3 | **571** | **MOVEMENT 3 CLOSES.** **Those asked twice are taken once at eleven, its highest day at three against the twenty-third**, and beside it stands a refusal with the hour against it and no name against it; the page of routes is written for the second of three |
+| 740 | Sat 30 July | 4 | **823** | a word comes down the boards that two ships are standing off and neither is moving; a pilot hires this yard's boat for two days and gives the order from the boat |
+| 741 | Sun 31 July | 4 | **922** | **a wipe, the hundred and eighteenth, 35/22/35 = 92** |
+| 742 | Mon 1 August | 4 | **959** | **the hundred and seventy-second charge**; eight places' own words are read out once and not again |
+| 743 | Tue 2 August | 4 | **896** | **the ninety-second wage Tuesday**, unmoved; **line ten goes on**, six days on its face |
+| 744 | Wed 3 August | 4 | **1169** | at Orison, in that room, with about nine people, and the money sheet is not in that room |
+| 745 | Thu 4 August | 4 | **1011** | **the hundred and seventy-third charge**; **line ten settles** |
+| 746 | Fri 5 August | 4 | **1062** | local pilots scatter the Navy under their own orders; **six claims go up on the boards**, each with its own provenance and its own limits |
+| 747 | Sat 6 August | 4 | **1062** | **THE SECOND HELD LINE**, held until the distributed routes hold against the same limit with the same tender and the same cutoff; he surfaces and is not fine and is not fine later; the hearing does not come back; the one name in a mouth in the whole volume is said once |
+| 748 | Sun 7 August | 4 | **957** | **a wipe, the hundred and nineteenth, 36/23/36 = 95, the last wipe of the volume**; the mechanism is found in sections and eight of the nine answer and will not do the work the whole was doing |
+| 749 | Mon 8 August | 4 | **985** | **the hundred and seventy-fourth charge**; **line eleven goes on**, the eighth for the work and the ninth for the day the mechanism broke, named out loud before any figure |
+| 750 | Tue 9 August | 4 | **1135** | **THE CLIMAX.** The ninety-third wage Tuesday; the mechanism breaks; **the one death of the sixty days**, with no body named and no figure printed |
+| 751 | Wed 10 August | 5 | **1178** | **line eleven settles** |
+| 752 | Thu 11 August | 5 | **1314** | nine delegates of nine routes put **twenty-one words** on the face of a page and refuse one authority over the other eight, and a stranger with a pencil counts them twice |
+| 753 | Fri 12 August | 5 | **1390** | the public copy goes down that lane in an open cart with the uncertainty visible on the face of the board beside it |
+| 754 | Sat 13 August | 5 | **1155** | **line twelve goes on**, glass and frames for a case |
+| 755 | Sun 14 August | 5 | **1043** | **a wipe, the hundred and nineteenth, 36/23/36 = 95**; nobody has said why it is slower |
+| 756 | Mon 15 August | 5 | **931** | **the hundred and seventy-fifth charge**; **line twelve settles** |
+| 757 | Tue 16 August | 5 | **936** | **the ninety-fourth wage Tuesday**, twenty-six lines and one hundred and four marks and not moved, the chest shut from ten until four, a further week fallen due |
+| 758 | Wed 17 August | 5 | **1232** | a man of about sixty-one with oil-blackened fingers says four sentences about what he signed after the cut, and is not forgiven and nobody thanks him |
+| 759 | Thu 18 August | 5 | **924** | **the hundred and seventy-sixth charge**; **line thirteen goes on**, carrying a day that has not come yet |
+| 760 | Fri 19 August | 5 | **1781** | **THE VOLUME CLOSES.** The woman of thirty of no office reads the final entry with several witnesses and a statement of what is not known; that leaf is read back at the flat of the stone, all four columns including the empty one, read twice, with its own derivation on the face of it; **line thirteen settles at about four** and the foot is read after it at 123,072 out and 112,432 short; the page of routes is written for the third and last time at four held, two restricted and three dormant; the sealed record is not opened and its claim stands released and is not exercised; and a boat of about eleven tons goes out over that bar at about five with no escort and nine buoys answer one another and the sound does not come out as one note |
+
+---
+
+**WHAT A SUCCESSOR COPIES FROM THIS TABLE AND NOT FROM ANY EARLIER ONE: THE SIXTY COUNTED LENGTHS ABOVE, WHICH ARE THE HOUSE'S OWN MEASURE AND EVERY ONE OF WHICH NOW EQUALS ITS OWN PASSAGE; THE SEVENTEEN ROTA CHAPTERS; THE EIGHT WIPE CHAPTERS; THE EIGHT WAGE-TUESDAY CHAPTERS; THE THREE DAYS ON WHICH EACH OF THE THREE COUNTS WAS TAKEN; THE THREE DAYS ON WHICH THE PAGE OF ROUTES WAS WRITTEN; AND CHAPTER 760 ALONE FOR THE READ-BACK. NONE OF THESE IS TO BE RE-TOKEN.**
+
+**AND THE TWO WORDS THAT ARE NOT TO BE SAID AT ALL ON ANY PAGE THAT FOLLOWS: *STAGE* AND *ANCHOR*. AND THE TWO FIGURES OF A HEARING, WHICH ARE TWO MEN'S AND NOT ONE'S, AND ARE NEVER TO BE SET AGAINST EACH OTHER.**
+
+---
+
 ## VOLUME 16, MOVEMENT 2, CHAPTERS 771 TO 780, AT 37,089 WORDS AFTER THE THIRD REPAIR PASS AGAINST THE REVIEW OF IT, AT 37,085 AFTER THE SECOND, AT 37,028 AFTER THE FIRST AND AT 36,334 BEFORE ANY. **TEN CONSECUTIVE DAYS, TUESDAY THE THIRTIETH DAY OF AUGUST TO THURSDAY THE EIGHTH DAY OF SEPTEMBER. THE VOICE IS THIS HARBOR'S AND THE FIGURES ARE ITS OWN. THE SLIP LENGTHS ARE 1,059, 933, 774, 927, 1,083, 895, 901, 901, 1,096 AND 1,437 AND EVERY ONE IS PRINTED IN THE LINE THAT INTRODUCES THE READING AND NOT INSIDE THE READING; 773 AND 777 GAINED THE HOUSE'S OWN *AND*, AND 771, 778, 779 AND 780 WERE RE-COUNTED AFTER THE FIRST REPAIR.**
 
 **AND WHAT THE THIRD REPAIR PASS CHANGED ON THESE TEN DAYS AND NOTHING ELSE. THE NEXT WIPE IS *ON SUNDAY* ON 773 AND IT IS *NO WIPE COMES BEFORE SUNDAY* ON 779, AGAINST A ROTA DAY NAMED AS A WIPE DAY. THE KEEPER NO LONGER WRITES THE FOURTEEN ON 777; HE RULES THE LINE AND WRITES NOTHING INTO IT, AND THE ENTRY IS THE WOMAN'S ON THE TUESDAY NIGHT. THE ROAD OF THE MAN OF ABOUT THIRTY-EIGHT OF THAT LANDING IS THREE DAYS AND NOT FOUR, IN EIGHT PLACES ACROSS 771, 774 AND 779, AND THE FOUR-DAY FIGURE BELONGS TO THE WOMAN OF ABOUT FIFTY-TWO AND TO THE CINDER BELL AND THE LOWFEN REED, SO THE NEWSPRINT GOES UP ON THE SATURDAY, IS READ OUT AT ABOUT THREE ON THE MONDAY, AND THE CARRIER IS BACK AT ABOUT FOUR ON THE WEDNESDAY. THE BELL IS OUT OF SERVICE FROM THE EIGHTH TO THE TWENTY-SECOND, BEING FOURTEEN DAYS COUNTED THE WAY THIS VOLUME COUNTS, AND IS BACK IN SERVICE ON THE TWENTY-SECOND. THE HOUR AT TEN PAST SIX ON 780 IS TWENTY PAST FIVE, BEFORE THE READING AND AFTER THE SHEET PINNED AT FIVE. 778's CLOSING BLOCK CARRIES THE NINETY-SEVENTH AND NOT THE NINETY-SIXTH. NO FIGURE OF MONEY MOVED, NO DAY MOVED, NO LINE MOVED, AND 777's WORD COUNT IS THE ONLY ONE THAT MOVED, BY FOUR. THE FULL RECORD IS AT `state/continuity.md` § 0 TO § 16 OF THE HEAD.**

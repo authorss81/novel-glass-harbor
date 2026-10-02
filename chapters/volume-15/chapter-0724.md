@@ -34,7 +34,7 @@ About four people said that was right and about four said a thing on a bell that
 
 ---
 
-The shortfall was taken out loud at that bench stone at about half past five on that Thursday in about nine hundred words to about nine people, and about four of those nine had watched a woman of about thirty-four stand at that bench stone at about two.
+The shortfall was taken out loud at that bench stone at about half past five on that Thursday in about five hundred and eighty-three words to about nine people, and about four of those nine had watched a woman of about thirty-four stand at that bench stone at about two.
 
 "**That cistern was filled in eleven trips by hand between about eight and about eleven this morning, being the hundred and sixty-sixth filling of it, and the covers lay on it from about eleven until about four, and it is the last rota day of this fortnight and the next charge on that rota falls on a Monday. About four people came for water after four and were served without waiting.**
 

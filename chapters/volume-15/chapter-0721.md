@@ -40,7 +40,7 @@ Three people of that line went home in the course of the day. The man of about t
 
 ---
 
-At about half past five on that Monday the man who keeps the leaf took the shortfall out loud at that bench stone, in about nine hundred words, to about nine people, and about four of those nine had heard a man of about twenty-two say at about ten that no paper came about four stones.
+At about half past five on that Monday the man who keeps the leaf took the shortfall out loud at that bench stone, in about six hundred and thirteen words, to about nine people, and about four of those nine had heard a man of about twenty-two say at about ten that no paper came about four stones.
 
 "**Eleven trips went up that cistern this morning and the covers went on at about eleven, the same hour they went on last Thursday, and that was the hundred and sixty-fifth filling of it. A man of about twenty-two came down that road alone at about ten and said four stones had been let go at that creek before eleven, and that his community did it and it was done, and that no paper came about it and no man told him to, and that the man who laid the stroke laid it on a page and not on a stone, and he wanted that said in front of about nine people. The two at the mouth and the two inside the bend went on a slack tide with a barge line under them and the water had them out of sight inside about ten minutes, and the channel is narrower this morning.**
 

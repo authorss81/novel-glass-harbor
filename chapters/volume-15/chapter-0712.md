@@ -28,7 +28,7 @@ The woman of thirty of no office stood at the end stall at about five and looked
 
 ---
 
-And at about half past five on that Saturday the man who keeps the leaf took the shortfall out loud at that bench stone, in about nine hundred words, to about nine people, and about four of those nine had heard the ninth bell answer at about ten in the morning.
+Nine bells were in contact by about ten that morning and at about half past five on that Saturday the man who keeps the leaf took the shortfall out loud at that bench stone, in about five hundred and twenty-five words, to about nine people, and about four of those nine had heard the ninth bell answer at about ten in the morning.
 
 "**Nine bells answered one another by about ten this morning, the ninth answering the eighth after the eighth had answered the seventh at about nine, and I wrote the hours in a column with no names, because a page with names and a time is a schedule and this is not that. All nine are in contact by bell and by a person with a hand on a rope, and all nine in contact is not the same as nine ready.**
 

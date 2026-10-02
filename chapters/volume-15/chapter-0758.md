@@ -64,7 +64,7 @@ The sheet with the fourteen gaps at the end stall stood all day with no figure m
 
 ---
 
-At about half past five on that Wednesday the whole of that day was put out loud at that stone, in about one thousand two hundred and thirty-two words, to about nine people, and about four of those nine had stood at that flat stone at about ten and heard four sentences and had not moved while they were said.
+Four sentences were said at that bench stone and at about half past five on that Wednesday the whole of that day was put out loud at that stone, in about one thousand two hundred and thirty-two words, to about nine people, and about four of those nine had stood at that flat stone at about ten and heard four sentences and had not moved while they were said.
 
 "**That man came down that lane at about ten with the log under his arm in a piece of sailcloth and he did not come to the far bench and he came to this shed instead, and nobody sent for him and nobody said that anybody had sent for him. He put it on the dry end of this stone at about ten and took his hands off it, and his hands were black to the second joint at the nails and that black had been in the creases of them for years and not since this morning.**"
 

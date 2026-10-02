@@ -28,7 +28,7 @@ The turn of the day is stopping counting. The yard does not write a column of th
 
 ---
 
-And at about half past five on that Friday the man who keeps the leaf took the shortfall out loud at that bench stone, in about nine hundred words, to about nine people, and about four of those nine had seen the basket opened at about eleven.
+Line four was settled into the foot of that sheet at about four and at about half past five on that Friday the man who keeps the leaf took the shortfall out loud at that bench stone, in about four hundred and seventy words, to about nine people, and about four of those nine had seen the basket opened at about eleven.
 
 "**Line four was settled at about four, being three days of a boat at one hundred and sixty-eight for five hundred and four, and coal and oil for sixty, and forty yards at three pence for one hundred and twenty, and tin and copper for seventy-two, and four men at three days at sixteen pence for one hundred and ninety-two, and those five are nine hundred and forty-eight pence, being five marks, twelve shillings and fourpence. The total is one hundred and fourteen thousand one hundred and fifty-eight pence out and one hundred and three thousand five hundred and eighteen pence short.**
 

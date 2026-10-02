@@ -54,7 +54,7 @@ At about six in the evening the boat came out of the water at the landing below 
 
 ---
 
-At about half past five on that Thursday the shortfall went out loud at that bench stone in about one thousand and eleven words to about nine people, and about four of those nine had read the answer off that page at about one in the morning's words.
+Line ten was settled into that foot at about four that day and at about half past five on that Thursday the shortfall went out loud at that bench stone in about one thousand and eleven words to about nine people, and about four of those nine had read the answer off that page at about one in the morning's words.
 
 "**The eleventh trip of that water went up at about eleven this morning, which was the hundred and seventy-second charge, and the covers were put on at that hour and lay there until four. Nobody has asked the four men who carry that water what it is for since the ninth of June and nobody asked them again today, and about five people drew from it after four without waiting on anybody. I wrote the charge number and the hours.**"
 

@@ -46,7 +46,7 @@ The sheet with the fourteen gaps at the end stall stood all day with no figure m
 
 ---
 
-At about half past five on that Monday the whole of that day was put out loud at that stone, in about nine hundred and thirty-one words, to about nine people, and about four of those nine had stood at that flat stone at about four and watched a sum go down into the foot of a sheet.
+Line twelve was settled into that foot at about four and at about half past five on that Monday the whole of that day was put out loud at that stone, in about nine hundred and thirty-one words, to about nine people, and about four of those nine had stood at that flat stone at about four and watched a sum go down into the foot of a sheet.
 
 "**That cistern went its eleventh trip at about eleven for the hundred and seventy-fifth time and the covers went on at the same hour and lay there until about four, and about five people came for water after four and were served without waiting. I wrote the charge number and the hours and wrote beside them that a settlement did go into the foot of that sheet today and which settlement.**"
 

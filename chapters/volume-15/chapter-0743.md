@@ -54,7 +54,7 @@ The register copy of the reason went to a table at the west basin office with th
 
 ---
 
-At about half past five on that Tuesday the shortfall went out loud at that bench stone in about eight hundred and ninety-six words to about nine people, and about four of those nine had stood at the flat of that stone at about two and heard five parts read with their multiplications.
+Line ten went onto that sheet with six days on its face and at about half past five on that Tuesday the shortfall went out loud at that bench stone in about eight hundred and ninety-six words to about nine people, and about four of those nine had stood at the flat of that stone at about two and heard five parts read with their multiplications.
 
 "**The lid on that step was read at about ten this morning in four minutes by a man of about thirty-one of the second lay, and it came to twenty-six lines and one hundred and four marks, and it did not move, and the chest stayed shut from ten until four, and a further week stood fallen due at the close of it. That is the ninety-second of those Tuesdays and the column has not moved on any of them and nobody has asked for the reading twice.**"
 

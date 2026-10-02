@@ -50,7 +50,7 @@ The register copy of yesterday lies on a table at the west basin office with the
 
 ---
 
-The water came up by hand all morning and the reading went out at that bench stone at about half past five on that Thursday in about nine hundred words to about nine people, and about four of those nine had carried water for the washing down.
+The water came up by hand all morning and the reading went out at that bench stone at about half past five on that Thursday in about five hundred and seventy words to about nine people, and about four of those nine had carried water for the washing down.
 
 "**That butt at the back of that market was filled again this morning for the hundred and seventieth time in eleven trips by hand between about eight and about eleven, and was walked on by none of it, and the covers lay on it from about eleven until about four. About five people came for water after four and were served without waiting, and I wrote the charge number and the hours and wrote beside them that no line goes on the sheet today.**
 

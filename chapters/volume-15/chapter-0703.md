@@ -30,7 +30,7 @@ Line three went onto the money sheet at about four with the day the work was don
 
 ---
 
-And at about half past five on that Thursday the man who keeps the leaf took the shortfall out loud at that bench stone, in about nine hundred words, to about nine people, and about four of those nine had been on those boards at about eleven in the morning.
+Eight clauses came ashore in a boat's boots and at about half past five on that Thursday the man who keeps the leaf took the shortfall out loud at that bench stone, in about six hundred and eight words, to about nine people, and about four of those nine had been on those boards at about eleven in the morning.
 
 "**That cistern went its eleventh trip at about eleven this morning for the hundred and sixtieth time, and the covers went on at about eleven and will come off at about four has come, and nobody walked on the water after it. A sheet came ashore in a boat's boots at about ten and it is eight clauses on one page with a seal at the foot of it and no figure and no address, and it was read out once at about eleven in front of about twenty people of whom about eleven cannot read it, by a man of about thirty-one of the second lay who reads a column every Tuesday and did not want to and did it.**
 

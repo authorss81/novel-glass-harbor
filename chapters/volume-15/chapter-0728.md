@@ -46,7 +46,7 @@ The second book stayed dry on the shelf above that butt through the whole of the
 
 ---
 
-At about half past five on that Monday the shortfall went out loud at that bench stone in about nine hundred words to about nine people, four of whom had walked the length of that line at about ten in the morning.
+Ninety yards of line were laid out along that bench stone at about ten and at about half past five on that Monday the shortfall went out loud at that bench stone in about five hundred and seventy-three words to about nine people, four of whom had walked the length of that line at about ten in the morning.
 
 "**The air went through that pump clean at about nine with two men on the handles and the valves greased beforehand, and the housing was closed again by ten and the handles lashed. Ninety yards of line were laid along this stone at about ten and gone over hand over hand, and one soft place near the middle was marked with red twine and cut out before noon and the good length coiled back on the pin. That cistern took eleven trips by hand between eight and eleven for the hundred and sixty-seventh time, and the covers have lain on it from eleven until four and about four people came back after four and were served.**
 

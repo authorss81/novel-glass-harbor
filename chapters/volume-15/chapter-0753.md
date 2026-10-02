@@ -70,7 +70,7 @@ The sheet with the fourteen gaps at the end stall stood all day with no figure m
 
 ---
 
-At about half past five on that Friday the whole of that day was put out loud at that stone, in about one thousand three hundred and ninety words, to about nine people, and about four of those nine had carried that cart down that lane at about two and had stood in that room at about half past four and read a board they had read before.
+That copy went down that lane in an open cart and at about half past five on that Friday the whole of that day was put out loud at that stone, in about one thousand three hundred and ninety words, to about nine people, and about four of those nine had carried that cart down that lane at about two and had stood in that room at about half past four and read a board they had read before.
 
 "**That cart went down that lane at about two with a man of about thirty-six driving it and the woman of thirty of no office walking at the near wheel, and about four of that nine walked at the far wheel because there is one handle on that cart and it is the wrong side for two. The copy went in three pieces and tied in oilcloth and one of the three pieces was the ferry's first minutes as anybody could read them and the other two were the hours of nine places in nine hands, and I went with that cart and wrote the hour it went out and the hour it came back and wrote no reason against either hour.**"
 

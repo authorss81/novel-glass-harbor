@@ -28,7 +28,7 @@ Nobody thanked anybody for listening, and nobody thanked anybody for writing. Th
 
 ---
 
-And at about half past five on that Wednesday the man who keeps the leaf took the shortfall out loud at that bench stone, in about nine hundred words, to about nine people, and about four of those nine had been on that mole at about half past four.
+About two minutes came in on two of the nine bells that afternoon and at about half past five on that Wednesday the man who keeps the leaf took the shortfall out loud at that bench stone, in about four hundred and fifty-five words, to about nine people, and about four of those nine had been on that mole at about half past four.
 
 "**About two minutes came in on two bells at about half past four, being the Morrow Line's and the Saltmarch Weatherway's, and the Morrow Line is dormant and is ringing anyway, which is that route's own right and not this yard's business. About four on that mole heard it and about two of those four have heard the public copy before and about two have not. It is a young man's voice and there is water in it and a bell going elsewhere, and it is not a warning and it is not a message and it does not ask anybody for anything.**
 

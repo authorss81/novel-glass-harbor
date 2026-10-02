@@ -58,7 +58,7 @@ The bell off that mole answered the bell off a shoal four days down that coast r
 
 ---
 
-The page came off its nail at about eleven in the morning and the reading went out at that bench stone at about half past five on that Friday in about nine hundred words to about nine people, and about four of those nine had been standing at the flat of that stone at about eleven.
+The page came off its nail at about eleven in the morning and the reading went out at that bench stone at about half past five on that Friday in about five hundred and seventy-one words to about nine people, and about four of those nine had been standing at the flat of that stone at about eleven.
 
 "**The sail was bent on and off again and the lead agreed with the harbour side, and that bell off that mole answered the bell off a shoal four days down that coast road at about half past ten and again at about three. At about eleven I took the page of days off its nail and set a column down whole against thirteen days and put the day and the hour against it and did not say anything out loud, and it is not in this slip and not in the first column in words, and beside it stands a refusal with the hour against it and no name against it.**
 

@@ -38,7 +38,7 @@ At about half past four the bell off that mole answered the bell off a shoal fou
 
 ---
 
-At about half past five on that Monday the shortfall went out loud at that bench stone in about nine hundred words to about nine people, and about four of those nine had watched that cistern take its eleventh trip at about eleven.
+That cistern took its eleventh trip at about eleven and at about half past five on that Monday the shortfall went out loud at that bench stone in about five hundred and ninety words to about nine people, and about four of those nine had watched that cistern take its eleventh trip at about eleven.
 
 "**That water in that butt lay still from nine until four under its covers, and it was drawn in eleven trips by hand between about eight and about eleven for the hundred and sixty-ninth time and walked on by none of it, and about four came for water after four and were served without waiting. The boards at the back of that market were busy by eleven with the ordinary trade, and none of the trade touched the water except to draw from it.**
 

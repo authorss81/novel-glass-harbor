@@ -66,7 +66,7 @@ The ordinary work of that Thursday went on and was not stopped by any of it, bei
 
 ---
 
-At about half past five on that Thursday the whole of that day was put out loud at that stone, in about one thousand three hundred and fourteen words, to about nine people, and about four of those nine had sat at that flat stone from about ten until about two and had watched a stranger count a page.
+Nine delegates of nine routes put twenty-one words on the face of a page and at about half past five on that Thursday the whole of that day was put out loud at that stone, in about one thousand three hundred and fourteen words, to about nine people, and about four of those nine had sat at that flat stone from about ten until about two and had watched a stranger count a page.
 
 "**Nine delegates of nine routes came into this shed at about ten and each of them came from a different place, and about four of that nine put a hand on that bell rope in their own harbor on their own bell on their own day in the last month, and about four of that nine came down that coast road, and about one of that nine had not left that harbor in six weeks. They came on the strength of their own communities' own pages and this yard sent for none of them and paid for the carriage of none of them, and I wrote the hour they came and the hour they went and wrote no reason against either hour.**"
 

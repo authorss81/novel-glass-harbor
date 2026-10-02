@@ -46,7 +46,7 @@ The sheet with the fourteen gaps at the end stall stood all day with no figure m
 
 ---
 
-At about half past five on that Thursday the whole of that day was put out loud at that stone, in about nine hundred and twenty-four words, to about nine people, and about four of those nine had stood at that flat stone at about two and watched a line go onto that sheet carrying a day that has not come yet.
+Line thirteen went onto that sheet with two days on its face and at about half past five on that Thursday the whole of that day was put out loud at that stone, in about nine hundred and twenty-four words, to about nine people, and about four of those nine had stood at that flat stone at about two and watched a line go onto that sheet carrying a day that has not come yet.
 
 "**That cistern went its eleventh trip at about eleven for the hundred and seventy-sixth time and the covers lay on it until about four, and a boy of this yard carried the last two trips up it and was not asked to do the other nine and was not asked why he carried two. I wrote the charge number and the hours and wrote beside them that a line was worked today and was not settled today and that the day it settles is named on the face of it.**"
 

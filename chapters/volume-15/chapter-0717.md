@@ -32,7 +32,7 @@ Nothing was said about that in the shed. The man of about thirty-two was told at
 
 ---
 
-The man who keeps the leaf read out the shortfall at that bench stone at about half past five on that Thursday, in about nine hundred words, to about nine people, four of whom cannot read a column, and about four of those nine had heard one sentence from the woman of about fifty-eight at about three.
+The man who keeps the leaf read out the shortfall at that bench stone at about half past five on that Thursday, in about five hundred and twenty-seven words, to about nine people, four of whom cannot read a column, and about four of those nine had heard one sentence from the woman of about fifty-eight at about three.
 
 "**The covers went on that cistern at about eleven and came off at about four, and about four people who came for water after four were served without waiting, and that was the hundred and sixty-fourth filling of it. Nine people met in a room at the Lowfen Reed at about ten this morning and read their own page out loud twice, and this yard was not in that room and did not send anybody, and the man of about thirty-two was asked whether he was going and said he was not.**
 

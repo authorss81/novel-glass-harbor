@@ -58,7 +58,7 @@ The ordinary work of that Saturday went on and was not stopped by any of it, bei
 
 ---
 
-At about half past five on that Saturday the whole of that day was put out loud at that stone, in about one thousand one hundred and fifty-five words, to about nine people, and about four of those nine had stood in front of that wall at about three and read four heads at one size.
+Glass and frames went into a case on that Saturday and at about half past five on that Saturday the whole of that day was put out loud at that stone, in about one thousand one hundred and fifty-five words, to about nine people, and about four of those nine had stood in front of that wall at about three and read four heads at one size.
 
 "**That Saturday's work was the case for a glass front and the two seats and the bench and the stove, and nine men were on it in two shifts and four of the second lay were learning the glass work off a man of about forty-five who has cut glass in this yard for nineteen years. The man of about thirty-two was ashore all day and went on no water, and he said out loud at about ten that he had not been asked to go down by anybody and that if he went down today it would be because he had chosen to and not because a page had it in a column.**"
 

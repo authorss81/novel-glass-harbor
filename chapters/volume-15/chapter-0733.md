@@ -54,7 +54,7 @@ The bell off that mole answered the bell off a shoal four days down that coast r
 
 ---
 
-At about half past five on that Saturday the finding and the change were read out at that bench stone in about nine hundred words to about nine people, and about four of those nine had stood at that stone since about half past nine in the morning.
+The plan was changed in the open at about half past three and at about half past five on that Saturday the finding and the change were read out at that bench stone in about five hundred and thirty words to about nine people, and about four of those nine had stood at that stone since about half past nine in the morning.
 
 "**A rule of wood lay along two sheets from half past nine until five, with the public copy on the left and the pressure bell sheet on the right. I read the hour of the public evacuation bell and then the mark of the live keel-line at the cut. The bell had already sounded at that hour. I read the mark of the second rescue line beside the cut, and it showed still active at that hour. I read the turn of a gloved hand toward that line before the cut, exactly as written, without touching the paper.**
 

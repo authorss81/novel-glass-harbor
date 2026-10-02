@@ -58,7 +58,7 @@ Nobody put the same words to the man of about thirty-two this day about going do
 
 ---
 
-At about half past five on that Saturday the reading went out in that room at Orison in about one thousand and sixty-two words to about nine people, and about four of those nine had been in that room since about ten, and the money sheet was not in that room and was not read in it.
+That room at Orison had the same nine in it from about ten and at about half past five on that Saturday the reading went out in that room at Orison in about one thousand and sixty-two words to about nine people, and about four of those nine had been in that room since about ten, and the money sheet was not in that room and was not read in it.
 
 "**The reason was written down at about half past ten this morning on the face of this landing in the hand of the man of about thirty-two, with the hour against it, in the same words as the one he wrote in June and again on the second of August, being one person held by the woman of about thirty-three with a watch on the surface against twenty-five minutes' worth of capacity, with a cutoff she can pull without asking, one person at a time and nobody twice in a day and nobody at the top of a flood and an ascent asked for not argued with. He went down at about eleven and the tender paid the line out arm over arm with her other hand on the cutoff and the spare glass in its wrap beside her. The man of about thirty-eight stood in this room with his hand on the rope where it comes through the wall, and the man of about fifty-six was on the other line in about nineteen fathoms and had not come off it since the thirtieth.**"
 

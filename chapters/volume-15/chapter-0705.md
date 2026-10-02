@@ -28,7 +28,7 @@ About four people in that nine said the reading of figures out loud was a new th
 
 ---
 
-And at about half past five on that Saturday the man who keeps the leaf took the shortfall out loud at that bench stone, in about nine hundred words, to about nine people, and about four of those nine had watched the total go down at about four.
+Line three was settled into the foot of that sheet on that Friday and at about half past five on that Saturday the man who keeps the leaf took the shortfall out loud at that bench stone, in about four hundred and eighty-two words, to about nine people, and about four of those nine had watched the total go down at about four.
 
 "**Line three was worked on Thursday and is settled this afternoon, because the work day and the settlement day on this run of days are always two days apart. The line is ninety yards at three pence the yard for two hundred and seventy, and two seats at eighteen pence for thirty-six, and a glass and a line for sixty, and four men at two days at sixteen pence a man-day for one hundred and twenty-eight, and those four are four hundred and ninety-four pence, being three marks, one shilling and twopence. The multiplication is printed at every one of the four parts and not only at the total, and I have said it out loud and written it under the line as well.**
 
