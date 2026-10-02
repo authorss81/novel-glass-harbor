@@ -51,7 +51,7 @@ Nothing went onto the face of anything in that yard today, and the page of days 
 
 About half past five on that Thursday the cistern came first in the reading, as it does on a rota day, and after it there was a question that had been put out loud in that yard eight hours before and had not been answered, and the whole of that went out at that stone in about seven hundred and seventy-four words to about nine people, and one of that nine had said nothing all day.
 
-"**The cistern at the back of that market was charged between about nine and about one and took fourteen men and fourteen trips, the water going in at the top and coming out at the bottom into a butt. The keeper wrote the hundred and eightieth against the day on that rota slate at about one and did not read it out, and that was the hundred and eightieth and the next of them is on Monday.**"
+"**That butt at the back of that market was charged between about nine and about one and took fourteen men and fourteen trips, the water going in at the top and coming out at the bottom into a butt. The keeper wrote the hundred and eightieth against the day on that rota slate at about one and did not read it out, and that was the hundred and eightieth and the next of them is on Monday.**"
 
 "**A man of about twenty-six of the harbor authority came into this yard at about eleven with a sheet of his own under his arm and read one line of it out loud, being the line that carries the name of that place, and then said out loud, to about nine, that a list of what is unclaimed has come to this coast and that there is a place named on it four days up this road, and he asked out loud whether anybody in this shed could speak for the Cinder Bell.**"
 

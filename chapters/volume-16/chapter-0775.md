@@ -65,9 +65,9 @@ Nobody was thanked for the leaf or for the two marks on it, and that page of tha
 
 ---
 
-About half past five on that Saturday a woman of about fifty-two stood three feet off that stone while the leaf she had carried four days down a coast road was given out at that stone, in about one thousand and eighty-three words, and she did not look at the floor once in the whole of it and did not say anything at all while it was being said.
+About half past five on that Saturday a woman of about fifty-two stood three feet off that stone while the leaf she had carried four days down a coast road was given out at that stone, in about one thousand and eighty-five words, and she did not look at the floor once in the whole of it and did not say anything at all while it was being said.
 
-"**The man of about thirty-eight of that landing went up that coast road at about seven this morning with a sheet of newsprint in his coat and a bag, and he was gone before the market filled. At about eleven a woman of about fifty-two came into this yard with a bag on her shoulder and nothing in it but one leaf folded in three, and she had come four days down that road and had slept two nights in a cart shed and one in a barn.**"
+"**That man of about thirty-eight of that landing went up that coast road at about seven this same morning with a sheet of newsprint in his coat and a canvas bag, and he was gone before the market filled. At about eleven a woman of about fifty-two came into this yard with a bag on her shoulder and nothing in it but one leaf folded in three, and she had come four days down that road and had slept two nights in a cart shed and one in a barn.**"
 
 "**She put that leaf on the flat of that bench stone and opened it at the fold and did not give it to anybody. It is the page that the people of the Cinder Bell keep of what they have given away, and it is written in six hands and the six hands are six people of that place and no name is written under any one of the six. The top line of it says that in the month of April the people of that place gave a bell to the Ashtide Run for its use, the six hands are against that line, and no claim of ownership is written anywhere on that leaf because that community never kept one.**"
 

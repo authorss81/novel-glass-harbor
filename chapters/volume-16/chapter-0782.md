@@ -26,7 +26,7 @@ The keeper read him the foot of that sheet as it stood before that day's settlem
 
 At about four line five went into the foot of that sheet and the five parts were read with their multiplications before the sum went down, and he read them into about nine people and read the last of the five twice, once into the shed and once out towards the step for the men that had come in off the market late.
 
-Two days of a boat hired at the figure in chalk is two times one hundred and sixty-eight for three hundred and thirty-six pence. Coal and oil for two days is forty pence. Thirty yards of line at three pence the yard is thirty times three for ninety pence. A case and four nails at thirty pence is thirty pence. Six men at two days at sixteen pence a man-day is six times two times sixteen for one hundred and ninety-two pence.
+The five parts of that line are two days of a boat hired at the figure in chalk at two times one hundred and sixty-eight for three hundred and thirty-six pence, coal and oil for two days at forty pence, thirty yards of line at three pence the yard at thirty times three for ninety pence, a case and four nails at thirty pence, and six men at two days at sixteen pence a man-day at six times two times sixteen for one hundred and ninety-two pence.
 
 And three hundred and thirty-six and forty and ninety and thirty and one hundred and ninety-two is six hundred and eighty-eight pence, being four marks and four shillings.
 

@@ -59,7 +59,7 @@ The keeper ruled the line where the fortnight goes in and wrote nothing into it,
 
 About half past five on that Monday nothing was read out loud at that stone until half past five, and when it was it went on for about nine hundred and seventeen words, and the cistern was in it at the front and a fortnight of a bell was in the middle and there was no figure of money anywhere in it.
 
-"**The cistern at the back of that market was charged between about nine and about one for the hundred and eighty-first time, fourteen men and fourteen trips, and the keeper wrote the hundred and eighty-first against the day on that rota slate at about one and did not read it out, and the next charge of that rota is on Thursday.**"
+"**That cistern at the back of that market was charged between about nine and about one for the hundred and eighty-first time, fourteen men and fourteen trips, and the keeper wrote the hundred and eighty-first against the day on that rota slate at about one and did not read it out, and the next charge of that rota is on Thursday.**"
 
 "**At about two a woman of about fifty-two was in this yard with about nine people round the flat of that bench stone, and she said out loud that her community had decided a thing at four o'clock on Friday morning before she left, and that what it had decided was that the bell on that stretch is to be let go. She said out loud that let go means out of service and not rung, and that it goes out at daybreak on Thursday the eighth of September and is back at daybreak on Thursday the twenty-second, being fourteen days out.**"
 
