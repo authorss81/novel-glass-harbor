@@ -46,7 +46,7 @@ The sheet with the fourteen gaps at the end stall stood all day with no figure m
 
 ---
 
-At about half past five on that Tuesday the whole of that day was put out loud at that stone, in about nine hundred and thirty-four words, to about nine people, and about four of those nine had stood at the lid of that step at about ten and heard twenty-six lines read out and not moved.
+At about half past five on that Tuesday the whole of that day was put out loud at that stone, in about nine hundred and thirty-six words, to about nine people, and about four of those nine had stood at the lid of that step at about ten and heard twenty-six lines read out and not moved.
 
 "**That column was read at about ten in four minutes by a man of about thirty-one of the second lay and it came to twenty-six lines and one hundred and four marks and it did not move, and that is the reading of the ninety-fourth of those eight Tuesdays and the last of them. The further week stood fallen due at the close of that reading and the reading was not asked for a second time, and the chest with the twenty envelopes in it was shut from ten until four and nobody put a hand on that lid at any hour of this day.**"
 
