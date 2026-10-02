@@ -16,7 +16,7 @@ The man of about thirty-two came in at about two off that quay and did not sit d
 
 ---
 
-He said the thing out loud in about eight hundred and ninety-five words were that he is not going to write the correction, and that the reason is that a correction in his hand is a correction this coast will believe because he is in it, and he is in it, and that in fourteen runs of days he has been a man people believe things because of and he has not once used that and he is not going to start on a day when a community is out of one hundred and sixty-eight pence because of him.
+He said the thing out loud in about nine that he is not going to write the correction, and the reason is that a correction in his hand is a correction this coast will believe because he is in it, and he is in it, and that in fourteen runs of days he has been a man people believe things because of and has not once used that, and he is not going to start on a day when a community is out of one hundred and sixty-eight pence because of him.
 
 About four of that nine said nothing and about four said that was right and nobody said either was wrong.
 
@@ -56,7 +56,7 @@ And a hundred and sixty-eight pence went out of that yard at about four and a hu
 
 ---
 
-About half past five on that Friday the reading took longer than the days either side of it, in about eight hundred and seventy-nine words said at that stone at about half past five to about nine people, and about four of those nine had not said anything all day.
+About half past five on that Friday the reading took longer than the days either side of it, in about eight hundred and ninety-five words said at that stone at about half past five to about nine people, and about four of those nine had not said anything all day.
 
 "**The two copies were on that bench stone again from about ten and the four parts on their faces are the same four parts and the totals at their feet are one day of hire apart. The man of about thirty-two came in at about two off that quay, did not sit down, asked the keeper for the pen and then did not take it.**"
 
