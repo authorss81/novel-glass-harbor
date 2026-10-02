@@ -43,7 +43,7 @@
 | 775 | Saturday the third day | 15 | 508 / 2,414 | 273 | 188 | the people of that place come back with a hand and not with a case, and the Assembly is not the body that decides anything and is not asked to |
 | 776 | Sunday the fourth day | 16 | 509 / 2,419 | 274 | 189 | **a wipe, the hundred and twenty-second, 39/26/39 = 104** |
 | 777 | Monday the fifth day | 17 | 510 / 2,424 | 275 | 190 | **a rota day, the hundred and eighty-first charge; a bell is let go for a fortnight and the fortnight is paid for out of that community's own page** |
-| 778 | Tuesday the sixth day | 18 | 511 / 2,429 | 276 | 191 | **the ninety-sixth wage Tuesday, the column unmoved, a further week fallen due** |
+| 778 | Tuesday the sixth day | 18 | 511 / 2,429 | 276 | 191 | **the ninety-seventh wage Tuesday, the column unmoved, a further week fallen due** |
 | 779 | Wednesday the seventh day | 19 | 512 / 2,434 | 277 | 192 | the fortnight is entered in that community's own hand with a figure in it that is not a figure of money |
 | 780 | Thursday the eighth day | 20 | 513 / 2,439 | 278 | 193 | **a rota day, the hundred and eighty-second charge**; two figures in two places' own hands, both printed, and the difference stated by a stranger with a pencil; **your movement closes and the second-hand column is not summed** |
 
@@ -88,4 +88,4 @@ Quote parity even on every file; bold parity even on every file; the second pers
 
 `state/continuity.md`, then `state/open-threads.md`, then `state/current.md`, then `state/chapter-summaries.md`, then `state/volume-index.md`. **`state/phase-ledger.json` IS THE CONTROLLER'S FILE AND IS NOT READ, NOT EDITED AND NOT REPORTED AS EVIDENCE OF ANYTHING BY THIS PASS.**
 
-**AFTER THIS BATCH, CREATE EXACTLY ONE NEXT PHASE PROMPT AND NO MORE, AT `workspace/volume-16/batch-0003/PROMPT.md`, FOR CHAPTERS 781 TO 790, MOVEMENT 3, FRIDAY THE ELEVENTH DAY OF SEPTEMBER TO SUNDAY THE TWENTIETH. MOVEMENT 3 CARRIES THE MIDPOINT REVERSAL ON CHAPTER 785 AND THE NEW QUESTION ONCE, IN A MOUTH, ON CHAPTER 787, AND IT CLOSES ON THE COUNT OF THE WITHDRAWN.**
+**AFTER THIS BATCH, CREATE EXACTLY ONE NEXT PHASE PROMPT AND NO MORE, AT `workspace/volume-16/batch-0003/PROMPT.md`, FOR CHAPTERS 781 TO 790, MOVEMENT 3, **WHOSE TEN DAYS ARE FRIDAY THE NINTH DAY OF SEPTEMBER TO SUNDAY THE EIGHTEENTH AND NOT THE ELEVENTH TO THE TWENTIETH, ON THE RULING AT `state/continuity.md` SECTION 7 OF THE HEAD, WHICH THE PROMPT FOR THAT MOVEMENT CARRIES IN FULL.** MOVEMENT 3 CARRIES THE MIDPOINT REVERSAL ON CHAPTER 785 AND THE NEW QUESTION ONCE, IN A MOUTH, ON CHAPTER 787, AND IT CLOSES ON THE COUNT OF THE WITHDRAWN.**
