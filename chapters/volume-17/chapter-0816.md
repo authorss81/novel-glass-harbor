@@ -1,6 +1,6 @@
 # Chapter 816
 
-*Friday the Fourteenth Day of October, the Sixth Day, the Line of the Twelfth Settling at About Four and the Foot of That Sheet Read After the Settlement and Standing at One Hundred and Twenty-Seven Thousand and Eight Hundred and Forty-Eight Out and One Hundred and Seventeen Thousand One Hundred and Twenty-Eight Short, the Man of About Thirty-Two Saying Out Loud at About Three to About Four People That He Has Been the Person a Page-Holder Looks At When a Page Has a Gap in It, the Bag at Twenty-Eight Pence, the First Column at Five Hundred and Forty-Nine and the Second at Two Thousand Six Hundred and Nineteen*
+*Friday the Fourteenth Day of October, the Sixth Day, the Line of the Twelfth Settling at About Four and the Foot of That Sheet Read After the Settlement and Standing at One Hundred and Twenty-Seven Thousand and Seven Hundred and Sixty-Eight Out and One Hundred and Seventeen Thousand One Hundred and Twenty-Eight Short, the Man of About Thirty-Two Saying Out Loud at About Three to About Four People That He Has Been the Person a Page-Holder Looks At When a Page Has a Gap in It, the Bag at Twenty-Eight Pence, the First Column at Five Hundred and Forty-Nine and the Second at Two Thousand Six Hundred and Nineteen*
 
 Friday the fourteenth day of October, with that market open from six and a hard bright morning with a swell getting up outside that mole head and the spray coming over it about every fourth sea, a yard below that market with a shed standing in it, and about nine people standing in that shed at half past five that afternoon.
 

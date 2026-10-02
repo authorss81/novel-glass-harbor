@@ -12,7 +12,7 @@ Tuesday the eleventh day of October, with that market open from six and rain com
 
 The keeper read the column on the lid of that step at about ten, standing over it, with about four of that nine behind him and the rest of that nine going about their own work and not stopping for it.
 
-The column stands at twenty-six lines and one hundred and four marks. A hundred and four marks is one hundred and sixty-six pounds, being one hundred and sixty times one hundred and four, and it has stood at that figure since before this run of days began and it stands at that figure now, and the twenty-sixth line on that column is the twenty-sixth line and there is no twenty-seventh. A further week stands fallen due at its close and the hundred and third of those weeks has now fallen due, and there is no envelope against any of them and there has not been for a long time.
+The column stands at twenty-six lines and one hundred and four marks. A hundred and four marks comes to sixty-nine pounds, six shillings and eightpence, at a hundred and sixty pence to the mark, and it has stood at that figure since before this run of days began and it stands at that figure now, and the twenty-sixth line on that column is the twenty-sixth line and there is no twenty-seventh. A further week stands fallen due at its close and the hundred and third of those weeks has now fallen due, and there is no envelope against any of them and there has not been for a long time.
 
 He read the figure and the count of lines and the further week and nothing else. Nobody asked him a question about it, because nobody asks him a question about it on a Tuesday, because it is the same figure every Tuesday, and about four of that nine have stopped hearing it and two of that nine never heard it at all.
 
