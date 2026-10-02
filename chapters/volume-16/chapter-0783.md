@@ -58,7 +58,7 @@ She said out loud that she had not come to have anything and had come to have sa
 
 ---
 
-About half past five on that Sunday the day's whole was said at that stone standing up, in about one thousand one hundred and forty-one words, and the wipe came first in it and the marks came last and nothing was read out twice.
+About half past five on that Sunday the day's whole was said at that stone standing up, in about one thousand one hundred and thirty-eight words, and the wipe came first in it and the marks came last and nothing was read out twice.
 
 "**The wall behind that reeve's bench came down at about half past ten and went up at a quarter to one and stood bare twenty-seven minutes, and the three men who do that work took forty minutes each way, which is a minute longer each way than they took last Sunday, and nobody in this harbor has said why. The plaster behind it showed a rectangle of a different colour and the second man wiped his hand across the bottom of the new render before he stepped down, the same as he does, and the whole lane smelled of it for about two hours after the bar went up.**"
 

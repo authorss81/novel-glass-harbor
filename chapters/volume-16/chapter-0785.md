@@ -74,7 +74,7 @@ The man of about thirty-one of the second lay said out loud that that is the fau
 
 ---
 
-At about half past five the day was said at that stone in about one thousand three hundred and sixty-six words, and the copying book was read out of and not out of a speech, and the drawer was not opened, and the further week fell due at the close of that day with the column where it was.
+At about half past five the day was said at that stone in about one thousand three hundred and seventy words, and the copying book was read out of and not out of a speech, and the drawer was not opened, and the further week fell due at the close of that day with the column where it was.
 
 "**The column on the lid of that step was read out at about ten and it took four minutes, and it was read by the keeper and not by anybody else, and about four of that nine could read it themselves and about four stood where they could not. It stands at twenty-six lines and one hundred and four marks. It did not move. The chest with the twenty envelopes in it was shut from ten until four and the keeper had the key on him the whole of that time and did not once put it in his pocket to get at it.**"
 

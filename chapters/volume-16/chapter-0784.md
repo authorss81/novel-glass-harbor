@@ -52,7 +52,7 @@ The bell of the Cinder Bell is on the fifth day of being out of service and nobo
 
 ---
 
-About half past five on that Monday the day's whole was put out at that stone in about one thousand and fifty-five words, and the charge came first in it, because it came first in the yard, and the sheet that came off that board came last, and nothing was read out twice.
+About half past five on that Monday the day's whole was put out at that stone in about one thousand and sixty-one words, and the charge came first in it, because it came first in the yard, and the sheet that came off that board came last, and nothing was read out twice.
 
 "**The cistern went at about nine and took fourteen men and fourteen trips, and it was walked on by none of them, and the last man down came back with the empty can and did not look at the gauge, and the butt stood short at the end of it again and had a skin on it by about one. The keeper wrote the hundred and eighty-third against the day on that rota slate at about one with a stub of pencil and did not read it out, and about four of that nine were in the shed at that hour and heard the pencil and not the figure.**"
 

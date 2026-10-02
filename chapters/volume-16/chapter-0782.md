@@ -60,7 +60,7 @@ About four of that nine said out loud that the money had moved that day by six h
 
 ---
 
-At about half past five on that Saturday the day was said at that stone in about one thousand two hundred and sixty-nine words, and the last figure of that day was read before the first question of it, and nothing was read out twice.
+At about half past five on that Saturday the day was said at that stone in about one thousand two hundred and seventy-two words, and the last figure of that day was read before the first question of it, and nothing was read out twice.
 
 "**The yard did its ordinary work and the only thing in it that was not ordinary was the hour, because the hour had been named on a line since Thursday and the Saturday had been named with it twice, and about four people in that shed had told two other people outside it. The bell of the Cinder Bell is on the third day of being out of service and out of service is the whole of it, and nobody in this harbor has rung it and nobody in this harbor has asked anybody else to do without it.**"
 
