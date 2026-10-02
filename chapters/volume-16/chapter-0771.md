@@ -9,34 +9,37 @@ Tuesday the thirtieth day of August, with that market open from about nine and a
 **Nine counters were carried to the close of this eleventh day. That notice of the seventeenth of May past is on its four hundred and sixty-ninth day. That bellwright of this harbor has now gone four hundred and seventy-first days with nobody asking him anything and his chest is shut and stays shut. Those two objects belonging to nobody on that crown are into the eight hundred and ninth day of themselves. That bench under that pump has now stood bare for the five hundred and seventy-fifth night running. Two lights about a mile off that point have gone three hundred and ninety-third days and no figure is set against them. That six-line sheet at the back of that end stall has reached the three hundred and forty-eighth day of its standing. That paper of four lines in Fish Street is on the three hundred and sixty-third day. That nine-line sheet with a mark on it in that front street has stood three hundred and eightieth day. And a man of about fifty-one has kept four hundred and eleventh days of saying nothing to anybody about a page of six names. The middle of those four columns stands empty with nobody set over it; a boy's hand of twenty-two is written at the head of it, that boy's surname is on no page, and he is off the water. The fourth of the four stands at one hundred and twenty-five, has taken no line into it, and is neither shut nor struck. Nine hulls lie about two sea miles off that mole head and nine lay there on the twenty-first of January, and this harbor has not said a word about any of them easing. A man of about twenty-nine hears out of the left side of his head and it is two hundred and sixty-nine days today, one more than the day before, no figure is set against it, and he is not on the water.**
 
 ---
-
-The man of about thirty-eight of that landing came up that coast road and into that yard at about eleven with a bundle of oiled cloth under one arm, and he had been three days on the road with it and had not slept in a room with it.
-
-He put the bundle down on the flat of that bench stone and unwrapped it himself, and inside the cloth there were eleven sheets tied with a string through two holes in the top one, and he cut the string and put it in his own pocket and did not throw it down.
+The man of about thirty-eight of that landing came up that coast road and into that yard at about eleven with a bundle of oiled cloth under one arm. He had been three days on the road with it and had not slept in a room with it, and the cloth had gone grey at the fold and the tar had come through it in two places, and there was salt in the seams of his coat that came off on the stone when he set the bundle down. He put the bundle down on the flat of that bench stone and unwrapped it himself, and inside the cloth there were eleven sheets tied with a string through two holes in the top one. He cut the string and put it in his own pocket and did not throw it down.
 
 ---
 
-The head of that top sheet carries four printed lines and they are the whole of the printing on it. The first says that what is inside is a copy. The second says that the copy was made at a place on this coast in the month of June and that where a harbor works from a copy the copy is what it works from. The third says that the binding is of eleven sheets and that the list is the fourth of them counted from the top. The fourth is at the foot of that sheet, and it carries a seal with a name written under it.
+The head of that top sheet carries four printed lines and they are the whole of the printing on it. The first says that what is inside is a copy; the second says that the copy was made at a place on this coast in the month of June and that where a harbor works from a copy the copy is what it works from; the third says that the binding is of eleven sheets and that the list is the fourth of them counted from the top. The fourth is at the foot of that sheet, and it carries a seal with a name written under it.
 
-Nobody in that yard read that name out. The keeper laid his thumb flat on the line beneath it, took it off again, and wrote nothing about it on the page of that week.
+Nobody in that yard read that name out. The keeper laid his thumb flat on the line beneath it, took it off again, and wrote nothing about it on the page of that week, and after that he wiped his thumb down his coat as if he had touched something hot, and nobody remarked on that either.
 
 ---
 
-At about ten the column on the lid of that step was read out in four minutes by a man of about thirty-one of the second lay and it stands at twenty-six lines and one hundred and four marks, and it does not move.
-
-The chest with the twenty envelopes in it was shut from ten until four, and about two people came to the door of that office in that hour and one of the two went away again.
+At about ten the column on the lid of that step was read out in four minutes by a man of about thirty-one of the second lay and it stands at twenty-six lines and one hundred and four marks, and it does not move. The chest with the twenty envelopes in it was shut from ten until four, and about two people came to the door of that office in that hour and one of the two went away again.
 
 A further week stands fallen due at the close of that day and would fall due again on the sixth, and nothing was paid and nothing was advanced and nothing was cut back.
 
 ---
 
-The man of about thirty-eight said out loud, to about four, that the man who put the bundle into his hands on the Monday had said out loud that nobody can send anybody anywhere with a piece of paper, and that a copy is the thing a harbor works from, and that a harbor wanting the other one will be sitting a long time and will not be doing anything else while it sits.
+The man of about thirty-eight said out loud, to about four, that the man who put the bundle into his hands on the Monday had said out loud that nobody can send anybody anywhere with a piece of paper, and that a copy is the thing a harbor works from, and that a harbor wanting the other one will be sitting a long time and will not be doing anything else while it sits. "He said it three times on the quay," the man said. "I have been walking on it for three days and it has not got worse, and I would rather it did."
 
 The woman of thirty of no office was in that yard at about half past eleven and said out loud that a thing nobody can be sent for is a thing that has to be worked from as it stands, and that she would rather have eleven sheets in a drawer in this shed than not have them.
 
 ---
 
 The man of about thirty-two said out loud that he was not going to have the inside of that bundle read out in a shed with nine people standing in it at eleven in the morning, and that a list of that kind is read once in a working place and is not read a second time anywhere afterwards.
+
+"Once," said the woman of thirty of no office. "Not twice, and not in a bigger room next week."
+
+"That is the whole of what I am asking for."
+
+"That is the whole of what you asked for in June as well, and we got it." She laid one finger on the corner of the top sheet and did not lift it again. "It is a hand and not a case, and this yard is not a court, and if the two of us spend the winter over who may hold a piece of paper in this shed, then somebody four days up that road keeps a bell and nobody here keeps anything at all."
+
+The man of about thirty-two did not answer her. He had put his own hand flat on that sheet and had not turned it, and he knew what a shed of nine people does with a list, which is to take the second line and hear it as a charge against a man, and by the time the fourth line is read the first line has decided what the yard thinks about whoever handed it over. He had watched a page of this harbor's own go round a bar with a number on it that nobody in the boat could check. He was not going to put a second one in front of nine men at eleven in the morning because the morning had been quiet.
 
 Nothing was read out of it that day. The keeper wrote the four printed lines from the head of that top sheet onto the page of that week in his own hand and wrote nothing else, and the eleven sheets went into a drawer in that shed with the string laid in beside them.
 
@@ -46,15 +49,13 @@ That drawer is not the drawer on a hill and it is not on any page, and it is not
 
 At about two two marks went onto the face of that top sheet, one above the other and neither of them near the foot of it.
 
-The first is a man of about thirty-one of the second lay and he gave his reason out loud, being that a sheet which has come into this harbor and been looked at by nobody is a sheet that will be described out of memory in a month, and that memory is a poor copy of anything.
-
-The second is a man of about forty-five of that market and he gave his reason out loud, being that he put his hand on the head of the thing and not on the list, because the head is the part that says what the thing is, and if the head is wrong everything printed under it is a list of nothing.
+The first is a man of about thirty-one of the second lay and he gave his reason out loud, being that a sheet which has come into this harbor and been looked at by nobody is a sheet that will be described out of memory in a month, and that memory is a poor copy of anything. The second is a man of about forty-five of that market and he gave his reason out loud, being that he put his hand on the head of the thing and not on the list, because the head is the part that says what the thing is, and if the head is wrong everything printed under it is a list of nothing.
 
 Two marks are two hands that are not the hand that printed it. A mark is not an approval and a mark is not a signature and a mark is not a person, and the page of days carries two against the said day.
 
 ---
 
-The wall of that room over a chandler's store stood empty all day with the nail-holes in it, and the board that hangs beside that wall stood empty from the same hour, and both have stood empty since the fourteenth of August, and nothing went up on either of them and nothing was said about either of them and neither is on any page.
+The wall of that room over a chandler's store stood empty all day with the nail-holes in it, and the board that hangs beside that wall stood empty from the same hour, and both have stood empty since the fourteenth of August, and nothing went up on either of them and nothing was said about either of them and neither is on any page. There was a draught at that visitor's door all day and the four nails went in and out of their holes a little in it, and the light came off the plaster at about four and went along the floor towards the step.
 
 That shed did its ordinary work and nobody in it touched that fitting-out sheet, and that page of that week had thirty-one lines on it.
 

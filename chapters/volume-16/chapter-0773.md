@@ -9,14 +9,13 @@ Thursday the first day of September, with that market open from about nine and a
 **Nine counters were carried to the close of this thirteenth day. That notice of the seventeenth of May past is on its four hundred and seventy-first day. That bellwright of this harbor has now gone four hundred and seventy-third days with nobody asking him anything and his chest stays shut. Those two objects belonging to nobody on that crown are into the eight hundred and eleventh day of themselves. That bench under that pump has now stood bare for the five hundred and seventy-seventh night running. Two lights about a mile off that point have gone three hundred and ninety-fifth days and no figure is set against them. That six-line sheet at the back of that end stall has reached the three hundred and fiftieth day of its standing. That paper of four lines in Fish Street is on the three hundred and sixty-fifth day. That nine-line sheet with a mark on it in that front street has stood three hundred and eighty-second day. And four hundred and thirteenth days have gone by with a man of about fifty-one saying nothing to anybody about a page of six names. There is a boy's hand of twenty-two at the head of the middle one of those four columns and there is nothing under it and nobody over it; his surname is on no page and he is off the water. One hundred and twenty-five is what the fourth of those four stands at, and it has taken no line into it and is neither shut nor struck. Nine hulls lie about two sea miles off that mole head and nine lay there on the twenty-first of January, and this harbor has not said a word about any of them easing. Two hundred and seventy-one days is how long a man of about twenty-nine has heard nothing out of the left side of his head, one more than the day before, with no figure set against it, and he is not on the water.**
 
 ---
+The cistern at the back of that market was charged between about nine and about one and it took fourteen men and fourteen trips and the water went in at the top and came out at the bottom into a butt. The butt filled twice over and the second filling went into a second butt that has been standing under that wall since the spring and is not on any page.
 
-The cistern at the back of that market was charged between about nine and about one and it took fourteen men and fourteen trips and the water went in at the top and came out at the bottom into a butt.
-
-The keeper wrote the hundred and eightieth against the day on that rota slate at about one and did not read it out, and that was the hundred and eightieth and the next of them is on Monday.
+The keeper wrote the hundred and eightieth against the day on that rota slate at about one and did not read it out, and that was the hundred and eightieth and the next of them is on Monday. Two of the fourteen were late and came in at about eleven and neither of them was struck off and the count of the fourteen is the fourteen.
 
 ---
 
-A man of about twenty-six of the harbor authority came into that yard at about eleven with a sheet of his own under his arm and stood a step off the flat of that bench stone and read one line of it out loud, being the line that carries the name of that place.
+A man of about twenty-six of the harbor authority came into that yard at about eleven with a sheet of his own under his arm and stood a step off the flat of that bench stone and read one line of it out loud, being the line that carries the name of that place. He read it the way a man reads a street.
 
 Then he said out loud, to about nine, that a list of what is unclaimed has come to this coast and that there is a place named on it four days up this road, and he asked out loud whether anybody in that shed could speak for the Cinder Bell.
 
@@ -24,7 +23,11 @@ Then he said out loud, to about nine, that a list of what is unclaimed has come 
 
 The keeper said out loud, before anybody else in that yard had found a place to stand, that nobody in that shed may speak for a place that has not asked to be spoken for, and that a route and a panel and an account are not represented in this harbor by anybody who has not asked to be represented.
 
-Nobody in that shed spoke for the Cinder Bell.
+Nobody in that shed spoke for the Cinder Bell, and the question stood in the middle of that shed with nobody in it for the better part of an hour.
+
+The man of about twenty-six said out loud at about half past eleven, in about four, that the Assembly has a room for exactly this and that a harbor that lets a question stand unanswered in a shed has made a room out of a shed.
+
+The keeper said out loud that he knows it, and that the Assembly has a room and that it decides no contested claim and that it cannot send anybody anywhere, and that if the Cinder Bell wants a room it may have the room and may keep its own name on the door. "And that is the whole of what this harbor has to give a place four days up that road," he said. "A room that cannot do anything, and an answer to a question, on one line, and never the two." 
 
 The man of about twenty-six said out loud that a harbor cannot be a party to a thing by having its man say nothing, and the keeper said out loud that a harbor can be a party to a thing by having its man say nothing for long enough for that place to send somebody of its own choosing.
 
@@ -36,7 +39,7 @@ At about half past eleven a man of about thirty-one of the second lay said out l
 
 ---
 
-The man of about thirty-two was in that yard at about twelve and said out loud one sentence, being that a place four days up that road does not need this harbor to speak for it, and that if it wants a word said it will send somebody who can be asked a question.
+The man of about thirty-two was in that yard at about twelve and said out loud one sentence, being that a place four days up that road does not need this harbor to speak for it, and that if it wants a word said it will send somebody who can be asked a question. He said it to the yard and not to the man of about twenty-six, and he said it once, and he had a whole page behind his own teeth all afternoon and did not use any of it.
 
 The woman of thirty of no office said out loud that the page of that week carries the question and the answer to it in that order and that the answer is on the same line, and that a page which printed the question without the answer would be a page that only a body could use.
 
@@ -44,7 +47,7 @@ The woman of thirty of no office said out loud that the page of that week carrie
 
 Nothing went onto the face of anything in that yard today, and the page of days carries no figure in the second-hand column against this day, and a day with no figure in it is not a zero and is nowhere on it.
 
-Nobody was thanked for the charge and nobody was thanked for the question that was not answered, and that shed stood empty by about six, and that page of that week had twenty-nine lines on it.
+Nobody was thanked for the charge and nobody was thanked for the question that was not answered
 
 ---
 

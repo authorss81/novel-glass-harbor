@@ -9,10 +9,9 @@ Saturday the third day of September, with that market open from about nine and a
 **Nine counters were carried to the close of this fifteenth day. That notice of the seventeenth of May past is on its four hundred and seventy-third day. That bellwright of this harbor has now gone four hundred and seventy-fifth days with nobody asking him anything and his chest stays shut. Those two objects belonging to nobody on that crown are into the eight hundred and thirteenth day of themselves. That bench under that pump has now stood bare for the five hundred and seventy-ninth night running. Two lights about a mile off that point have gone three hundred and ninety-seventh days and no figure is set against them. That six-line sheet at the back of that end stall has reached the three hundred and fifty-second day of its standing. That paper of four lines in Fish Street is on the three hundred and sixty-seventh day. That nine-line sheet with a mark on it in that front street has stood three hundred and eighty-fourth day. And a man of about fifty-one has now kept four hundred and fifteenth days of silence about a page of six names. Under the middle of those four columns there is nothing and over it there is nobody, and the hand at its head is a boy's of twenty-two with his surname on no page, and he is off the water. Nothing has been entered in the fourth of those four, which stands at one hundred and twenty-five, and it has neither been shut nor struck. Nine hulls lie about two sea miles off that mole head and nine lay there on the twenty-first of January, and this harbor has not said a word about any of them easing. Nothing has come out of the left side of the head of a man of about twenty-nine for two hundred and seventy-three days now, one more than the day before, no figure is set against it, and he is not on the water.**
 
 ---
+The man of about thirty-eight of that landing went up that coast road at about seven that morning with the sheet of newsprint in his coat and a bag, and he was gone before the market filled. He took the tide and the low road and said out loud at the gate that he would be at the market on the Monday and about four in the afternoon.
 
-The man of about thirty-eight of that landing went up that coast road at about seven that morning with the sheet of newsprint in his coat and a bag, and he was gone before the market filled.
-
-At about eleven a woman of about fifty-two came into that yard with a bag on her shoulder and nothing in it but one leaf folded in three, and she had come four days down that road and had slept two nights in a cart shed and one in a barn.
+At about eleven a woman of about fifty-two came into that yard with a bag on her shoulder and nothing in it but one leaf folded in three, and she had come four days down that road and had slept two nights in a cart shed and one in a barn. Her boots had been resoled twice and the second pair had given out at the second barn, and she had walked the last day in the shoes she had and had about a blister on the heel of the left one.
 
 ---
 
@@ -20,21 +19,25 @@ She put the leaf on the flat of that bench stone and opened it at the fold and d
 
 Nobody in that yard asked her what the fold was for, because the fold was hers and had been hers since the morning, and she had carried it four days with her thumb on it. She had read that page in a room with a stove in it and in a barn and on a cart seat, and she had read it looking for a figure that was not in it, and she had put it away again twice a day to see whether it would still be the same page when she opened it, and it had been, and that had been the whole of what she had come to find out and she could not have said so to anybody in that shed.
 
-It is the page that the people of the Cinder Bell keep of what they have given away, and it is written in six hands and the six hands are six people of that place and no name is written under any one of the six.
+It is the page that the people of the Cinder Bell keep of what they have given away, and it is written in six hands and the six hands are six people of that place and no name is written under any one of the six. The ink of the top hand is brown and the ink of the bottom hand is black, and the fold runs across the third line and through the middle of nothing.
 
 The top line of it says that in the month of April the people of that place gave a bell to the Ashtide Run for its use, and the six hands are against that line, and no claim of ownership is written anywhere on that leaf because that community never kept one.
 
 ---
 
-She said out loud, to about nine, that she has brought a hand and not a case, and that a case is a thing with an argument in it and a body to put the argument to, and that this yard is not that body and this yard has not been asked to be it.
+She said out loud, to about nine, that she has brought a hand and not a case, and that a case is a thing with an argument in it and a body to put the argument to, and that this yard is not that body and this yard has not been asked to be it. She put her own hand flat on the leaf when she said it, over the six hands and not over the line above them.
 
 She said out loud that her community is not asking this harbor to speak for it and is not sending anybody here to be spoken for, and that if that community wants a word said on this coast it will write it down and carry it itself and it will not be said by a person standing in this shed.
 
+"I have come four days to put one leaf on a board," she said. "If I wanted a mouth I would have asked this harbor for one on the Friday and I would have had one by the Saturday."
+
+A man of about forty-five of that market said out loud that this yard is the wrong place for a thing like that, and that a page that travels four days ought to travel into a room and not into a shed, and the woman of about fifty-two said out loud that a room in this harbor decides nothing and that a shed at least reads it out at half past five. 
+
 ---
 
-The man of about thirty-four of the second lay was in that yard at about half past eleven and was not asked anything, and nobody said out loud that he was not to be asked anything, because by that day nobody in that yard was in the habit of asking him.
+The man of about thirty-four of the second lay was in that yard at about half past eleven and was not asked anything, and nobody said out loud that he was not to be asked anything, because by that day nobody in that yard was in the habit of asking him. He stood where he could see the leaf without being able to reach it, and the woman of about fifty-two did not look at him and did not move the leaf towards him.
 
-At about twelve the man of about twenty-six of the harbor authority said out loud that a matter of that kind could be put to the Open Keel Assembly, and that there is a charter and a page of days and anybody may read the charter in that market at any hour.
+At about twelve the man of about twenty-six of the harbor authority said out loud that a matter of that kind could be put to the Open Keel Assembly, and that there is a charter and a page of days and anybody may read the charter in that market at any hour. About four of that nine looked at the man of about thirty-four when he said it and about four did not.
 
 The keeper said out loud that the Assembly decides no contested claim, that it binds nobody who has not signed it, that it cannot send anybody anywhere, and that nobody in that yard has asked it to do anything this week and it has not been asked.
 
@@ -42,13 +45,13 @@ The keeper said out loud that the Assembly decides no contested claim, that it b
 
 At the foot of that leaf, under the six hands, there is a figure printed and it is not money.
 
-It is the count of a season on that stretch as the people of that place keep it, and it is two hundred and thirty-eight days, and it is printed with the day it was last counted and the hand that counted it in, and it was counted on the last day of August.
+It is the count of a season on that stretch as the people of that place keep it, and it is two hundred and thirty-eight days, and it is printed with the day it was last counted and the hand that counted it in, and it was counted on the last day of August. The figure is smaller than the six hands and it sits at the right-hand corner, and nobody who came into that yard that day put a thumb on it.
 
 A man of about thirty-eight of that market said out loud at about half past twelve that a figure like that on a page is only worth what the place that keeps it says it is worth, and that nobody in this yard has any standing to say that it is the wrong count.
 
 ---
 
-At about half past three two marks went onto the face of that leaf, and both of them were put there before it went anywhere.
+At about half past three two marks went onto the face of that leaf, and both of them were put there before it went anywhere. They were put with the same two thumbs and on the same two lines, and neither of the two men asked the other which line he meant.
 
 The first is a man of about thirty-one of the second lay and he said out loud that a page which has been in a bag for four days should be marked twice before it is put on a board, because a page that has travelled unmarked is a page that a stranger may take for a copy.
 
@@ -56,9 +59,11 @@ The second is a man of about forty-five of that market and he said out loud that
 
 ---
 
-That leaf went onto the end stall at about four at the same size as the two sheets already standing there and at the same height, and it was not put on the wall in the room over the fish market, and no fifth thing was added to that wall, and those four heads on that wall are claims, corrections put up in public, refusals and restricted records, and they were four this morning and they are four tonight.
+That leaf went onto the end stall at about four at the same size as the two sheets already standing there and at the same height, and it was not put on the wall in the room over the fish market, and no fifth thing was added to that wall, and those four heads on that wall are claims, corrections put up in public, refusals and restricted records, and they were four this morning and they are four tonight. It was pinned at the top and not at the bottom, and one of the pins went in beside a nail that was already in that board, and it went in crooked and stayed crooked.
 
-Nobody was thanked for the leaf or for the two marks on it, and that shed stood empty by about six, and that page of that week had thirty-one lines on it.
+Nobody was thanked for the leaf or for the two marks on it, and that page of that week had thirty-one lines on it.
+
+Nobody was thanked for the leaf or for the two marks or for the four days of road
 
 ---
 

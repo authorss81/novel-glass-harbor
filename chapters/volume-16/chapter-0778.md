@@ -9,28 +9,29 @@ Tuesday the sixth day of September, with that market open from about nine and a 
 **Nine counters were carried to the close of this eighteenth day. That notice of the seventeenth of May past is on its four hundred and seventy-sixth day. That bellwright of this harbor has now gone four hundred and seventy-eighth days with nobody asking him anything and his chest stays shut. Those two objects belonging to nobody on that crown are into the eight hundred and sixteenth day of themselves. That bench under that pump has now stood bare for the five hundred and eighty-second night running. Two lights about a mile off that point have gone four hundred days and no figure is set against them. That six-line sheet at the back of that end stall has reached the three hundred and fifty-fifth day of its standing. That paper of four lines in Fish Street is on the three hundred and seventieth day. That nine-line sheet with a mark on it in that front street has stood three hundred and eighty-seventh day. A man of about fifty-one has kept four hundred and eighteenth days of not saying anything to anybody about a page of six names. There is a boy's hand of twenty-two at the head of the middle of those four columns, nothing under it, nobody over it, his surname on no page, and he is off the water. At one hundred and twenty-five the fourth of those four stands as it stood a week ago, with nothing entered and neither shut nor struck. Nine hulls lie about two sea miles off that mole head and nine lay there on the twenty-first of January, and this harbor has not said a word about any of them easing. Two hundred and seventy-six days stand between a man of about twenty-nine and any sound out of the left side of his head, one more than the day before, and nothing is set against that and he is not on the water.**
 
 ---
+The column on the lid of that step was read out at about ten in four minutes and it is twenty-six lines and one hundred and four marks, being sixteen thousand six hundred and forty pence, and it did not move. The step stands at the corner of that office with the lid sloping towards the market, and everybody who reads it does so standing side-on to it.
 
-The column on the lid of that step was read out at about ten in four minutes and it is twenty-six lines and one hundred and four marks, being sixteen thousand six hundred and forty pence, and it did not move.
-
-The man of about thirty-one of the second lay said the two figures out loud at the end of it the way he says them every Tuesday, and nobody wrote them down in that shed.
+The man of about thirty-one of the second lay said the two figures out loud at the end of it the way he says them every Tuesday, and nobody wrote them down in that shed. He said them to the middle of that yard and not to the office, because a figure said into a room with a door in it stops being a figure and becomes an instruction.
 
 About five of the people who came in that morning could not read the figure on the lid of that step and did not know what was being read.
 
 ---
 
-The chest was shut from ten until four and it is a long flat thing against the wall of that office with twenty envelopes in it, and about two people came to the door of that office in that hour and one of the two went away again.
+The chest was shut from ten until four and it is a long flat thing against the wall of that office with twenty envelopes in it, and about two people came to the door of that office in that hour and one of the two went away again. The key stayed in the lock all day, and nobody in that yard touched that lock at any hour of it.
 
 A further week stands fallen due at the close of that Tuesday and would fall due again on the thirteenth, and the column did not move and nothing was paid and nothing was advanced and nothing was cut back.
 
 ---
 
-At about eleven a woman of about twenty-seven of that market asked out loud, in about four, whether a bell on the Cinder Bell stretch being let go for a fortnight means the Ashtide Run has no signal on that water for a fortnight.
+At about eleven a woman of about twenty-seven of that market asked out loud, in about four, whether a bell on the Cinder Bell stretch being let go for a fortnight means the Ashtide Run has no signal on that water for a fortnight. She asked it standing at the end of the bin with her hands in the pockets of a coat she had not taken off since Thursday.
 
-The woman of about fifty-two said out loud that it does, and that the Ashtide Run's own page carries whatever the people of that route do about a fortnight with no bell on it, and that this yard's page is not that page and that nobody in this yard will write on it what that route does with its own fortnight.
+The woman of about fifty-two said out loud that it does, and that the Ashtide Run's own page carries whatever the people of that route do about a fortnight with no bell on it, and that this yard's page is not that page and that nobody in this yard will write on it what that route does with its own fortnight."And that page says it better than I can," she said. "It says it in their hand and it says who decided it and it says what a fortnight of no signal costs them, and I am not going to stand in this shed and put a figure of my own beside theirs, because then this yard has two figures about one stretch and no hand on either of them."
+
+A man of about thirty-one of the second lay said out loud that he would put his own hand on hers if she asked him to, and she said out loud that she would not ask, and that a hand on it in this yard would be a hand that made it a third place's business.
 
 ---
 
-At about two the keeper wrote the fourth line onto that fitting-out sheet with the Tuesday as the day the work was done and the Thursday as the day it settles, and he said both of those days out loud in about nine people before he wrote any figure.
+At about two the keeper wrote the fourth line onto that fitting-out sheet with the Tuesday as the day the work was done and the Thursday as the day it settles, and he said both of those days out loud in about nine people before he wrote any figure. He wrote it at the same hour as the Friday and in the same place on the board, and the sheet was turned so that the four days of August behind it could not be seen while he wrote.
 
 Three days of a boat hired at the figure in chalk is three times one hundred and sixty-eight for five hundred and four pence. Coal and oil for three days is sixty pence. Four panes of sheet glass at twelve pence a pane is four times twelve for forty-eight pence. Two bell seats cut and faced at eighteen pence is two times eighteen for thirty-six pence. Four men at three days at sixteen pence a man-day is four times three times sixteen for one hundred and ninety-two pence.
 
@@ -40,6 +41,8 @@ Five hundred and four and sixty and forty-eight and thirty-six and one hundred a
 
 The woman of about fifty-two packed her bag at about half past three and folded that leaf at its own fold and set it back on the board at the end stall at the same size and at the same height it had stood at since Saturday, and no other person touched it that afternoon, and she said out loud that she goes in the morning and that she has been four days down and will be four days up and that is eight days of road for a fortnight of a bell.
 
+She put the leaf back with the fold end up, which is the way it had come off the board on Saturday, and she counted the two pins with her thumb before she turned away from it.
+
 Nobody offered her a bed for the last night and nobody asked her to stay, and she had said on Saturday that she would not.
 
 ---
@@ -47,6 +50,8 @@ Nobody offered her a bed for the last night and nobody asked her to stay, and sh
 Nothing went onto the face of anything in that yard today, and that page of days carries no figure against this day in the second-hand column, and a day with no figure in it is not a zero and is nowhere on it.
 
 At the end stall the correction and the refusal were standing where they were put on Monday, on their ninth day, and the leaf from the Cinder Bell was beside them at the same size and the same height on its fourth day, and the wrong figure was still showing underneath the correction, and that shed stood empty by about six and that page of that week had thirty lines on it.
+
+Nobody was thanked for the column or for the chest or for the line
 
 ---
 
@@ -56,7 +61,7 @@ About half past five on that Tuesday the column on the lid of that step was not 
 
 "**The chest was shut from ten until four and it is a long flat thing against the wall of that office with twenty envelopes in it, and about two people came to the door of that office in that hour and one of the two went away again. A further week stands fallen due at the close of that Tuesday and would fall due again on the thirteenth, and the column did not move and nothing was paid and nothing was advanced and nothing was cut back.**"
 
-"**At about eleven a woman of about twenty-seven of that market asked out loud, in about four, whether a bell on the Cinder Bell stretch being let go for a fortnight means the Ashtide Run has no signal on that water for a fortnight. The woman of about fifty-two said out loud that it does, and that the Ashtide Run's own page carries whatever the people of that route do about a fortnight with no bell on it, and that this yard's page is not that page and that nobody in that yard will write on it what that route does with its own fortnight.**"
+"**At about eleven a woman of about twenty-seven of that market asked out loud, in about four, whether a bell on the Cinder Bell stretch being let go for a fortnight means the Ashtide Run has no signal on that water for a fortnight. The woman of about fifty-two said out loud that it does, and that the Ashtide Run's own page carries whatever the people of that route do about a fortnight with no bell on it, and that this yard's page is not that page and that nobody in that yard will write on it what that route does with its own fortnight. **"
 
 "**At about two the keeper wrote the fourth line onto that fitting-out sheet with the Tuesday as the day the work was done and the Thursday as the day it settles, and he said both of those days out loud in about nine people before he wrote any figure. Three days of a boat hired at the figure in chalk is three times one hundred and sixty-eight for five hundred and four pence. Coal and oil for three days is sixty pence. Four panes of sheet glass at twelve pence a pane is four times twelve for forty-eight pence. Two bell seats cut and faced at eighteen pence is two times eighteen for thirty-six pence. Four men at three days at sixteen pence a man-day is four times three times sixteen for one hundred and ninety-two pence. Five hundred and four and sixty and forty-eight and thirty-six and one hundred and ninety-two is eight hundred and forty pence, being five marks, three shillings and fourpence, and that sum goes down into the foot of that sheet on the Thursday and the foot is read after it.**"
 

@@ -9,12 +9,11 @@ Wednesday the thirty-first day of August, with that market open from about nine 
 **Nine counters were carried to the close of this twelfth day. That notice of the seventeenth of May past is on its four hundred and seventieth day. That bellwright of this harbor has now gone four hundred and seventy-second days with nobody asking him anything and his chest stays shut. Those two objects belonging to nobody on that crown are into the eight hundred and tenth day of themselves. That bench under that pump has now stood bare for the five hundred and seventy-sixth night running. Two lights about a mile off that point have gone three hundred and ninety-fourth days and no figure is set against them. That six-line sheet at the back of that end stall has reached the three hundred and forty-ninth day of its standing. That paper of four lines in Fish Street is on the three hundred and sixty-fourth day. That nine-line sheet with a mark on it in that front street has stood three hundred and eighty-first day. A man of about fifty-one has now gone four hundred and twelfth days without saying a word to anybody about a page carrying six names. No person has ever been named over the middle of those four columns. At the head of that one is a boy's hand of twenty-two whose surname appears on no page, and he is off the water. The fourth of those four has held at one hundred and twenty-five since the spring, has taken no line into it, and is neither shut nor struck. Nine hulls lie about two sea miles off that mole head and nine lay there on the twenty-first of January, and this harbor has not said a word about any of them easing. The left side of the head of a man of about twenty-nine has been silent two hundred and seventy days this evening, a day further than yesterday, and no figure is set against that figure and he is not on the water.**
 
 ---
+The reading was at about three in the yard and the keeper did it standing at the flat of that bench stone with the fourth sheet in his own hand and about twenty people standing in that yard and on that step, and it took about eleven minutes, and it was not read out a second time anywhere afterwards. He read it down the first column and not across the two of them, and he did not hurry the names of the months, and twice he stopped and began the same line again because a man at the back had not got the first one.
 
-The reading was at about three in the yard and the keeper did it standing at the flat of that bench stone with the fourth sheet in his own hand and about twenty people standing in that yard and on that step, and it took about eleven minutes, and it was not read out a second time anywhere afterwards.
+About eleven of that twenty could not read the sheet. They heard it, and four of those eleven wrote nothing and seven of them marked the time on a cuff.
 
-About eleven of that twenty could not read the sheet. They heard it.
-
-The man of about thirty-four of the second lay was in that yard at about ten and was standing at the back of it at three and was not asked anything by anybody, before the reading or after it, and nobody said out loud that he was not to be asked anything.
+The man of about thirty-four of the second lay was in that yard at about ten and was standing at the back of it at three and was not asked anything by anybody, before the reading or after it, and nobody said out loud that he was not to be asked anything. He stood where he could hear the voice and not the paper, and he kept his hands still at his sides the whole of the eleven minutes.
 
 ---
 
@@ -24,7 +23,7 @@ The head of the sheet says what the two columns are. The first is what is unclai
 
 ---
 
-The woman of thirty of no office took that fourth sheet at about half past three and read down the first column with her finger going down and about four of the twenty standing close enough to see which line she was on, and at about four she put her finger on one line and read that one out loud herself, in the same words and the same order the keeper had used.
+The woman of thirty of no office took that fourth sheet at about half past three and read down the first column with her finger going down and about four of the twenty standing close enough to see which line she was on, and at about four she put her finger on one line and read that one out loud herself, in the same words and the same order the keeper had used. She read it in the flat voice of a woman reading a price list, and she gave no name to it and no face, and she stopped her finger on the line and left it there.
 
 The line is the Cinder Bell, and a bell, and the words given by the people of that place to the Ashtide Run for its use, and the month of April, and unclaimed.
 
@@ -34,9 +33,15 @@ Against that line on the sheet there is nothing at all. There is no hand, no sea
 
 Nobody in that yard asked why nobody had entered a claim against it, because the sheet says at the foot of the column that a claim is entered by the person who makes it, and a person who has never been asked for a claim does not make one.
 
-About four of that twenty said out loud, to one another and not to anybody, that a man who gives a bell away for nothing is not a person who has been asked for a claim.
+About four of that twenty said out loud, to one another and not to anybody, that a man who gives a bell away for nothing is not a person who has been asked for a claim. About four said nothing, and the four who said nothing were the four who could read, and one of the four who could read put a thumb on the edge of the step and left it there.
 
-About four said nothing.
+"Read me the one about the bell," said a man of about thirty-four of that market to the woman of thirty of no office, in about four, at the side of that yard and not in front of it.
+
+She read him that line twice and the second time she read it slower. "That is all of it that is printed," she said. "There is nothing under it and nothing beside it, and a man who has never been asked for a claim does not enter one. That is not this harbor's line and it is not the other place's either. It is only true."
+
+"Then somebody four days up that road has to want it back."
+
+"Or not want it. Those two are the same size of thing and neither of them is ours." She put her finger back on the same line and left it there. "If somebody wants a bell back they will write and they will sign it, and the day they do that this yard will hear about it inside a week." 
 
 ---
 
@@ -44,13 +49,15 @@ The keeper said out loud to that whole yard, before anybody left, that those ele
 
 The man of about thirty-eight of that landing was in that yard at about four and said out loud that he is going back up that coast road on the Friday and that anybody with something to say to the Cinder Bell can say it to him and he will carry it, and that he is a man with a boat and not a body with a room.
 
-Nobody asked him anything.
+Nobody asked him anything, and he said out loud that he had expected that and had come anyway, and he put the sheet of his own back under his arm and went up the lane.
 
 ---
 
-At the end stall the correction and the refusal were standing where they were put on Monday, at the same size and a hand's breadth apart, with the wrong figure left showing underneath the correction and not struck out.
+At the end stall the correction and the refusal were standing where they were put on Monday, at the same size and a hand's breadth apart, with the wrong figure left showing underneath the correction and not struck out. The sun was off the wrong figure by four and onto the refusal, so that one could be read and the other could not.
 
 A man of about forty-five of that market stood at about four and looked at the two of them and said out loud to about four that they have been up three days and that a man who puts two sheets of paper on a board expects to be wrong about one of them inside a month and not to be told which.
+
+Nobody was thanked for the reading or for the line that was read twice by two mouths
 
 ---
 

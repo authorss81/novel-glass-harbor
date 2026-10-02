@@ -9,14 +9,13 @@ Thursday the eighth day of September, with that market open from about nine and 
 **Nine counters were carried to the close of this twentieth day. That notice of the seventeenth of May past is on its four hundred and seventy-eighth day. That bellwright of this harbor has now gone four hundred and eightieth days with nobody asking him anything and his chest stays shut. Those two objects belonging to nobody on that crown are into the eight hundred and eighteenth day of themselves. That bench under that pump has now stood bare for the five hundred and eighty-fourth night running. Two lights about a mile off that point have gone four hundred and second days and no figure is set against them. That six-line sheet at the back of that end stall has reached the three hundred and fifty-seventh day of its standing. That paper of four lines in Fish Street is on the three hundred and seventy-second day. That nine-line sheet with a mark on it in that front street has stood three hundred and eighty-ninth day. A man of about fifty-one has now said nothing to anybody about a page of six names for four hundred and twentieth days. The third of those four columns is empty and unappointed and carries nothing at all under the head of it, where a boy's hand of twenty-two stands, his surname being on no page, and he is off the water. The fourth of those four is at one hundred and twenty-five exactly as it stood on the first day of this run, with no line taken into it and neither shut nor struck. Nine hulls lie about two sea miles off that mole head and nine lay there on the twenty-first of January, and this harbor has not said a word about any of them easing. A man of about twenty-nine hears nothing out of the left side of his head and it is two hundred and seventy-eight days today, one more than the day before, and no figure stands against that figure and he is not on the water.**
 
 ---
-
-The cistern went at about nine and took fourteen men and fourteen trips, and it was walked on by none of them, and the keeper wrote the hundred and eighty-second against the day on that rota slate at about one and did not read it, and that rota has now run one hundred and eighty-two times without a charge being put off it and without one being put on twice.
+The cistern went at about nine and took fourteen men and fourteen trips, and it was walked on by none of them, and the keeper wrote the hundred and eighty-second against the day on that rota slate at about one and did not read it, and that rota has now run one hundred and eighty-two times without a charge being put off it and without one being put on twice. The butt stood short at the end of it again, and by about one the water in it had a skin on it, and nobody drank it and nobody said that it was bad.
 
 ---
 
 At about two the keeper wrote the fifth line onto that fitting-out sheet and both days went onto the face of it, the Thursday as the day the work was done and the tenth day of September as the day it settles.
 
-He said both of those days out loud in about nine people before he wrote any figure, and the second of the two is a day that has not happened yet and he said so out loud as well.
+He said both of those days out loud in about nine people before he wrote any figure, and the second of the two is a day that has not happened yet and he said so out loud as well. He said that last part twice, because about four of that nine had a Saturday clear and about four had not.
 
 Two days of a boat hired at the figure in chalk is two times one hundred and sixty-eight for three hundred and thirty-six pence. Coal and oil for two days is forty pence. Thirty yards of line at three pence the yard is thirty times three for ninety pence. A case and four nails at thirty pence is thirty pence. Six men at two days at sixteen pence a man-day is six times two times sixteen for one hundred and ninety-two pence.
 
@@ -24,7 +23,7 @@ Three hundred and thirty-six and forty and ninety and thirty and one hundred and
 
 ---
 
-At about four line four settled into the foot of that sheet, the five parts being read with their multiplications before the sum went down.
+At about four line four settled into the foot of that sheet, the five parts being read with their multiplications before the sum went down. The last of the five was read twice, once into the shed and once out towards the step for the benefit of the men that had come in off the market late, and nobody was asked whether they had heard it the first time.
 
 Three days of a boat hired at the figure in chalk is three times one hundred and sixty-eight for five hundred and four pence. Coal and oil for three days is sixty pence. Four panes of sheet glass at twelve pence a pane is four times twelve for forty-eight pence. Two bell seats cut and faced at eighteen pence is two times eighteen for thirty-six pence. Four men at three days at sixteen pence a man-day is four times three times sixteen for one hundred and ninety-two pence. And five hundred and four and sixty and forty-eight and thirty-six and one hundred and ninety-two is eight hundred and forty pence, being five marks, three shillings and fourpence.
 
@@ -32,9 +31,9 @@ One hundred and twenty-five thousand five hundred and fifty-four and eight hundr
 
 ---
 
-A man of about thirty-nine came into that market on the Monday off a boat that was in for stone and was in that yard on the Thursday at about ten and had a pencil in his coat and nothing else in the yard worth having.
+A man of about thirty-nine came into that market on the Monday off a boat that was in for stone and was in that yard on the Thursday at about ten and had a pencil in his coat and nothing else in the yard worth having. He gave his name to nobody and was called nothing by anybody, and he asked the price of nothing and bought nothing, and he stood at the end stall for the better part of two hours with his face to it and his back to that yard.
 
-He had been standing at that end stall for about half an hour with his back to it, and at about half past five he turned round and put the back of a bill on the ledge at that end stall and wrote three figures on it and read them out loud to about eleven people.
+He had been standing at that end stall for about half an hour with his back to it, and at about half past five he turned round and put the back of a bill on the ledge at that end stall and wrote three figures on it and read them out loud to about eleven people. He wrote them with the pencil held in his fist and he rubbed out one and wrote it again, and the eleven of them came in off the market to see what the rubbing out was about.
 
 The three figures are two hundred and thirty-eight, two hundred and thirty-one, and seven. The first is at the foot of the leaf from the Cinder Bell and the second is at the foot of the refusal, and the third is the difference between them and he wrote nothing above the two that gave it.
 
@@ -44,7 +43,15 @@ He was gone by six and his name is on no page of this harbor.
 
 ---
 
-About two people in that yard wanted the fortnight of that bell entered at fourteen days and about two wanted it entered at twenty-one, and neither of them said out loud that the other of them was wrong.
+About two people in that yard wanted the fortnight of that bell entered at fourteen days and about two wanted it entered at twenty-one, and neither of them said out loud that the other of them was wrong. They said it in the ordinary way, one to the other, at the same time, and then both of them said nothing for about a minute and a half.
+
+"Fourteen," said the one who wanted fourteen.
+
+"Twenty-one," said the one who wanted twenty-one.
+
+"Nobody is going to say the other one is wrong."
+
+"Not today," said the second, and put his thumb on the flat of that bench stone and took it off again. "On Tuesday a page of days will have it in it, and I would rather that page had it than this shed did." 
 
 A man of about forty-five of that market said out loud that the season is the season of the place the fortnight belongs to and that a fortnight is fourteen days whatever a stranger's arithmetic says.
 
@@ -52,15 +59,21 @@ A man of about thirty-one of the second lay said out loud that the page of days 
 
 ---
 
-The keeper made a sheet at about five with the three figures on it in his own hand and pinned it beside those two at the end stall at the same size and at the same height, and a man of about thirty-one of the second lay and a man of about forty-five of that market put a mark each on the face of it before it was pinned, against the seven and not against the other two.
+The keeper made a sheet at about five with the three figures on it in his own hand and pinned it beside those two at the end stall at the same size and at the same height, and a man of about thirty-one of the second lay and a man of about forty-five of that market put a mark each on the face of it before it was pinned, against the seven and not against the other two. He pinned it with the third nail of the three and he drove it in by hand, and the board took it at the second stroke.
 
 Two marks are two hands and not the hand that wrote it, and the page of days carries two against this day. That column carried a figure on six of the ten days of this run and the four days it stands bare on are nowhere on it, and those ten days are not added together here and are not added together in this movement, and the whole of that column is added up once in this run of fifty days and on no day before it.
+
+He had not asked the two of them before he pinned it, and neither of them had asked him, and about nine people in that yard stood in front of that board for a while afterwards and read three sheets that said three different numbers at three different sizes in three different hands, and there was no column on any page in this harbor for the seven.
 
 ---
 
 A man of about thirty-one of the second lay said out loud at about twenty past five that the column of the withdrawn carries nothing against any of these ten days and nowhere on it, and that a page belonging to a place four days up a coast road does not become a notice of this harbor by standing on this harbor's board for six days, and that nobody took anything down off that board this week and nothing came off that wall in the room over the fish market and the four heads on that wall are still four.
 
-The correction and the refusal were still standing at the end stall at the same size and a hand's breadth apart on their eleventh day with the wrong figure showing underneath the correction and not struck out, and nobody said which of the two is right, and this run of ten days closed.
+The correction and the refusal were still standing at the end stall at the same size and a hand's breadth apart on their eleventh day with the wrong figure showing underneath the correction and not struck out, and nobody said which of the two is right.
+
+And then the keeper said out loud, in about nine, one thing about his own act and not about either of the other two sheets, being that the difference of seven days is on that board in his hand now and is not going to be taken down by him, and that a harbor which prints the difference between two places it has no standing over has done a thing it cannot undo by being asked politely to, and that he had had four minutes to decide it and had decided it in about two, and that whatever Monday wants to do about it is Monday and not him.
+
+Nobody was thanked for the charge or for the settlement or for the stranger
 
 ---
 

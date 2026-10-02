@@ -9,22 +9,21 @@ Sunday the fourth day of September, with that market shut and the bars down unti
 **Nine counters were carried to the close of this sixteenth day. That notice of the seventeenth of May past is on its four hundred and seventy-fourth day. That bellwright of this harbor has now gone four hundred and seventy-sixth days with nobody asking him anything and his chest stays shut. Those two objects belonging to nobody on that crown are into the eight hundred and fourteenth day of themselves. That bench under that pump has now stood bare for the five hundred and eightieth night running. Two lights about a mile off that point have gone three hundred and ninety-eighth days and no figure is set against them. That six-line sheet at the back of that end stall has reached the three hundred and fifty-third day of its standing. That paper of four lines in Fish Street is on the three hundred and sixty-eighth day. That nine-line sheet with a mark on it in that front street has stood three hundred and eighty-fifth day. Four hundred and sixteenth days have gone with a man of about fifty-one not saying one word to anybody about a page of six names. Nothing is entered under the middle of those four columns and nobody is set over it; a boy's hand of twenty-two is at the head of it, his surname is on no page, and he is off the water. The fourth of those four has still taken no line and still stands at one hundred and twenty-five and is still neither shut nor struck. Nine hulls lie about two sea miles off that mole head and nine lay there on the twenty-first of January, and this harbor has not said a word about any of them easing. It is two hundred and seventy-four days today since a man of about twenty-nine heard anything out of the left side of his head, one more than the day before, and no figure is set against it and he is not on the water.**
 
 ---
+The wall behind that reeve's bench came down at about half past ten and went up at a quarter to one and stood bare twenty-six minutes, and the three men who do that work took thirty-nine minutes each way, which is a minute longer each way than they took last Sunday and which nobody in this harbor has said why. The plaster behind it showed a rectangle of a different colour and the second man wiped his hand across the bottom of the new render before he stepped down.
 
-The wall behind that reeve's bench came down at about half past ten and went up at a quarter to one and stood bare twenty-six minutes, and the three men who do that work took thirty-nine minutes each way, which is a minute longer each way than they took last Sunday and which nobody in this harbor has said why.
+A man of about twenty-six of the harbor authority stood at the end of the bare time and looked at the chalk and did not touch it and did not write anything on anything. There was wind enough to blow the dust off the fresh patch across the lane and one of the three men looked at it and let it go.
 
-A man of about twenty-six of the harbor authority stood at the end of the bare time and looked at the chalk and did not touch it and did not write anything on anything.
-
-No shop in that harbor stood open from five until twelve, and the lane behind that row of chandler's stores was barred across from about ten until about one.
-
----
-
-The water came over that slip about eleven and went off it about half past twelve and the floor of that shed was wet at about one and stayed damp until about four.
-
-The yard did the ordinary work of a Sunday and that work was cutting line against a gauge with the door open on the damp and no line went onto that fitting-out sheet, because a line with an hour against it and no boat against it is not a line.
+No shop in that harbor stood open from five until twelve, and the lane behind that row of chandler's stores was barred across from about ten until about one. There has been a bar across that lane at every one of the bare times this summer, and the bar is a length of batten with a nail at each end and nothing written on it at all.
 
 ---
 
-At about four line three settled into the foot of that fitting-out sheet, and the four parts were read with their multiplications before the sum went down.
+The water came over that slip about eleven and went off it about half past twelve and the floor of that shed was wet at about one and stayed damp until about four. There was sand on it in a band a foot wide where it had come under the door, and it dried in ridges, and about two of the men that stood in that shed at half past five had their boots marked with the edges of it.
+
+The yard did the ordinary work of a Sunday and that work was cutting line against a gauge with the door open on the damp and no line went onto that fitting-out sheet, because a line with an hour against it and no boat against it is not a line. A line went off the coil and was cut and the offcuts went back in the bin, and the gauge went back in its place against the bench.
+
+---
+
+At about four line three settled into the foot of that fitting-out sheet, and the four parts were read with their multiplications before the sum went down. He read them into a shed that was standing rather than sitting, and about four of that nine did the sum on the back of a hand and one of them got it and was not sure.
 
 Two days of a boat hired at the figure in chalk is two times one hundred and sixty-eight for three hundred and thirty-six pence. Coal and oil for two days is forty pence. Ninety yards of line at three pence the yard is ninety times three for two hundred and seventy pence. Three men at two days at sixteen pence a man-day is three times two times sixteen for ninety-six pence. And three hundred and thirty-six and forty and two hundred and seventy and ninety-six is seven hundred and forty-two pence, being four marks, eight shillings and sixpence.
 
@@ -32,15 +31,23 @@ One hundred and twenty-four thousand eight hundred and twelve and seven hundred 
 
 ---
 
-The foot stands at one hundred and twenty-five thousand five hundred and fifty-four pence out, being seven hundred and eighty-four marks, nine shillings and sixpence, and one hundred and fourteen thousand nine hundred and fourteen pence short, being seven hundred and eighteen marks, two shillings and tenpence, against ten thousand six hundred and forty pence in.
+The foot stands at one hundred and twenty-five thousand five hundred and fifty-four pence out, being seven hundred and eighty-four marks, nine shillings and sixpence, and one hundred and fourteen thousand nine hundred and fourteen pence short, being seven hundred and eighteen marks, two shillings and tenpence, against ten thousand six hundred and forty pence in. The ink of the new line was still on his thumb when he turned the sheet round to the room, and he put the thumb in his coat rather than on the bench.
 
 About five of that nine could not read those two figures off that sheet and the keeper read them out loud at the end of it in about half a minute, and nobody wrote them down in that shed and they went onto no slip.
 
+"One hundred and twenty-five thousand five hundred and fifty-four out," he said. "That is the honest figure of what this yard has spent and I have not had a hand in it today. One hundred and fourteen thousand nine hundred and fourteen short, against ten thousand six hundred and forty in. Write nothing of that down, because a figure on a piece of paper in nine hands is worth less than a figure said out loud and remembered wrong."
+
+"Four of us could remember it wrong," said a man of about thirty-one of the second lay, who could read and could add and said so out loud in June.
+
+"Then four of you will come back to that sheet in a month and find it says the same thing, and the four of you will have been wrong together and cheaply, which is the best a harbor gets." 
+
 ---
 
-That leaf from the Cinder Bell was still standing at the end stall where it went on Saturday, with the sun gone off the back of it about two and the six hands on it not legible after that.
+That leaf from the Cinder Bell was still standing at the end stall where it went on Saturday, with the sun gone off the back of it about two and the six hands on it not legible after that. The sun came off the correction before the leaf and off the refusal last of the three, and for about twenty minutes there was one readable sheet on that board and then there were none.
 
 Nobody took it down, and the correction and the refusal were beside it at the same size, and the three of them stood in a row on that board and were not read out that day and were not in that shed.
+
+Nobody was thanked for the wipe or for the settlement
 
 ---
 
