@@ -25,7 +25,7 @@ A further week stands fallen due at the close of that Tuesday and would fall due
 
 At about eleven a woman of about twenty-seven of that market asked out loud, in about four, whether a bell on the Cinder Bell stretch being let go for a fortnight means the Ashtide Run has no signal on that water for a fortnight. She asked it standing at the end of the bin with her hands in the pockets of a coat she had not taken off since Thursday.
 
-The woman of about fifty-two said out loud that it does, and that the Ashtide Run's own page carries whatever the people of that route do about a fortnight with no bell on it, and that this yard's page is not that page and that nobody in this yard will write on it what that route does with its own fortnight."And that page says it better than I can," she said. "It says it in their hand and it says who decided it and it says what a fortnight of no signal costs them, and I am not going to stand in this shed and put a figure of my own beside theirs, because then this yard has two figures about one stretch and no hand on either of them."
+The woman of about fifty-two said out loud that it does, and that the Ashtide Run's own page carries whatever the people of that route do about a fortnight with no bell on it, and that this yard's page is not that page and that nobody in this yard will write on it what that route does with its own fortnight. "And that page says it better than I can," she said. "It says it in their hand and it says who decided it and it says what a fortnight of no signal costs them, and I am not going to stand in this shed and put a figure of my own beside theirs, because then this yard has two figures about one stretch and no hand on either of them."
 
 A man of about thirty-one of the second lay said out loud that he would put his own hand on hers if she asked him to, and she said out loud that she would not ask, and that a hand on it in this yard would be a hand that made it a third place's business.
 
@@ -50,8 +50,6 @@ Nobody offered her a bed for the last night and nobody asked her to stay, and sh
 Nothing went onto the face of anything in that yard today, and that page of days carries no figure against this day in the second-hand column, and a day with no figure in it is not a zero and is nowhere on it.
 
 At the end stall the correction and the refusal were standing where they were put on Monday, on their ninth day, and the leaf from the Cinder Bell was beside them at the same size and the same height on its fourth day, and the wrong figure was still showing underneath the correction, and that shed stood empty by about six and that page of that week had thirty lines on it.
-
-Nobody was thanked for the column or for the chest or for the line
 
 ---
 

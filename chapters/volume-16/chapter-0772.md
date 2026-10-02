@@ -57,8 +57,6 @@ At the end stall the correction and the refusal were standing where they were pu
 
 A man of about forty-five of that market stood at about four and looked at the two of them and said out loud to about four that they have been up three days and that a man who puts two sheets of paper on a board expects to be wrong about one of them inside a month and not to be told which.
 
-Nobody was thanked for the reading or for the line that was read twice by two mouths
-
 ---
 
 About half past five on that Wednesday the whole of the day went out at that stone in the yard's own mouth, in about nine hundred and thirty-three words, and the list was not read again in it, being read once already at three, and that was said out loud before anything else was said.

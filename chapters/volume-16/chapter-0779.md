@@ -53,13 +53,11 @@ Nobody in that six said anything about the two figures and nobody put the two sh
 
 ---
 
-At about four the man of about thirty-eight of that landing came back down that coast road into that yard and stood by the flat of that bench stone and put nothing on it. He came in with the coat he went out in on the Saturday and there was nothing in it, and the sun had taken the top of his nose and the back of his neck in a way nobody else in that shed had.
+At about four the man of about thirty-eight of that landing came back down that coast road into that yard and stood by the flat of that bench stone and put nothing on it. He came in with the coat he went out in on the Saturday and there was nothing in it, and he had come down that low road in two days against the three he had taken coming up with a bundle of oiled cloth under one arm, and the sun had taken the top of his nose and the back of his neck in a way nobody else in that shed had.
 
 He said out loud, to about nine, that the sheet of newsprint arrived on the Monday and was read out in a yard three days up that road at about three in the afternoon to about twenty people of whom about eleven could not read it, and that it was not read out again, and that a man of about twenty-six of that market up there said out loud that a count is a count and that nobody on this coast has been asked for anything and that those two things are the good news and the bad news in one sentence.
 
 Nobody asked him anything at all, and he said out loud that he expected that and had come anyway, and he said out loud that he had put the whole of it into a yard of twenty people word for word with the day and the hour on it and his own name under it, and that if this harbor wants it word for word again he will write it out again, and that it will cost him the paper and nothing else.
-
-Nobody was thanked for the entry or for the mark or for the four days of road
 
 ---
 

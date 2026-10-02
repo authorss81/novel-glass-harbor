@@ -49,8 +49,6 @@ At the end stall the correction and the refusal were standing at the same size a
 
 Nobody in that yard said anything about either of them, and that page of that week had thirty lines on it.
 
-Nobody was thanked for the line or for the mark on the newsprint
-
 ---
 
 About half past five on that Friday a line went onto that fitting-out sheet at about two with four parts and two days on its face, and at half past five the whole of that Friday went out at that stone with the multiplication of each part read before the sum and not after, in about nine hundred and twenty-seven words, to about nine people, four of whom could add a column in their heads and five of whom could not.

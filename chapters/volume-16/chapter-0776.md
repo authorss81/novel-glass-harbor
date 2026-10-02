@@ -47,8 +47,6 @@ That leaf from the Cinder Bell was still standing at the end stall where it went
 
 Nobody took it down, and the correction and the refusal were beside it at the same size, and the three of them stood in a row on that board and were not read out that day and were not in that shed.
 
-Nobody was thanked for the wipe or for the settlement
-
 ---
 
 About half past five on that Sunday, with that market shut and the floor of that shed damp and about nine people standing rather than sitting, the day was said at that stone standing up, in about eight hundred and ninety-five words, and the wipe came first in it and the settlement came last and nothing was read out twice.

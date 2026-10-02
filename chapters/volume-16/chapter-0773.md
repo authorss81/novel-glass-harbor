@@ -47,8 +47,6 @@ The woman of thirty of no office said out loud that the page of that week carrie
 
 Nothing went onto the face of anything in that yard today, and the page of days carries no figure in the second-hand column against this day, and a day with no figure in it is not a zero and is nowhere on it.
 
-Nobody was thanked for the charge and nobody was thanked for the question that was not answered
-
 ---
 
 About half past five on that Thursday the cistern came first in the reading, as it does on a rota day, and after it there was a question that had been put out loud in that yard eight hours before and had not been answered, and the whole of that went out at that stone in about seven hundred and seventy-four words to about nine people, and one of that nine had said nothing all day.

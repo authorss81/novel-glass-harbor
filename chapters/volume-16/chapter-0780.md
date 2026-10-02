@@ -73,8 +73,6 @@ The correction and the refusal were still standing at the end stall at the same 
 
 And then the keeper said out loud, in about nine, one thing about his own act and not about either of the other two sheets, being that the difference of seven days is on that board in his hand now and is not going to be taken down by him, and that a harbor which prints the difference between two places it has no standing over has done a thing it cannot undo by being asked politely to, and that he had had four minutes to decide it and had decided it in about two, and that whatever Monday wants to do about it is Monday and not him.
 
-Nobody was thanked for the charge or for the settlement or for the stranger
-
 ---
 
 About half past five on that Thursday, being the tenth day and the last of that run and a rota day, the day was said at that stone in about one thousand four hundred and thirty-seven words, and a stranger who had gone by six put a figure on the back of a bill in the middle of it and did not say which of two places was right.
