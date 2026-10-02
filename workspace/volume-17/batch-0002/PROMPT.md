@@ -1,0 +1,66 @@
+# Volume 17, Batch 0002 — Chapters 821 to 830, Movement 2, the price of a true figure, and a boat not hired
+
+**A BATCH PASS THAT WRITES TEN CHAPTERS. THIS IS NOT A CLOSE PHASE, NOT A PLANNING PHASE, NOT A REPAIR PHASE AND NOT AN AUDIT. IT WRITES CHAPTERS 821 TO 830 AND NOTHING ELSE, AND IT CREATES NO PROMPT AFTER ITS OWN BATCH BECAUSE THE BATCH AFTER THIS ONE IS MOVEMENT 3 AND IS A SEPARATE PHASE WHICH IS QUEUED BY THE PHASE THAT DISPATCHES THIS ONE.**
+
+**THE BINDING STATE IS BY SECTION AND A SECTION IS FOUND BY ITS HEADING AND NOT BY ITS POSITION. IT IS THE SECTION HEADED *VOLUME 17, MOVEMENT 1 WRITTEN AND ON DISK AT CHAPTER 820* IN `state/continuity.md`, WHICH IS AT THE HEAD OF THAT FILE AND SUPERSEDES EVERYTHING UNDER IT. THE OLDER HEAD SECTIONS OF THE FOUR STATE FILES, WHICH DESCRIBE VOLUME 16, ARE DEAD ON EVERY FIGURE AND ARE MARKED DEAD. `state/current.md`, `state/open-threads.md` AND `state/chapter-summaries.md` EACH CARRY A HEAD SECTION FOR MOVEMENT 1 AND THOSE THREE ARE THE HAND-OVER, THE FIGURES AND THE VOICE RESPECTIVELY.**
+
+---
+
+## WHAT THIS PHASE IS
+
+**TEN CHAPTERS OF PROSE FOR THE SECOND OF FIVE MOVEMENTS OF VOLUME 17, ONE DAY TO A CHAPTER, NO DAY MISSING AND NO DAY IN TWO CHAPTERS, NO CHAPTER STATES A YEAR, AND THE WHOLE APPARATUS IN THE HOUSE'S OWN FORM. THE TEN DAYS CARRY THE COST OF A FIGURE THAT IS CORRECT.** On the first of October an honest total of four hundred and six pence went onto the Lowfen Reed's own page in that community's own hand. It is right. It is what one crossing cost on one day in August. Four days up that coast road somebody read it as what a crossing costs, and did not hire a boat for four days, and a man of about thirty-one of that community's own place did not get three days' work, and the figure that caused it is correct and cannot be corrected and cannot be put on any of the four walls. **MOVEMENT 2 PRICES THAT CONSEQUENCE IN MONEY AND IN ONE MAN'S DAYS AND FINDS THAT NEITHER FIGURE CAN BE PUT ANYWHERE A STRANGER CAN TAKE IT OFF A PAGE.**
+
+**READ IN THIS ORDER AND NOTHING ELSE.** `outline/volume-17.md`, in full, and especially § *Escalation sequence* MOVEMENT 2, § *The three counts this volume owns*, § *The five questions are not answered here*, § *Concrete resolution*, § *Midpoint reversal*, § *Costs this volume may not waive*, § *What this volume must not do*, § *Handoff to Chapter 811*, and locks L1 to L24. THEN the head section of `state/continuity.md`. THEN the head section of `state/chapter-summaries.md` FOR THE VOICE AND THE TEN COUNTED LENGTHS THAT MAY NOT BE RE-USED. THEN THE HEAD SECTION OF `state/open-threads.md`. THEN CHAPTERS 816, 817, 818, 819 AND 820 ONLY. **DO NOT READ CHAPTERS 761 TO 815 EXCEPT TO CHECK A NAMED TERM, AND DO NOT READ VOLUME 15 OR ANY EARLIER VOLUME.**
+
+---
+
+## THE STATE YOU ARE WRITING INTO
+
+**THE MANUSCRIPT IS TEN DAYS INTO A FIFTY-DAY VOLUME AND YOU ARE WRITING THE NEXT TEN. EVERY FIGURE BELOW IS A FIGURE TO COPY AND NOT TO DERIVE.**
+
+### 1. THE CALENDAR OF YOUR TEN DAYS, ONCE, AND THE ANCHOR IS L1'S
+
+**CHAPTER 810 IS SATURDAY THE EIGHTH DAY OF OCTOBER AND 811 IS SUNDAY THE NINTH. YOUR TEN DAYS RUN WEDNESDAY THE NINETEENTH DAY OF OCTOBER TO FRIDAY THE TWENTY-EIGHTH, BEING *d* ELEVEN TO TWENTY, ON THE READING AT L1.** NO DAY WAS MOVED AND NO CONFLICT REMAINS AND A WRITER WHO FINDS ONE MUST TAKE L1, MUST RULE IT ON THE FACE OF `state/continuity.md` IN ONE PARAGRAPH, AND MUST NOT MOVE A DAY.
+
+| Ch | Day | *d* | Four columns | Nine counters | Hearing | Tin | Foot out / short | Rota / wipe / wage |
+|---|---|---|---|---|---|---|---|---|
+| **821** | Wednesday the nineteenth | 11 | 554 / 2,644 | 519/521/859/625/443/398/413/430/461 | 319 | 234 | 128,590 / 117,950 | **line three worked, the twenty-first on its face** |
+| **822** | Thursday the twentieth | 12 | 555 / 2,649 | 520/522/860/626/444/399/414/431/462 | 320 | 235 | 128,590 / 117,950 | **the hundred and ninety-fourth charge** |
+| **823** | Friday the twenty-first | 13 | 556 / 2,654 | 521/523/861/627/445/400/415/432/463 | 321 | 236 | **129,894 / 119,254** | **line three settles; the foot read after it** |
+| **824** | Saturday the twenty-second | 14 | 557 / 2,659 | 522/524/862/628/446/401/416/433/464 | 322 | 237 | 129,894 / 119,254 | ordinary |
+| **825** | Sunday the twenty-third | 15 | 558 / 2,664 | 523/525/863/629/447/402/417/434/465 | 323 | 238 | 129,894 / 119,254 | **a wipe, the hundred and twenty-ninth, 46/33/46 = 125** |
+| **826** | Monday the twenty-fourth | 16 | 559 / 2,669 | 524/526/864/630/448/403/418/435/466 | 324 | 239 | 129,894 / 119,254 | **the hundred and ninety-fifth charge** |
+| **827** | Tuesday the twenty-fifth | 17 | 560 / 2,674 | 525/527/865/631/449/404/419/436/467 | 325 | 240 | 129,894 / 119,254 | **the hundred and fourth wage Tuesday; THE FORTNIGHT IS TOUCHED ONCE AND SETTLED NOWHERE** |
+| **828** | Wednesday the twenty-sixth | 18 | 561 / 2,679 | 526/528/866/632/450/405/420/437/468 | 326 | 241 | 129,894 / 119,254 | **THE NEW QUESTION IS ASKED ONCE, IN A MOUTH, BY A PERSON WHO IS NOT A KEEPER OF RECORDS AND NOT A PERSON OF ANY OFFICE, NAMING NO PERSON, AND IT IS ANSWERED NOWHERE AND IS IN NO COLUMN AND IS IN NO SLIP** |
+| **829** | Thursday the twenty-seventh | 19 | 562 / 2,684 | 527/529/867/633/451/406/421/438/469 | 327 | 242 | 129,894 / 119,254 | **the hundred and ninety-sixth charge** |
+| **830** | Friday the twenty-eighth | 20 | 563 / 2,689 | 528/530/868/634/452/407/422/439/470 | 328 | 243 | 129,894 / 119,254 | the man of about forty-four says a thing out loud that is not a refusal |
+
+**THE THREE FIGURES OF THE FOOT IN MARKS, SHILLINGS AND PENCE, AND EVERY ONE EVALUATES.** 128,590 OUT IS EIGHT HUNDRED AND THREE MARKS, NINE SHILLINGS AND TWOPENCE. 117,950 SHORT IS SEVEN HUNDRED AND THIRTY-SEVEN MARKS, TWO SHILLINGS AND SIXPENCE. 129,894 OUT IS EIGHT HUNDRED AND ELEVEN MARKS, ELEVEN SHILLINGS AND TWOPENCE. 119,254 SHORT IS SEVEN HUNDRED AND FORTY-FIVE MARKS, FOUR SHILLINGS AND SIXPENCE.
+
+**THE LINE YOUR MOVEMENT WORKS.** LINE THREE IS WORKED ON 821 WITH *d* THIRTEEN ON ITS FACE AND SETTLES ON 823, AND 129,894 MINUS 10,640 IS 119,254. THE THREE DAYS ON A LINE ARE ALWAYS TWO DAYS APART. THE THIRD FORM IS SPENT AND WAS SPENT ON A CHAPTER OF VOLUME 16 AND IS NOT USED AGAIN.
+
+### 2. THE FIGURES YOU MUST NOT RE-USE
+
+**EVERY HALF-PAST-FIVE SLIP OF A CHAPTER OF THIS VOLUME PRINTS ITS OWN COUNTED LENGTH, AND THE TEN ON DISK ARE 1,024, 951, 922, 976, 856, 948, 966, 936, 902 AND 1,148. NONE OF YOUR TEN MAY BE ANY OF THOSE, AND NONE MAY BE ANY OF VOLUME 16'S FIFTY.** **THE HOUSE MEASURE IS THE WHITESPACE-SPLIT COUNT OF THE BOLD-QUOTED PASSAGES AND IT REPRODUCES ALL TEN PUBLISHED LENGTHS ON DISK EXACTLY. A FIGURE THAT DOES NOT EQUAL ITS OWN PASSAGE IS A DEFECT, AND A FIGURE THAT STANDS IN TWICE IS A DEFECT.** A RUN OF THIS FILE THAT FINDS NO OUTLINE, OR FINDS ANY CHAPTER ABOVE 820 ABSENT, OR FINDS ANY CHAPTER OF YOUR RANGE ALREADY ON DISK AND FINISHED, HAS FOUND SOMETHING WRONG WITH THE REPOSITORY AND SHOULD SAY SO IN ONE PARAGRAPH AT THE HEAD OF `state/open-threads.md` AND STOP. **A CHAPTER OF YOUR RANGE ALREADY ON DISK IS NOT REWRITTEN AND NOT RESTARTED. IT IS VERIFIED, REPAIRED IN PLACE WHERE A NAMED SWEEP FINDS A NAMED DEFECT, AND RECORDED.**
+
+### 3. WHAT YOUR MOVEMENT OWNS, AND WHAT IT MAY NOT TAKE
+
+**YOUR MOVEMENT OWNS: the price of the use, in money and in a man's days; a boat that is not hired and a reason written in chalk on a board in that market, which is a figure in chalk and not a line on that fitting-out sheet; the fortnight touched once on 827 and settled nowhere; the new question asked once on 828 and answered nowhere; and the man of about forty-four of that crew who keeps the crossings saying a thing out loud on 830 that is not a refusal and is asked nothing about.**
+
+**YOUR MOVEMENT MAY NOT TAKE: the count of the oweable, which was taken once on 820 and is eighteen and is not taken again; either of the other two counts of this volume, which belong to Movements 3 and 5; a line to the foot of a page, which is Movement 3 and the first of them is on 837; a wipe explanation; a stage; a new enemy; a death; a fifth thing on any wall; the taking down of the correction or the refusal; the movement of the sheet of the fifteen gaps; the movement of the wage column; the movement of the third column; the movement of the fourth column; and the resolution of the disagreement between two married people.**
+
+### 4. THE FIVE CARRIED QUESTIONS, AND NONE OF THEM IS YOURS TO ANSWER
+
+**WHO SAYS A CORRECTION IS OWED AND WHAT A PERSON IS OWED. WHY THE WALL TAKES A MINUTE LONGER EACH WAY. WHETHER A FORTNIGHT IS FOURTEEN DAYS OR TWENTY-ONE AND WHOSE CALENDAR IS RIGHT ABOUT ITS OWN SEASON. WHY A PAGE GOES IN A DRAWER AND NOT ON A WALL AND WHY A CHILD IS TOLD THE PRACTICE AND NOT THE CONTENTS. AND THE WHOLE OF THE DISAGREEMENT BETWEEN TWO MARRIED PEOPLE.** THE THIRD OF THOSE IS TOUCHED ONCE, ON 827, IN ABOUT TWO PEOPLE WHO WANT FOURTEEN AND ABOUT TWO WHO WANT TWENTY-ONE, NEITHER SAYING THE OTHER IS WRONG, AND IT IS SETTLED NOWHERE AND NO FIGURE OF ONE DAY IN ELEVEN IS PUBLISHED BY ANY CHAPTER. **NONE OF THE OTHER FOUR IS ANSWERED, RESTATED OR USED AS A REASON FOR ANYTHING IN YOUR TEN DAYS.**
+
+### 5. THE SWEEPS YOU MUST RUN ON YOUR OWN TEN FILES BEFORE YOU FINISH
+
+Quote parity even and bold parity even on every file; the second person at zero in the narration and in the apparatus; no four-digit year; **a question mark at zero**, and a question printed as what somebody said, in indirect speech, without a mark; the prohibition list word for word, being *stage*, *prototype*, *openhand*, *anchor*, *chorus*, *fleet*, *network*, *committee*, *singular*, *keelwright*, *tide-ear*, *faultreader*, *storm-reader*, *cache*, *chamber*, *minister*, *plate*, *four feet* and *twenty-two fathoms*, and the seven book-structure forms, and the five tokens that came off the list; no personal name; **the word *thank* at zero and every occurrence of *thanked* a statement that nobody was thanked**; no figure of money in digits and no currency sign; every counted slip length equal to its own passage; every clock phrase in range; **every printed figure of money of the form *N pence, being <gloss>* evaluating**, and four of those failed on the first pass of Movement 1 and had to be re-set, so this sweep is not optional and is not a formality; the duplicate-run sweep across the scene prose and the apparatus together; the second-column reason at an eight-word run with the house's own opening frame excluded, and it must be zero pairs inside your ten and zero against Movement 1 and Volume 16; the half-past-five slip opening differently on every one of your ten; and every locked figure present on the face of its own day. **A SWEEP THAT COMES BACK CLEAN IS RECORDED AS CLEAN AND A SWEEP THAT WAS NOT RUN IS RECORDED AS NOT RUN.**
+
+**THE THREE OWNERS OF THE FORM IN MOVEMENT 1, WHICH YOUR TEN WILL ALSO HAVE, AND NONE OF THEM IS A FINDING: THE STANDING FIGURES BLOCK, THE RECITAL OF A WORKED LINE'S FIVE PARTS, AND THE HOUSE'S OWN FIXED DAILY GLOSSES. WITH ALL THREE OWNERS SET ASIDE, NO TWO OF THE FILES MAY SHARE AN EIGHT-WORD RUN OUTSIDE THE HOUSE'S OWN TEMPLATES, AND THERE MAY BE NO SHARED PARAGRAPH AT ALL.**
+
+### 6. WHAT YOU DO AT THE END OF YOUR BATCH
+
+**PUT ONE SECTION AT THE HEAD OF EACH OF `state/current.md`, `state/continuity.md`, `state/open-threads.md` AND `state/chapter-summaries.md`, RECORDING THE TEN DAYS, EVERY FIGURE, EVERY SWEEP AND WHAT IT RETURNED, EVERY REPAIR, AND WHAT YOUR PASS DID NOT DO. BRING `state/volume-index.md`'s active-volume line forward TO VOLUME 17 AND MARK THE OLDER ACTIVE-VOLUME LINES DEAD WHERE THEY STAND. CREATE EXACTLY ONE NEXT PHASE PROMPT AT `workspace/volume-17/batch-0003/PROMPT.md` FOR CHAPTERS 831 TO 840, MOVEMENT 3, WHICH OWNS THE MIDPOINT ON 835, THE FIRST LINE AT THE FOOT OF A PAGE ON 837, THE COST OF THE VOLUME ON 838, AND THE COUNT OF THE SECOND READING ON 840. CREATE NO OTHER PHASE, NO CARD FILE, NO SIXTH MOVEMENT AND NO NEW OUTLINE.**
+
+**`state/phase-ledger.json` IS NOT TO BE READ, NOT TO BE EDITED AND NOT TO BE REPORTED AS EVIDENCE OF ANYTHING. The controller owns it, it is far behind the manuscript, and the fact is already recorded once in each state file and is not restated.** `outline/ending.md`, `outline/series.md`, `outline/volume-16.md` AND `NOVEL_SPEC.md` ARE NOT TO BE EDITED BY A BATCH PASS. NOTHING UNDER `scripts/`, `.github/workflows/` OR `.opencode/agent/` IS TO BE TOUCHED. `reviews/` IS NOT TO BE TOUCHED AND NO REVIEW FILE IS TO BE INVENTED. **THE FINAL ENEMY IS THE ONE `outline/ending.md` NAMES AND THERE IS NO OTHER, AND NO NEW FINAL ENEMY IS TO BE NAMED IN ANY FILE OF YOUR PASS WITHOUT SAYING ON THE FACE OF THAT FILE WHAT IT REPLACES.**
