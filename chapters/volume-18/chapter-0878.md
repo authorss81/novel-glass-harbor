@@ -75,7 +75,7 @@ About half past five on that Thursday the day's whole was said out loud at that 
 
 "**The woman of thirty, who holds no office, worked that yard over her own page from about ten until about one, and the man of about thirty-two was in that shed from about eleven until about three, and neither of them said one word to the other about any of it.**"
 
-"**From about ten until about two nobody asked a man of about thirty-four of the second lay for one thing, being the hundred and twenty-eighth day of that run. Eleven hands went onto the faces of three sheets that left that harbor that day.**"
+"**From about ten until about two nobody asked a man of about thirty-four of the second lay for one thing, being the hundred and twenty-eighth day of that run. Eleven hands went onto the faces of two sheets that left that harbor that day.**"
 
 "**A hundred and sixty-eight pence came into this yard at about ten and a hundred and sixty-eight went out of it at about four, and twenty-eight plus one thousand six hundred and eighty less one thousand six hundred and eighty is twenty-eight, and the twenty-eight is under that slate, being two shillings and fourpence, which is six hundred and twelve pence short of the wage of four marks, being three marks eleven shillings.**"
 

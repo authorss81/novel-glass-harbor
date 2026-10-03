@@ -49,7 +49,7 @@ That market was busy at about one and quiet at about three, and a man of about f
 
 ---
 
-The woman of thirty, who holds no office, worked that yard over her own page from about ten until about one, and the man of about thirty-two was in that shed at about half past eleven and at about eleven as well, and neither of the two of them said one word to the other one about the hundred and twelfth week or anything else at all.
+The woman of thirty, who holds no office, worked that yard over her own page from about ten until about one, and the man of about thirty-two was in that shed at about half past eleven, and neither of the two of them said one word to the other one about the hundred and twelfth week or anything else at all.
 
 From about ten until about two a man of about thirty-four of the second lay sat at that bench, and not one person in that lane asked him a thing, and that is the hundred and twenty-sixth day of that run of days he has not missed.
 
