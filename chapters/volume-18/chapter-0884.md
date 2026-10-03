@@ -36,6 +36,8 @@ About four of that nine said out loud that nobody in this harbor has written any
 
 He said out loud that a piece of wood with a hundred and thirty-seven mornings on it has got neither of those two days on it and cannot be asked about by anybody including him, and about four of that nine said nothing back to that and one of that nine went on with what she was doing.
 
+Nothing in that shed came back at him on any of it. One of about four of that nine wrote something on the back of a hand and put that hand into a pocket, and about four of that nine stood at the open door of that shed and looked at that yard instead of at him, and that was the whole of what came back and it went no further than that.
+
 ---
 
 The ordinary work of that Wednesday was three boats off that mole before noon in that rain and a barrow of ninety yards of that line run out to the second lay and brought back by nine, and not one of those came near that fitting-out sheet, and nothing in the world is set against either half of it.

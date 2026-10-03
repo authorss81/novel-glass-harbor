@@ -34,7 +34,7 @@ A man came down that lane at about ten and was in it for the half hour it takes 
 
 A man of about thirty-one of the Lowfen Reed's own place stood in that lane from about half past ten until about a quarter to one and watched four people he had never seen count there and said nothing at any hour of it, and that is the eighth Sunday he has stood in that lane and he has not said one word on any of the eight.
 
-He had been in that harbor fifty-four days and had asked nobody for anything on any of the fifty-four, and about four of that nine said out loud that they have given up trying to work out what he is here for.
+He had been in that harbor fifty-four days and had asked nobody for anything on any of the fifty-four, and about four of that nine said out loud that they have given up trying to work out what he is here for. Two of that nine put their heads together over that for about as long as it takes to boil a kettle and said nothing else out loud at all, and about four of that nine found something else to be doing in that shed inside of a minute.
 
 ---
 

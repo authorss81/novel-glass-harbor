@@ -26,8 +26,8 @@ The man of about thirty-two looked down at it once at about eleven and did not t
 
 The keeper looked at it once at about four and said nothing about it, and about four of that nine have not mentioned it to anybody since that day.
 
-A man of about fifty-eight of that market came through that shed at about two, looked down at that piece of wood for about as long as it takes to count something small, said nothing at all about it, and went on to his own stall with his own slate under his arm.
-About four of that nine said out loud that the covers came off that cistern on Monday at about four for the two hundred and thirteenth time, and that no page in this harbor has one line about a cistern in it, and that a thing nobody writes down still gets done two hundred and thirteen times.
+A man of about fifty-eight of that market came through that shed at about two, looked down at that piece of wood for about as long as it takes to count something small, said nothing at all about it, and went on to his own stall with his own slate under his arm. He was in that shed for about a minute and a half and nobody spoke to him and he spoke to nobody, and about four of that nine worked out in that minute and a half that a man can stand in a room and not be in it at all.
+About four of that nine said out loud that the covers came off that cistern on Thursday at about four for the two hundred and twelfth time, and that no page in this harbor has one line about a cistern in it, and that a thing nobody writes down still gets done two hundred and twelve times.
 
 ---
 
@@ -69,7 +69,7 @@ About half past five on that Saturday the day's whole was said out loud at that 
 
 "**A man of about fifty-eight of that market came through that shed at about two, looked down at that piece of wood for about as long as it takes to count something small, said nothing at all about it, and went on to his own stall.**"
 
-"**About four of that nine said out loud that the covers came off that cistern on Monday at about four for the two hundred and thirteenth time, and that no page in this harbor has one line about a cistern in it, and that a thing nobody writes down still gets done two hundred and thirteen times.**"
+"**About four of that nine said out loud that the covers came off that cistern on Thursday at about four for the two hundred and twelfth time, and that no page in this harbor has one line about a cistern in it, and that a thing nobody writes down still gets done two hundred and twelve times.**"
 
 "**A man of about thirty-one of the Lowfen Reed's own place came into that shed at about nine that morning and stood in that doorway for about ten minutes, and he had been in that harbor fifty-three days and had not been in that shed before ten on any of them.**"
 

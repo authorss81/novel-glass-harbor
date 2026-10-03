@@ -21,15 +21,15 @@ The sheet with the fifteen gaps stands at fifteen and has stood there since the 
 
 ---
 
-At about ten past four he brought that piece of wood into that shed in his own two hands and put it down face up on that bench, and there were a hundred and thirty-seven mornings of figures on it in his own hand and the hundred and thirty-eighth was not written on it.
+At about ten past four he brought that piece of wood into that shed in his own two hands and put it down face up on that bench, and there were a hundred and thirty-seven mornings of figures on it in his own hand and the hundred and thirty-eighth was not written on it, and he took his hands off it and wiped the rain off the back of one of them down the skirt of that coat and did not wipe a thing off the front of it. He stood over it a while and the water came off the bottom edge of it onto the boards of that shed floor and made a dark mark there that stayed where it was while he stood there.
 
-Then he said out loud that he is not going to count that thing again, and about four of that nine heard every word of that and about four of that nine were at the far end of that yard and did not.
+Then he said out loud that he is not going to count that thing again, and the words he used were these. "That is the last morning that goes on that wood." About four of that nine heard every word of that and about four of that nine were at the far end of that yard and did not, and the rain was still coming on that roof and a gate went somewhere off that quay, and not one of that nine said one word about the gate or about him.
 
-He put his hands in his pockets after that and stood where he had put it and did not pick it up again at any hour of that Friday and did not give it to anybody and nobody in that shed asked him for it.
+He put his hands in his pockets after that and stood where he had put it and did not pick it up again at any hour of that Friday and did not give it to anybody and nobody in that shed asked him for it, and one of that nine took two steps towards that bench and stopped and went back to where that person had been standing, and about four of that nine saw that happen and not one of them said a word about it either.
 
 ---
 
-One of about four of that nine said out loud that a count handed over is not a count, and that a figure nobody has counted in their own head belongs to nobody who has counted anything.
+One of about four of that nine said out loud that a count handed over is not a count, and that a figure nobody has counted in their own head belongs to nobody who has counted anything, and the second of those two things was given in these words. "A figure in a head is not a figure on a bench."
 
 One of about four of that nine said out loud that the four of them had been in that lane every one of those hundred and thirty-seven Sundays anyway and had never needed him for a single figure of any of it.
 
@@ -39,7 +39,7 @@ Nobody answered any of those three things, and he said nothing back to any of th
 
 ---
 
-That bench stone at the end of that mole had a hundred and thirty-seven mornings of figures lying face up on it from about ten past four until that shed stood empty at about six, and about four people walked past it in that half hour and every one of them looked down at it and not one of them put a hand on it.
+That bench in that shed, with that wood face up on it, had a hundred and thirty-seven mornings of figures on it from about ten past four until that shed stood empty at about six, and about four people walked past it in that half hour and every one of them looked down at it and not one of them put a hand on it.
 
 The slate is still on that bench and has not been taken off it by anybody, and there is no page in this harbor and no board and no drawer in any room in this harbor that has one figure of that thing on it.
 
@@ -88,7 +88,7 @@ About half past five on that Friday the day's whole was said out loud at that st
 
 "**Nobody answered any of those three things, and he said nothing back to any of them, and about four of that nine went on with what they were doing.**"
 
-"**That bench stone at the end of that mole had a hundred and thirty-seven mornings of figures lying face up on it from about ten past four until that shed stood empty at about six, and about four people walked past it in that half hour and every one of them looked down at it and not one of them put a hand on it.**"
+"**That bench in that shed, with that wood face up on it, had a hundred and thirty-seven mornings of figures on it from about ten past four until that shed stood empty at about six, and about four people walked past it in that half hour and every one of them looked down at it and not one of them put a hand on it.**"
 
 "**The slate is still on that bench and has not been taken off it by anybody, and there is no page in this harbor and no board and no drawer in any room in this harbor that carries one figure of that thing on it.**"
 

@@ -22,15 +22,13 @@ A man came down that lane at about ten and was in it for the half hour it takes 
 
 Two men from the second lay carried a hand-cart of coke up that lane at about eleven and brought it back down it again empty, because the cart would not go round at the bottom of it, and they said nothing to anybody about it.
 
-He wrote that figure on that wood in his own hand at about a quarter to eleven, standing at the foot of those steps with his back to about four of those four, and that was the hundred and thirty-seventh figure to go onto it and nothing said to him that it was the last one.
-
-What he wanted off that wood that Sunday was the first figure on it, and he went to the top of that column and could not get to it, because the wood is worn smooth at that corner and there is no day against the first figure and none against the eleven under it.
+He wrote that figure on that wood in his own hand at about a quarter to eleven, standing at the foot of those steps with his back to about four of those four, and that was the hundred and thirty-seventh figure to go onto it and nothing said to him that it was the last one. What he wanted off that wood that Sunday was the first figure on it, and he went to the top of that column and could not get to it, because the wood is worn smooth at that corner and there is no day against the first figure and none against the eleven under it, and he put a thumb on the head of that column and rubbed at it with the edge of a nail for about as long as it takes to count a small thing, and the wood gave him nothing at all for it.
 
 He has been up that lane on a hundred and thirty-seven mornings, and he stood there with the wood in his hand for about ten minutes working at the top of that column and could not get back to the beginning of it, and the last thing he could bring up out of it was a face of a man's own hands and not a morning.
 
 ---
 
-At about a quarter to twelve somebody chalked the figure of a boat on the flat of that bench stone, and it was still standing on that stone at half past five that afternoon.
+At about a quarter to twelve somebody chalked the figure of a boat on the flat of that bench stone, and it was still standing on that stone at half past five that afternoon. Whoever chalked it did not put a name under it and did not put a day against it, and about four of that nine saw it go on and about four of that nine saw it go off, and the stone had been chalked and washed twice that summer and had come back blank both times.
 
 He put that wood back inside that coat at about ten past eleven and stood with his hands in his pockets until a quarter to one, and about three of those four did not see him do that and one of that four saw him do it and has not said a word about it since.
 
