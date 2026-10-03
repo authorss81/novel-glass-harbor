@@ -10,7 +10,7 @@ Saturday the fifth day of November, with that market open from six and the first
 
 ---
 
-The ordinary work of that Saturday was four boats off that mole before noon in a big lane and a coil of line measured off against a gauge, and not one of those two came near that fitting-out sheet, and nothing in the world is set against either half of it.
+On that Saturday the ordinary work was four boats off that mole before noon in a big lane and a coil of line measured off against a gauge, and not one of those two came near that fitting-out sheet, and nothing in the world is set against either half of it.
 
 Those four new crews stood at their forty-eighth day and took the day's work off in about two hours in the middle of all that, and about four of that nine said that a man of about thirty-one of the Lowfen Reed's own place was in that yard on Saturday for the fourth day running and had not asked anybody for anything.
 
@@ -54,7 +54,7 @@ Four hands went onto the faces of two sheets that left that harbor that day and 
 
 About half past five on that Saturday the day's whole was said out loud at that stone standing up, in about one thousand and twenty-nine words, and the ordinary work came first in it, the room over that fish market came in the middle of it, and the four people who watched a man go out of a door came at the end of it, and nothing that anybody counts is in this reading.
 
-"**The ordinary work of that Saturday was four boats off that mole before noon in a big lane and a coil of line measured off against a gauge, and not one of those two came near that fitting-out sheet. Those four new crews stood at their forty-eighth day and took the day's work off in about two hours in the middle of all that, and about four of that nine said that a man of about thirty-one of the Lowfen Reed's own place was in that yard on Saturday for the fourth day running and had not asked anybody for anything.**"
+"**On that Saturday the ordinary work was four boats off that mole before noon in a big lane and a coil of line measured off against a gauge, and not one of those two came near that fitting-out sheet. Those four new crews stood at their forty-eighth day and took the day's work off in about two hours in the middle of all that, and about four of that nine said that a man of about thirty-one of the Lowfen Reed's own place was in that yard on Saturday for the fourth day running and had not asked anybody for anything.**"
 
 "**At about two, in the room over that fish market, in about four people, a man of about forty-one of that market who does odd carrying with a handcart said a thing quietly. He said that for about nine years he has written figures out of one person's book into another person's book for nothing, because he cannot read the figures and can copy them, and that about four people in this harbor have been doing it for him in that nine years and about four have forgotten they had.**"
 

@@ -10,7 +10,7 @@ Monday the thirty-first day of October, with that market open from six and a fla
 
 ---
 
-At about nine that butt was filled for the hundred and ninety-seventh time and the last of it from Thursday had gone flat at the bottom and had a skin on it and nobody drank it and nobody said anything about that either.
+At about nine the butt was filled for the hundred and ninety-seventh time and the last of it from Thursday had gone flat at the bottom and had a skin on it and nobody drank it and nobody said anything about that either.
 
 The ordinary work of that Monday was two boats off that mole before noon and a coil of line measured off against a gauge by a man of about twenty-four of that market, and not one of those two came near that fitting-out sheet, and no money at all is set against either half of it.
 
@@ -48,7 +48,7 @@ Seven hands went onto the faces of three sheets that left that harbor that day, 
 
 About half past five on that Monday the day's whole was said out loud at that stone standing up, in about nine hundred and twenty words, and the cistern came first in it, the settlement came in the middle of it, and the shelf with nothing read off it came at the end of it, and no count that anybody keeps is in this reading.
 
-"**At about nine that butt was filled for the hundred and ninety-seventh time and the last of it from Thursday had gone flat at the bottom and had a skin on it and nobody drank it and nobody said anything about that either. The ordinary work of that Monday was two boats off that mole before noon and a coil of line measured off against a gauge by a man of about twenty-four of that market, and not one of those two came near that fitting-out sheet, and no money at all is set against either half of it.**"
+"**At about nine the butt was filled for the hundred and ninety-seventh time and the last of it from Thursday had gone flat at the bottom and had a skin on it and nobody drank it and nobody said anything about that either. The ordinary work of that Monday was two boats off that mole before noon and a coil of line measured off against a gauge by a man of about twenty-four of that market, and not one of those two came near that fitting-out sheet, and no money at all is set against either half of it.**"
 
 "**Those four new crews stood at their forty-third day and took the day's work off in about an hour and three quarters, and about four of that nine said that one of them had been told on Saturday by a man of about thirty-seven of that market that this harbor was a hard place to learn in and that he was still here.**"
 

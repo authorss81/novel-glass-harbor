@@ -10,7 +10,7 @@ Sunday the twentieth day of November, with that market shut until seven and a we
 
 ---
 
-The wall behind that reeve's bench came off at about half past ten and about four people stood in front of it counting, and one of those four was the man of about thirty-one of the Lowfen Reed's own place, who has seen that wall come down three times now and had not said one word about it any of the three.
+The wall behind that reeve's bench came down at about half past ten and about four people stood in front of it counting, and one of those four was the man of about thirty-one of the Lowfen Reed's own place, who has seen that wall come down three times now and had not said one word about it any of the three.
 
 It stood bare thirty-seven minutes and went back up at a quarter to one without being made whole again, and it is the hundred and thirty-third time, and each of the two ends runs a minute longer than it ran the time before, and nobody in that lane said one word about either end of it.
 
@@ -44,7 +44,7 @@ That wall went back up at a quarter to one with the top two courses of it left s
 
 About half past five on that Sunday the day's whole was said out loud at that stone standing up, in about five hundred and ninety-seven words, and the wall came first in it and the empty column came in the middle of it and the four columns came at the end of it, and of that Sunday this reading carries five blocks and omits four paragraphs, being the one about the ordinary work of it, the one about those four crews, the one about the two hands, and the one about the top two courses of that wall being left short.
 
-"**The wall behind that reeve's bench came off at about half past ten and about four people stood in front of it counting, and one of those four was the man of about thirty-one of the Lowfen Reed's own place, who has seen that wall come down three times now and had not said one word about it any of the three. It stood bare thirty-seven minutes and went back up at a quarter to one without being made whole again, and it is the hundred and thirty-third time, and each of the two ends runs a minute longer than it ran the time before, and nobody in that lane said one word about either end of it.**"
+"**The wall behind that reeve's bench came down at about half past ten and about four people stood in front of it counting, and one of those four was the man of about thirty-one of the Lowfen Reed's own place, who has seen that wall come down three times now and had not said one word about it any of the three. It stood bare thirty-seven minutes and went back up at a quarter to one without being made whole again, and it is the hundred and thirty-third time, and each of the two ends runs a minute longer than it ran the time before, and nobody in that lane said one word about either end of it.**"
 
 "**At about two, in that shed, in about nine people, about four of that nine said out loud that there is a day down the side of that leaf with nothing at all in the sixth of those columns on it. The keeper said out loud that he is not going to write a zero in that column for a day nothing was put back on, and that a day with no figure in it is not a day with nothing wrong with it, and that a zero in a column is a thing a man reads at four in the afternoon and believes without asking anybody else at all.**"
 

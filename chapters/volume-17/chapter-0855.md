@@ -10,7 +10,7 @@ Tuesday the twenty-second day of November, with that market open from six and a 
 
 ---
 
-The chest with the twenty envelopes in it stood shut on that step from ten until four for the eighth wage Tuesday running, and not one person in that yard so much as laid a hand on that lid, and the column on that lid stands where it stood a week ago at this same hour, at twenty-six lines and one hundred and four marks, and the hundred and ninth week is owing on every one of those twenty-six lines.
+On that step from ten until four the chest with the twenty envelopes in it stood shut for the eighth wage Tuesday running, and not one person in that yard so much as laid a hand on that lid, and the column on that lid stands where it stood a week ago at this same hour, at twenty-six lines and one hundred and four marks, and the hundred and ninth week is owing on every one of those twenty-six lines.
 
 The ordinary work of that Tuesday was three boats off that mole before noon under that low cloud and a rubbing strake on one of them planed and varnished where the sun does not reach, and not one of those two came near that fitting-out sheet and nothing in the world is set against either half of it.
 
@@ -48,7 +48,7 @@ That lid was shut at about four on that Tuesday with the hundred and ninth week 
 
 About half past five on that Tuesday the day's whole was said out loud at that stone standing up, in about eight hundred and six words, and the chest came first in it and the three Tuesdays running came in the middle of it and the four columns came at the end of it, and no figure out of that sixth column is in this reading because the keeper is not adding that column up.
 
-"**The chest with the twenty envelopes in it stood shut on that step from ten until four for the eighth wage Tuesday running, and not one person in that yard so much as laid a hand on that lid, and the column on that lid stands where it stood a week ago at this same hour, at twenty-six lines and one hundred and four marks, and the hundred and ninth week is owing on every one of those twenty-six lines.**"
+"**On that step from ten until four the chest with the twenty envelopes in it stood shut for the eighth wage Tuesday running, and not one person in that yard so much as laid a hand on that lid, and the column on that lid stands where it stood a week ago at this same hour, at twenty-six lines and one hundred and four marks, and the hundred and ninth week is owing on every one of those twenty-six lines.**"
 
 "**The ordinary work of that Tuesday was three boats off that mole before noon under that low cloud and a rubbing strake on one of them planed and varnished where the sun does not reach, and not one of those two came near that fitting-out sheet. Those four new crews reached their sixty-fifth day and took the day's work off in about two hours, and about four of that nine said out loud that a wet Tuesday with the lid down at four hundred feet is a day for doing nothing much and that they had done nothing much in it well.**"
 

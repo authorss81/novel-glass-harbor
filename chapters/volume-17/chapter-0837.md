@@ -10,7 +10,7 @@ Friday the fourth day of November, with that market open from six and a fine har
 
 ---
 
-The ordinary work of that Friday was three boats off that mole before noon in that clear light and a coil of line measured off against a gauge with that door propped on a brick, and neither of those two came near that fitting-out sheet, and no sum at all is set against either half of it.
+On that Friday the yard's ordinary work was three boats off that mole before noon in that clear light and a coil of line measured off against a gauge with that door propped on a brick, and neither of those two came near that fitting-out sheet, and no sum at all is set against either half of it.
 
 Those four new crews reached their forty-seventh day and took the day's work off in about two hours, and about four of that nine said that the man of about forty-six of the second lay had come in at about half past seven and had not said one word to anybody since.
 
@@ -50,9 +50,9 @@ Thirteen hands went onto the faces of four sheets that left that harbor that day
 
 ---
 
-About half past five on that Friday the day's whole was said out loud at that stone standing up, in about one thousand and thirty-nine words, and the ordinary work came first in it, the line at the foot of that page came in the middle of it, and the three sentences the man of about thirty-two said came at the end of it, and no count that anybody keeps is in this reading.
+About half past five on that Friday the day's whole was said out loud at that stone standing up, in about one thousand and forty words, and the ordinary work came first in it, the line at the foot of that page came in the middle of it, and the three sentences the man of about thirty-two said came at the end of it, and no count that anybody keeps is in this reading.
 
-"**The ordinary work of that Friday was three boats off that mole before noon in that clear light and a coil of line measured off against a gauge with that door propped on a brick, and not one of those two came near that fitting-out sheet. Those four new crews reached their forty-seventh day and took the day's work off in about two hours, and about four of that nine said that the man of about forty-six of the second lay had come in at about half past seven and had not said one word to anybody since.**"
+"**On that Friday the yard's ordinary work was three boats off that mole before noon in that clear light and a coil of line measured off against a gauge with that door propped on a brick, and not one of those two came near that fitting-out sheet. Those four new crews reached their forty-seventh day and took the day's work off in about two hours, and about four of that nine said that the man of about forty-six of the second lay had come in at about half past seven and had not said one word to anybody since.**"
 
 "**At about two, in that shed, in about nine people, the man of about forty-six of the second lay took a page of his own out of his coat and asked for the sheet to be held. He said out loud that he cannot read his own writing back, and that a thing written at the far end of that bench by a man who cannot read his own writing is a thing nobody will ever be able to check, and that whoever holds the sheet is holding it, and that he does not care who that is.**"
 

@@ -10,7 +10,7 @@ Friday the twenty-first day of October, with that market open from six and a har
 
 ---
 
-The ordinary work of that Friday was three boats off that mole before noon on that long grey swell and a hatches out of the water by three in the afternoon, and no line went onto that fitting-out sheet and no figure of money is set against either half of it.
+On that Friday the ordinary work was three boats off that mole before noon on that long grey swell and a hatches out of the water by three in the afternoon, and no line went onto that fitting-out sheet and no figure of money is set against either half of it.
 
 Those four new crews came to their thirty-third day and had the whole of the day's work off in about an hour and three quarters with the man of about thirty-two over them, which is what they did on their twenty-ninth day and a quarter of an hour less than they did last Saturday. About four of that nine have not come back since the second week and about four are still there.
 
@@ -46,7 +46,7 @@ Eight hands went across three sheets that left that harbor that day, none of the
 
 About half past five on that Friday the day's whole was said out loud at that stone standing up, in about one thousand one hundred and three words, and the ordinary work came first in it, the man of about thirty-two came in the middle of it, and the settlement came at the end of it, and nothing in this reading wants counting.
 
-"**The ordinary work of that Friday was three boats off that mole before noon on that long grey swell and a hatches out of the water by three in the afternoon, and no line went onto that fitting-out sheet and no figure of money is set against either half of it. Those four new crews had the whole of the day's work off in about an hour and three quarters with the man of about thirty-two over them, and four of the nine have not come back since the second week and about four are still there.**"
+"**On that Friday the ordinary work was three boats off that mole before noon on that long grey swell and a hatches out of the water by three in the afternoon, and no line went onto that fitting-out sheet and no figure of money is set against either half of it. Those four new crews had the whole of the day's work off in about an hour and three quarters with the man of about thirty-two over them, and four of the nine have not come back since the second week and about four are still there.**"
 
 "**The board at that end stall has been in the weather since Thursday morning and the top of the six hundred and seventy-two has run down the face of it and stopped about a hand's width above the forty-eight, and the man of about fifty-eight of that market looked at it at about ten and said out loud that it would go in about a week and that he was not going to chalk it up again, and went and did his own work.**"
 

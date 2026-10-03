@@ -10,7 +10,7 @@ Sunday the twenty-third day of October, with that market shut until about seven 
 
 ---
 
-The wall behind that reeve's bench came off at about half past ten the way it comes off every Sunday morning, and it was forty-six minutes off and thirty-three minutes standing bare and forty-six minutes back up, which is one hundred and twenty-five minutes the whole of it, and that is a minute longer at each end than the last one was and three minutes longer in all.
+Behind that reeve's bench the wall came off at about half past ten the way it comes off every Sunday morning, and it was forty-six minutes off and thirty-three minutes standing bare and forty-six minutes back up, which is one hundred and twenty-five minutes the whole of it, and that is a minute longer at each end than the last one was and three minutes longer in all.
 
 About four people were standing there when it came off and about four were standing there when it went up and nobody said why and nobody has said why on any Sunday this harbor can account for, and the ladder is a uniform step and it is a step longer than it was the time before.
 
@@ -40,7 +40,7 @@ That Sunday put five hands onto the faces of two sheets that left buildings in t
 
 About half past five on that Sunday the day's whole was said out loud at that stone standing up, in about nine hundred and fifty-six words, and the wipe came first in it, the board on that floor came in the middle of it, and the four new crews came at the end of it, and there is not a count in this reading.
 
-"**The wall behind that reeve's bench came off at about half past ten the way it comes off every Sunday morning, and it was forty-six minutes off and thirty-three minutes standing bare and forty-six minutes back up, which is one hundred and twenty-five minutes the whole of it, and that is a minute longer at each end than the last one was and three minutes longer in all. About four people were standing there when it came off and about four were standing there when it went up and nobody said why.**"
+"**Behind that reeve's bench the wall came off at about half past ten the way it comes off every Sunday morning, and it was forty-six minutes off and thirty-three minutes standing bare and forty-six minutes back up, which is one hundred and twenty-five minutes the whole of it, and that is a minute longer at each end than the last one was and three minutes longer in all. About four people were standing there when it came off and about four were standing there when it went up and nobody said why.**"
 
 "**The ordinary work of that Sunday in that rain was two boats off that mole while the water was coming over the wall of it and that hatches was out of the water by a little after two in the afternoon, and no line went onto that fitting-out sheet and no figure of money is set against either half of it.**"
 

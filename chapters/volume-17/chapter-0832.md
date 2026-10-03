@@ -10,7 +10,7 @@ Sunday the thirtieth day of October, with that market shut until seven and the l
 
 ---
 
-The wall behind that reeve's bench came off the wall at about half past ten and there were about four people standing in front of it counting and about two of those four had a watch and about two did not.
+Behind the reeve's bench that wall came off the wall at about half past ten and there were about four people standing in front of it counting and about two of those four had a watch and about two did not.
 
 It stood bare thirty-four minutes and it went back up at a quarter to one and it did not go up whole, and it is the hundred and thirtieth time that has happened and each of the two ends is a minute longer than it was the time before, and nobody in that lane said anything about either end and nobody has said anything about any of them since the fourteenth of August.
 
@@ -50,7 +50,7 @@ Eight hands went onto four sheets that left that harbor that day, and not one of
 
 About half past five on that Sunday the day's whole was said out loud at that stone standing up, in about one thousand and three words, and the wall came first in it, the four answers came in the middle of it, and the two readings came at the end of it, and this reading counts nothing.
 
-"**The wall behind that reeve's bench came off the wall at about half past ten and there were about four people standing in front of it counting and about two of those four had a watch and about two did not. It stood bare thirty-four minutes and it went back up at a quarter to one and it did not go up whole, and it is the hundred and thirtieth time that has happened and each of the two ends is a minute longer than it was the time before, and nobody in that lane said anything about either end.**"
+"**Behind the reeve's bench that wall came off the wall at about half past ten and there were about four people standing in front of it counting and about two of those four had a watch and about two did not. It stood bare thirty-four minutes and it went back up at a quarter to one and it did not go up whole, and it is the hundred and thirtieth time that has happened and each of the two ends is a minute longer than it was the time before, and nobody in that lane said anything about either end.**"
 
 "**The ordinary work of that Sunday was a hatches out of the water by about half past two and a coil of line measured off against a gauge with that door propped on a brick, and no line went onto that fitting-out sheet in the ordinary way. Those four new crews came to their forty-second day and got the day's work off in about two hours of it, and about four of that nine said that they had begun to know which of the four men in that shed says something when a thing goes wrong.**"
 
