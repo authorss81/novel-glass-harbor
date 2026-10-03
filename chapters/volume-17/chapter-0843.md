@@ -36,7 +36,7 @@ About four of that nine said nothing at all. Nobody repeated any of it back to a
 
 At about half past two, in that doorway, a man of about fifty-eight of that market who keeps the end stall and a slate said out loud that the two of them are arguing about two different pages.
 
-He said it out loud with his back to that bench and not to either of them. He said out loud that that stall in that market is his own and has been a long time and that the two people saying things in that shed on Tuesday and Wednesday and Thursday are talking about two pages and not one, and that on one of those pages there is a figure and on the other one there is a person, and that neither of them can be got at by the other one's method.
+He said it out loud with his back to that bench and not to either of them. He said out loud that that stall in that market is his own and has been a long time and that what the two of them have been saying to each other in that shed this week is two pages and not one, and that on one of those pages there is a figure and on the other one there is a person, and that neither of them can be got at by the other one's method.
 
 About four of that nine said out loud that they had thought the same thing and had not said it. Nobody asked him one question about it and nobody asked him a second thing he said on the first day of this month.
 

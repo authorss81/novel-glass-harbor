@@ -40,7 +40,7 @@ At about four, in that yard, at the end of that lane, the man of about thirty-tw
 
 That is four words between them and about four of those nine were inside that shed at the time and not one of them heard either of those two say either of them.
 
-Neither of them wrote either of those words down. Neither of them has written one word of this fortnight down on anything, and the other's page carries tonight nobody's hand but the one that has been on it all fortnight, and that sheet with the fifteen gaps in it is where it stood in September, and there is no fifth kind of thing on the wall of that room over the chandler's store, and the two of them went up that lane together at about ten past four and were in that house before the light went.
+Neither of them wrote either of those words down. Neither of them has written one word of this fortnight down on anything, and not one of the two of them has ever put their own hand on the other's page, and that sheet with the fifteen gaps in it is where it stood in September, and there is no fifth kind of thing on the wall of that room over the chandler's store, and the two of them went up that lane together at about ten past four and were in that house before the light went.
 
 They are still married. That is the whole of what that Thursday says about it.
 
