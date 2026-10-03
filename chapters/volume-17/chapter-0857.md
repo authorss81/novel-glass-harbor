@@ -32,7 +32,7 @@ Nobody asked him which of the two was which any further than that.
 
 From about ten until about two a man of about thirty-four of the second lay sat at that bench and not one person in that lane asked him a thing, and that is the hundred and seventh day of that run of days he has not missed.
 
-The man of about thirty-two was in that shed from about one until about three and said nothing out loud, and at about half past two he thought, without saying one word of it out loud, that a thing this harbor agrees to is a thing this harbor has not wanted in six weeks, and that the first person in that shed to have to work under six lines is going to be a person who has asked this harbor for nothing for twenty-one days, and that he is not going to say that out loud either.
+The man of about thirty-two was in that shed from about one until about three and said nothing out loud, and at about half past two he thought, without saying one word of it out loud, that a thing this harbor agrees to is a thing this harbor has not wanted in six weeks, and that the first person in that shed to have to work under six lines is going to be a person who has asked this harbor for nothing for twenty-three days, and that he is not going to say that out loud either.
 
 Six hands went onto the faces of two sheets that left that harbor that day and not one of those six was the hand that wrote what it went against, and the page of days carries six against this day.
 
@@ -42,7 +42,7 @@ That copper template lay on that bench stone at about five with the lamp at the 
 
 ---
 
-About half past five on that Thursday the day's whole was said out loud at that stone standing up, in about six hundred and seventy-one words, and the cistern came first in it and the six lines came in the middle of it and the four columns came at the end of it, and this reading leaves out one paragraph of that day, being the one about the man of about thirty-two at about half past two, and carries the other five whole.
+About half past five on that Thursday the day's whole was said out loud at that stone standing up, in about six hundred and seventy-one words, and the cistern came first in it and the six lines came in the middle of it and the four columns came at the end of it, and this reading leaves out three paragraphs of that Thursday, being the one about those four new crews, the one about the man of about thirty-two at about half past two, and the one about that copper template lying on that bench stone at about five.
 
 "**That butt was charged at about nine for the two hundred and fourth time and it took fourteen trips by hand and nobody walked on a single one of them, and the man of about thirty-one of the Lowfen Reed's own place carried two of them and went back up that lane without stopping, and that is the twenty-third day he has been in that harbor.**"
 

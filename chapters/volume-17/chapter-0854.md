@@ -50,7 +50,7 @@ That foot stood at one hundred and thirty-two thousand one hundred and eighty-fo
 
 ---
 
-About half past five on that Monday the day's whole was said out loud at that stone standing up, in about seven hundred and seventy-one words, and the cistern came first in it and the one question came in the middle of it and the settlement came after that and the four columns came at the end of it, and the woman of about twenty-nine of that place is in this reading because he said it out loud in about nine people and not because anybody counts it.
+About half past five on that Monday the day's whole was said out loud at that stone standing up, in about seven hundred and seventy-one words, and the cistern came first in it and the one question came in the middle of it and the settlement came after that and the four columns came at the end of it, and the woman of about twenty-nine of that place is in this reading because he asked it out loud in about nine people and not because anybody counts it.
 
 "**At about nine that butt was charged for the two hundred and third time and it took fourteen trips by hand and nobody walked on a single one of them, and the man of about thirty-one of the Lowfen Reed's own place carried two of them and went back up that lane without stopping, and that is the twentieth day he has been in that harbor.**"
 
