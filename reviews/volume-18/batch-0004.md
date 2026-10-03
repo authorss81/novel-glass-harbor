@@ -2,9 +2,11 @@
 
 **REVIEWED:** `chapters/volume-18/chapter-0891.md` through `chapter-0900.md`, the head sections of the five state files, `outline/volume-18.md`, `workspace/volume-18/batch-0004/PROMPT.md` and the queued `workspace/volume-18/batch-0005/PROMPT.md`.
 
-**REVIEWER:** `novel-reviewer`, read-only, returned `NOVEL_REVIEW_RESULT: FIX`. Its full output is preserved at `logs/batch-0004.review.log` and is the authority for the findings. This file is the record of what was done with each finding, written by the repair pass that answered it.
+**REVIEWER:** `novel-reviewer`, read-only, returned `NOVEL_REVIEW_RESULT: FIX`. **NO REVIEWER LOG FOR ANY BATCH OF ANY VOLUME IS IN THIS REPOSITORY AND NONE WAS EVER COMMITTED, AND THE CITATION OF `logs/batch-0004.review.log` AT THIS PLACE IN EARLIER DRAFTS OF THIS LINE IS WITHDRAWN: `logs/` IS LISTED IN `.gitignore` AND HOLDS RUN LOGS AND NOT REVIEW LOGS, NO FILE WAS INVENTED TO SATISFY THE CITATION, AND THE RULING IS AT `NOVEL_SPEC.md` § *Status*.** This file is the record of what was done with each finding, written by the repair pass that answered it, and where this file and a reviewer's own wording differ, this file is the authority for the disposition and the chapters are the authority for the text.
 
-**RESULT:** ten required changes, all repaired. Five craft improvements, two repaired and three ruled and carried with the reason. One ruling recorded for the volume close. No chapter restarted, cut, replaced, reordered or moved. No day, no event, no lock and no counted length moved.
+**RESULT OF THE FIRST REPAIR PASS, WHICH IS SUPERSEDED IN PART BY § 10 BELOW:** ten required changes, eight repaired, one ruled and one flagged. Five craft improvements, two repaired and three ruled and carried with the reason. One ruling recorded for the volume close. No chapter restarted, cut, replaced, reordered or moved. No day, no event, no lock and no counted length moved.
+
+**RESULT AFTER THE SECOND REVIEW AND ITS REPAIR PASS, AT § 10:** the second reviewer returned FIX on ten findings. Three edits in two chapter files, being 892 and 899. **One finding is rejected as not true of the files and is not applied, and the six files it would have touched are left standing.** Six record repairs. Two further rulings for the volume close, which now carries four. No chapter restarted, cut, replaced, reordered or moved. No day, no event, no lock and no counted length moved, and all ten counted lengths were re-measured by script after every edit.
 
 ---
 
@@ -19,7 +21,7 @@
 | 5 | A lower-case numeral inside an all-caps sentence in `state/continuity.md` | **Repaired**; the second half of this finding does not exist on disk and was not touched |
 | 6 | `outline/volume-18.md` prints fifteen where the chapters carry fourteen | **Ruled** — recorded where the close will read it. The outline was not edited |
 | 7 | No review record existed for this phase | **Repaired** — this file |
-| 8 | `workspace/volume-18/batch-0004/` carries no `.done` | **Flagged**, not touched. The marker is the runner's |
+| 8 | `workspace/volume-18/batch-0004/` carries no `.done` | **Not a finding.** The directory was read and it carries `.done` and neither `.attempts` nor `.checkpoint`. Withdrawn by name at § 8 |
 | 9 | A weeks figure on 895 was off by one, and the house convention was undeclared | **Repaired** and ruled on |
 | 10 | `chapter-0896.md` second column printed an unsourced dated fact | **Repaired** |
 
@@ -55,9 +57,11 @@ Related: the card of the movement before this one printed 891 and 898 as Sundays
 
 `reviews/` held directories for volumes 01 to 17 and none for volume 18, and the head of `state/current.md` — the only part the next writer is told to read — recorded the movement's repairs and its sweeps without ever recording that a reviewer had looked at it. This file is that record.
 
-### 8. THE MARKER
+### 8. THE MARKER — CORRECTED AGAINST THE DIRECTORY, AND NO MARKER TOUCHED
 
-`workspace/volume-18/batch-0004/` carries `.attempts` and `.checkpoint` and no `.done`, and `workspace/volume-18/batch-0001/` still carries `.deferred`, `.wip-conflict` and `.retry-after` although it is long complete. Both markers are written by `scripts/novel_runner.sh`; neither was created nor deleted and none may be. Both are now on the record at `state/current.md` § 12. The three recorded re-dispatches of batch-0001 are the documented cost of this condition.
+**The finding as recorded here was itself wrong and is corrected on its face. `workspace/volume-18/batch-0004/` was read and it carries `.done`, and it carries neither `.attempts` nor `.checkpoint`. There is therefore no marker gap at batch-0004 and none is flagged. The first half of the old claim is withdrawn by name.**
+
+`workspace/volume-18/batch-0001/` still carries `.attempts`, `.checkpoint`, `.deferred`, `.wip-conflict` and `.retry-after` and no `.done`, although it is long complete. Every marker is written by `scripts/novel_runner.sh`; none was created nor deleted by this pass or by any other and none may be. That half of the record stands and is at `state/current.md` § 12. The three recorded re-dispatches of batch-0001 are the documented cost of that condition, and `state/phase-ledger.json`, which still reads bootstrap against a manuscript at 900, is the other half of it and is the controller's file.
 
 ### 9. THE WEEKS FIGURE
 
@@ -100,3 +104,27 @@ It did not settle, drop, sum, reconcile, forgive or arrange anything. It did not
 `state/phase-ledger.json` is the controller's file. It was not read, not edited and not reported as evidence of anything.
 
 **NOVEL_REVIEW_RESULT: FIX — ANSWERED.**
+
+
+## 10. THE SECOND REVIEW AND THE REPAIR PASS THAT ANSWERED IT
+
+**A second read-only reviewer examined the same ten files, the same five state heads, the outline, the card and the queued card, and returned FIX on ten findings. Its full disposition is at § 3a of the head of `state/continuity.md`, which is the authority, and this is the summary. The repair opened two chapter files, 892 and 899, and made three edits in them. No chapter of any other movement or volume was opened. No day, no event, no lock and no counted length moved, and all ten counted lengths were re-measured by script after every edit and stand exact at 879 / 1,124 / 812 / 1,209 / 1,016 / 1,247 / 869 / 1,049 / 923 / 1,092.**
+
+| # | The second review's finding | Disposition |
+|---|---|---|
+| 1 | The man of about forty-one has stood in that lane on **two Sundays**, which the finding called false, and asked for **one Sunday** in five files | **REJECTED — NOT TRUE OF THE FILES, AND NOT APPLIED.** See below. The six files stand |
+| 2 | A 31-word second-column reason is verbatim in both 892 and 899 | **Repaired at source in both.** The substantive reasons are now separately worded. Ruled as a family at § 3 of `state/continuity.md` |
+| 3 | The half-past-five slip of 899 is a broken merge inside a counted passage | **Repaired at zero word delta.** 899 is exact at 923 |
+| 4 | Three files cite `logs/batch-0004.review.log`, which does not exist | **Withdrawn by name in five places.** No file was invented. The ruling is at `NOVEL_SPEC.md` § *Status* |
+| 5 | *Three kinds of thing it may write* is an undeclared second taxonomy beside the house's four | **Repaired.** The phrase stood only in 892 and 899; both now carry the house's four. Its count across 861 to 900 is zero |
+| 6 | 895's weeks figure sits in a sentence whose subject the finding read as the four counters | **Ruled against, wording stands.** The subject is the lane and the clause is modal. The finding itself recorded the figure as arithmetically correct |
+| 7 | The marker record is stale in both directions | **Corrected against the directory in three places.** `batch-0004/` carries `.done`; there is no gap there. No marker was touched |
+| 8 | 900 says the word *fortnight* against an outline clause | **Ruled, and the count corrected.** The word stands thirteen times across 886, 895 and 900, not three times in one file. The matter is untouched. Ruling Three |
+| 9 | The queued card omits two facts Movement 4 established | **Added at item 2** — the identity of the four counters and the state of the man of about forty-one |
+| 10 | The queued card has an unclosed bold span and a circular cross-reference of its own | **Both repaired in that card.** Items run 1 to 15 and every span is balanced |
+
+**ON FINDING 1, WHICH IS THE ONE THAT MATTERS MOST, AND IT IS THE ONE THAT WAS NOT DONE.** The finding held that the man of about forty-one has stood in that lane on **two** Sundays, that 895 is his **first** Sunday, and that the figure should be **one** Sunday in five files. **It is wrong, and applying it would have broken canon in six places while moving no counted length, which is what makes it dangerous rather than visible.** `chapter-0888.md` is Sunday the twenty-fifth day of December, it is *d* twenty-eight, it is the hundred and thirty-eighth wipe, and its line 13 says that about four people **who had not stood in that lane before** came up it and began to count, its line 17 says that **none of those four had stood in front of that thing on any Sunday before**, and its line 25 says they said their own figures out loud to one another **for the first time in this run**. `chapter-0894.md` is the Saturday after and its own subtitle names the men who walked into that shed at about four as **three of the four who stood in that lane on Sunday the twenty-fifth day of December**. `chapter-0895.md` is Sunday the first day of January. He therefore stood in that lane and counted on the twenty-fifth of December and again on the first of January, which is **two Sundays**, and 896, 898, `state/continuity.md` § 1, `state/current.md`, `state/open-threads.md` § 1 and `state/chapter-summaries.md` all say two and all six are right. **The finding's proof skips the twenty-fifth of December and infers a first Sunday from 895 alone.** A later pass, an audit or a close that reads this finding is to read this paragraph and not the finding.
+
+**THE TWO RULINGS ADDED FOR THE CLOSE ARE RULING THREE AND RULING FOUR AT § 3a OF THE HEAD OF `state/continuity.md`, AND TOGETHER WITH RULING ONE AND RULING TWO AT § 8 ABOVE THE CLOSE OF VOLUME 18 CARRIES FOUR.**
+
+**`state/phase-ledger.json` IS THE CONTROLLER'S FILE. IT WAS NOT READ, NOT EDITED AND NOT REPORTED AS EVIDENCE OF ANYTHING BY THIS PASS, AND IT IS RECORDED ONCE HERE AS EVERY PASS HAS RECORDED IT ONCE.**
