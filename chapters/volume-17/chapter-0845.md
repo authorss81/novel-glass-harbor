@@ -1,0 +1,89 @@
+# Chapter 845
+
+*Saturday the Twelfth Day of November, the Thirty-Fifth Day, an Ordinary Working Saturday on Which Nothing Was Argued at All, About Four of That Nine Saying Out Loud at About One in About Nine People That They Had Waited All Morning for Two People to Say Something and That Neither of Them Said Anything, a Man of About Thirty-Six of That Market Saying Out Loud at About Two That a Man Who Has Said His Case Twice and Has Not Answered One Question Is a Man Who Has Heard It, and the Woman of Thirty of No Office Saying Out Loud at About Half Past Two That She Is Not Going to Ask Him in Front of Anybody, the Bag at Twenty-Eight Pence, the Four Columns Closing at Five Hundred and Seventy-Eight and Two Thousand Seven Hundred and Sixty-Four and None and One Hundred and Twenty-Five, the First Column at Five Hundred and Seventy-Seven and the Second at Two Thousand Seven Hundred and Fifty-Nine*
+
+Saturday the twelfth day of November, with that market open from six and a fine cold morning with that wind gone off in the night and the first ice of the winter coming on the puddles in that lane by eight, a yard below that market with a shed standing in it, and about nine people standing in that shed at half past five that afternoon.
+
+**This said Saturday carries no charge on that cistern and no wipe and moves nothing on a wage, and the next wipe is on Sunday the thirteenth of November and the next charge is on the morning of Monday the fourteenth of November and the next wage Tuesday is on the morning of Tuesday the fifteenth of November. Nothing came into the foot of that fitting-out sheet today and no line was worked on it and none is owed to it, that foot standing at one hundred and thirty-one thousand seven hundred and fifty pence out, being eight hundred and twenty-three marks, five shillings and tenpence, and one hundred and twenty-one thousand one hundred and ten pence short, being seven hundred and fifty-six marks, twelve shillings and sixpence, against ten thousand six hundred and forty pence in. A hundred and sixty-eight pence came into that yard at about ten and a hundred and sixty-eight went out of it at about four, and under that slate is twenty-eight pence, being two shillings and fourpence, and that shed is two hundred and fifty-eighth days without a tin opened in it.**
+
+**Nine counters were carried to the close of this thirty-fifth day. That notice of the seventeenth of May past is at its five hundred and forty-third day and no answer has come back off it. The bellwright of this harbor is into the five hundred and forty-fifth day of not being asked a question. Those two objects upon that crown which belong to nobody are at the eight hundred and eighty-third day. The bench beneath that pump lay bare again on its six hundred and forty-ninth night. The two lights about a mile off that point are at their four hundred and sixty-seventh day. The six-line sheet at the back of that end stall is at the four hundred and twenty-second day. The paper of four lines in Fish Street is at the four hundred and thirty-seventh day. The nine-line sheet with a mark on it in that front street is at the four hundred and fifty-fourth day. The man of about fifty-one is at the four hundred and eighty-fifth day of not speaking about six names. That pair at that end stall has stood seventy-six days side by side with the wrong figure still left showing under the correction and not struck out. The rule in the inside of that door is on its forty-fourth day. The honest total of four hundred and six pence is on its forty-third day of being on that community's own page. Over the middle of those four columns is a boy's hand of twenty-two with nothing under it, and he is off the water for the eighth time. The fourth of them stands at one hundred and twenty-five and has taken no line in thirty-five days. Nine hulls lie about two sea miles off that mole head. Three hundred and forty-third days is what the left side of that man of about twenty-nine's head has gone without, and he is not on the water.**
+
+---
+
+The ordinary work of that Saturday was four boats off that mole before noon with that ice standing on the puddles and a hatches out of the water by two, and not one of those two came near that fitting-out sheet and nothing in the world is set against either half of it.
+
+Those four new crews reached their fifty-fifth day and took the day's work off in about two hours, and about four of that nine said out loud that they had got through the whole of that Saturday waiting for two people to say something and had got to about two o'clock without it happening.
+
+---
+
+At about one, in that shed, in about nine people, about four of that nine said out loud that they had waited all morning.
+
+They said out loud that they had come in at about half past seven for the purpose and that on Tuesday, Wednesday and Thursday two of those nine said a thing out loud at about one and at about two, and that on this Friday nobody had said anything at about one or at all after it.
+
+The keeper said out loud that he had noticed it too and that he was not going to make anything of it. About four of that nine said nothing at all.
+
+---
+
+At about two, in that shed, a man of about thirty-six of that market said out loud that a man who has said his case twice and has not answered one question is a man who has heard it.
+
+He said it to nobody in particular, and he said it about the man of about thirty-two and not to him, and that he has been in about nine people on Tuesday and on Wednesday and has heard both of those things said out loud, and that a man who has said the same case twice in a row and has not answered anything is not a man waiting for a better time to answer.
+
+The man of about thirty-two was in that shed and said nothing at all about that.
+
+---
+
+At about half past two, with about four of that nine still standing round, the woman of thirty, who holds no office, said out loud that she is not going to ask him in front of anybody.
+
+She said it out loud in the ordinary voice and to nobody at all in particular. She said out loud that she has said her half out loud twice and that the man of about thirty-two has said his half out loud once and that neither of them has answered the other and that she is not going to ask him a question about it in about nine people, and that if it is going to be asked then it will be asked on its own and not by her while nine people are standing there.
+
+She said out loud that a woman who keeps a page can hold a thing against a person without ever once asking him for it out loud, and that thirty-five days of that is not the same as not having it.
+
+About four of those nine said nothing whatever. Nobody repeated it out loud and nobody put one word of it on anything.
+
+---
+
+From about ten until about two a man of about thirty-four of the second lay sat at that bench and not one person in that lane asked him a thing, and that is the ninety-fifth day of that run of days he has not missed.
+
+At about half past four the man of about thirty-two walked up that lane on his own and stood at that end of that shed with the page of routes in his hand and did not open it and stood there about ten minutes and then went down the lane again.
+
+The woman of thirty, who holds no office, worked that yard over her own page from ten until about one and then went up that coast road at one and was not in that shed at any point after that.
+
+Three hands went onto the faces of one sheet that left that harbor that day and not one of those three was the hand that wrote what it went against, and the page of days carries three against this day.
+
+---
+
+About half past five on that Saturday the day's whole was said out loud at that stone standing up, in about eight hundred and eighty-five words, and the four people waiting came first in it, the two sentences about a man not answering came in the middle of it, and the four columns came at the end of it, and nothing that anybody counts is in this reading.
+
+"**No page came up for arguing about in that shed on that Saturday, and about four of that nine said out loud at about one that they had waited all morning for two people to say something and had got to about two o'clock without it happening.**"
+
+"**They said out loud that they had come in at about half past seven for the purpose and that on Tuesday, Wednesday and Thursday two of those nine said a thing out loud at about one and at about two, and that on this Saturday nobody had said anything at about one or at all after it. The keeper said out loud that he had noticed it too and that he was not going to make anything of it. The ordinary work of that Saturday was four boats off that mole before noon with that ice standing on the puddles and a hatches out of the water by two, and not one of those two came near that fitting-out sheet.**"
+
+"**At about two, in that shed, a man of about thirty-six of that market said out loud that a man who has said his case twice and has not answered one question is a man who has heard it. He said it to nobody in particular, and he said it about the man of about thirty-two and not to him, and that a man who has said the same case twice in a row and has not answered anything is not a man waiting for a better time to answer.**"
+
+"**The man of about thirty-two was in that shed and said nothing at all about that. At about half past two, with about four of that nine still standing round, the woman of thirty, who holds no office, said out loud that she is not going to ask him in front of anybody.**"
+
+"**She said it out loud in the ordinary voice and to nobody at all in particular. She said out loud that she has said her half out loud twice and that the man of about thirty-two has said his half out loud once and that neither of them has answered the other and that she is not going to ask him a question about it in about nine people, and that if it is going to be asked then it will be asked on its own and not by her while nine people are standing there.**"
+
+"**She said out loud that a woman who keeps a page can hold a thing against a person without ever once asking him for it out loud, and that thirty-five days of that is not the same as not having it. About four of that nine said nothing at all and nobody repeated any of it out loud and nobody wrote one word of it down.**"
+
+"**From about ten until about two nobody asked a man of about thirty-four of the second lay for one thing, being the ninety-fifth day of that run. At about half past four the man of about thirty-two walked up that lane on his own and stood at that end of that shed with the page of routes in his hand and did not open it and stood there about ten minutes and then went down the lane again.**"
+
+"**The woman of thirty, who holds no office, worked that yard over her own page from ten until about one and then went up that coast road at one and was not in that shed at any point after that. Three hands went onto the faces of one sheet that left that harbor that day. A hundred and sixty-eight pence came into this yard at about ten and a hundred and sixty-eight went out of it at about four, and twenty-eight plus eight thousand four hundred less eight thousand four hundred is twenty-eight, and the twenty-eight is still under that slate, being two shillings and fourpence, which is six hundred and twelve pence short of the wage of four marks, being three marks eleven shillings.**"
+
+"**Two hundred and fifty-eighth days is how long that yard has gone without a tin in it. That boy's hand of twenty-two heads the middle of those four columns and he is off the water for the eighth time and his surname is on no page. The fourth of them is at one hundred and twenty-five and has taken no line in thirty-five days and is neither shut nor struck. Seventy-six days is what that pair has stood at that stall, one size and a hand's breadth apart, with the wrong figure left showing under that correction. The leaf from the Cinder Bell is on its seventy-first day. The sheet with the fifteen gaps stands at fifteen and the wall of that room over the chandler's store is bare.**"
+
+"**It is three hundred and forty-third days since anything came out of the left side of that man of about twenty-nine's head and not one day of his life is set against that, and he has not been on the water. The hearing in the left side of the man of about thirty-two is not priced. Nine hulls sit about two sea miles off that mole head and thirty-five days have gone by in this harbor without a word about them.**"
+
+Nobody was thanked for a day on which nothing was said and everybody noticed that nothing was said, and that shed stood empty by about six with its door standing open on a slip nobody was on, and that page of that week had sixty-two lines on it.
+
+---
+
+**NOTHING WAS ARGUED IN THAT SHED TODAY, AND ABOUT FOUR OF THAT NINE SAID SO OUT LOUD AT ABOUT ONE, AND A MAN OF ABOUT THIRTY-SIX SAID OUT LOUD AT ABOUT TWO THAT A MAN WHO HAS SAID HIS CASE TWICE AND HAS NOT ANSWERED ONE QUESTION IS A MAN WHO HAS HEARD IT, AND THE WOMAN OF THIRTY, WHO HOLDS NO OFFICE, SAID OUT LOUD AT ABOUT HALF PAST TWO THAT SHE IS NOT GOING TO ASK HIM IN FRONT OF ANYBODY. THE COLUMN DID NOT MOVE. THE BAG HOLDS TWENTY-EIGHT PENCE, BEING TWO SHILLINGS AND FOURPENCE, AND THIS YARD IS TWO HUNDRED AND FIFTY-EIGHTH DAYS WITHOUT A TIN IN IT.**
+
+---
+
+---
+
+*First column, entered on Saturday the twelfth day of November at about six in the evening in that shed, being the thirty-fifth entry of this run of fifty days: that the said day was an ordinary working Saturday and was not a rota day and was not a wipe day and was not a wage Tuesday, and that the next wipe is on Sunday the thirteenth of November and the next charge on that cistern is on the morning of Monday the fourteenth of November; that the ordinary work of that said Saturday was four boats off that mole before noon with that ice on the puddles and a hatches out of the water by two, and that not one of those two came near that fitting-out sheet; that those four new crews were on their fifty-fifth day and about four of that nine said out loud that they had spent the whole of that Saturday waiting for two people to say something; that at about one in that shed in about nine people about four of that nine said out loud that they had waited all morning, and that the keeper said out loud that he had noticed it and was not going to make anything of it; that at about two a man of about thirty-six of that market said out loud that a man who has said his case twice and has not answered one question is a man who has heard it, and said it about the man of about thirty-two and not to him; that the man of about thirty-two was in that shed and said nothing at all about that; that at about half past two the woman of thirty, who holds no office, said out loud that she is not going to ask him in front of anybody, and that a woman who keeps a page can hold a thing against a person without ever once asking him for it out loud; that about four of that nine said nothing at all and nobody repeated any of it out loud and nobody wrote one word of it down; that from about ten until about two nobody asked a man of about thirty-four of the second lay for one thing, being the ninety-fifth day of that run; that at about half past four the man of about thirty-two stood at that end of that shed with the page of routes in his hand and did not open it and stood there about ten minutes and then went down the lane again; that the woman of thirty worked that yard over her own page from ten until about one and then went up that coast road and was not in that shed at any point after that; that three hands went onto the faces of one sheet that left that harbor that day and none of the three was the hand that wrote what it went against; that nothing came into the foot of that fitting-out sheet and no line was worked on it and none is owed to it; that the first column of that leaf stood at five hundred and seventy-seven at half past five and the thirty-fifth entry went into it at about six, and three of that day's five in the second column had gone in before the reading began and two went in after it, and the four columns close these thirty-five days at five hundred and seventy-eight and two thousand seven hundred and sixty-four and none and one hundred and twenty-five.*
+
+*Second column, not checkable from a mole, entered on the said Saturday at about six in the evening in that shed, and no name is against it: that a day on which nothing was said is a day and about four of that nine said out loud that they had waited for it, and that the waiting was itself the thing that got said, which is the ordinary shape of nine people in a shed and not a thing anybody put there; that the reason nothing was argued on the said Saturday is that both of them had said their half out loud twice in three days and about four of that nine had said in about four different words that they were waiting, and that a person who has been waited on does not go on, and that neither of them blames the other for that and neither of them said so; that the reason a man of about thirty-six said it about the man of about thirty-two and not to him is that he has been in about nine people on Tuesday and on Wednesday and heard both cases and did not hear an answer to either, and that saying a thing out loud about a person in a room a person is standing in is the only way this harbor has of asking a question it is not allowed to ask; that the reason she said out loud that she is not going to ask him in front of anybody is that she asked him nothing on Sunday when he said nothing to her about where she had been, and that a person who has been given one silence is careful about spending a second one.*
