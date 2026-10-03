@@ -43,7 +43,9 @@ The woman of thirty, who holds no office, worked that yard over her own page fro
 
 From about ten until about two a man of about thirty-four of that second lay sat at that bench, and not one person in that lane asked him a thing, and that is the hundred and forty-third day of that run of days he has not missed.
 
-Eight hands went onto the faces of two sheets that left that harbor that day, and the page of days carries eight against this day.
+That piece of wood lay face up on that same bench for four hours of that Friday, with the sleeve of that man's coat against the edge of it, close enough that either of them could have put a hand out and moved it without standing up, and neither of them did. The man of about thirty-two looked down at it more than once in that four hours and did not touch it and did not say one word about it, and what he was doing with his hands the whole of that time was keeping them in his own coat pockets. What he was thinking about, at that bench, in a working shed, with nobody in that yard asking him anything at all, was that a piece of wood which has lain face up for seven days is now part of that yard in a way that nothing else in that yard is, and that this is what he got for putting it down, and that he cannot think of one way of taking it back that would not be worse than leaving it where it lies.
+
+Eight hands went onto the faces of two sheets that left that harbor that day, and the page of days carries eight against that day.
 
 ---
 
