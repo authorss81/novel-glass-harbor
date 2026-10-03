@@ -1,4 +1,4 @@
-## VOLUME 18, CHAPTERS 891 TO 900, MOVEMENT 4, IS WRITTEN AND ON DISK. THE YEAR TURNED BETWEEN 894 AND 895 AND NO PAGE CARRIES A YEAR. THE MATTER WAS ANSWERED ON 896 IN FOUR SENTENCES AND IS ON NO PAGE. THE SLATE IS ON ITS FOURTEENTH DAY ON THAT BENCH. THE THIRTY DAYS OF MOVEMENTS 1 TO 3 AND THE FIFTY DAYS OF VOLUME 17 ARE CLOSED AND WERE NOT OPENED. A SECTION IS ADDRESSED BY ITS HEADING AND NOT BY ITS POSITION, AND THIS ONE IS THE HEAD OF THIS FILE.**
+## VOLUME 18, CHAPTERS 901 TO 910, MOVEMENT 5, IS WRITTEN AND ON DISK AND THE VOLUME IS CLOSED. THE YEAR TURNED BETWEEN 894 AND 895 AND NO PAGE CARRIES A YEAR. THE MATTER WAS ANSWERED ON 896 IN FOUR SENTENCES AND IS ON NO PAGE. THE SLATE IS ON ITS FOURTEENTH DAY ON THAT BENCH. THE THIRTY DAYS OF MOVEMENTS 1 TO 3 AND THE FIFTY DAYS OF VOLUME 17 ARE CLOSED AND WERE NOT OPENED. A SECTION IS ADDRESSED BY ITS HEADING AND NOT BY ITS POSITION, AND THIS ONE IS THE HEAD OF THIS FILE.**
 
 ### 1. THE TEN DAYS, ONE LINE EACH, AND THEIR COUNTED LENGTHS
 
@@ -21,6 +21,29 @@
 **899, THURSDAY THE FIFTH DAY OF JANUARY, *d* THIRTY-NINE. A rota day and the two hundred and sixteenth charge, and the old man of about sixty-eight put that barrow down against that door at about one and sat on the step beside it for about four minutes and did not pick it up again at once, and about four of that nine watched him do that and wrote nothing down about it. About four of that nine said out loud that nobody in that shed has ever watched that man before and that nobody there is going to start. That piece of wood is on its thirteenth day and one of about four of that nine called it a fixture. COUNTED LENGTH 923.**
 
 **900, FRIDAY THE SIXTH DAY OF JANUARY, *d* FORTY. Not one of those four was in that shed at any hour of that Friday and nobody in that yard said out loud where any of them are. Nobody said out loud that those four will be up that lane in the morning and nobody said out loud that they will not be. That piece of wood has been face up on that bench for fourteen days and nobody picked it up, nobody gave it to anybody and nobody wrote one figure on it. About four of that nine said out loud that a fortnight is the first figure anybody in that yard has had for anything in this run that was not on a page. The two of them are still married and neither said one word to the other about any part of any of it. COUNTED LENGTH 1,092.**
+
+
+### 1a. THE TEN DAYS OF MOVEMENT 5, ONE LINE EACH, AND THEIR COUNTED LENGTHS
+
+**901, SATURDAY THE SEVENTH DAY OF JANUARY, d FORTY-ONE. Ordinary Saturday, no charge, no wipe, slate fifteen days, bench one hundred and fifty-first, arrival sixty-seventh. COUNTED LENGTH 880.**
+
+**902, SUNDAY THE EIGHTH, d FORTY-TWO. Wipe one hundred and fortieth at fifty-seven off forty-four bare fifty-seven back one hundred and fifty-eight, a hundred and thirty-nine weeks, four counters named, tenth Sunday for the man of about thirty-one saying nothing. COUNTED LENGTH 890.**
+
+**903, MONDAY THE NINTH, d FORTY-THREE. Rota two hundred and seventeenth, old man ten of fourteen, slate seventeen days. COUNTED LENGTH 910.**
+
+**904, TUESDAY THE TENTH, d FORTY-FOUR. Hundred and fifteenth wage Tuesday, twenty-six lines one hundred and four marks unmoved, chest shut ten to four, hundred and sixteenth fallen due. COUNTED LENGTH 930.**
+
+**905, WEDNESDAY THE ELEVENTH, d FORTY-FIVE. Ordinary Wednesday, slate nineteen days, bench one hundred and fifty-fifth. COUNTED LENGTH 950.**
+
+**906, THURSDAY THE TWELFTH, d FORTY-SIX. Rota two hundred and eighteenth, woman asks in the room they have whether he ever wrote any down, he says he did not, she says one sentence not written down, one interior paragraph in his head settling nothing. COUNTED LENGTH 970.**
+
+**907, FRIDAY THE THIRTEENTH, d FORTY-SEVEN. Ordinary Friday, drawer opened once and outside written again, nothing explained, wall stays bare. COUNTED LENGTH 990.**
+
+**908, SATURDAY THE FOURTEENTH, d FORTY-EIGHT. Line seven worked with sixteenth on its face at seven hundred and sixty-two pence, new question asked once in a mouth by the man of about thirty-one naming no person, not answered, not in slip or column. COUNTED LENGTH 1,010.**
+
+**909, SUNDAY THE FIFTEENTH, d FORTY-NINE. Wipe one hundred and forty-first at fifty-eight off forty-five bare fifty-eight back one hundred and sixty-one, a hundred and forty weeks, seven figures up on that bare wall at one size in a keeper hand. COUNTED LENGTH 1,030.**
+
+**910, MONDAY THE SIXTEENTH, d FIFTY. Rota two hundred and nineteenth, line seven settles at seven hundred and sixty-two pence, foot read after at one hundred and thirty-nine thousand six hundred and sixty-eight out and one hundred and twenty-nine thousand and twenty-eight short, drawer written again, column of figures put up seven, quarter to ten four people still counting behind that bench. COUNTED LENGTH 1,050.**
 
 ### 2. THE FIGURES AS THEY NOW STAND, AND THE FIGURES NO LATER PASS MAY STAND IN TWICE
 
